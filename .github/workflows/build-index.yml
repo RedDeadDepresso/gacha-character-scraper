@@ -1,0 +1,56 @@
+name: Build gacha index
+
+on:
+  schedule:
+    - cron: "0 3 * * 1" # weekly scrape
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["config.json", "data/**", "cmd/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Resolve dependencies
+        run: go mod tidy
+
+      - name: Run scrapers (scheduled / manual only)
+        if: github.event_name != 'push'
+        run: go run .
+
+      - name: Commit updated data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Update scraped data"
+          git push
+
+      - name: Merge data into gacha_character_index.json
+        run: go run ./cmd/merge -out dist/gacha_character_index.json
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
