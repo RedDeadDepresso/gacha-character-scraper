@@ -1,4 +1,4 @@
-// Command merge combines data/*.json into a single gacha_character_index.json using the
+// Command merge combines data/*.json into a single gacha_index.json using the
 // KKAFIO index format. Gachas earlier in config.json rank as more popular.
 package main
 
@@ -40,7 +40,7 @@ type index struct {
 }
 
 func main() {
-	out := flag.String("out", "dist/gacha_character_index.json", "output path")
+	out := flag.String("out", "dist/gacha_index.json", "output path")
 	flag.Parse()
 
 	var cfg config
@@ -68,8 +68,9 @@ func main() {
 		}
 		n := len(list)
 		for i, s := range list {
-			// Data files are newest-first; newer characters score slightly higher.
-			score := base - (base/2)*i/n
+			// Data files are newest-first, so a higher index means an older
+			// character; older characters score higher (base down to base/2).
+			score := base - (base/2)*(n-1-i)/n
 			key := strings.ToLower(s.Name)
 			if p, ok := pos[key]; ok {
 				c := &idx.Chars[p]
