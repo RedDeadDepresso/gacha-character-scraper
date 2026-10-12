@@ -2,7 +2,7 @@ name: Build gacha index
 
 on:
   schedule:
-    - cron: "0 3 * * 1" # weekly scrape
+    - cron: "0 3 * * 1"   # weekly scrape
   workflow_dispatch:
   push:
     branches: [main]
@@ -48,9 +48,14 @@ jobs:
       - name: Merge data into gacha_character_index.json
         run: go run ./cmd/merge -out dist/gacha_character_index.json
 
+      # Unique name per attempt so "Re-run jobs" doesn't leave two artifacts
+      # called github-pages in the same run (deploy-pages fails on that).
       - uses: actions/upload-pages-artifact@v3
         with:
+          name: github-pages-${{ github.run_attempt }}
           path: dist
 
       - id: deploy
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}
