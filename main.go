@@ -21,6 +21,7 @@ type config struct {
 var registry = []scrapers.Scraper{
 	scrapers.Arknights{},
 	scrapers.BlueArchive{},
+	scrapers.AzurLane{},
 }
 
 func main() {

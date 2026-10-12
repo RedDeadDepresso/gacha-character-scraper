@@ -58,6 +58,9 @@ func SaveData(dir, name string, chars []Character) error {
 // userAgent mimics Firefox.
 const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"
 
+// ErrNotFound is returned (wrapped) by get when the server answers 404.
+var ErrNotFound = errors.New("not found")
+
 var client = &http.Client{Timeout: 30 * time.Second}
 
 // get fetches a URL politely (Firefox User-Agent).
@@ -70,6 +73,10 @@ func get(url string) (io.ReadCloser, error) {
 	resp, err := client.Do(req)
 	if err != nil {
 		return nil, err
+	}
+	if resp.StatusCode == http.StatusNotFound {
+		resp.Body.Close()
+		return nil, fmt.Errorf("GET %s: %w", url, ErrNotFound)
 	}
 	if resp.StatusCode != http.StatusOK {
 		resp.Body.Close()

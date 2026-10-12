@@ -1,0 +1,6126 @@
+[
+  {
+    "name": "Soobrazitelny META",
+    "aliases": [
+      "灵敏·META",
+      "ソオブラジーテリヌイ(META)"
+    ]
+  },
+  {
+    "name": "Victorious META",
+    "aliases": [
+      "胜利·META",
+      "ヴィクトリアス(META)"
+    ]
+  },
+  {
+    "name": "Saratoga META",
+    "aliases": [
+      "萨拉托加·META",
+      "サラトガ(META)"
+    ]
+  },
+  {
+    "name": "Nürnberg META",
+    "aliases": [
+      "诺菈·META",
+      "ニュルンベルク(META)"
+    ]
+  },
+  {
+    "name": "Bristol META",
+    "aliases": [
+      "布里斯托尔·META",
+      "ブリストル(META)"
+    ]
+  },
+  {
+    "name": "Elbe META",
+    "aliases": [
+      "埃尔斯贝特·META",
+      "エルベ(META)"
+    ]
+  },
+  {
+    "name": "Königsberg META",
+    "aliases": [
+      "阿尔伯缇娜·META",
+      "ケーニヒスベルク(META)"
+    ]
+  },
+  {
+    "name": "Köln META",
+    "aliases": [
+      "克劳迪亚·META",
+      "ケルン(META)"
+    ]
+  },
+  {
+    "name": "Regensburg META",
+    "aliases": [
+      "瑞吉娜·META",
+      "レーゲンスブルク(META)"
+    ]
+  },
+  {
+    "name": "Gangut META",
+    "aliases": [
+      "甘古特·META",
+      "ガングート(META)"
+    ]
+  },
+  {
+    "name": "Carabiniere META",
+    "aliases": [
+      "龙骑兵·META",
+      "カラビニエーレ(META)"
+    ]
+  },
+  {
+    "name": "Cleveland META",
+    "aliases": [
+      "克利夫兰·META",
+      "クリーブランド(META)"
+    ]
+  },
+  {
+    "name": "Yorktown META",
+    "aliases": [
+      "约克城·META",
+      "ヨークタウン(META)"
+    ]
+  },
+  {
+    "name": "Boise META",
+    "aliases": [
+      "树城·META",
+      "ボイシ(META)"
+    ]
+  },
+  {
+    "name": "Dewey META",
+    "aliases": [
+      "杜威·META",
+      "デューイ(META)"
+    ]
+  },
+  {
+    "name": "Yuudachi META",
+    "aliases": [
+      "椿·META",
+      "夕立(META)"
+    ]
+  },
+  {
+    "name": "Dunkerque META",
+    "aliases": [
+      "敦刻尔克·META",
+      "ダンケルク(META)"
+    ]
+  },
+  {
+    "name": "Kawakaze META",
+    "aliases": [
+      "茳·META",
+      "江風(META)"
+    ]
+  },
+  {
+    "name": "Glorious META",
+    "aliases": [
+      "光荣·META",
+      "グロリアス(META)"
+    ]
+  },
+  {
+    "name": "Grenville META",
+    "aliases": [
+      "格伦维尔·META",
+      "グレンヴィル(META)"
+    ]
+  },
+  {
+    "name": "Nevada META",
+    "aliases": [
+      "内华达·META",
+      "ネバダ(META)"
+    ]
+  },
+  {
+    "name": "Hornet META",
+    "aliases": [
+      "大黄蜂·META",
+      "ホーネット(META)"
+    ]
+  },
+  {
+    "name": "Andrea Doria META",
+    "aliases": [
+      "安德烈亚·多利亚·META",
+      "アンドレア・ドーリア(META)"
+    ]
+  },
+  {
+    "name": "Bolzano META",
+    "aliases": [
+      "博尔扎诺·META",
+      "ボルツァーノ(META)"
+    ]
+  },
+  {
+    "name": "Admiral Hipper META",
+    "aliases": [
+      "芙兰希卡·META",
+      "アドミラル・ヒッパー(META)"
+    ]
+  },
+  {
+    "name": "Taihou META",
+    "aliases": [
+      "鹩·META",
+      "鳳翔(META)"
+    ]
+  },
+  {
+    "name": "Giulio Cesare META",
+    "aliases": [
+      "朱利奥·凯撒·META",
+      "ジュリオ・チェザーレ(META)"
+    ]
+  },
+  {
+    "name": "Houshou META",
+    "aliases": [
+      "凤·META",
+      "鳳翔(META)"
+    ]
+  },
+  {
+    "name": "Hiei META",
+    "aliases": [
+      "鲟·META",
+      "比叡(META)"
+    ]
+  },
+  {
+    "name": "Nagato META",
+    "aliases": [
+      "鲨·META",
+      "長門(META)"
+    ]
+  },
+  {
+    "name": "Kasumi META",
+    "aliases": [
+      "蕸·META"
+    ]
+  },
+  {
+    "name": "Wichita META",
+    "aliases": [
+      "威奇塔·META",
+      "ウィチタ(META)"
+    ]
+  },
+  {
+    "name": "Foch META",
+    "aliases": [
+      "福煦·META",
+      "フォッシュ(META)"
+    ]
+  },
+  {
+    "name": "Béarn META",
+    "aliases": [
+      "贝亚恩·META",
+      "ベアルン META"
+    ]
+  },
+  {
+    "name": "Vampire META",
+    "aliases": [
+      "吸血鬼·META",
+      "ヴァンパイア(META)"
+    ]
+  },
+  {
+    "name": "Rodney META",
+    "aliases": [
+      "罗德尼·META",
+      "ロドニー(META)"
+    ]
+  },
+  {
+    "name": "Pamiat' Merkuria META",
+    "aliases": [
+      "水星纪念·META",
+      "パーミャチ・メルクーリヤ(META)"
+    ]
+  },
+  {
+    "name": "Kimberly META",
+    "aliases": [
+      "金伯利·META",
+      "キンバリー(META)"
+    ]
+  },
+  {
+    "name": "Kirov META",
+    "aliases": [
+      "基洛夫·META",
+      "キーロフ(META)"
+    ]
+  },
+  {
+    "name": "Erebus META",
+    "aliases": [
+      "黑暗界·META",
+      "エレバス(META)"
+    ]
+  },
+  {
+    "name": "Princeton META",
+    "aliases": [
+      "普林斯顿·META",
+      "プリンストン(META)"
+    ]
+  },
+  {
+    "name": "Jintsuu META",
+    "aliases": [
+      "神通·META",
+      "神通(META)"
+    ]
+  },
+  {
+    "name": "Hatakaze META",
+    "aliases": [
+      "旗风·META",
+      "旗風(META)"
+    ]
+  },
+  {
+    "name": "Algérie META",
+    "aliases": [
+      "阿尔及利亚·META",
+      "アルジェリー(META)"
+    ]
+  },
+  {
+    "name": "Vestal META",
+    "aliases": [
+      "女灶神·META",
+      "ヴェスタル(META)"
+    ]
+  },
+  {
+    "name": "U-556 META",
+    "aliases": [
+      "U-556·META",
+      "U-556(META)"
+    ]
+  },
+  {
+    "name": "La Galissonnière META",
+    "aliases": [
+      "拉·加利索尼埃·META",
+      "ラ・ガリソニエール(META)"
+    ]
+  },
+  {
+    "name": "Queen Elizabeth META",
+    "aliases": [
+      "伊丽莎白女王·META",
+      "クイーン・エリザベス(META)"
+    ]
+  },
+  {
+    "name": "Sheffield META",
+    "aliases": [
+      "谢菲尔德·META",
+      "シェフィールド(META)"
+    ]
+  },
+  {
+    "name": "Arizona META",
+    "aliases": [
+      "亚利桑那·META",
+      "アリゾナ(META)"
+    ]
+  },
+  {
+    "name": "Fortune META",
+    "aliases": [
+      "命运女神·META",
+      "フォーチュン(META)"
+    ]
+  },
+  {
+    "name": "Hunter META",
+    "aliases": [
+      "猎人·META",
+      "ハンター(META)"
+    ]
+  },
+  {
+    "name": "Renown META",
+    "aliases": [
+      "声望·META",
+      "レナウン(META)"
+    ]
+  },
+  {
+    "name": "Trento META",
+    "aliases": [
+      "特伦托·META",
+      "トレント(META)"
+    ]
+  },
+  {
+    "name": "Repulse META",
+    "aliases": [
+      "反击·META",
+      "レパルス(META)"
+    ]
+  },
+  {
+    "name": "Memphis META",
+    "aliases": [
+      "孟菲斯·META",
+      "メンフィス(META)"
+    ]
+  },
+  {
+    "name": "Yamashiro META",
+    "aliases": [
+      "山城·META",
+      "山城(META)"
+    ]
+  },
+  {
+    "name": "Scharnhorst META",
+    "aliases": [
+      "沙恩霍斯特·META",
+      "シャルンホルスト(META)"
+    ]
+  },
+  {
+    "name": "Junyou META",
+    "aliases": [
+      "隼鹰·META",
+      "隼鷹(META)"
+    ]
+  },
+  {
+    "name": "Gneisenau META",
+    "aliases": [
+      "格奈森瑙·META",
+      "グナイゼナウ(META)"
+    ]
+  },
+  {
+    "name": "Hiyou META",
+    "aliases": [
+      "鸱·META",
+      "飛鷹(META)"
+    ]
+  },
+  {
+    "name": "Fusou META",
+    "aliases": [
+      "魟·META",
+      "扶桑(META)"
+    ]
+  },
+  {
+    "name": "Souryuu META",
+    "aliases": [
+      "蛟·META",
+      "蒼龍(META)"
+    ]
+  },
+  {
+    "name": "Helena META",
+    "aliases": [
+      "海伦娜·META",
+      "ヘレナ(META)"
+    ]
+  },
+  {
+    "name": "Ark Royal META",
+    "aliases": [
+      "皇家方舟·META",
+      "アーク・ロイヤル(META)"
+    ]
+  },
+  {
+    "name": "Hiryuu META",
+    "aliases": [
+      "龙·META",
+      "飛龍(META)"
+    ]
+  },
+  {
+    "name": "Valparaíso",
+    "aliases": [
+      "瓦尔帕莱索",
+      "バルパライソ"
+    ]
+  },
+  {
+    "name": "Orage",
+    "aliases": [
+      "暴风雨",
+      "オラージュ"
+    ]
+  },
+  {
+    "name": "Max Immelmann",
+    "aliases": [
+      "玛克西米莉安·伊梅拉",
+      "マックス・インメルマン"
+    ]
+  },
+  {
+    "name": "Takahashi",
+    "aliases": [
+      "狒",
+      "高梁"
+    ]
+  },
+  {
+    "name": "Duncan",
+    "aliases": [
+      "邓肯",
+      "ダンカン"
+    ]
+  },
+  {
+    "name": "Gouden Leeuw",
+    "aliases": [
+      "金狮",
+      "ハウデン・リーウ"
+    ]
+  },
+  {
+    "name": "Dmitri Donskoi",
+    "aliases": [
+      "迪米特里·顿斯科伊",
+      "ドミートリィ・ドンスコイ"
+    ]
+  },
+  {
+    "name": "Vittorio Cuniberti",
+    "aliases": [
+      "维托里奥·库尼贝尔蒂",
+      "ヴィットリオ・クニベルティ"
+    ]
+  },
+  {
+    "name": "Mecklenburg",
+    "aliases": [
+      "梅克琳达",
+      "メークレンブルク"
+    ]
+  },
+  {
+    "name": "Kansas",
+    "aliases": [
+      "堪萨斯",
+      "カンザス"
+    ]
+  },
+  {
+    "name": "Bayard",
+    "aliases": [
+      "贝亚德"
+    ]
+  },
+  {
+    "name": "Admiral Nakhimov",
+    "aliases": [
+      "纳希莫夫海军上将"
+    ]
+  },
+  {
+    "name": "Napoli",
+    "aliases": [
+      "那不勒斯"
+    ]
+  },
+  {
+    "name": "Daisen",
+    "aliases": [
+      "鳝"
+    ]
+  },
+  {
+    "name": "Halford",
+    "aliases": [
+      "哈尔福德"
+    ]
+  },
+  {
+    "name": "Flandre",
+    "aliases": [
+      "弗兰德尔",
+      "フランドル"
+    ]
+  },
+  {
+    "name": "Hindenburg",
+    "aliases": [
+      "兴登堡",
+      "ヒンデンブルク"
+    ]
+  },
+  {
+    "name": "Felix Schultz",
+    "aliases": [
+      "菲利克斯·舒尔茨",
+      "フィリックス・シュルツ"
+    ]
+  },
+  {
+    "name": "Shimanto",
+    "aliases": [
+      "四万十"
+    ]
+  },
+  {
+    "name": "Kearsarge",
+    "aliases": [
+      "奇尔沙治",
+      "キアサージ"
+    ]
+  },
+  {
+    "name": "Brest",
+    "aliases": [
+      "布雷斯特",
+      "ブレスト"
+    ]
+  },
+  {
+    "name": "Chkalov",
+    "aliases": [
+      "契卡洛夫",
+      "チカロフ"
+    ]
+  },
+  {
+    "name": "Harbin",
+    "aliases": [
+      "哈尔滨",
+      "ハルビン"
+    ]
+  },
+  {
+    "name": "Prinz Rupprecht",
+    "aliases": [
+      "鲁普雷希特亲王",
+      "プリンツ・ループレヒト"
+    ]
+  },
+  {
+    "name": "Plymouth",
+    "aliases": [
+      "普利茅斯",
+      "プリマス"
+    ]
+  },
+  {
+    "name": "Marco Polo",
+    "aliases": [
+      "马可波罗",
+      "マルコ・ポーロ"
+    ]
+  },
+  {
+    "name": "August von Parseval",
+    "aliases": [
+      "奥古斯特·冯·帕塞瓦尔",
+      "アウグスト・フォン・パーセヴァル"
+    ]
+  },
+  {
+    "name": "Ägir",
+    "aliases": [
+      "埃格妮丝",
+      "エーギル"
+    ]
+  },
+  {
+    "name": "Hakuryuu",
+    "aliases": [
+      "鹫",
+      "白龍"
+    ]
+  },
+  {
+    "name": "Anchorage",
+    "aliases": [
+      "安克雷奇",
+      "アンカレッジ"
+    ]
+  },
+  {
+    "name": "Champagne",
+    "aliases": [
+      "香槟",
+      "シャンパーニュ"
+    ]
+  },
+  {
+    "name": "Odin",
+    "aliases": [
+      "奥丁",
+      "オーディン"
+    ]
+  },
+  {
+    "name": "Mainz",
+    "aliases": [
+      "美因茨",
+      "マインツ"
+    ]
+  },
+  {
+    "name": "Drake",
+    "aliases": [
+      "德雷克",
+      "ドレイク"
+    ]
+  },
+  {
+    "name": "Cheshire",
+    "aliases": [
+      "柴郡",
+      "チェシャー"
+    ]
+  },
+  {
+    "name": "Gascogne",
+    "aliases": [
+      "加斯科涅",
+      "ガスコーニュ"
+    ]
+  },
+  {
+    "name": "Friedrich der Große",
+    "aliases": [
+      "腓特烈大帝",
+      "フリードリヒ・デア・グローセ"
+    ]
+  },
+  {
+    "name": "Azuma",
+    "aliases": [
+      "吾妻"
+    ]
+  },
+  {
+    "name": "Kitakaze",
+    "aliases": [
+      "苝",
+      "北風"
+    ]
+  },
+  {
+    "name": "Georgia",
+    "aliases": [
+      "佐治亚",
+      "ジョージア"
+    ]
+  },
+  {
+    "name": "Seattle",
+    "aliases": [
+      "西雅图",
+      "シアトル"
+    ]
+  },
+  {
+    "name": "Saint Louis",
+    "aliases": [
+      "路易九世",
+      "サン・ルイ"
+    ]
+  },
+  {
+    "name": "Roon",
+    "aliases": [
+      "罗恩",
+      "ローン"
+    ]
+  },
+  {
+    "name": "Izumo",
+    "aliases": [
+      "侌",
+      "出雲"
+    ]
+  },
+  {
+    "name": "Ibuki",
+    "aliases": [
+      "峦",
+      "伊吹"
+    ]
+  },
+  {
+    "name": "Monarch",
+    "aliases": [
+      "君主",
+      "モナーク"
+    ]
+  },
+  {
+    "name": "Neptune",
+    "aliases": [
+      "海王星",
+      "ネプチューン"
+    ]
+  },
+  {
+    "name": "Yukino",
+    "aliases": [
+      "千乃",
+      "ゆきの"
+    ]
+  },
+  {
+    "name": "Patty",
+    "aliases": [
+      "派蒂",
+      "パティ"
+    ]
+  },
+  {
+    "name": "Tsukushi",
+    "aliases": [
+      "筑紫",
+      "つくし"
+    ]
+  },
+  {
+    "name": "Shandy",
+    "aliases": [
+      "香迪",
+      "シャンディ"
+    ]
+  },
+  {
+    "name": "Shizuku",
+    "aliases": [
+      "雫",
+      "しずく"
+    ]
+  },
+  {
+    "name": "Elise",
+    "aliases": [
+      "伊莉丝",
+      "エリーゼ"
+    ]
+  },
+  {
+    "name": "2B",
+    "aliases": []
+  },
+  {
+    "name": "A2",
+    "aliases": []
+  },
+  {
+    "name": "Kaguya Yamai・Yuzuru Yamai",
+    "aliases": [
+      "八舞耶俱矢·八舞夕弦",
+      "八舞耶倶矢・八舞夕弦"
+    ]
+  },
+  {
+    "name": "Kurumi Tokisaki",
+    "aliases": [
+      "时崎狂三",
+      "時崎狂三"
+    ]
+  },
+  {
+    "name": "Yoshino",
+    "aliases": [
+      "四糸乃"
+    ]
+  },
+  {
+    "name": "Kotori Itsuka",
+    "aliases": [
+      "五河琴里"
+    ]
+  },
+  {
+    "name": "Origami Tobiichi",
+    "aliases": [
+      "鸢一折纸",
+      "鳶一折紙"
+    ]
+  },
+  {
+    "name": "Tohka Yatogami",
+    "aliases": [
+      "夜刀神十香"
+    ]
+  },
+  {
+    "name": "Ryu Lion",
+    "aliases": [
+      "琉·璃昂",
+      "リュー・リオン"
+    ]
+  },
+  {
+    "name": "Hestia",
+    "aliases": [
+      "赫斯缇雅",
+      "ヘスティア"
+    ]
+  },
+  {
+    "name": "Lenja",
+    "aliases": [
+      "蕾妮雅",
+      "レイニャ"
+    ]
+  },
+  {
+    "name": "Nina Friede",
+    "aliases": [
+      "妮娜·弗里德",
+      "ニーナ・フリーデ"
+    ]
+  },
+  {
+    "name": "Isla von Duerer",
+    "aliases": [
+      "艾菈·冯·杜勒",
+      "アイラ・フォン・デューラー"
+    ]
+  },
+  {
+    "name": "Yumia Liessfeldt",
+    "aliases": [
+      "优米雅·利斯菲尔德",
+      "ユミア・リースフェルト"
+    ]
+  },
+  {
+    "name": "DEAD MASTER",
+    "aliases": [
+      "デッドマスター"
+    ]
+  },
+  {
+    "name": "BLACK★ROCK SHOOTER",
+    "aliases": [
+      "ブラック★ロックシューター"
+    ]
+  },
+  {
+    "name": "Yui Kotegawa",
+    "aliases": [
+      "古手川唯"
+    ]
+  },
+  {
+    "name": "Haruna Sairenji",
+    "aliases": [
+      "西连寺春菜",
+      "西連寺春菜"
+    ]
+  },
+  {
+    "name": "Golden Darkness",
+    "aliases": [
+      "金色暗影",
+      "金色の闇"
+    ]
+  },
+  {
+    "name": "Momo Belia Deviluke",
+    "aliases": [
+      "梦梦·贝莉雅·戴比路克",
+      "モモ・ベリア・デビルーク"
+    ]
+  },
+  {
+    "name": "Nana Astar Deviluke",
+    "aliases": [
+      "娜娜·阿丝达·戴比路克",
+      "ナナ・アスタ・デビルーク"
+    ]
+  },
+  {
+    "name": "Lala Satalin Deviluke",
+    "aliases": [
+      "菈菈·撒塔琳·戴比路克",
+      "ララ・サタリン・デビルーク"
+    ]
+  },
+  {
+    "name": "Yūyaki",
+    "aliases": [
+      "夕烧",
+      "夕焼"
+    ]
+  },
+  {
+    "name": "Murasaki",
+    "aliases": [
+      "紫"
+    ]
+  },
+  {
+    "name": "Fubuki (Senran Kagura)",
+    "aliases": [
+      "雪不归",
+      "雪不帰"
+    ]
+  },
+  {
+    "name": "Yumi",
+    "aliases": [
+      "雪泉"
+    ]
+  },
+  {
+    "name": "Homura",
+    "aliases": [
+      "焰",
+      "焔"
+    ]
+  },
+  {
+    "name": "Ikaruga",
+    "aliases": [
+      "斑鸠",
+      "斑鳩"
+    ]
+  },
+  {
+    "name": "Asuka",
+    "aliases": [
+      "飞鸟",
+      "飛鳥"
+    ]
+  },
+  {
+    "name": "Kala Ideas",
+    "aliases": [
+      "卡菈·伊迪亚斯",
+      "カラ・イデアス"
+    ]
+  },
+  {
+    "name": "Serri Glaus",
+    "aliases": [
+      "赛莉·古劳斯",
+      "セリ・グロース"
+    ]
+  },
+  {
+    "name": "Lila Decyrus",
+    "aliases": [
+      "莉拉·德西亚斯",
+      "リラ・ディザイアス"
+    ]
+  },
+  {
+    "name": "Patricia Abelheim",
+    "aliases": [
+      "帕特莉夏·阿贝尔海姆",
+      "パトリツィア・アーベルハイム"
+    ]
+  },
+  {
+    "name": "Klaudia Valentz",
+    "aliases": [
+      "科洛蒂娅·巴兰茨",
+      "クラウディア・バレンツ"
+    ]
+  },
+  {
+    "name": "Reisalin Stout",
+    "aliases": [
+      "莱莎琳·斯托特",
+      "ライザリン・シュタウト"
+    ]
+  },
+  {
+    "name": "Princess Hime",
+    "aliases": [
+      "公主",
+      "ひめ"
+    ]
+  },
+  {
+    "name": "The 2nd",
+    "aliases": [
+      "第二代",
+      "2代目"
+    ]
+  },
+  {
+    "name": "Mujina",
+    "aliases": [
+      "貉",
+      "ムジナ"
+    ]
+  },
+  {
+    "name": "Chise Asukagawa",
+    "aliases": [
+      "飞鸟川千濑",
+      "飛鳥川ちせ"
+    ]
+  },
+  {
+    "name": "Yume Minami",
+    "aliases": [
+      "南梦芽",
+      "南夢芽"
+    ]
+  },
+  {
+    "name": "Namiko",
+    "aliases": [
+      "奈美子",
+      "なみこ"
+    ]
+  },
+  {
+    "name": "Hass",
+    "aliases": [
+      "莲",
+      "はっす"
+    ]
+  },
+  {
+    "name": "Akane Shinjo",
+    "aliases": [
+      "新条茜",
+      "新条アカネ"
+    ]
+  },
+  {
+    "name": "Rikka Takarada",
+    "aliases": [
+      "宝多六花"
+    ]
+  },
+  {
+    "name": "Mami Futami",
+    "aliases": [
+      "双海真美"
+    ]
+  },
+  {
+    "name": "Ami Futami",
+    "aliases": [
+      "双海亚美",
+      "双海亜美"
+    ]
+  },
+  {
+    "name": "Ritsuko Akizuki",
+    "aliases": [
+      "秋月律子"
+    ]
+  },
+  {
+    "name": "Azusa Miura",
+    "aliases": [
+      "三浦 梓",
+      "三浦あずさ"
+    ]
+  },
+  {
+    "name": "Iori Minase",
+    "aliases": [
+      "水濑伊织",
+      "水瀬伊織"
+    ]
+  },
+  {
+    "name": "Chihaya Kisaragi",
+    "aliases": [
+      "如月千早"
+    ]
+  },
+  {
+    "name": "Haruka Amami",
+    "aliases": [
+      "天海春香"
+    ]
+  },
+  {
+    "name": "Tamaki",
+    "aliases": [
+      "环",
+      "たまき"
+    ]
+  },
+  {
+    "name": "Luna",
+    "aliases": [
+      "露娜",
+      "ルナ"
+    ]
+  },
+  {
+    "name": "Monica",
+    "aliases": [
+      "莫妮卡",
+      "モニカ"
+    ]
+  },
+  {
+    "name": "Nyotengu",
+    "aliases": [
+      "女天狗"
+    ]
+  },
+  {
+    "name": "Nagisa",
+    "aliases": [
+      "凪咲",
+      "なぎさ"
+    ]
+  },
+  {
+    "name": "Misaki",
+    "aliases": [
+      "海咲",
+      "みさき"
+    ]
+  },
+  {
+    "name": "Kasumi (Venus Vacation)",
+    "aliases": [
+      "霞",
+      "かすみ"
+    ]
+  },
+  {
+    "name": "Honoka",
+    "aliases": [
+      "穗香",
+      "ほのか"
+    ]
+  },
+  {
+    "name": "Marie Rose",
+    "aliases": [
+      "玛莉萝丝",
+      "マリー・ローズ"
+    ]
+  },
+  {
+    "name": "Ookami Mio",
+    "aliases": [
+      "大神澪",
+      "大神ミオ"
+    ]
+  },
+  {
+    "name": "Murasaki Shion",
+    "aliases": [
+      "紫咲诗音",
+      "紫咲シオン"
+    ]
+  },
+  {
+    "name": "Nakiri Ayame",
+    "aliases": [
+      "百鬼绫目",
+      "百鬼あやめ"
+    ]
+  },
+  {
+    "name": "Natsuiro Matsuri",
+    "aliases": [
+      "夏色祭",
+      "夏色まつり"
+    ]
+  },
+  {
+    "name": "Minato Aqua",
+    "aliases": [
+      "湊阿库娅",
+      "湊あくあ"
+    ]
+  },
+  {
+    "name": "Tokino Sora",
+    "aliases": [
+      "时乃空",
+      "ときのそら"
+    ]
+  },
+  {
+    "name": "Shirakami Fubuki",
+    "aliases": [
+      "白上吹雪",
+      "白上フブキ"
+    ]
+  },
+  {
+    "name": "Super Gamer Kizuna AI",
+    "aliases": [
+      "绊爱·SuperGamer",
+      "キズナアイ・スーパーゲーマー"
+    ]
+  },
+  {
+    "name": "Anniversary Kizuna AI",
+    "aliases": [
+      "绊爱·Anniversary",
+      "キズナアイ・アニバーサリー"
+    ]
+  },
+  {
+    "name": "Elegant Kizuna AI",
+    "aliases": [
+      "绊爱·Elegant",
+      "キズナアイ・エレガント"
+    ]
+  },
+  {
+    "name": "Kizuna AI",
+    "aliases": [
+      "绊爱",
+      "キズナアイ"
+    ]
+  },
+  {
+    "name": "Fumiruiru",
+    "aliases": [
+      "芙米露露",
+      "フミルィル"
+    ]
+  },
+  {
+    "name": "Saraana",
+    "aliases": [
+      "萨拉娜",
+      "サラァナ"
+    ]
+  },
+  {
+    "name": "Uruuru",
+    "aliases": [
+      "乌璐露",
+      "ウルゥル"
+    ]
+  },
+  {
+    "name": "Rurutie",
+    "aliases": [
+      "露露缇耶",
+      "ルルティエ"
+    ]
+  },
+  {
+    "name": "Nekone",
+    "aliases": [
+      "猫音",
+      "ネコネ"
+    ]
+  },
+  {
+    "name": "Kuon",
+    "aliases": [
+      "久远",
+      "クオン"
+    ]
+  },
+  {
+    "name": "33",
+    "aliases": []
+  },
+  {
+    "name": "22",
+    "aliases": []
+  },
+  {
+    "name": "Green Heart",
+    "aliases": [
+      "翡绿之心",
+      "グリーンハート"
+    ]
+  },
+  {
+    "name": "White Heart",
+    "aliases": [
+      "群白之心",
+      "ホワイトハート"
+    ]
+  },
+  {
+    "name": "Black Heart",
+    "aliases": [
+      "圣黑之心",
+      "ブラックハート"
+    ]
+  },
+  {
+    "name": "Purple Heart",
+    "aliases": [
+      "绀紫之心",
+      "パープルハート"
+    ]
+  },
+  {
+    "name": "Vert",
+    "aliases": [
+      "贝露",
+      "ベール"
+    ]
+  },
+  {
+    "name": "Blanc",
+    "aliases": [
+      "布兰",
+      "ブラン"
+    ]
+  },
+  {
+    "name": "Noire",
+    "aliases": [
+      "诺瓦露",
+      "ノワール"
+    ]
+  },
+  {
+    "name": "Neptune (Neptunia)",
+    "aliases": [
+      "涅普顿",
+      "ネプテューヌ"
+    ]
+  },
+  {
+    "name": "Hasty",
+    "aliases": [
+      "匆忙",
+      "ヘイスティ"
+    ]
+  },
+  {
+    "name": "I-14",
+    "aliases": [
+      "十诗",
+      "伊14"
+    ]
+  },
+  {
+    "name": "Azuchi",
+    "aliases": [
+      "鮟",
+      "安土"
+    ]
+  },
+  {
+    "name": "Tiger",
+    "aliases": [
+      "虎",
+      "タイガー"
+    ]
+  },
+  {
+    "name": "John Rodgers",
+    "aliases": [
+      "约翰·罗杰斯",
+      "ジョン・ロジャース"
+    ]
+  },
+  {
+    "name": "Bennington",
+    "aliases": [
+      "本宁顿",
+      "ベニントン"
+    ]
+  },
+  {
+    "name": "Vicksburg",
+    "aliases": [
+      "维克斯堡",
+      "ヴィックスバーグ"
+    ]
+  },
+  {
+    "name": "Harrison",
+    "aliases": [
+      "哈里森",
+      "ハリソン"
+    ]
+  },
+  {
+    "name": "Collett",
+    "aliases": [
+      "柯莱特",
+      "コレット"
+    ]
+  },
+  {
+    "name": "Griffin",
+    "aliases": [
+      "格里芬",
+      "グリフィン"
+    ]
+  },
+  {
+    "name": "Surrey",
+    "aliases": [
+      "萨里",
+      "サリー"
+    ]
+  },
+  {
+    "name": "Superb",
+    "aliases": [
+      "华丽",
+      "シュパーブ"
+    ]
+  },
+  {
+    "name": "L'Intrépide",
+    "aliases": [
+      "无惧",
+      "ラントレピード"
+    ]
+  },
+  {
+    "name": "Arromanches",
+    "aliases": [
+      "阿罗芒什",
+      "アローマンシュ"
+    ]
+  },
+  {
+    "name": "Cherbourg",
+    "aliases": [
+      "瑟堡",
+      "シェルブール"
+    ]
+  },
+  {
+    "name": "Unzen-chan",
+    "aliases": [
+      "小猃",
+      "雲仙ちゃん"
+    ]
+  },
+  {
+    "name": "Z15",
+    "aliases": [
+      "埃丽莎"
+    ]
+  },
+  {
+    "name": "Z14",
+    "aliases": [
+      "弗蕾娜"
+    ]
+  },
+  {
+    "name": "Prinz Moritz",
+    "aliases": [
+      "莫琳亲王",
+      "プリンツ・モーリッツ"
+    ]
+  },
+  {
+    "name": "U-2501",
+    "aliases": [
+      "优妮可欧伊"
+    ]
+  },
+  {
+    "name": "Götz von Berlichingen",
+    "aliases": [
+      "戈达·冯·贝格海姆"
+    ]
+  },
+  {
+    "name": "Musashi-chan",
+    "aliases": [
+      "小鳄",
+      "武蔵ちゃん"
+    ]
+  },
+  {
+    "name": "Nayoro",
+    "aliases": [
+      "貀",
+      "名寄"
+    ]
+  },
+  {
+    "name": "Kizu",
+    "aliases": [
+      "貘",
+      "木津"
+    ]
+  },
+  {
+    "name": "Unryuu",
+    "aliases": [
+      "靇",
+      "雲龍"
+    ]
+  },
+  {
+    "name": "Bogatyr",
+    "aliases": [
+      "博加特里",
+      "ボガトィーリ"
+    ]
+  },
+  {
+    "name": "Krasny Kavkaz",
+    "aliases": [
+      "红色山脉",
+      "クラースヌィイ・カフカース"
+    ]
+  },
+  {
+    "name": "Ozornoy",
+    "aliases": [
+      "顽皮",
+      "オゾルノイ"
+    ]
+  },
+  {
+    "name": "Moskva",
+    "aliases": [
+      "莫斯科",
+      "モスクワ"
+    ]
+  },
+  {
+    "name": "Hai Chou",
+    "aliases": [
+      "海筹",
+      "海籌"
+    ]
+  },
+  {
+    "name": "Chang Wu",
+    "aliases": [
+      "彰武"
+    ]
+  },
+  {
+    "name": "Fujinami",
+    "aliases": [
+      "藤",
+      "藤波"
+    ]
+  },
+  {
+    "name": "Ugolino Vivaldi",
+    "aliases": [
+      "乌戈里诺·维瓦尔迪",
+      "ウゴリーノ・ヴィヴァルディ"
+    ]
+  },
+  {
+    "name": "Alberto di Giussano",
+    "aliases": [
+      "阿尔贝托·迪·朱塞诺",
+      "アルベルト・ディ・ジュッサーノ"
+    ]
+  },
+  {
+    "name": "Francesco Caracciolo",
+    "aliases": [
+      "弗朗西斯科·卡拉乔洛",
+      "フランチェスコ・カラッチョロ"
+    ]
+  },
+  {
+    "name": "Pasadena",
+    "aliases": [
+      "帕萨迪纳",
+      "パサデナ"
+    ]
+  },
+  {
+    "name": "Clarence K. Bronson",
+    "aliases": [
+      "克拉伦斯·K·布朗森",
+      "クラレンス・K・ブロンソン"
+    ]
+  },
+  {
+    "name": "Cowpens",
+    "aliases": [
+      "科本斯",
+      "カウペンス"
+    ]
+  },
+  {
+    "name": "Lexington II",
+    "aliases": [
+      "列克星敦II",
+      "レキシントンⅡ"
+    ]
+  },
+  {
+    "name": "Adventure",
+    "aliases": [
+      "冒险号",
+      "アドベンチャー"
+    ]
+  },
+  {
+    "name": "Royal James",
+    "aliases": [
+      "皇家詹姆斯号",
+      "ロイヤル・ジェームズ"
+    ]
+  },
+  {
+    "name": "Pearl",
+    "aliases": [
+      "珍珠号",
+      "パール"
+    ]
+  },
+  {
+    "name": "Lyme",
+    "aliases": [
+      "莱姆号",
+      "ライム"
+    ]
+  },
+  {
+    "name": "Queen Anne's Revenge",
+    "aliases": [
+      "安妮女王复仇号",
+      "クイーン・アンズ・リベンジ"
+    ]
+  },
+  {
+    "name": "Minase",
+    "aliases": [
+      "鼯",
+      "水無瀬"
+    ]
+  },
+  {
+    "name": "Asama",
+    "aliases": [
+      "猏",
+      "浅間"
+    ]
+  },
+  {
+    "name": "Oumi",
+    "aliases": [
+      "鳉",
+      "近江"
+    ]
+  },
+  {
+    "name": "I-404",
+    "aliases": [
+      "诗玲寺",
+      "伊404"
+    ]
+  },
+  {
+    "name": "Taekaze",
+    "aliases": [
+      "杪",
+      "妙風"
+    ]
+  },
+  {
+    "name": "Hakuhou",
+    "aliases": [
+      "䳆",
+      "白鳳"
+    ]
+  },
+  {
+    "name": "Duguay-Trouin",
+    "aliases": [
+      "迪盖·特鲁因",
+      "デュゲイ・トルーアン"
+    ]
+  },
+  {
+    "name": "Le Hardi",
+    "aliases": [
+      "大胆",
+      "ル・アルディ"
+    ]
+  },
+  {
+    "name": "Duquesne",
+    "aliases": [
+      "迪凯纳",
+      "デュケーヌ"
+    ]
+  },
+  {
+    "name": "Bois Belleau",
+    "aliases": [
+      "贝劳森林",
+      "ボア・ベロー"
+    ]
+  },
+  {
+    "name": "Masséna",
+    "aliases": [
+      "马塞纳",
+      "マッセナ"
+    ]
+  },
+  {
+    "name": "Little Ägir",
+    "aliases": [
+      "小埃格妮丝",
+      "エーギルちゃん"
+    ]
+  },
+  {
+    "name": "Z13",
+    "aliases": [
+      "埃丝特"
+    ]
+  },
+  {
+    "name": "U-552",
+    "aliases": [
+      "优可可妮"
+    ]
+  },
+  {
+    "name": "Admiral Zenker",
+    "aliases": [
+      "泽特",
+      "アドミラル・ツェンカー"
+    ]
+  },
+  {
+    "name": "Little Anchorage",
+    "aliases": [
+      "小安克雷奇",
+      "リトル・アンカレッジ"
+    ]
+  },
+  {
+    "name": "Trinidad",
+    "aliases": [
+      "特立尼达",
+      "トリニダード"
+    ]
+  },
+  {
+    "name": "Gallant",
+    "aliases": [
+      "勇气",
+      "ギャラント"
+    ]
+  },
+  {
+    "name": "Cleopatra",
+    "aliases": [
+      "克利奥佩特拉",
+      "クレオパトラ"
+    ]
+  },
+  {
+    "name": "Trafalgar",
+    "aliases": [
+      "特拉法尔加",
+      "トラファルガー"
+    ]
+  },
+  {
+    "name": "Oleg",
+    "aliases": [
+      "奥列格",
+      "オレグ"
+    ]
+  },
+  {
+    "name": "Evertsen",
+    "aliases": [
+      "埃佛森",
+      "エヴァーツェン"
+    ]
+  },
+  {
+    "name": "De Zeven Provinciën",
+    "aliases": [
+      "七省",
+      "デ・ゼーヴェン・プロヴィンシェン"
+    ]
+  },
+  {
+    "name": "Kazan",
+    "aliases": [
+      "喀山",
+      "カザン"
+    ]
+  },
+  {
+    "name": "Miller",
+    "aliases": [
+      "米勒",
+      "ミラー"
+    ]
+  },
+  {
+    "name": "Santa Fe",
+    "aliases": [
+      "圣塔菲",
+      "サンタフェ"
+    ]
+  },
+  {
+    "name": "Franklin",
+    "aliases": [
+      "富兰克林",
+      "フランクリン"
+    ]
+  },
+  {
+    "name": "Bartolomeo Colleoni",
+    "aliases": [
+      "巴托洛梅奥·科莱奥尼",
+      "バルトロメオ・コレオーニ"
+    ]
+  },
+  {
+    "name": "Giosuè Carducci",
+    "aliases": [
+      "焦苏埃·卡尔杜齐",
+      "ジョズエ・カルドゥッチ"
+    ]
+  },
+  {
+    "name": "Maggiore Baracca",
+    "aliases": [
+      "巴拉卡少校",
+      "マッジョーレ・バラッカ"
+    ]
+  },
+  {
+    "name": "Raffaello",
+    "aliases": [
+      "拉斐尔",
+      "ラファエロ"
+    ]
+  },
+  {
+    "name": "Fu Po",
+    "aliases": [
+      "伏波"
+    ]
+  },
+  {
+    "name": "Chang Feng",
+    "aliases": [
+      "长风",
+      "長風"
+    ]
+  },
+  {
+    "name": "Hai Yung",
+    "aliases": [
+      "海容"
+    ]
+  },
+  {
+    "name": "Chien Wu",
+    "aliases": [
+      "建武"
+    ]
+  },
+  {
+    "name": "Z11",
+    "aliases": [
+      "伯莎"
+    ]
+  },
+  {
+    "name": "Z9",
+    "aliases": [
+      "沃尔普加"
+    ]
+  },
+  {
+    "name": "Duisburg",
+    "aliases": [
+      "多琳妮娅",
+      "デュイスブルク"
+    ]
+  },
+  {
+    "name": "Z52",
+    "aliases": [
+      "柯妮"
+    ]
+  },
+  {
+    "name": "Fritz Rumey",
+    "aliases": [
+      "菲莉西娅·鲁梅",
+      "フリッツ・ルメイ"
+    ]
+  },
+  {
+    "name": "Dolphin",
+    "aliases": [
+      "海豚号",
+      "ドルフィン"
+    ]
+  },
+  {
+    "name": "Portsmouth Adventure",
+    "aliases": [
+      "朴茨茅斯冒险号",
+      "ポーツマウス・アドベンチャー"
+    ]
+  },
+  {
+    "name": "Amity",
+    "aliases": [
+      "和睦号",
+      "アミティ"
+    ]
+  },
+  {
+    "name": "Fancy",
+    "aliases": [
+      "幻想号",
+      "ファンシー"
+    ]
+  },
+  {
+    "name": "Ganj-i-Sawai",
+    "aliases": [
+      "冈依沙瓦号",
+      "ガンズウェイ"
+    ]
+  },
+  {
+    "name": "Suzunami",
+    "aliases": [
+      "椋",
+      "涼波"
+    ]
+  },
+  {
+    "name": "Ayase",
+    "aliases": [
+      "狑",
+      "綾瀬"
+    ]
+  },
+  {
+    "name": "Watarase",
+    "aliases": [
+      "獭",
+      "渡良瀬"
+    ]
+  },
+  {
+    "name": "Amagi(CV)",
+    "aliases": [
+      "鳐",
+      "天城(空母)"
+    ]
+  },
+  {
+    "name": "Bell",
+    "aliases": [
+      "贝尔",
+      "ベル"
+    ]
+  },
+  {
+    "name": "Herring",
+    "aliases": [
+      "鲱鱼",
+      "へリング"
+    ]
+  },
+  {
+    "name": "Fargo",
+    "aliases": [
+      "法戈",
+      "ファーゴ"
+    ]
+  },
+  {
+    "name": "Pittsburgh",
+    "aliases": [
+      "匹兹堡",
+      "ピッツバーグ"
+    ]
+  },
+  {
+    "name": "Dupleix",
+    "aliases": [
+      "迪普莱克斯",
+      "デュプレクス"
+    ]
+  },
+  {
+    "name": "L'Audacieux",
+    "aliases": [
+      "果敢",
+      "ローダシュー"
+    ]
+  },
+  {
+    "name": "Strasbourg",
+    "aliases": [
+      "斯特拉斯堡",
+      "ストラスブール"
+    ]
+  },
+  {
+    "name": "Z43",
+    "aliases": [
+      "希咪"
+    ]
+  },
+  {
+    "name": "U-31",
+    "aliases": [
+      "优咪伊"
+    ]
+  },
+  {
+    "name": "Z47",
+    "aliases": [
+      "希娜"
+    ]
+  },
+  {
+    "name": "Alvitr",
+    "aliases": [
+      "亚尔薇特",
+      "アルヴィト"
+    ]
+  },
+  {
+    "name": "Little Friedrich",
+    "aliases": [
+      "小腓德雷卡",
+      "フリードリヒちゃん"
+    ]
+  },
+  {
+    "name": "Épée",
+    "aliases": [
+      "重剑",
+      "エペ"
+    ]
+  },
+  {
+    "name": "Fleuret",
+    "aliases": [
+      "花剑",
+      "フルーレ"
+    ]
+  },
+  {
+    "name": "Brennus",
+    "aliases": [
+      "布伦努斯",
+      "ブレンヌス"
+    ]
+  },
+  {
+    "name": "Mogador",
+    "aliases": [
+      "莫加多尔",
+      "モガドール"
+    ]
+  },
+  {
+    "name": "Alsace",
+    "aliases": [
+      "阿尔萨斯",
+      "アルザス"
+    ]
+  },
+  {
+    "name": "Friedrich Carl",
+    "aliases": [
+      "腓德雷卡·卡尔",
+      "フリードリヒ・カール"
+    ]
+  },
+  {
+    "name": "Shinano-chan",
+    "aliases": [
+      "小信浓",
+      "信濃ちゃん"
+    ]
+  },
+  {
+    "name": "Boise µ",
+    "aliases": [
+      "树城(μ兵装)",
+      "ボイシ(μ兵装)"
+    ]
+  },
+  {
+    "name": "Le Téméraire µ",
+    "aliases": [
+      "鲁莽(μ兵装)",
+      "ル・テメレール(μ兵装)"
+    ]
+  },
+  {
+    "name": "Kongou µ",
+    "aliases": [
+      "鲤(μ兵装)",
+      "金剛(μ兵装)"
+    ]
+  },
+  {
+    "name": "Noshiro µ",
+    "aliases": [
+      "貅(μ兵装)",
+      "能代(μ兵装)"
+    ]
+  },
+  {
+    "name": "Prinz Eugen µ",
+    "aliases": [
+      "萨沃伊亲王(μ兵装)",
+      "プリンツ・オイゲン(μ兵装)"
+    ]
+  },
+  {
+    "name": "Formidable µ",
+    "aliases": [
+      "可畏(μ兵装)",
+      "フォーミダブル(μ兵装)"
+    ]
+  },
+  {
+    "name": "Devonshire",
+    "aliases": [
+      "德文郡",
+      "デヴォンシャー"
+    ]
+  },
+  {
+    "name": "Liverpool",
+    "aliases": [
+      "利物浦",
+      "リヴァプール"
+    ]
+  },
+  {
+    "name": "Nubian",
+    "aliases": [
+      "努比亚人",
+      "ヌビアン"
+    ]
+  },
+  {
+    "name": "Poltava",
+    "aliases": [
+      "波尔塔瓦",
+      "ポルタヴァ"
+    ]
+  },
+  {
+    "name": "Svirepy",
+    "aliases": [
+      "凶猛",
+      "スヴィレピイ"
+    ]
+  },
+  {
+    "name": "Ognevoy",
+    "aliases": [
+      "火力",
+      "オグネヴォイ"
+    ]
+  },
+  {
+    "name": "Fei Yuen",
+    "aliases": [
+      "飞云",
+      "飛雲"
+    ]
+  },
+  {
+    "name": "Hu Pen",
+    "aliases": [
+      "虎贲",
+      "虎賁"
+    ]
+  },
+  {
+    "name": "Lung Wu",
+    "aliases": [
+      "龙武",
+      "龍武"
+    ]
+  },
+  {
+    "name": "Chi An",
+    "aliases": [
+      "济安",
+      "済安"
+    ]
+  },
+  {
+    "name": "Huan Ch'ang",
+    "aliases": [
+      "寰昌"
+    ]
+  },
+  {
+    "name": "Flasher",
+    "aliases": [
+      "松鲷",
+      "フラッシャー"
+    ]
+  },
+  {
+    "name": "Louisville",
+    "aliases": [
+      "路易斯维尔",
+      "ルイビル"
+    ]
+  },
+  {
+    "name": "San Jacinto",
+    "aliases": [
+      "圣哈辛托",
+      "サン・ジャシント"
+    ]
+  },
+  {
+    "name": "Constellation",
+    "aliases": [
+      "星座",
+      "コンステレーション"
+    ]
+  },
+  {
+    "name": "Guam",
+    "aliases": [
+      "关岛",
+      "グアム"
+    ]
+  },
+  {
+    "name": "Laffey II",
+    "aliases": [
+      "拉菲II",
+      "ラフィーⅡ"
+    ]
+  },
+  {
+    "name": "Whydah",
+    "aliases": [
+      "维达号",
+      "ウィダー"
+    ]
+  },
+  {
+    "name": "São Martinho",
+    "aliases": [
+      "圣马丁号",
+      "サン・マルチーニョ"
+    ]
+  },
+  {
+    "name": "Adventure Galley",
+    "aliases": [
+      "加里冒险号",
+      "アドヴェンチャー・ギャレー"
+    ]
+  },
+  {
+    "name": "Mary Celeste",
+    "aliases": [
+      "玛丽·西莱斯特号",
+      "メアリー・セレスト"
+    ]
+  },
+  {
+    "name": "Golden Hind",
+    "aliases": [
+      "金鹿号",
+      "ゴールデン・ハインド"
+    ]
+  },
+  {
+    "name": "Houston II",
+    "aliases": [
+      "休斯敦II",
+      "ヒューストンⅡ"
+    ]
+  },
+  {
+    "name": "Asanagi",
+    "aliases": [
+      "朝凪"
+    ]
+  },
+  {
+    "name": "Hatsuzuki",
+    "aliases": [
+      "初月"
+    ]
+  },
+  {
+    "name": "Owari",
+    "aliases": [
+      "尾张",
+      "尾張"
+    ]
+  },
+  {
+    "name": "Unzen",
+    "aliases": [
+      "云仙",
+      "雲仙"
+    ]
+  },
+  {
+    "name": "Clemenceau",
+    "aliases": [
+      "克莱蒙梭",
+      "クレマンソー"
+    ]
+  },
+  {
+    "name": "Guichen",
+    "aliases": [
+      "吉尚",
+      "ギシャン"
+    ]
+  },
+  {
+    "name": "Lyon",
+    "aliases": [
+      "里昂",
+      "リヨン"
+    ]
+  },
+  {
+    "name": "Kersaint",
+    "aliases": [
+      "凯尔圣",
+      "ケルサン"
+    ]
+  },
+  {
+    "name": "Suffren",
+    "aliases": [
+      "絮弗伦",
+      "シュフラン"
+    ]
+  },
+  {
+    "name": "Painlevé",
+    "aliases": [
+      "伴尔维",
+      "パンルヴェ"
+    ]
+  },
+  {
+    "name": "Marseillaise",
+    "aliases": [
+      "马赛曲",
+      "マルセイエーズ"
+    ]
+  },
+  {
+    "name": "Gorizia",
+    "aliases": [
+      "戈里齐亚",
+      "ゴリツィア"
+    ]
+  },
+  {
+    "name": "Attilio Regolo",
+    "aliases": [
+      "阿蒂利奥·雷戈洛",
+      "アッティリオ・レゴロ"
+    ]
+  },
+  {
+    "name": "Andrea Doria",
+    "aliases": [
+      "安德烈亚·多利亚",
+      "アンドレア・ドーリア"
+    ]
+  },
+  {
+    "name": "Taihou-chan",
+    "aliases": [
+      "小大凤",
+      "大鳳ちゃん"
+    ]
+  },
+  {
+    "name": "Bismarck Zwei",
+    "aliases": [
+      "俾斯麦Zwei",
+      "ビスマルクZwei"
+    ]
+  },
+  {
+    "name": "Regensburg",
+    "aliases": [
+      "雷根斯堡",
+      "レーゲンスブルク"
+    ]
+  },
+  {
+    "name": "Jade",
+    "aliases": [
+      "亚德",
+      "ヤーデ"
+    ]
+  },
+  {
+    "name": "Otto von Alvensleben",
+    "aliases": [
+      "奥托·冯·阿尔文斯莱本",
+      "オットー・フォン・アルフェンスレーベン"
+    ]
+  },
+  {
+    "name": "Little Formidable",
+    "aliases": [
+      "小可畏",
+      "リトル・フォーミダブル"
+    ]
+  },
+  {
+    "name": "Voroshilov",
+    "aliases": [
+      "伏罗希洛夫",
+      "ヴォロシーロフ"
+    ]
+  },
+  {
+    "name": "Sevastopol",
+    "aliases": [
+      "塞瓦斯托波尔",
+      "セヴァストポリ"
+    ]
+  },
+  {
+    "name": "Kursk",
+    "aliases": [
+      "库尔斯克",
+      "クルスク"
+    ]
+  },
+  {
+    "name": "Hero",
+    "aliases": [
+      "英雄",
+      "ヒーロー"
+    ]
+  },
+  {
+    "name": "Scylla",
+    "aliases": [
+      "斯库拉",
+      "シラ"
+    ]
+  },
+  {
+    "name": "Argus",
+    "aliases": [
+      "百眼巨人",
+      "アーガス"
+    ]
+  },
+  {
+    "name": "Royal Oak",
+    "aliases": [
+      "皇家橡树",
+      "ロイヤル・オーク"
+    ]
+  },
+  {
+    "name": "Implacable",
+    "aliases": [
+      "怨仇",
+      "インプラカブル"
+    ]
+  },
+  {
+    "name": "Ting An",
+    "aliases": [
+      "定安"
+    ]
+  },
+  {
+    "name": "Hwah Jah",
+    "aliases": [
+      "华甲",
+      "華甲"
+    ]
+  },
+  {
+    "name": "Theseus",
+    "aliases": [
+      "忒修斯",
+      "シーシュース"
+    ]
+  },
+  {
+    "name": "Kuybyshev",
+    "aliases": [
+      "古比雪夫",
+      "クイビシェフ"
+    ]
+  },
+  {
+    "name": "Hammann II",
+    "aliases": [
+      "哈曼II",
+      "ハムマンⅡ"
+    ]
+  },
+  {
+    "name": "Northampton II",
+    "aliases": [
+      "北安普敦II",
+      "ノーザンプトンⅡ"
+    ]
+  },
+  {
+    "name": "Yorktown II",
+    "aliases": [
+      "约克城 II",
+      "ヨークタウン II"
+    ]
+  },
+  {
+    "name": "Langley II",
+    "aliases": [
+      "兰利II",
+      "ラングレーⅡ"
+    ]
+  },
+  {
+    "name": "Hornet II",
+    "aliases": [
+      "大黄蜂 II",
+      "ホーネット II"
+    ]
+  },
+  {
+    "name": "Royal Fortune",
+    "aliases": [
+      "皇家财富号",
+      "ロイヤル・フォーチュン"
+    ]
+  },
+  {
+    "name": "Albion",
+    "aliases": [
+      "阿尔比恩",
+      "アルビオン"
+    ]
+  },
+  {
+    "name": "Janus",
+    "aliases": [
+      "雅努斯",
+      "ジェーナス"
+    ]
+  },
+  {
+    "name": "Little Spee",
+    "aliases": [
+      "小斯佩",
+      "シュペーちゃん"
+    ]
+  },
+  {
+    "name": "Wakatsuki",
+    "aliases": [
+      "若月"
+    ]
+  },
+  {
+    "name": "Brünhilde",
+    "aliases": [
+      "布伦希尔德",
+      "ブリュンヒルデ"
+    ]
+  },
+  {
+    "name": "Z16",
+    "aliases": []
+  },
+  {
+    "name": "Emanuele Pessagno",
+    "aliases": [
+      "埃曼努埃尔·佩萨格诺",
+      "エマヌエーレ・ペッサーニョ"
+    ]
+  },
+  {
+    "name": "Alfredo Oriani",
+    "aliases": [
+      "阿尔弗雷多·奥里亚尼",
+      "アルフレード・オリアーニ"
+    ]
+  },
+  {
+    "name": "Roma",
+    "aliases": [
+      "罗马",
+      "ローマ"
+    ]
+  },
+  {
+    "name": "Bolzano",
+    "aliases": [
+      "博尔扎诺",
+      "ボルツァーノ"
+    ]
+  },
+  {
+    "name": "Giuseppe Garibaldi",
+    "aliases": [
+      "朱塞佩·加里波第",
+      "ジュゼッペ・ガリバルディ"
+    ]
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "aliases": [
+      "莱昂纳多·达·芬奇",
+      "レオナルド・ダ・ヴィンチ"
+    ]
+  },
+  {
+    "name": "Enterprise (Royal Navy)",
+    "aliases": [
+      "进取",
+      "エンタープライズ"
+    ]
+  },
+  {
+    "name": "L'Indomptable",
+    "aliases": [
+      "不屈",
+      "ランドンターブル"
+    ]
+  },
+  {
+    "name": "Joffre",
+    "aliases": [
+      "霞飞",
+      "ジョッフル"
+    ]
+  },
+  {
+    "name": "Revenge",
+    "aliases": [
+      "复仇",
+      "リヴェンジ"
+    ]
+  },
+  {
+    "name": "Indomitable",
+    "aliases": [
+      "不挠",
+      "インドミタブル"
+    ]
+  },
+  {
+    "name": "Little Cheshire",
+    "aliases": [
+      "小柴郡",
+      "リトル・チェシャー"
+    ]
+  },
+  {
+    "name": "Bellona",
+    "aliases": [
+      "司战女神",
+      "ベローナ"
+    ]
+  },
+  {
+    "name": "Jervis",
+    "aliases": [
+      "贾维斯",
+      "ジャーヴィス"
+    ]
+  },
+  {
+    "name": "Little Prinz Eugen",
+    "aliases": [
+      "小欧根",
+      "プリンツ・オイゲンちゃん"
+    ]
+  },
+  {
+    "name": "Elbing",
+    "aliases": [
+      "埃尔宾",
+      "エルビング"
+    ]
+  },
+  {
+    "name": "Emden",
+    "aliases": [
+      "埃姆登",
+      "エムデン"
+    ]
+  },
+  {
+    "name": "Yorck",
+    "aliases": [
+      "约克",
+      "ヨルク"
+    ]
+  },
+  {
+    "name": "Thüringen",
+    "aliases": [
+      "图林根",
+      "テューリンゲン"
+    ]
+  },
+  {
+    "name": "Lützow",
+    "aliases": [
+      "吕佐夫",
+      "リュッツォウ"
+    ]
+  },
+  {
+    "name": "Seydlitz",
+    "aliases": [
+      "塞德利茨",
+      "ザイドリッツ"
+    ]
+  },
+  {
+    "name": "Trieste",
+    "aliases": [
+      "的里雅斯特",
+      "トリエステ"
+    ]
+  },
+  {
+    "name": "Pompeo Magno",
+    "aliases": [
+      "庞培·马格诺",
+      "ポンペオ・マーニョ"
+    ]
+  },
+  {
+    "name": "Impero",
+    "aliases": [
+      "帝国",
+      "インペロ"
+    ]
+  },
+  {
+    "name": "Kronshtadt",
+    "aliases": [
+      "喀琅施塔得",
+      "クロンシュタット"
+    ]
+  },
+  {
+    "name": "Volga",
+    "aliases": [
+      "伏尔加",
+      "ヴォルガ"
+    ]
+  },
+  {
+    "name": "Soobrazitelny",
+    "aliases": [
+      "灵敏",
+      "ソオブラジーテリヌイ"
+    ]
+  },
+  {
+    "name": "Arkhangelsk",
+    "aliases": [
+      "阿尔汉格尔斯克",
+      "アルハンゲリスク"
+    ]
+  },
+  {
+    "name": "Kiev",
+    "aliases": [
+      "基辅",
+      "キエフ"
+    ]
+  },
+  {
+    "name": "Chen Hai",
+    "aliases": [
+      "镇海",
+      "鎮海"
+    ]
+  },
+  {
+    "name": "Bristol",
+    "aliases": [
+      "布里斯托尔",
+      "ブリストル"
+    ]
+  },
+  {
+    "name": "Hai Chi",
+    "aliases": [
+      "海圻"
+    ]
+  },
+  {
+    "name": "Hai Tien",
+    "aliases": [
+      "海天"
+    ]
+  },
+  {
+    "name": "Charybdis",
+    "aliases": [
+      "卡律布狄斯",
+      "カリブディス"
+    ]
+  },
+  {
+    "name": "Ulrich von Hutten",
+    "aliases": [
+      "乌尔里希·冯·胡滕",
+      "ウルリッヒ・フォン・フッテン"
+    ]
+  },
+  {
+    "name": "U-1206",
+    "aliases": []
+  },
+  {
+    "name": "Prinz Adalbert",
+    "aliases": [
+      "阿达尔伯特亲王",
+      "プリンツ・アーダルベルト"
+    ]
+  },
+  {
+    "name": "Elbe",
+    "aliases": [
+      "易北",
+      "エルベ"
+    ]
+  },
+  {
+    "name": "Magdeburg",
+    "aliases": [
+      "马格德堡",
+      "マクデブルク"
+    ]
+  },
+  {
+    "name": "Foch",
+    "aliases": [
+      "福煦",
+      "フォッシュ"
+    ]
+  },
+  {
+    "name": "Maillé Brézé",
+    "aliases": [
+      "马耶·布雷泽",
+      "マイレ・ブレゼ"
+    ]
+  },
+  {
+    "name": "Le Terrible",
+    "aliases": [
+      "可怖",
+      "ル・テリブル"
+    ]
+  },
+  {
+    "name": "New Orleans",
+    "aliases": [
+      "新奥尔良",
+      "ニューオリンズ"
+    ]
+  },
+  {
+    "name": "Katsuragi",
+    "aliases": [
+      "鹖",
+      "葛城"
+    ]
+  },
+  {
+    "name": "Nautilus",
+    "aliases": [
+      "鹦鹉螺",
+      "ノーチラス"
+    ]
+  },
+  {
+    "name": "Ingraham",
+    "aliases": [
+      "英格拉罕",
+      "イングラハム"
+    ]
+  },
+  {
+    "name": "Kazagumo",
+    "aliases": [
+      "风云",
+      "風雲"
+    ]
+  },
+  {
+    "name": "Little Enterprise",
+    "aliases": [
+      "小企业",
+      "リトル・エンタープライズ"
+    ]
+  },
+  {
+    "name": "Morrison",
+    "aliases": [
+      "莫里森",
+      "モリソン"
+    ]
+  },
+  {
+    "name": "Boise",
+    "aliases": [
+      "博伊西",
+      "ボイシ"
+    ]
+  },
+  {
+    "name": "Archerfish",
+    "aliases": [
+      "射水鱼",
+      "アーチャーフィッシュ"
+    ]
+  },
+  {
+    "name": "San Francisco",
+    "aliases": [
+      "旧金山",
+      "サンフランシスコ"
+    ]
+  },
+  {
+    "name": "Ticonderoga",
+    "aliases": [
+      "提康德罗加",
+      "タイコンデロガ"
+    ]
+  },
+  {
+    "name": "Amagi-chan",
+    "aliases": [
+      "小天城",
+      "天城ちゃん"
+    ]
+  },
+  {
+    "name": "Stephen Potter",
+    "aliases": [
+      "史蒂芬·波特",
+      "ステフェン・ポッター"
+    ]
+  },
+  {
+    "name": "Allen M. Sumner",
+    "aliases": [
+      "艾伦·萨姆纳",
+      "アレン・M・サムナー"
+    ]
+  },
+  {
+    "name": "Oite",
+    "aliases": [
+      "椎",
+      "追風"
+    ]
+  },
+  {
+    "name": "Nicoloso da Recco",
+    "aliases": [
+      "尼科洛索·达雷科",
+      "二コロソ・ダ・レッコ"
+    ]
+  },
+  {
+    "name": "Libeccio",
+    "aliases": [
+      "西南风",
+      "リベッチオ"
+    ]
+  },
+  {
+    "name": "Maestrale",
+    "aliases": [
+      "西北风",
+      "マエストラーレ"
+    ]
+  },
+  {
+    "name": "Torricelli",
+    "aliases": [
+      "托里拆利",
+      "トリチェリ"
+    ]
+  },
+  {
+    "name": "Aquila",
+    "aliases": [
+      "天鹰",
+      "アクィラ"
+    ]
+  },
+  {
+    "name": "Duca degli Abruzzi",
+    "aliases": [
+      "阿布鲁齐公爵",
+      "ドゥーカ・デッリ・アブルッツィ"
+    ]
+  },
+  {
+    "name": "Vittorio Veneto",
+    "aliases": [
+      "维托里奥·维内托",
+      "ヴィットリオ・ヴェネト"
+    ]
+  },
+  {
+    "name": "Gromky",
+    "aliases": [
+      "洪亮",
+      "グロームキィ"
+    ]
+  },
+  {
+    "name": "Murmansk",
+    "aliases": [
+      "摩尔曼斯克",
+      "ムルマンスク"
+    ]
+  },
+  {
+    "name": "Gremyashchy",
+    "aliases": [
+      "雷鸣",
+      "グレミャーシュチ"
+    ]
+  },
+  {
+    "name": "Tallinn",
+    "aliases": [
+      "塔林",
+      "タリン"
+    ]
+  },
+  {
+    "name": "Penelope",
+    "aliases": [
+      "佩内洛珀",
+      "ペネロピ"
+    ]
+  },
+  {
+    "name": "Chao Ho",
+    "aliases": [
+      "肇和"
+    ]
+  },
+  {
+    "name": "Ying Swei",
+    "aliases": [
+      "应瑞",
+      "応瑞"
+    ]
+  },
+  {
+    "name": "U-410",
+    "aliases": []
+  },
+  {
+    "name": "Stremitelny",
+    "aliases": [
+      "神速",
+      "ストレミテルヌイ"
+    ]
+  },
+  {
+    "name": "Vincenzo Gioberti",
+    "aliases": [
+      "文琴佐·焦贝蒂"
+    ]
+  },
+  {
+    "name": "Pola",
+    "aliases": [
+      "波拉",
+      "ポーラ"
+    ]
+  },
+  {
+    "name": "Z28",
+    "aliases": []
+  },
+  {
+    "name": "Z24",
+    "aliases": []
+  },
+  {
+    "name": "Nürnberg",
+    "aliases": [
+      "纽伦堡",
+      "ニュルンベルク"
+    ]
+  },
+  {
+    "name": "Weser",
+    "aliases": [
+      "威悉",
+      "ヴェーザー"
+    ]
+  },
+  {
+    "name": "U-37",
+    "aliases": []
+  },
+  {
+    "name": "Prinz Heinrich",
+    "aliases": [
+      "海因里希亲王",
+      "プリンツ・ハインリヒ"
+    ]
+  },
+  {
+    "name": "Peter Strasser",
+    "aliases": [
+      "彼得·史特拉塞",
+      "ペーター・シュトラサッサー"
+    ]
+  },
+  {
+    "name": "Le Malin µ",
+    "aliases": [
+      "恶毒(μ兵装)",
+      "ル・マラン(μ兵装)"
+    ]
+  },
+  {
+    "name": "Illustrious µ",
+    "aliases": [
+      "光辉(μ兵装)",
+      "イラストリアス(μ兵装)"
+    ]
+  },
+  {
+    "name": "Roon µ",
+    "aliases": [
+      "罗恩(μ兵装)",
+      "ローン(μ兵装)"
+    ]
+  },
+  {
+    "name": "Baltimore µ",
+    "aliases": [
+      "巴尔的摩(μ兵装)",
+      "ボルチモア(μ兵装)"
+    ]
+  },
+  {
+    "name": "Albacore µ",
+    "aliases": [
+      "大青花鱼(μ兵装)",
+      "アルバコア(μ兵装)"
+    ]
+  },
+  {
+    "name": "Dido µ",
+    "aliases": [
+      "黛朵(μ兵装)",
+      "ダイドー(μ兵装)"
+    ]
+  },
+  {
+    "name": "Tashkent µ",
+    "aliases": [
+      "塔什干(μ兵装)",
+      "タシュケント(μ兵装)"
+    ]
+  },
+  {
+    "name": "Taihou µ",
+    "aliases": [
+      "鹩(μ兵装)",
+      "大鳳(μ兵装)"
+    ]
+  },
+  {
+    "name": "Princeton",
+    "aliases": [
+      "普林斯顿",
+      "プリンストン"
+    ]
+  },
+  {
+    "name": "Kashino",
+    "aliases": [
+      "㭴",
+      "樫野"
+    ]
+  },
+  {
+    "name": "Chiyoda",
+    "aliases": [
+      "鹃",
+      "千代田"
+    ]
+  },
+  {
+    "name": "Chitose",
+    "aliases": [
+      "鹂",
+      "千歳"
+    ]
+  },
+  {
+    "name": "Kumano",
+    "aliases": [
+      "猁",
+      "熊野"
+    ]
+  },
+  {
+    "name": "Suzutsuki",
+    "aliases": [
+      "栎",
+      "涼月"
+    ]
+  },
+  {
+    "name": "U-96",
+    "aliases": []
+  },
+  {
+    "name": "Z26",
+    "aliases": []
+  },
+  {
+    "name": "Icarus",
+    "aliases": [
+      "伊卡洛斯",
+      "イカルス"
+    ]
+  },
+  {
+    "name": "Valiant",
+    "aliases": [
+      "英勇",
+      "ヴァリアント"
+    ]
+  },
+  {
+    "name": "Hermione",
+    "aliases": [
+      "赫敏",
+      "ハーマイオニー"
+    ]
+  },
+  {
+    "name": "Perseus",
+    "aliases": [
+      "英仙座",
+      "パーシュース"
+    ]
+  },
+  {
+    "name": "Howe",
+    "aliases": [
+      "豪",
+      "ハウ"
+    ]
+  },
+  {
+    "name": "Eskimo",
+    "aliases": [
+      "爱斯基摩人",
+      "エスキモー"
+    ]
+  },
+  {
+    "name": "Little Illustrious",
+    "aliases": [
+      "小光辉",
+      "リトル・イラストリアス"
+    ]
+  },
+  {
+    "name": "Béarn",
+    "aliases": [
+      "贝亚恩",
+      "ベアルン"
+    ]
+  },
+  {
+    "name": "Vauquelin",
+    "aliases": [
+      "沃克兰",
+      "ヴォークラン"
+    ]
+  },
+  {
+    "name": "La Galissonnière",
+    "aliases": [
+      "拉·加利索尼埃",
+      "ラ・ガリソニエール"
+    ]
+  },
+  {
+    "name": "Algérie",
+    "aliases": [
+      "阿尔及利亚",
+      "アルジェリー"
+    ]
+  },
+  {
+    "name": "Jeanne d'Arc",
+    "aliases": [
+      "圣女贞德",
+      "ジャンヌ・ダルク"
+    ]
+  },
+  {
+    "name": "Richelieu",
+    "aliases": [
+      "黎塞留",
+      "リシュリュー"
+    ]
+  },
+  {
+    "name": "Tartu",
+    "aliases": [
+      "塔尔图",
+      "タルテュ"
+    ]
+  },
+  {
+    "name": "Little Renown",
+    "aliases": [
+      "小声望",
+      "リトル・レナウン"
+    ]
+  },
+  {
+    "name": "Naganami",
+    "aliases": [
+      "苌",
+      "長波"
+    ]
+  },
+  {
+    "name": "Hanazuki",
+    "aliases": [
+      "榵",
+      "花月"
+    ]
+  },
+  {
+    "name": "Marblehead",
+    "aliases": [
+      "马布尔黑德",
+      "マーブルヘッド"
+    ]
+  },
+  {
+    "name": "Casablanca",
+    "aliases": [
+      "卡萨布兰卡",
+      "カサブランカ"
+    ]
+  },
+  {
+    "name": "Bluegill",
+    "aliases": [
+      "蓝鳃鱼",
+      "ブルーギル"
+    ]
+  },
+  {
+    "name": "Reno",
+    "aliases": [
+      "里诺",
+      "リノ"
+    ]
+  },
+  {
+    "name": "Cooper",
+    "aliases": [
+      "库珀",
+      "クーパー"
+    ]
+  },
+  {
+    "name": "Bremerton",
+    "aliases": [
+      "布莱默顿",
+      "ブレマートン"
+    ]
+  },
+  {
+    "name": "Intrepid",
+    "aliases": [
+      "无畏",
+      "イントレピッド"
+    ]
+  },
+  {
+    "name": "Sovetskaya Rossiya",
+    "aliases": [
+      "苏维埃罗西亚",
+      "ソビエツカヤ・ロシア"
+    ]
+  },
+  {
+    "name": "Sovetskaya Belorussiya",
+    "aliases": [
+      "苏维埃贝拉罗斯",
+      "ソビエツカヤ・ベラルーシア"
+    ]
+  },
+  {
+    "name": "Sovetsky Soyuz",
+    "aliases": [
+      "苏维埃萨尤斯",
+      "ソビエツキー・ソユーズ"
+    ]
+  },
+  {
+    "name": "Gangut",
+    "aliases": [
+      "甘古特",
+      "ガングート"
+    ]
+  },
+  {
+    "name": "Chapayev",
+    "aliases": [
+      "恰巴耶夫",
+      "チャパエフ"
+    ]
+  },
+  {
+    "name": "Kirov",
+    "aliases": [
+      "基洛夫",
+      "キーロフ"
+    ]
+  },
+  {
+    "name": "Pamiat' Merkuria",
+    "aliases": [
+      "水星纪念",
+      "パーミャチ・メルクーリヤ"
+    ]
+  },
+  {
+    "name": "Tashkent",
+    "aliases": [
+      "塔什干",
+      "タシュケント"
+    ]
+  },
+  {
+    "name": "Minsk",
+    "aliases": [
+      "明斯克",
+      "ミンスク"
+    ]
+  },
+  {
+    "name": "Grozny",
+    "aliases": [
+      "威严",
+      "グロズヌイ"
+    ]
+  },
+  {
+    "name": "Uranami",
+    "aliases": [
+      "朴",
+      "浦波"
+    ]
+  },
+  {
+    "name": "Biloxi",
+    "aliases": [
+      "比洛克西",
+      "ビロクシ"
+    ]
+  },
+  {
+    "name": "Halsey Powell",
+    "aliases": [
+      "哈尔西·鲍威尔",
+      "ハルゼー・パウエル"
+    ]
+  },
+  {
+    "name": "Ryuuhou",
+    "aliases": [
+      "鸗",
+      "龍鳳"
+    ]
+  },
+  {
+    "name": "Suruga",
+    "aliases": [
+      "鲪",
+      "駿河"
+    ]
+  },
+  {
+    "name": "Kasumi",
+    "aliases": [
+      "蕸",
+      "霞"
+    ]
+  },
+  {
+    "name": "Glasgow",
+    "aliases": [
+      "格拉斯哥",
+      "グラスゴー"
+    ]
+  },
+  {
+    "name": "Admiral Hipper µ",
+    "aliases": [
+      "芙兰希卡(μ兵装)",
+      "アドミラル·ヒッパー（μ兵装）"
+    ]
+  },
+  {
+    "name": "Sheffield µ",
+    "aliases": [
+      "谢菲尔德(μ兵装)",
+      "シェフィールド（μ兵装）"
+    ]
+  },
+  {
+    "name": "Cleveland µ",
+    "aliases": [
+      "克利夫兰(μ兵装)",
+      "クリーブランド（μ兵装）"
+    ]
+  },
+  {
+    "name": "Akagi µ",
+    "aliases": [
+      "凰(μ兵装)",
+      "赤城（μ兵装）"
+    ]
+  },
+  {
+    "name": "Gascogne µ",
+    "aliases": [
+      "加斯科涅(μ兵装)",
+      "ガスコーニュ（μ兵装）"
+    ]
+  },
+  {
+    "name": "Smalley",
+    "aliases": [
+      "斯莫利",
+      "スモーリー"
+    ]
+  },
+  {
+    "name": "U-110",
+    "aliases": []
+  },
+  {
+    "name": "Carabiniere",
+    "aliases": [
+      "龙骑兵",
+      "カラビニエーレ"
+    ]
+  },
+  {
+    "name": "Trento",
+    "aliases": [
+      "特伦托",
+      "トレント"
+    ]
+  },
+  {
+    "name": "Zara",
+    "aliases": [
+      "扎拉",
+      "ザラ"
+    ]
+  },
+  {
+    "name": "Giulio Cesare",
+    "aliases": [
+      "朱利奥·凯撒",
+      "ジュリオ・チェザーレ"
+    ]
+  },
+  {
+    "name": "Conte di Cavour",
+    "aliases": [
+      "加富尔伯爵",
+      "コンテ・ディ・カブール"
+    ]
+  },
+  {
+    "name": "Littorio",
+    "aliases": [
+      "利托里奥",
+      "リットリオ"
+    ]
+  },
+  {
+    "name": "Stanly",
+    "aliases": [
+      "斯坦利",
+      "スタンリー"
+    ]
+  },
+  {
+    "name": "Black Prince",
+    "aliases": [
+      "黑太子",
+      "ブラック・プリンス"
+    ]
+  },
+  {
+    "name": "Bache",
+    "aliases": [
+      "贝奇",
+      "バッチ"
+    ]
+  },
+  {
+    "name": "Aylwin",
+    "aliases": [
+      "艾尔温",
+      "エールウィン"
+    ]
+  },
+  {
+    "name": "Birmingham",
+    "aliases": [
+      "伯明翰",
+      "バーミンガム"
+    ]
+  },
+  {
+    "name": "San Juan",
+    "aliases": [
+      "圣胡安",
+      "サンフアン"
+    ]
+  },
+  {
+    "name": "Bataan",
+    "aliases": [
+      "巴丹",
+      "バターン"
+    ]
+  },
+  {
+    "name": "Cavalla",
+    "aliases": [
+      "棘鳍",
+      "カヴァラ"
+    ]
+  },
+  {
+    "name": "Alabama",
+    "aliases": [
+      "阿拉巴马",
+      "アラバマ"
+    ]
+  },
+  {
+    "name": "U-522",
+    "aliases": []
+  },
+  {
+    "name": "U-101",
+    "aliases": []
+  },
+  {
+    "name": "I-168",
+    "aliases": [
+      "伊168"
+    ]
+  },
+  {
+    "name": "I-56",
+    "aliases": [
+      "伊56"
+    ]
+  },
+  {
+    "name": "I-25",
+    "aliases": [
+      "伊25"
+    ]
+  },
+  {
+    "name": "L'Opiniâtre",
+    "aliases": [
+      "倔强",
+      "ルピニャート"
+    ]
+  },
+  {
+    "name": "Le Malin",
+    "aliases": [
+      "恶毒",
+      "ル・マラン"
+    ]
+  },
+  {
+    "name": "Swiftsure",
+    "aliases": [
+      "确捷",
+      "スウィフトシュア"
+    ]
+  },
+  {
+    "name": "Li'l Sandy",
+    "aliases": [
+      "小圣地亚哥",
+      "リトル・サンディエゴ"
+    ]
+  },
+  {
+    "name": "Clevelad",
+    "aliases": [
+      "小克利夫兰",
+      "リトル・クリーブランド"
+    ]
+  },
+  {
+    "name": "Lena",
+    "aliases": [
+      "小海伦娜",
+      "リトル・ヘレナ"
+    ]
+  },
+  {
+    "name": "Echo",
+    "aliases": [
+      "回声",
+      "エコー"
+    ]
+  },
+  {
+    "name": "Z36",
+    "aliases": []
+  },
+  {
+    "name": "U-73",
+    "aliases": []
+  },
+  {
+    "name": "U-556",
+    "aliases": []
+  },
+  {
+    "name": "Zeppy",
+    "aliases": [
+      "小齐柏林",
+      "ツェッペリンちゃん"
+    ]
+  },
+  {
+    "name": "Akagi-chan",
+    "aliases": [
+      "小凰",
+      "赤城ちゃん"
+    ]
+  },
+  {
+    "name": "Hiei-chan",
+    "aliases": [
+      "小鲟",
+      "小比叡"
+    ]
+  },
+  {
+    "name": "Suzuya",
+    "aliases": [
+      "狺",
+      "鈴谷"
+    ]
+  },
+  {
+    "name": "I-13",
+    "aliases": [
+      "伊13"
+    ]
+  },
+  {
+    "name": "Bunker Hill",
+    "aliases": [
+      "邦克山",
+      "バンカー・ヒル"
+    ]
+  },
+  {
+    "name": "Z2",
+    "aliases": []
+  },
+  {
+    "name": "Shangri-La",
+    "aliases": [
+      "香格里拉",
+      "シャングリラ"
+    ]
+  },
+  {
+    "name": "Independence",
+    "aliases": [
+      "独立",
+      "インディペンデンス"
+    ]
+  },
+  {
+    "name": "Chaser",
+    "aliases": [
+      "追赶者",
+      "チェイサー"
+    ]
+  },
+  {
+    "name": "Mullany",
+    "aliases": [
+      "马拉尼",
+      "マラニー"
+    ]
+  },
+  {
+    "name": "Kimberly",
+    "aliases": [
+      "金伯利",
+      "キンバリー"
+    ]
+  },
+  {
+    "name": "Curlew",
+    "aliases": [
+      "杓鹬",
+      "カーリュー"
+    ]
+  },
+  {
+    "name": "Curacoa",
+    "aliases": [
+      "库拉索",
+      "キュラソー"
+    ]
+  },
+  {
+    "name": "Sirius",
+    "aliases": [
+      "天狼星",
+      "シリアス"
+    ]
+  },
+  {
+    "name": "Makinami",
+    "aliases": [
+      "棬",
+      "巻波"
+    ]
+  },
+  {
+    "name": "Hatakaze",
+    "aliases": [
+      "樋",
+      "旗風"
+    ]
+  },
+  {
+    "name": "Kaga(BB)",
+    "aliases": [
+      "鸾",
+      "加賀"
+    ]
+  },
+  {
+    "name": "Amagi",
+    "aliases": [
+      "鳐",
+      "天城"
+    ]
+  },
+  {
+    "name": "Concord",
+    "aliases": [
+      "康克德",
+      "コンコード"
+    ]
+  },
+  {
+    "name": "Hazelwood",
+    "aliases": [
+      "黑泽伍德",
+      "ヘイゼルウッド"
+    ]
+  },
+  {
+    "name": "Minneapolis",
+    "aliases": [
+      "明尼阿波利斯",
+      "ミネアポリス"
+    ]
+  },
+  {
+    "name": "Kalk",
+    "aliases": [
+      "科尔克",
+      "カーク"
+    ]
+  },
+  {
+    "name": "Hobby",
+    "aliases": [
+      "霍比",
+      "ホビー"
+    ]
+  },
+  {
+    "name": "Newcastle",
+    "aliases": [
+      "纽卡斯尔",
+      "ニューカッスル"
+    ]
+  },
+  {
+    "name": "Memphis",
+    "aliases": [
+      "孟菲斯",
+      "メンフィス"
+    ]
+  },
+  {
+    "name": "Le Téméraire",
+    "aliases": [
+      "鲁莽",
+      "ル・テメレール"
+    ]
+  },
+  {
+    "name": "Albacore",
+    "aliases": [
+      "大青花鱼",
+      "アルバコア"
+    ]
+  },
+  {
+    "name": "Essex",
+    "aliases": [
+      "埃塞克斯",
+      "エセックス"
+    ]
+  },
+  {
+    "name": "Centaur",
+    "aliases": [
+      "半人马",
+      "セントー"
+    ]
+  },
+  {
+    "name": "Bush",
+    "aliases": [
+      "布什",
+      "ブッシュ"
+    ]
+  },
+  {
+    "name": "Massachusetts",
+    "aliases": [
+      "马萨诸塞",
+      "マサチューセッツ"
+    ]
+  },
+  {
+    "name": "Jean Bart",
+    "aliases": [
+      "让·巴尔",
+      "ジャン・バール"
+    ]
+  },
+  {
+    "name": "Dunkerque",
+    "aliases": [
+      "敦刻尔克",
+      "ダンケルク"
+    ]
+  },
+  {
+    "name": "Le Mars",
+    "aliases": [
+      "勒马尔",
+      "ル・マルス"
+    ]
+  },
+  {
+    "name": "Surcouf",
+    "aliases": [
+      "絮库夫",
+      "シュルクーフ"
+    ]
+  },
+  {
+    "name": "Émile Bertin",
+    "aliases": [
+      "埃米尔·贝尔汀",
+      "エミール・ベルタン"
+    ]
+  },
+  {
+    "name": "Forbin",
+    "aliases": [
+      "福尔班",
+      "フォルバン"
+    ]
+  },
+  {
+    "name": "Le Triomphant",
+    "aliases": [
+      "凯旋",
+      "ル・トリオンファン"
+    ]
+  },
+  {
+    "name": "Z18",
+    "aliases": []
+  },
+  {
+    "name": "Z35",
+    "aliases": []
+  },
+  {
+    "name": "U-557",
+    "aliases": []
+  },
+  {
+    "name": "U-47",
+    "aliases": []
+  },
+  {
+    "name": "Dace",
+    "aliases": [
+      "鲦鱼",
+      "デイス"
+    ]
+  },
+  {
+    "name": "U-81",
+    "aliases": []
+  },
+  {
+    "name": "I-58",
+    "aliases": [
+      "伊58"
+    ]
+  },
+  {
+    "name": "I-26",
+    "aliases": [
+      "伊26"
+    ]
+  },
+  {
+    "name": "I-19",
+    "aliases": [
+      "伊19"
+    ]
+  },
+  {
+    "name": "Sussex",
+    "aliases": [
+      "苏塞克斯",
+      "サセックス"
+    ]
+  },
+  {
+    "name": "Abercrombie",
+    "aliases": [
+      "阿贝克隆比",
+      "アバークロンビー"
+    ]
+  },
+  {
+    "name": "Little Bel",
+    "aliases": [
+      "小贝法",
+      "ベルちゃん"
+    ]
+  },
+  {
+    "name": "Arashio",
+    "aliases": [
+      "栘",
+      "荒潮"
+    ]
+  },
+  {
+    "name": "Michishio",
+    "aliases": [
+      "樠",
+      "満潮"
+    ]
+  },
+  {
+    "name": "Ooshio",
+    "aliases": [
+      "荙",
+      "大潮"
+    ]
+  },
+  {
+    "name": "Asashio",
+    "aliases": [
+      "棹",
+      "朝潮"
+    ]
+  },
+  {
+    "name": "Denver",
+    "aliases": [
+      "丹佛",
+      "デンバー"
+    ]
+  },
+  {
+    "name": "Montpelier",
+    "aliases": [
+      "蒙彼利埃",
+      "モントピリア"
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "aliases": [
+      "牙买加",
+      "ジャマイカ"
+    ]
+  },
+  {
+    "name": "Fiji",
+    "aliases": [
+      "斐济",
+      "フィジー"
+    ]
+  },
+  {
+    "name": "Musketeer",
+    "aliases": [
+      "火枪手",
+      "マスケティーア"
+    ]
+  },
+  {
+    "name": "Matchless",
+    "aliases": [
+      "无敌",
+      "マッチレス"
+    ]
+  },
+  {
+    "name": "Sakawa",
+    "aliases": [
+      "酒匂"
+    ]
+  },
+  {
+    "name": "Noshiro",
+    "aliases": [
+      "貅",
+      "能代"
+    ]
+  },
+  {
+    "name": "Agano",
+    "aliases": [
+      "豼",
+      "阿賀野"
+    ]
+  },
+  {
+    "name": "Mikasa",
+    "aliases": [
+      "鲐",
+      "三笠"
+    ]
+  },
+  {
+    "name": "Tanikaze",
+    "aliases": [
+      "栭",
+      "谷風"
+    ]
+  },
+  {
+    "name": "Hamakaze",
+    "aliases": [
+      "樇",
+      "浜風"
+    ]
+  },
+  {
+    "name": "Isokaze",
+    "aliases": [
+      "柉",
+      "磯風"
+    ]
+  },
+  {
+    "name": "Urakaze",
+    "aliases": [
+      "槆",
+      "浦風"
+    ]
+  },
+  {
+    "name": "Naka",
+    "aliases": [
+      "豻",
+      "那珂"
+    ]
+  },
+  {
+    "name": "Jintsuu",
+    "aliases": [
+      "貎",
+      "神通"
+    ]
+  },
+  {
+    "name": "Sendai",
+    "aliases": [
+      "貆",
+      "川内"
+    ]
+  },
+  {
+    "name": "Jersey",
+    "aliases": [
+      "泽西",
+      "ジャージー"
+    ]
+  },
+  {
+    "name": "Jupiter",
+    "aliases": [
+      "丘比特",
+      "ジュピター"
+    ]
+  },
+  {
+    "name": "St. Louis",
+    "aliases": [
+      "圣路易斯",
+      "セントルイス"
+    ]
+  },
+  {
+    "name": "Honolulu",
+    "aliases": [
+      "火奴鲁鲁",
+      "ホノルル"
+    ]
+  },
+  {
+    "name": "Richmond",
+    "aliases": [
+      "里士满",
+      "リッチモンド"
+    ]
+  },
+  {
+    "name": "Nicholas",
+    "aliases": [
+      "尼古拉斯",
+      "ニコラス"
+    ]
+  },
+  {
+    "name": "Jenkins",
+    "aliases": [
+      "杰金斯",
+      "ジェンキンス"
+    ]
+  },
+  {
+    "name": "Radford",
+    "aliases": [
+      "拉德福特",
+      "ラドフォード"
+    ]
+  },
+  {
+    "name": "Yoizuki",
+    "aliases": [
+      "楛",
+      "宵月"
+    ]
+  },
+  {
+    "name": "Harutsuki",
+    "aliases": [
+      "桸",
+      "春月"
+    ]
+  },
+  {
+    "name": "Niizuki",
+    "aliases": [
+      "枥",
+      "新月"
+    ]
+  },
+  {
+    "name": "Kiyonami",
+    "aliases": [
+      "棈",
+      "清波"
+    ]
+  },
+  {
+    "name": "Kawakaze",
+    "aliases": [
+      "茳",
+      "江風"
+    ]
+  },
+  {
+    "name": "Yamakaze",
+    "aliases": [
+      "杣",
+      "山風"
+    ]
+  },
+  {
+    "name": "Umikaze",
+    "aliases": [
+      "菪",
+      "海風"
+    ]
+  },
+  {
+    "name": "Mikazuki",
+    "aliases": [
+      "檧",
+      "三日月"
+    ]
+  },
+  {
+    "name": "Nagatsuki",
+    "aliases": [
+      "枨",
+      "長月"
+    ]
+  },
+  {
+    "name": "Fumizuki",
+    "aliases": [
+      "橗",
+      "文月"
+    ]
+  },
+  {
+    "name": "Minazuki",
+    "aliases": [
+      "杌",
+      "水無月"
+    ]
+  },
+  {
+    "name": "Uzuki",
+    "aliases": [
+      "楙",
+      "卯月"
+    ]
+  },
+  {
+    "name": "Kisaragi",
+    "aliases": [
+      "樟",
+      "如月"
+    ]
+  },
+  {
+    "name": "Mutsuki",
+    "aliases": [
+      "松",
+      "睦月"
+    ]
+  },
+  {
+    "name": "Matsukaze",
+    "aliases": [
+      "棡",
+      "松風"
+    ]
+  },
+  {
+    "name": "Kamikaze",
+    "aliases": [
+      "榊",
+      "神風"
+    ]
+  },
+  {
+    "name": "Shimakaze",
+    "aliases": [
+      "芒",
+      "島風"
+    ]
+  },
+  {
+    "name": "Z46",
+    "aliases": []
+  },
+  {
+    "name": "Z21",
+    "aliases": []
+  },
+  {
+    "name": "Z20",
+    "aliases": []
+  },
+  {
+    "name": "Z19",
+    "aliases": []
+  },
+  {
+    "name": "Bailey",
+    "aliases": [
+      "贝利",
+      "ベイリー"
+    ]
+  },
+  {
+    "name": "Avrora",
+    "aliases": [
+      "阿芙乐尔",
+      "アヴローラ"
+    ]
+  },
+  {
+    "name": "Ping Hai",
+    "aliases": [
+      "平海"
+    ]
+  },
+  {
+    "name": "Ning Hai",
+    "aliases": [
+      "宁海",
+      "寧海"
+    ]
+  },
+  {
+    "name": "Yat Sen",
+    "aliases": [
+      "逸仙"
+    ]
+  },
+  {
+    "name": "Tai Yuan",
+    "aliases": [
+      "太原"
+    ]
+  },
+  {
+    "name": "Chang Chun",
+    "aliases": [
+      "长春",
+      "長春"
+    ]
+  },
+  {
+    "name": "Fu Shun",
+    "aliases": [
+      "抚顺",
+      "撫順"
+    ]
+  },
+  {
+    "name": "An Shan",
+    "aliases": [
+      "鞍山"
+    ]
+  },
+  {
+    "name": "Graf Zeppelin",
+    "aliases": [
+      "齐柏林伯爵",
+      "グラーフ・ツェッペリン"
+    ]
+  },
+  {
+    "name": "Tirpitz",
+    "aliases": [
+      "提尔比茨",
+      "ティルピッツ"
+    ]
+  },
+  {
+    "name": "Bismarck",
+    "aliases": [
+      "俾斯麦",
+      "ビスマルク"
+    ]
+  },
+  {
+    "name": "Gneisenau",
+    "aliases": [
+      "格奈森瑙",
+      "グナイゼナウ"
+    ]
+  },
+  {
+    "name": "Scharnhorst",
+    "aliases": [
+      "沙恩霍斯特",
+      "シャルンホルスト"
+    ]
+  },
+  {
+    "name": "Admiral Graf Spee",
+    "aliases": [
+      "休贝塔伯爵",
+      "アドミラル・グラーフ・シュペー"
+    ]
+  },
+  {
+    "name": "Deutschland",
+    "aliases": [
+      "德意志",
+      "ドイッチュラント"
+    ]
+  },
+  {
+    "name": "Prinz Eugen",
+    "aliases": [
+      "欧根亲王",
+      "プリンツ・オイゲン"
+    ]
+  },
+  {
+    "name": "Blücher",
+    "aliases": [
+      "布吕歇尔",
+      "ブリュッヒャー"
+    ]
+  },
+  {
+    "name": "Admiral Hipper",
+    "aliases": [
+      "芙兰希卡",
+      "アドミラル・ヒッパー"
+    ]
+  },
+  {
+    "name": "Leipzig",
+    "aliases": [
+      "莱比锡",
+      "ライプツィヒ"
+    ]
+  },
+  {
+    "name": "Köln",
+    "aliases": [
+      "科隆",
+      "ケルン"
+    ]
+  },
+  {
+    "name": "Karlsruhe",
+    "aliases": [
+      "卡尔斯鲁厄",
+      "カールスルーエ"
+    ]
+  },
+  {
+    "name": "Königsberg",
+    "aliases": [
+      "柯尼斯堡",
+      "ケーニヒスベルク"
+    ]
+  },
+  {
+    "name": "Z25",
+    "aliases": []
+  },
+  {
+    "name": "Z23",
+    "aliases": []
+  },
+  {
+    "name": "Z1",
+    "aliases": []
+  },
+  {
+    "name": "Akashi",
+    "aliases": [
+      "茗",
+      "明石"
+    ]
+  },
+  {
+    "name": "Shinano",
+    "aliases": [
+      "鵗",
+      "信濃"
+    ]
+  },
+  {
+    "name": "Taihou",
+    "aliases": [
+      "鹩",
+      "大鳳"
+    ]
+  },
+  {
+    "name": "Zuikaku",
+    "aliases": [
+      "鹤",
+      "瑞鶴"
+    ]
+  },
+  {
+    "name": "Shoukaku",
+    "aliases": [
+      "鹬",
+      "翔鶴"
+    ]
+  },
+  {
+    "name": "Hiryuu",
+    "aliases": [
+      "龙",
+      "飛龍"
+    ]
+  },
+  {
+    "name": "Souryuu",
+    "aliases": [
+      "蛟",
+      "蒼龍"
+    ]
+  },
+  {
+    "name": "Kaga",
+    "aliases": [
+      "鸾",
+      "加賀"
+    ]
+  },
+  {
+    "name": "Akagi",
+    "aliases": [
+      "凰",
+      "赤城"
+    ]
+  },
+  {
+    "name": "Ryuujou",
+    "aliases": [
+      "枭",
+      "龍驤"
+    ]
+  },
+  {
+    "name": "Shouhou",
+    "aliases": [
+      "鹞",
+      "祥鳳"
+    ]
+  },
+  {
+    "name": "Zuihou",
+    "aliases": [
+      "鹳",
+      "瑞鳳"
+    ]
+  },
+  {
+    "name": "Houshou",
+    "aliases": [
+      "凤",
+      "鳳翔"
+    ]
+  },
+  {
+    "name": "Junyou",
+    "aliases": [
+      "鸢",
+      "隼鷹"
+    ]
+  },
+  {
+    "name": "Hiyou",
+    "aliases": [
+      "鸱",
+      "飛鷹"
+    ]
+  },
+  {
+    "name": "Musashi",
+    "aliases": [
+      "武藏",
+      "武蔵"
+    ]
+  },
+  {
+    "name": "Tosa",
+    "aliases": [
+      "䲠",
+      "土佐"
+    ]
+  },
+  {
+    "name": "Kii",
+    "aliases": [
+      "鲣",
+      "紀伊"
+    ]
+  },
+  {
+    "name": "Mutsu",
+    "aliases": [
+      "鲛",
+      "陸奧"
+    ]
+  },
+  {
+    "name": "Nagato",
+    "aliases": [
+      "鲨",
+      "長門"
+    ]
+  },
+  {
+    "name": "Hyuuga",
+    "aliases": [
+      "螯",
+      "日向"
+    ]
+  },
+  {
+    "name": "Ise",
+    "aliases": [
+      "鳌",
+      "伊勢"
+    ]
+  },
+  {
+    "name": "Yamashiro",
+    "aliases": [
+      "鲼",
+      "山城"
+    ]
+  },
+  {
+    "name": "Fusou",
+    "aliases": [
+      "魟",
+      "扶桑"
+    ]
+  },
+  {
+    "name": "Kirishima",
+    "aliases": [
+      "鳗",
+      "霧島"
+    ]
+  },
+  {
+    "name": "Haruna",
+    "aliases": [
+      "鲑",
+      "榛名"
+    ]
+  },
+  {
+    "name": "Hiei",
+    "aliases": [
+      "鲟",
+      "比叡"
+    ]
+  },
+  {
+    "name": "Kongou",
+    "aliases": [
+      "鲤",
+      "金剛"
+    ]
+  },
+  {
+    "name": "Choukai",
+    "aliases": [
+      "猋",
+      "鳥海"
+    ]
+  },
+  {
+    "name": "Maya",
+    "aliases": [
+      "犮",
+      "摩耶"
+    ]
+  },
+  {
+    "name": "Atago",
+    "aliases": [
+      "犬",
+      "愛宕"
+    ]
+  },
+  {
+    "name": "Takao",
+    "aliases": [
+      "獒",
+      "高雄"
+    ]
+  },
+  {
+    "name": "Haguro",
+    "aliases": [
+      "羽黑",
+      "羽黒"
+    ]
+  },
+  {
+    "name": "Ashigara",
+    "aliases": [
+      "狳",
+      "足柄"
+    ]
+  },
+  {
+    "name": "Nachi",
+    "aliases": [
+      "狏",
+      "那智"
+    ]
+  },
+  {
+    "name": "Myoukou",
+    "aliases": [
+      "獌",
+      "妙高"
+    ]
+  },
+  {
+    "name": "Chikuma",
+    "aliases": [
+      "狘",
+      "筑摩"
+    ]
+  },
+  {
+    "name": "Kinugasa",
+    "aliases": [
+      "猅",
+      "衣笠"
+    ]
+  },
+  {
+    "name": "Aoba",
+    "aliases": [
+      "犹",
+      "青葉"
+    ]
+  },
+  {
+    "name": "Kako",
+    "aliases": [
+      "狌",
+      "加古"
+    ]
+  },
+  {
+    "name": "Furutaka",
+    "aliases": [
+      "狼",
+      "古鷹"
+    ]
+  },
+  {
+    "name": "Mikuma",
+    "aliases": [
+      "狻",
+      "三隈"
+    ]
+  },
+  {
+    "name": "Mogami",
+    "aliases": [
+      "猨",
+      "最上"
+    ]
+  },
+  {
+    "name": "Abukuma",
+    "aliases": [
+      "貃",
+      "阿武隈"
+    ]
+  },
+  {
+    "name": "Kinu",
+    "aliases": [
+      "猤",
+      "鬼怒"
+    ]
+  },
+  {
+    "name": "Yura",
+    "aliases": [
+      "㹨",
+      "由良"
+    ]
+  },
+  {
+    "name": "Natori",
+    "aliases": [
+      "名取"
+    ]
+  },
+  {
+    "name": "Isuzu",
+    "aliases": [
+      "貉",
+      "五十鈴"
+    ]
+  },
+  {
+    "name": "Nagara",
+    "aliases": [
+      "貊",
+      "長良"
+    ]
+  },
+  {
+    "name": "Yuubari",
+    "aliases": [
+      "狐",
+      "夕張"
+    ]
+  },
+  {
+    "name": "Oyashio",
+    "aliases": [
+      "藮",
+      "親潮"
+    ]
+  },
+  {
+    "name": "Kuroshio",
+    "aliases": [
+      "蓉",
+      "黒潮"
+    ]
+  },
+  {
+    "name": "Yuugure",
+    "aliases": [
+      "棭",
+      "夕暮"
+    ]
+  },
+  {
+    "name": "Ariake",
+    "aliases": [
+      "榎",
+      "有明"
+    ]
+  },
+  {
+    "name": "Hatsushimo",
+    "aliases": [
+      "檨",
+      "初霜"
+    ]
+  },
+  {
+    "name": "Wakaba",
+    "aliases": [
+      "楉",
+      "若葉"
+    ]
+  },
+  {
+    "name": "Hatsuharu",
+    "aliases": [
+      "梅",
+      "初春"
+    ]
+  },
+  {
+    "name": "Nowaki",
+    "aliases": [
+      "苓",
+      "野分"
+    ]
+  },
+  {
+    "name": "Amatsukaze",
+    "aliases": [
+      "菡",
+      "天津風"
+    ]
+  },
+  {
+    "name": "Shiranui",
+    "aliases": [
+      "蒲",
+      "不知火"
+    ]
+  },
+  {
+    "name": "Kagerou",
+    "aliases": [
+      "萩",
+      "陽炎"
+    ]
+  },
+  {
+    "name": "Yukikaze",
+    "aliases": [
+      "莲",
+      "雪風"
+    ]
+  },
+  {
+    "name": "Shigure",
+    "aliases": [
+      "栴",
+      "時雨"
+    ]
+  },
+  {
+    "name": "Yuudachi",
+    "aliases": [
+      "椿",
+      "夕立"
+    ]
+  },
+  {
+    "name": "Shiratsuyu",
+    "aliases": [
+      "梿",
+      "白露"
+    ]
+  },
+  {
+    "name": "Inazuma",
+    "aliases": [
+      "柏",
+      "電"
+    ]
+  },
+  {
+    "name": "Ikazuchi",
+    "aliases": [
+      "梓",
+      "雷"
+    ]
+  },
+  {
+    "name": "Hibiki",
+    "aliases": [
+      "栀",
+      "響"
+    ]
+  },
+  {
+    "name": "Akatsuki",
+    "aliases": [
+      "枫",
+      "暁"
+    ]
+  },
+  {
+    "name": "Ayanami",
+    "aliases": [
+      "柚",
+      "綾波"
+    ]
+  },
+  {
+    "name": "Miyuki",
+    "aliases": [
+      "深雪"
+    ]
+  },
+  {
+    "name": "Shirayuki",
+    "aliases": [
+      "白雪"
+    ]
+  },
+  {
+    "name": "Fubuki",
+    "aliases": [
+      "桐",
+      "吹雪"
+    ]
+  },
+  {
+    "name": "Terror",
+    "aliases": [
+      "恐怖",
+      "テラー"
+    ]
+  },
+  {
+    "name": "Erebus",
+    "aliases": [
+      "黑暗界",
+      "エレバス"
+    ]
+  },
+  {
+    "name": "Glorious",
+    "aliases": [
+      "光荣",
+      "グロリアス"
+    ]
+  },
+  {
+    "name": "Formidable",
+    "aliases": [
+      "可畏",
+      "フォーミダブル"
+    ]
+  },
+  {
+    "name": "Victorious",
+    "aliases": [
+      "胜利",
+      "ヴィクトリアス"
+    ]
+  },
+  {
+    "name": "Illustrious",
+    "aliases": [
+      "光辉",
+      "イラストリアス"
+    ]
+  },
+  {
+    "name": "Ark Royal",
+    "aliases": [
+      "皇家方舟",
+      "アーク・ロイヤル"
+    ]
+  },
+  {
+    "name": "Eagle",
+    "aliases": [
+      "鹰",
+      "イーグル"
+    ]
+  },
+  {
+    "name": "Unicorn",
+    "aliases": [
+      "独角兽",
+      "ユニコーン"
+    ]
+  },
+  {
+    "name": "Hermes",
+    "aliases": [
+      "竞技神",
+      "ハーミーズ"
+    ]
+  },
+  {
+    "name": "Lion",
+    "aliases": [
+      "狮",
+      "ライオン"
+    ]
+  },
+  {
+    "name": "Vanguard",
+    "aliases": [
+      "前卫",
+      "ヴァンガード"
+    ]
+  },
+  {
+    "name": "Duke of York",
+    "aliases": [
+      "约克公爵",
+      "デューク・オブ・ヨーク"
+    ]
+  },
+  {
+    "name": "Prince of Wales",
+    "aliases": [
+      "威尔士亲王",
+      "プリンス・オブ・ウェールズ"
+    ]
+  },
+  {
+    "name": "King George V",
+    "aliases": [
+      "英王乔治五世",
+      "キング・ジョージ5世"
+    ]
+  },
+  {
+    "name": "Rodney",
+    "aliases": [
+      "罗德尼",
+      "ロドニー"
+    ]
+  },
+  {
+    "name": "Nelson",
+    "aliases": [
+      "纳尔逊",
+      "ネルソン"
+    ]
+  },
+  {
+    "name": "Warspite",
+    "aliases": [
+      "厌战",
+      "ウォースパイト"
+    ]
+  },
+  {
+    "name": "Queen Elizabeth",
+    "aliases": [
+      "伊丽莎白女王",
+      "クイーン・エリザベス"
+    ]
+  },
+  {
+    "name": "Hood",
+    "aliases": [
+      "胡德",
+      "フッド"
+    ]
+  },
+  {
+    "name": "Repulse",
+    "aliases": [
+      "反击",
+      "レパルス"
+    ]
+  },
+  {
+    "name": "Renown",
+    "aliases": [
+      "声望",
+      "レナウン"
+    ]
+  },
+  {
+    "name": "Exeter",
+    "aliases": [
+      "埃克塞特",
+      "エクセター"
+    ]
+  },
+  {
+    "name": "York",
+    "aliases": [
+      "约克",
+      "ヨーク"
+    ]
+  },
+  {
+    "name": "Dorsetshire",
+    "aliases": [
+      "多塞特郡",
+      "ドーセットシャー"
+    ]
+  },
+  {
+    "name": "Norfolk",
+    "aliases": [
+      "诺福克",
+      "ノーフォーク"
+    ]
+  },
+  {
+    "name": "Suffolk",
+    "aliases": [
+      "萨福克",
+      "サフォーク"
+    ]
+  },
+  {
+    "name": "Kent",
+    "aliases": [
+      "肯特",
+      "ケント"
+    ]
+  },
+  {
+    "name": "Shropshire",
+    "aliases": [
+      "什罗普郡",
+      "シュロップシャー"
+    ]
+  },
+  {
+    "name": "London",
+    "aliases": [
+      "伦敦",
+      "ロンドン"
+    ]
+  },
+  {
+    "name": "Aurora",
+    "aliases": [
+      "欧若拉",
+      "オーロラ"
+    ]
+  },
+  {
+    "name": "Galatea",
+    "aliases": [
+      "加拉蒂亚",
+      "ガラティア"
+    ]
+  },
+  {
+    "name": "Arethusa",
+    "aliases": [
+      "阿瑞托莎",
+      "アリシューザ"
+    ]
+  },
+  {
+    "name": "Belfast",
+    "aliases": [
+      "贝尔法斯特",
+      "ベルファスト"
+    ]
+  },
+  {
+    "name": "Edinburgh",
+    "aliases": [
+      "爱丁堡",
+      "エディンバラ"
+    ]
+  },
+  {
+    "name": "Gloucester",
+    "aliases": [
+      "格罗斯特",
+      "グロスター"
+    ]
+  },
+  {
+    "name": "Manchester",
+    "aliases": [
+      "曼彻斯特",
+      "マンチェスター"
+    ]
+  },
+  {
+    "name": "Sheffield",
+    "aliases": [
+      "谢菲尔德",
+      "シェフィールド"
+    ]
+  },
+  {
+    "name": "Southampton",
+    "aliases": [
+      "南安普顿",
+      "サウサンプトン"
+    ]
+  },
+  {
+    "name": "Dido",
+    "aliases": [
+      "黛朵",
+      "ダイドー"
+    ]
+  },
+  {
+    "name": "Ajax",
+    "aliases": [
+      "阿贾克斯",
+      "エイジャックス"
+    ]
+  },
+  {
+    "name": "Achilles",
+    "aliases": [
+      "阿基里斯",
+      "アキリーズ"
+    ]
+  },
+  {
+    "name": "Leander",
+    "aliases": [
+      "利安得",
+      "リアンダー"
+    ]
+  },
+  {
+    "name": "Vampire",
+    "aliases": [
+      "吸血鬼",
+      "ヴァンパイア"
+    ]
+  },
+  {
+    "name": "Juno",
+    "aliases": [
+      "天后",
+      "ジュノー"
+    ]
+  },
+  {
+    "name": "Javelin",
+    "aliases": [
+      "标枪",
+      "ジャベリン"
+    ]
+  },
+  {
+    "name": "Hunter",
+    "aliases": [
+      "猎人",
+      "ハンター"
+    ]
+  },
+  {
+    "name": "Hostile",
+    "aliases": [
+      "敌对",
+      "ホスタイル"
+    ]
+  },
+  {
+    "name": "Hardy",
+    "aliases": [
+      "勇敢",
+      "ハーディ"
+    ]
+  },
+  {
+    "name": "Glowworm",
+    "aliases": [
+      "萤火虫",
+      "グローウォーム"
+    ]
+  },
+  {
+    "name": "Grenville",
+    "aliases": [
+      "格伦维尔",
+      "グレンヴィル"
+    ]
+  },
+  {
+    "name": "Fortune",
+    "aliases": [
+      "命运女神",
+      "フォーチュン"
+    ]
+  },
+  {
+    "name": "Foxhound",
+    "aliases": [
+      "狐提",
+      "フォックスハウンド"
+    ]
+  },
+  {
+    "name": "Cygnet",
+    "aliases": [
+      "小天鹅",
+      "シグニット"
+    ]
+  },
+  {
+    "name": "Crescent",
+    "aliases": [
+      "新月",
+      "クレセント"
+    ]
+  },
+  {
+    "name": "Comet",
+    "aliases": [
+      "彗星",
+      "コメット"
+    ]
+  },
+  {
+    "name": "Bulldog",
+    "aliases": [
+      "大斗犬",
+      "ブルドッグ"
+    ]
+  },
+  {
+    "name": "Beagle",
+    "aliases": [
+      "小猎兔犬",
+      "ビーグル"
+    ]
+  },
+  {
+    "name": "Ardent",
+    "aliases": [
+      "热心",
+      "アーデント"
+    ]
+  },
+  {
+    "name": "Acasta",
+    "aliases": [
+      "阿卡司塔",
+      "アカスタ"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "aliases": [
+      "女将",
+      "アマゾン"
+    ]
+  },
+  {
+    "name": "Vestal",
+    "aliases": [
+      "女灶神",
+      "ヴェスタル"
+    ]
+  },
+  {
+    "name": "Wasp",
+    "aliases": [
+      "胡蜂",
+      "ワスプ"
+    ]
+  },
+  {
+    "name": "Hornet",
+    "aliases": [
+      "大黄蜂",
+      "ホーネット"
+    ]
+  },
+  {
+    "name": "Enterprise",
+    "aliases": [
+      "企业",
+      "エンタープライズ"
+    ]
+  },
+  {
+    "name": "Yorktown",
+    "aliases": [
+      "约克城",
+      "ヨークタウン"
+    ]
+  },
+  {
+    "name": "Ranger",
+    "aliases": [
+      "突击者",
+      "レンジャー"
+    ]
+  },
+  {
+    "name": "Saratoga",
+    "aliases": [
+      "萨拉托加",
+      "サラトガ"
+    ]
+  },
+  {
+    "name": "Lexington",
+    "aliases": [
+      "列克星敦",
+      "レキシントン"
+    ]
+  },
+  {
+    "name": "Langley",
+    "aliases": [
+      "兰利",
+      "ラングレー"
+    ]
+  },
+  {
+    "name": "Bogue",
+    "aliases": [
+      "博格",
+      "ボーグ"
+    ]
+  },
+  {
+    "name": "Long Island",
+    "aliases": [
+      "长岛",
+      "ロング・アイランド"
+    ]
+  },
+  {
+    "name": "New Jersey",
+    "aliases": [
+      "新泽西",
+      "ニュージャージー"
+    ]
+  },
+  {
+    "name": "Indiana",
+    "aliases": [
+      "印第安纳",
+      "インディアナ"
+    ]
+  },
+  {
+    "name": "South Dakota",
+    "aliases": [
+      "南达科他",
+      "サウスダコタ"
+    ]
+  },
+  {
+    "name": "Washington",
+    "aliases": [
+      "华盛顿",
+      "ワシントン"
+    ]
+  },
+  {
+    "name": "North Carolina",
+    "aliases": [
+      "北卡罗来纳",
+      "ノースカロライナ"
+    ]
+  },
+  {
+    "name": "West Virginia",
+    "aliases": [
+      "西弗吉尼亚",
+      "ウェストバージニア"
+    ]
+  },
+  {
+    "name": "Maryland",
+    "aliases": [
+      "马里兰",
+      "メリーランド"
+    ]
+  },
+  {
+    "name": "Colorado",
+    "aliases": [
+      "科罗拉多",
+      "コロラド"
+    ]
+  },
+  {
+    "name": "California",
+    "aliases": [
+      "加利福尼亚",
+      "カリフォルニア"
+    ]
+  },
+  {
+    "name": "Tennessee",
+    "aliases": [
+      "田纳西",
+      "テネシー"
+    ]
+  },
+  {
+    "name": "Arizona",
+    "aliases": [
+      "亚利桑那",
+      "アリゾナ"
+    ]
+  },
+  {
+    "name": "Pennsylvania",
+    "aliases": [
+      "宾夕法尼亚",
+      "ペンシルベニア"
+    ]
+  },
+  {
+    "name": "Oklahoma",
+    "aliases": [
+      "俄克拉荷马",
+      "オクラホマ"
+    ]
+  },
+  {
+    "name": "Nevada",
+    "aliases": [
+      "内华达",
+      "ネバダ"
+    ]
+  },
+  {
+    "name": "Baltimore",
+    "aliases": [
+      "巴尔的摩",
+      "ボルチモア"
+    ]
+  },
+  {
+    "name": "Wichita",
+    "aliases": [
+      "威奇塔",
+      "ウィチタ"
+    ]
+  },
+  {
+    "name": "Vincennes",
+    "aliases": [
+      "文森斯",
+      "ヴィンセンス"
+    ]
+  },
+  {
+    "name": "Quincy",
+    "aliases": [
+      "昆西",
+      "クインシー"
+    ]
+  },
+  {
+    "name": "Astoria",
+    "aliases": [
+      "阿斯托利亚",
+      "アストリア"
+    ]
+  },
+  {
+    "name": "Indianapolis",
+    "aliases": [
+      "印第安纳波利斯",
+      "インディアナポリス"
+    ]
+  },
+  {
+    "name": "Portland",
+    "aliases": [
+      "波特兰",
+      "ポートランド"
+    ]
+  },
+  {
+    "name": "Houston",
+    "aliases": [
+      "休斯敦",
+      "ヒューストン"
+    ]
+  },
+  {
+    "name": "Chicago",
+    "aliases": [
+      "芝加哥",
+      "シカゴ"
+    ]
+  },
+  {
+    "name": "Northampton",
+    "aliases": [
+      "北安普敦",
+      "ノーザンプトン"
+    ]
+  },
+  {
+    "name": "Salt Lake City",
+    "aliases": [
+      "盐湖城",
+      "ソルトレイクシティ"
+    ]
+  },
+  {
+    "name": "Pensacola",
+    "aliases": [
+      "彭萨科拉",
+      "ペンサコーラ"
+    ]
+  },
+  {
+    "name": "Columbia",
+    "aliases": [
+      "哥伦比亚",
+      "コロンビア"
+    ]
+  },
+  {
+    "name": "Cleveland",
+    "aliases": [
+      "克利夫兰",
+      "クリーブランド"
+    ]
+  },
+  {
+    "name": "San Diego",
+    "aliases": [
+      "圣地亚哥",
+      "サンディエゴ"
+    ]
+  },
+  {
+    "name": "Juneau",
+    "aliases": [
+      "朱诺",
+      "ジュノー"
+    ]
+  },
+  {
+    "name": "Atlanta",
+    "aliases": [
+      "亚特兰大",
+      "アトランタ"
+    ]
+  },
+  {
+    "name": "Helena",
+    "aliases": [
+      "海伦娜",
+      "ヘレナ"
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "aliases": [
+      "菲尼克斯",
+      "フェニックス"
+    ]
+  },
+  {
+    "name": "Brooklyn",
+    "aliases": [
+      "布鲁克林",
+      "ブルックリン"
+    ]
+  },
+  {
+    "name": "Raleigh",
+    "aliases": [
+      "罗利",
+      "ローリー"
+    ]
+  },
+  {
+    "name": "Omaha",
+    "aliases": [
+      "奥马哈",
+      "オマハ"
+    ]
+  },
+  {
+    "name": "Eldridge",
+    "aliases": [
+      "埃尔德里奇",
+      "エルドリッジ"
+    ]
+  },
+  {
+    "name": "Hammann",
+    "aliases": [
+      "哈曼",
+      "ハムマン"
+    ]
+  },
+  {
+    "name": "Sims",
+    "aliases": [
+      "西姆斯",
+      "シムス"
+    ]
+  },
+  {
+    "name": "Laffey",
+    "aliases": [
+      "拉菲",
+      "ラフィー"
+    ]
+  },
+  {
+    "name": "Benson",
+    "aliases": [
+      "本森",
+      "ベンソン"
+    ]
+  },
+  {
+    "name": "Spence",
+    "aliases": [
+      "斯彭斯",
+      "スペンス"
+    ]
+  },
+  {
+    "name": "Foote",
+    "aliases": [
+      "富特",
+      "フート"
+    ]
+  },
+  {
+    "name": "Aulick",
+    "aliases": [
+      "奥利克",
+      "オーリック"
+    ]
+  },
+  {
+    "name": "Thatcher",
+    "aliases": [
+      "撒切尔",
+      "サッチャー"
+    ]
+  },
+  {
+    "name": "Charles Ausburne",
+    "aliases": [
+      "查尔斯·奥斯本",
+      "チャールズ・オースバーン"
+    ]
+  },
+  {
+    "name": "William D. Porter",
+    "aliases": [
+      "威廉·D·波特",
+      "ウィリアム・D・ポーター"
+    ]
+  },
+  {
+    "name": "Fletcher",
+    "aliases": [
+      "弗莱彻",
+      "フレッチャー"
+    ]
+  },
+  {
+    "name": "Maury",
+    "aliases": [
+      "莫里",
+      "モーリー"
+    ]
+  },
+  {
+    "name": "McCall",
+    "aliases": [
+      "麦考尔",
+      "マッコール"
+    ]
+  },
+  {
+    "name": "Craven",
+    "aliases": [
+      "克雷文",
+      "クレイヴン"
+    ]
+  },
+  {
+    "name": "Gridley",
+    "aliases": [
+      "格里德利",
+      "グリッドレイ"
+    ]
+  },
+  {
+    "name": "Downes",
+    "aliases": [
+      "唐斯",
+      "ダウンズ"
+    ]
+  },
+  {
+    "name": "Cassin",
+    "aliases": [
+      "卡辛",
+      "カッシン"
+    ]
+  },
+  {
+    "name": "Dewey",
+    "aliases": [
+      "杜威",
+      "デューイ"
+    ]
+  },
+  {
+    "name": "Specialized Bulin Custom MKIII",
+    "aliases": [
+      "特装型布里MKIII",
+      "特装型ブリMKIII"
+    ]
+  },
+  {
+    "name": "Prototype Bulin MKII",
+    "aliases": [
+      "试作型布里MKII",
+      "試作型ブリMKII"
+    ]
+  },
+  {
+    "name": "Universal Bulin",
+    "aliases": [
+      "泛用型布里",
+      "汎用型ブリ"
+    ]
+  }
+]

@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["config.json", "data/**", "cmd/**", ".github/workflows/build-index.yml"]
+    paths: ["config/games.json", "data/**", "cmd/**", ".github/workflows/build-index.yml"]
 
 permissions:
   contents: read
