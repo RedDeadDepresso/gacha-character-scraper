@@ -57,6 +57,9 @@ func main() {
 		}
 		var list []scraped
 		mustRead(path, &list)
+		before := len(list)
+		list = mergeAlters(list)
+		log.Printf("%s: merged %d alter versions into base characters", game, before-len(list))
 
 		sIdx := len(idx.Series)
 		idx.Series = append(idx.Series, series{Title: game, Aliases: []string{}})
@@ -120,4 +123,72 @@ func union(a, b []string) []string {
 		}
 	}
 	return res
+}
+
+// alterSeparators mark an alter version of a character: "Ch'en the Dawnstreak"
+// or "Amiya (Guardian)" are alters of "Ch'en" / "Amiya".
+var alterSeparators = []string{" the ", " ("}
+
+// baseOf returns the lowercase name of the base character if name looks like an
+// alter of a character that exists in idx (same series only, since idx only
+// holds the current game's characters).
+func baseOf(name string, idx map[string]int) (string, bool) {
+	for _, sep := range alterSeparators {
+		for i := 1; i+len(sep) <= len(name); i++ {
+			if strings.EqualFold(name[i:i+len(sep)], sep) {
+				base := strings.ToLower(name[:i])
+				if _, ok := idx[base]; ok {
+					return base, true
+				}
+			}
+		}
+	}
+	return "", false
+}
+
+// mergeAlters folds alter versions into their base character (the older one),
+// adding the alter's name and aliases to the base's aliases. Only characters
+// within the same list (one game) are merged.
+func mergeAlters(list []scraped) []scraped {
+	idx := map[string]int{}
+	for i, s := range list {
+		idx[strings.ToLower(s.Name)] = i
+	}
+	root := func(i int) int {
+		for depth := 0; depth < 10; depth++ {
+			base, ok := baseOf(list[i].Name, idx)
+			if !ok || idx[base] == i {
+				return i
+			}
+			i = idx[base]
+		}
+		return i
+	}
+
+	out := []scraped{}
+	outPos := map[int]int{} // list index of a base -> index in out
+	for i, s := range list {
+		if root(i) == i {
+			outPos[i] = len(out)
+			out = append(out, scraped{Name: s.Name, Aliases: union(nil, s.Aliases)})
+		}
+	}
+	for i, s := range list {
+		r := root(i)
+		if r == i {
+			continue
+		}
+		o := &out[outPos[r]]
+		o.Aliases = union(o.Aliases, append([]string{s.Name}, s.Aliases...))
+	}
+	for i := range out {
+		filtered := out[i].Aliases[:0]
+		for _, a := range out[i].Aliases {
+			if !strings.EqualFold(a, out[i].Name) {
+				filtered = append(filtered, a)
+			}
+		}
+		out[i].Aliases = filtered
+	}
+	return out
 }
