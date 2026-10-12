@@ -20,7 +20,7 @@ type Character struct {
 
 // Scraper scrapes a single gacha game.
 type Scraper interface {
-	// Name must match the entry in config.json and is used as the data file name.
+	// Name must match the entry in config/games.json and is used as the data file name.
 	Name() string
 	// Scrape receives the previously saved characters (may be empty) and returns
 	// the full updated list. New characters are placed first.
@@ -76,4 +76,73 @@ func get(url string) (io.ReadCloser, error) {
 		return nil, fmt.Errorf("GET %s: %s", url, resp.Status)
 	}
 	return resp.Body, nil
+}
+
+// ConfigDir holds games.json and the commit cache.
+const ConfigDir = "config"
+
+const commitsFile = "commits.json"
+
+// LoadCommit returns the last scraped commit SHA for a game ("" if none).
+func LoadCommit(name string) string {
+	b, err := os.ReadFile(filepath.Join(ConfigDir, commitsFile))
+	if err != nil {
+		return ""
+	}
+	m := map[string]string{}
+	if json.Unmarshal(b, &m) != nil {
+		return ""
+	}
+	return m[name]
+}
+
+// SaveCommit stores the commit SHA for a game in config/commits.json.
+func SaveCommit(name, sha string) error {
+	path := filepath.Join(ConfigDir, commitsFile)
+	m := map[string]string{}
+	if b, err := os.ReadFile(path); err == nil {
+		_ = json.Unmarshal(b, &m)
+	}
+	m[name] = sha
+	if err := os.MkdirAll(ConfigDir, 0o755); err != nil {
+		return err
+	}
+	b, err := json.MarshalIndent(m, "", "  ")
+	if err != nil {
+		return err
+	}
+	return os.WriteFile(path, append(b, '\n'), 0o644)
+}
+
+// LatestCommit returns the SHA of the newest commit on a GitHub branch.
+// Set GITHUB_TOKEN to raise the API rate limit (optional).
+func LatestCommit(repo, branch string) (string, error) {
+	req, err := http.NewRequest(http.MethodGet,
+		fmt.Sprintf("https://api.github.com/repos/%s/commits/%s", repo, branch), nil)
+	if err != nil {
+		return "", err
+	}
+	req.Header.Set("User-Agent", userAgent)
+	req.Header.Set("Accept", "application/vnd.github+json")
+	if tok := os.Getenv("GITHUB_TOKEN"); tok != "" {
+		req.Header.Set("Authorization", "Bearer "+tok)
+	}
+	resp, err := client.Do(req)
+	if err != nil {
+		return "", err
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != http.StatusOK {
+		return "", fmt.Errorf("github api %s: %s", repo, resp.Status)
+	}
+	var out struct {
+		SHA string `json:"sha"`
+	}
+	if err := json.NewDecoder(resp.Body).Decode(&out); err != nil {
+		return "", err
+	}
+	if out.SHA == "" {
+		return "", fmt.Errorf("github api %s: empty sha", repo)
+	}
+	return out.SHA, nil
 }

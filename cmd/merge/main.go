@@ -1,5 +1,5 @@
-// Command merge combines data/*.json into a single gacha_index.json using the
-// KKAFIO index format. Gachas earlier in config.json rank as more popular.
+// Command merge combines data/*.json into a single gacha_character_index.json using the
+// KKAFIO index format. Gachas earlier in config/games.json rank as more popular.
 package main
 
 import (
@@ -40,11 +40,11 @@ type index struct {
 }
 
 func main() {
-	out := flag.String("out", "dist/gacha_index.json", "output path")
+	out := flag.String("out", "dist/gacha_character_index.json", "output path")
 	flag.Parse()
 
 	var cfg config
-	mustRead("config.json", &cfg)
+	mustRead("config/games.json", &cfg)
 
 	idx := index{Version: 1, Series: []series{}, Chars: []char{}}
 	pos := map[string]int{} // lowercase name -> index in idx.Chars
