@@ -53,22 +53,33 @@ func (w WutheringWaves) Scrape(existing []Character) ([]Character, error) {
 	}
 
 	type entry struct {
-		id   int
+		id   int   // lowest id, used for ordering
+		ids  []int // every id merged into this entry
 		name string
 	}
-	best := map[string]entry{} // lowercase en name -> lowest id
+	best := map[string]*entry{} // lowercase group key -> entry
 	for id, name := range names["en"] {
 		name = strings.TrimSpace(name)
 		if name == "" {
 			continue
 		}
-		k := strings.ToLower(name)
-		if cur, ok := best[k]; !ok || id < cur.id {
-			best[k] = entry{id: id, name: name}
+		key, display := strings.ToLower(name), name
+		// Hardcoded: all Rover variants (Spectro, Havoc, ...) become one "Rover".
+		if strings.HasPrefix(key, "rover") {
+			key, display = "rover", "Rover"
 		}
+		if cur, ok := best[key]; ok {
+			cur.ids = append(cur.ids, id)
+			if id < cur.id {
+				cur.id = id
+			}
+			continue
+		}
+		best[key] = &entry{id: id, ids: []int{id}, name: display}
 	}
-	list := make([]entry, 0, len(best))
+	list := make([]*entry, 0, len(best))
 	for _, e := range best {
+		sort.Ints(e.ids)
 		list = append(list, e)
 	}
 	sort.Slice(list, func(i, j int) bool { return list[i].id > list[j].id }) // newest first
@@ -77,12 +88,22 @@ func (w WutheringWaves) Scrape(existing []Character) ([]Character, error) {
 	for _, e := range list {
 		c := Character{Name: e.name, Aliases: []string{}}
 		seen := map[string]bool{strings.ToLower(e.name): true}
-		for _, lang := range wuwaLangs[1:] {
-			a := strings.TrimSpace(names[lang][e.id])
+		add := func(a string) {
+			a = strings.TrimSpace(a)
 			if a != "" && !seen[strings.ToLower(a)] {
 				seen[strings.ToLower(a)] = true
 				c.Aliases = append(c.Aliases, a)
 			}
+		}
+		// Aliases from every merged id (for Rover this includes the variant names).
+		for _, lang := range wuwaLangs {
+			for _, id := range e.ids {
+				add(names[lang][id])
+			}
+		}
+		if strings.EqualFold(e.name, "Rover") {
+			add("漂泊者") // Chinese / Japanese name of Rover
+			add("방랑자") // Korean name of Rover
 		}
 		chars = append(chars, c)
 	}
