@@ -8,4 +8,6 @@
 - `go run ./cmd/merge` – merge `data/*.json` into `dist/gacha_character_index.json` (KKAFIO format).
 - `.github/workflows/build-index.yml` – merges `data/*.json` and publishes to GitHub Pages on push or manual run (no scraping in CI).
 
-The merge step folds alter versions (`X the Y` or `X (Y)`, where `X` exists in the same series) into the base character `X`, adding the alter's name and aliases to `X`'s aliases.
+The merge step folds alter versions (`X the Y`, `X (Y)` or `X • Y`, where `X` exists in the same series) into the base character `X`, adding the alter's name and aliases to `X`'s aliases.
+
+`data/Gakuen Idolmaster.json` is maintained by hand (no scraper, since new characters are rare). Keep it newest-first like the scraped files.
