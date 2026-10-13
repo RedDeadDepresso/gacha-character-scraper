@@ -1,3 +1,15 @@
 {
-  "gachas": ["Arknights", "Blue Archive", "Azur Lane", "Uma Musume", "Zenless Zone Zero", "Wuthering Waves", "Arknights Endfield", "Honkai Star Rail", "Gakuen Idolmaster"]
+  "gachas": [
+    "Arknights",
+    "Blue Archive",
+    "Azur Lane",
+    "Uma Musume",
+    "Zenless Zone Zero",
+    "Wuthering Waves",
+    "Arknights Endfield",
+    "Honkai Star Rail",
+    "Gakuen Idolmaster",
+    "Project Sekai",
+    "Neverness to Everness"
+  ]
 }

@@ -75,7 +75,7 @@ const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/201
 // ErrNotFound is returned (wrapped) by get when the server answers 404.
 var ErrNotFound = errors.New("not found")
 
-var client = &http.Client{Timeout: 30 * time.Second}
+var client = &http.Client{Timeout: 2 * time.Minute}
 
 // get fetches a URL politely (Firefox User-Agent).
 func get(url string) (io.ReadCloser, error) {

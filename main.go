@@ -27,6 +27,7 @@ var registry = []scrapers.Scraper{
 	scrapers.WutheringWaves{},
 	scrapers.ArknightsEndfield{},
 	scrapers.HonkaiStarRail{},
+	scrapers.NevernessToEverness{},
 }
 
 func main() {
