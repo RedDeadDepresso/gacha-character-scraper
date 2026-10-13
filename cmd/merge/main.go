@@ -133,9 +133,10 @@ func union(a, b []string) []string {
 	return res
 }
 
-// alterSeparators mark an alter version of a character: "Ch'en the Dawnstreak"
-// or "Amiya (Guardian)" are alters of "Ch'en" / "Amiya".
-var alterSeparators = []string{" the ", " ("}
+// alterSeparators mark an alter version of a character: "Ch'en the Dawnstreak",
+// "Amiya (Guardian)" and "Himeko • Nova" are alters of "Ch'en", "Amiya" and
+// "Himeko".
+var alterSeparators = []string{" the ", " (", " • "}
 
 // baseOf returns the lowercase name of the base character if name looks like an
 // alter of a character that exists in idx (same series only, since idx only
