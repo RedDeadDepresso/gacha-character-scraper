@@ -1,0 +1,487 @@
+[
+  {
+    "name": "Yangyang: Xuanling",
+    "aliases": [
+      "秧秧·玄翎",
+      "秧秧・玄翎",
+      "양양 · 현령"
+    ]
+  },
+  {
+    "name": "Phrolova",
+    "aliases": [
+      "弗洛洛",
+      "フローヴァ",
+      "플로로"
+    ]
+  },
+  {
+    "name": "Cantarella",
+    "aliases": [
+      "坎特蕾拉",
+      "カンタレラ",
+      "칸타렐라"
+    ]
+  },
+  {
+    "name": "Roccia",
+    "aliases": [
+      "洛可可",
+      "ロココ",
+      "로코코"
+    ]
+  },
+  {
+    "name": "Rover: Havoc",
+    "aliases": [
+      "漂泊者·湮灭",
+      "漂泊者·湮滅",
+      "漂泊者・消滅",
+      "방랑자 · 인멸"
+    ]
+  },
+  {
+    "name": "Camellya",
+    "aliases": [
+      "椿",
+      "ツバキ",
+      "카멜리아"
+    ]
+  },
+  {
+    "name": "Danjin",
+    "aliases": [
+      "丹瑾",
+      "단근"
+    ]
+  },
+  {
+    "name": "Taoqi",
+    "aliases": [
+      "桃祈",
+      "도기"
+    ]
+  },
+  {
+    "name": "Lucy",
+    "aliases": [
+      "露西",
+      "ルーシー",
+      "루시"
+    ]
+  },
+  {
+    "name": "Luuk Herssen",
+    "aliases": [
+      "陆·赫斯",
+      "陸·赫斯",
+      "リューク・ヘルセン",
+      "루크 · 헤르센"
+    ]
+  },
+  {
+    "name": "Lynae",
+    "aliases": [
+      "琳奈",
+      "リンネー",
+      "린네"
+    ]
+  },
+  {
+    "name": "Chisa",
+    "aliases": [
+      "千咲",
+      "치사"
+    ]
+  },
+  {
+    "name": "Zani",
+    "aliases": [
+      "赞妮",
+      "贊妮",
+      "ザンニー",
+      "젠니"
+    ]
+  },
+  {
+    "name": "Phoebe",
+    "aliases": [
+      "菲比",
+      "フィービー",
+      "페비"
+    ]
+  },
+  {
+    "name": "Shorekeeper",
+    "aliases": [
+      "守岸人",
+      "ショアキーパー",
+      "파수인"
+    ]
+  },
+  {
+    "name": "Lumi",
+    "aliases": [
+      "灯灯",
+      "燈燈",
+      "루미"
+    ]
+  },
+  {
+    "name": "Verina",
+    "aliases": [
+      "维里奈",
+      "維里奈",
+      "ヴェリーナ",
+      "벨리나"
+    ]
+  },
+  {
+    "name": "Rover: Spectro",
+    "aliases": [
+      "漂泊者·衍射",
+      "漂泊者・回折",
+      "방랑자 · 회절"
+    ]
+  },
+  {
+    "name": "Qingxiao",
+    "aliases": [
+      "清宵",
+      "청초"
+    ]
+  },
+  {
+    "name": "Sigrika",
+    "aliases": [
+      "西格莉卡",
+      "シグリカ",
+      "시그리카"
+    ]
+  },
+  {
+    "name": "Qiuyuan",
+    "aliases": [
+      "仇远",
+      "仇遠",
+      "구원"
+    ]
+  },
+  {
+    "name": "Iuno",
+    "aliases": [
+      "尤诺",
+      "尤諾",
+      "ユーノ",
+      "유노"
+    ]
+  },
+  {
+    "name": "Cartethyia",
+    "aliases": [
+      "卡提希娅",
+      "卡提希婭",
+      "カルテジア",
+      "카르티시아"
+    ]
+  },
+  {
+    "name": "Ciaccona",
+    "aliases": [
+      "夏空",
+      "シャコンヌ",
+      "샤콘"
+    ]
+  },
+  {
+    "name": "Rover: Aero",
+    "aliases": [
+      "漂泊者·气动",
+      "漂泊者·氣動",
+      "漂泊者・気動",
+      "방랑자 · 기류"
+    ]
+  },
+  {
+    "name": "Jianxin",
+    "aliases": [
+      "鉴心",
+      "鑒心",
+      "鑑心",
+      "감심"
+    ]
+  },
+  {
+    "name": "Jiyan",
+    "aliases": [
+      "忌炎",
+      "기염"
+    ]
+  },
+  {
+    "name": "Aalto",
+    "aliases": [
+      "秋水",
+      "アールト",
+      "알토"
+    ]
+  },
+  {
+    "name": "Yangyang",
+    "aliases": [
+      "秧秧",
+      "양양"
+    ]
+  },
+  {
+    "name": "Suoming",
+    "aliases": [
+      "锁暝",
+      "鎖暝",
+      "쇄명"
+    ]
+  },
+  {
+    "name": "Hsin",
+    "aliases": [
+      "心",
+      "여우의 별자리"
+    ]
+  },
+  {
+    "name": "Rover: Electro",
+    "aliases": [
+      "漂泊者·导电",
+      "漂泊者·導電",
+      "漂泊者・電導",
+      "방랑자 · 전도"
+    ]
+  },
+  {
+    "name": "Rebecca",
+    "aliases": [
+      "丽贝卡",
+      "蕾貝卡",
+      "レベッカ",
+      "레베카"
+    ]
+  },
+  {
+    "name": "Buling",
+    "aliases": [
+      "卜灵",
+      "卜靈",
+      "卜霊",
+      "복링"
+    ]
+  },
+  {
+    "name": "Augusta",
+    "aliases": [
+      "奥古斯塔",
+      "奧古斯塔",
+      "オーガスタ",
+      "아우구스타"
+    ]
+  },
+  {
+    "name": "Xiangli Yao",
+    "aliases": [
+      "相里要",
+      "상리요"
+    ]
+  },
+  {
+    "name": "Jinhsi",
+    "aliases": [
+      "今汐",
+      "금희"
+    ]
+  },
+  {
+    "name": "Yuanwu",
+    "aliases": [
+      "渊武",
+      "淵武",
+      "연무"
+    ]
+  },
+  {
+    "name": "Yinlin",
+    "aliases": [
+      "吟霖",
+      "음림"
+    ]
+  },
+  {
+    "name": "Calcharo",
+    "aliases": [
+      "卡卡罗",
+      "卡卡羅",
+      "カカロ",
+      "카카루"
+    ]
+  },
+  {
+    "name": "Jingran",
+    "aliases": [
+      "景燃",
+      "경연"
+    ]
+  },
+  {
+    "name": "Denia",
+    "aliases": [
+      "达妮娅",
+      "達妮婭",
+      "ダーニャ",
+      "데니아"
+    ]
+  },
+  {
+    "name": "Aemeath",
+    "aliases": [
+      "爱弥斯",
+      "愛彌斯",
+      "エイメス",
+      "에이메스"
+    ]
+  },
+  {
+    "name": "Mornye",
+    "aliases": [
+      "莫宁",
+      "莫寧",
+      "モーニエ",
+      "모니에"
+    ]
+  },
+  {
+    "name": "Galbrena",
+    "aliases": [
+      "嘉贝莉娜",
+      "嘉貝莉娜",
+      "ガルブレーナ",
+      "갈브레나"
+    ]
+  },
+  {
+    "name": "Lupa",
+    "aliases": [
+      "露帕",
+      "ルパ",
+      "루파"
+    ]
+  },
+  {
+    "name": "Brant",
+    "aliases": [
+      "布兰特",
+      "布蘭特",
+      "ブラント",
+      "브렌트"
+    ]
+  },
+  {
+    "name": "Changli",
+    "aliases": [
+      "长离",
+      "長離",
+      "장리"
+    ]
+  },
+  {
+    "name": "Mortefi",
+    "aliases": [
+      "莫特斐",
+      "モルトフィー",
+      "모르테피"
+    ]
+  },
+  {
+    "name": "Encore",
+    "aliases": [
+      "安可",
+      "アンコ",
+      "앙코"
+    ]
+  },
+  {
+    "name": "Chixia",
+    "aliases": [
+      "炽霞",
+      "熾霞",
+      "치샤"
+    ]
+  },
+  {
+    "name": "Suisui",
+    "aliases": [
+      "穗穗",
+      "穂穂",
+      "수수"
+    ]
+  },
+  {
+    "name": "Lucilla",
+    "aliases": [
+      "洛瑟菈",
+      "ルシラー",
+      "루실라"
+    ]
+  },
+  {
+    "name": "Hiyuki",
+    "aliases": [
+      "绯雪",
+      "緋雪",
+      "히유키"
+    ]
+  },
+  {
+    "name": "Carlotta",
+    "aliases": [
+      "珂莱塔",
+      "珂萊塔",
+      "カルロッタ",
+      "카를로타"
+    ]
+  },
+  {
+    "name": "Youhu",
+    "aliases": [
+      "釉瑚",
+      "유호"
+    ]
+  },
+  {
+    "name": "Zhezhi",
+    "aliases": [
+      "折枝",
+      "절지"
+    ]
+  },
+  {
+    "name": "Lingyang",
+    "aliases": [
+      "凌阳",
+      "凌陽",
+      "능양"
+    ]
+  },
+  {
+    "name": "Baizhi",
+    "aliases": [
+      "白芷",
+      "설지"
+    ]
+  },
+  {
+    "name": "Sanhua",
+    "aliases": [
+      "散华",
+      "散華",
+      "산화"
+    ]
+  }
+]

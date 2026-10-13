@@ -1,8 +1,8 @@
 # kkafio-gacha-index
 
 - `config/games.json` – gacha names, most popular first (drives ordering in the merged index).
-- `config/commits.json` – last scraped SchaleDB commit (Blue Archive is skipped when unchanged).
-- `scrapers/` – one scraper per gacha (Arknights, Blue Archive). Register new ones in `main.go`.
+- `config/commits.json` – last scraped repo commit per game (Blue Archive, Azur Lane, Zenless Zone Zero and Wuthering Waves are skipped when their source repo is unchanged).
+- `scrapers/` – one scraper per gacha (Arknights, Blue Archive, Azur Lane, Uma Musume, Zenless Zone Zero, Wuthering Waves). Register new ones in `main.go`.
 - `data/<Gacha>.json` – scraped characters, newest first.
 - `go run .` – run all scrapers locally (incremental: stops at the first already-known character). The wiki blocks GitHub's IPs, so run this on your own machine and commit the updated `data/*.json`.
 - `go run ./cmd/merge` – merge `data/*.json` into `dist/gacha_character_index.json` (KKAFIO format).
