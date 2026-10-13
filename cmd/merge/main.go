@@ -1,8 +1,9 @@
-// Command merge combines data/*.json into a single gacha_character_index.json using the
+// Command merge combines data/*.json into a single gacha_index.json using the
 // KKAFIO index format. Gachas earlier in config/games.json rank as more popular.
 package main
 
 import (
+	"bytes"
 	"encoding/json"
 	"flag"
 	"log"
@@ -96,8 +97,15 @@ func main() {
 	if err := os.MkdirAll(filepath.Dir(*out), 0o755); err != nil {
 		log.Fatal(err)
 	}
-	b, _ := json.MarshalIndent(idx, "", "  ")
-	if err := os.WriteFile(*out, append(b, '\n'), 0o644); err != nil {
+	// Don't escape &, < and > as \u0026 etc.
+	var buf bytes.Buffer
+	enc := json.NewEncoder(&buf)
+	enc.SetEscapeHTML(false)
+	enc.SetIndent("", "  ")
+	if err := enc.Encode(idx); err != nil {
+		log.Fatal(err)
+	}
+	if err := os.WriteFile(*out, buf.Bytes(), 0o644); err != nil {
 		log.Fatal(err)
 	}
 	log.Printf("wrote %s: %d series, %d characters", *out, len(idx.Series), len(idx.Chars))

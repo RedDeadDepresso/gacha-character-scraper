@@ -2,6 +2,7 @@
 package scrapers
 
 import (
+	"bytes"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -48,11 +49,24 @@ func SaveData(dir, name string, chars []Character) error {
 	if err := os.MkdirAll(dir, 0o755); err != nil {
 		return err
 	}
-	b, err := json.MarshalIndent(chars, "", "  ")
+	b, err := marshalJSON(chars)
 	if err != nil {
 		return err
 	}
-	return os.WriteFile(filepath.Join(dir, name+".json"), append(b, '\n'), 0o644)
+	return os.WriteFile(filepath.Join(dir, name+".json"), b, 0o644)
+}
+
+// marshalJSON indents like json.MarshalIndent but does not escape &, < and >
+// as \u0026, \u003c and \u003e.
+func marshalJSON(v any) ([]byte, error) {
+	var buf bytes.Buffer
+	enc := json.NewEncoder(&buf)
+	enc.SetEscapeHTML(false)
+	enc.SetIndent("", "  ")
+	if err := enc.Encode(v); err != nil { // Encode ends with a newline
+		return nil, err
+	}
+	return buf.Bytes(), nil
 }
 
 // userAgent mimics Firefox.
@@ -114,11 +128,11 @@ func SaveCommit(name, sha string) error {
 	if err := os.MkdirAll(ConfigDir, 0o755); err != nil {
 		return err
 	}
-	b, err := json.MarshalIndent(m, "", "  ")
+	b, err := marshalJSON(m)
 	if err != nil {
 		return err
 	}
-	return os.WriteFile(path, append(b, '\n'), 0o644)
+	return os.WriteFile(path, b, 0o644)
 }
 
 // LatestCommit returns the SHA of the newest commit on a GitHub branch.
