@@ -1,4 +1,4 @@
-// Command merge combines data/*.json into a single gacha_index.json using the
+// Command merge combines data/*.json into a single gacha_character_index.json.json using the
 // KKAFIO index format. Gachas earlier in config/games.json rank as more popular.
 package main
 

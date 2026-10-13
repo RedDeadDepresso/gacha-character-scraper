@@ -4,7 +4,13 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["config/games.json", "data/**", "cmd/**", ".github/workflows/build-index.yml"]
+    paths:
+      [
+        "config/games.json",
+        "data/**",
+        "cmd/**",
+        ".github/workflows/build-index.yml",
+      ]
 
 permissions:
   contents: read
@@ -30,8 +36,8 @@ jobs:
       - name: Resolve dependencies
         run: go mod tidy
 
-      - name: Merge data into gacha_index.json
-        run: go run ./cmd/merge -out dist/gacha_index.json
+      - name: Merge data into gacha_character_index.json.json
+        run: go run ./cmd/merge -out dist/gacha_character_index.json.json
 
       # Unique name per attempt so "Re-run jobs" doesn't leave two artifacts
       # called github-pages in the same run (deploy-pages fails on that).
