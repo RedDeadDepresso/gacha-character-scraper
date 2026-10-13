@@ -70,7 +70,14 @@ func (u UmaMusume) Scrape(_ []Character) ([]Character, error) {
 	for _, e := range best {
 		list = append(list, e)
 	}
-	sort.Slice(list, func(i, j int) bool { return list[i].id > list[j].id }) // newest first
+	sort.Slice(list, func(i, j int) bool {
+		if list[i].id != list[j].id {
+			return list[i].id > list[j].id // newest first
+		}
+		// Same id (e.g. entries without a game_id): sort by name so the order
+		// is stable between runs (the map above iterates in random order).
+		return strings.ToLower(list[i].name) < strings.ToLower(list[j].name)
+	})
 
 	chars := make([]Character, 0, len(list))
 	for _, e := range list {
