@@ -10,4 +10,4 @@
 
 The merge step folds alter versions (`X the Y`, `X (Y)` or `X • Y`, where `X` exists in the same series) into the base character `X`, adding the alter's name and aliases to `X`'s aliases.
 
-`data/Gakuen Idolmaster.json` is maintained by hand (no scraper, since new characters are rare). Keep it newest-first like the scraped files.
+`data/Gakuen Idolmaster.json` and `data/Project Sekai.json` are maintained by hand (no scraper, since new characters are rare). Keep it newest-first like the scraped files.
