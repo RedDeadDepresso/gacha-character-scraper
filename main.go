@@ -29,6 +29,7 @@ var registry = []scrapers.Scraper{
 	scrapers.HonkaiStarRail{},
 	scrapers.NevernessToEverness{},
 	scrapers.Nikke{},
+	scrapers.FateGrandOrder{},
 }
 
 func main() {
