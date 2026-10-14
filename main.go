@@ -30,6 +30,7 @@ var registry = []scrapers.Scraper{
 	scrapers.NevernessToEverness{},
 	scrapers.Nikke{},
 	scrapers.FateGrandOrder{},
+	scrapers.GenshinImpact{},
 }
 
 func main() {

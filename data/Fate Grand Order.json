@@ -1,0 +1,3149 @@
+[
+  {
+    "name": "Kingprotea Alter",
+    "aliases": [
+      "キングプロテア・オルタ"
+    ]
+  },
+  {
+    "name": "Azrael the Pale",
+    "aliases": [
+      "蒼きアズライール"
+    ]
+  },
+  {
+    "name": "Sidra Azrael",
+    "aliases": [
+      "シドラ・アズライール"
+    ]
+  },
+  {
+    "name": "Azrael",
+    "aliases": [
+      "アズライール"
+    ]
+  },
+  {
+    "name": "Hassan-i Sabbah",
+    "aliases": [
+      "ハサン・サッバーハ"
+    ]
+  },
+  {
+    "name": "Gray Lily",
+    "aliases": [
+      "グレイ・リリィ"
+    ]
+  },
+  {
+    "name": "Ascalaphus-Acheron",
+    "aliases": [
+      "アスカラポス＝アケローン"
+    ]
+  },
+  {
+    "name": "Ascalaphus",
+    "aliases": [
+      "アスカラポス"
+    ]
+  },
+  {
+    "name": "Urðr",
+    "aliases": [
+      "ウルズ"
+    ]
+  },
+  {
+    "name": "John Lackland",
+    "aliases": [
+      "ジョン・ラックランド"
+    ]
+  },
+  {
+    "name": "Hippolyta",
+    "aliases": [
+      "ヒッポリュテ"
+    ]
+  },
+  {
+    "name": "François Prélati",
+    "aliases": [
+      "フランソワ・プレラーティ",
+      "フランソワ",
+      "François"
+    ]
+  },
+  {
+    "name": "Demeter Erinyes",
+    "aliases": [
+      "デメテル・エリニュス",
+      "デメテル",
+      "Demeter"
+    ]
+  },
+  {
+    "name": "Flora",
+    "aliases": [
+      "フローラ"
+    ]
+  },
+  {
+    "name": "Hebi Nyōbō",
+    "aliases": [
+      "蛇女房"
+    ]
+  },
+  {
+    "name": "Hanasaka-no-Okina",
+    "aliases": [
+      "花咲翁"
+    ]
+  },
+  {
+    "name": "Lord Logres",
+    "aliases": [
+      "ロード・ログレス"
+    ]
+  },
+  {
+    "name": "Maris Chaldeas",
+    "aliases": [
+      "マリス・カルデアス"
+    ]
+  },
+  {
+    "name": "Elisabeth of the End",
+    "aliases": [
+      "終わりのエリザベート"
+    ]
+  },
+  {
+    "name": "Kondo Isami",
+    "aliases": [
+      "近藤勇"
+    ]
+  },
+  {
+    "name": "Harada Sanosuke",
+    "aliases": [
+      "原田左之助"
+    ]
+  },
+  {
+    "name": "Tōdō Heisuke",
+    "aliases": [
+      "藤堂平助"
+    ]
+  },
+  {
+    "name": "Kawakami Gensai",
+    "aliases": [
+      "河上彦斎"
+    ]
+  },
+  {
+    "name": "Nemo/Noah",
+    "aliases": [
+      "ネモ／ノア"
+    ]
+  },
+  {
+    "name": "Jeunesse Crane",
+    "aliases": [
+      "ジュネス・クレーン"
+    ]
+  },
+  {
+    "name": "Miyu Sakatsuki",
+    "aliases": [
+      "朔月美遊"
+    ]
+  },
+  {
+    "name": "Jade Rabbit Kaguya",
+    "aliases": [
+      "玉兎輝夜",
+      "玉兎",
+      "Jade Rabbit"
+    ]
+  },
+  {
+    "name": "Olga Marie Animusphere",
+    "aliases": [
+      "オルガマリー・アニムスフィア"
+    ]
+  },
+  {
+    "name": "U-Olga Marie",
+    "aliases": [
+      "Ｕ－オルガマリー"
+    ]
+  },
+  {
+    "name": "E-Stellar Marie",
+    "aliases": [
+      "Ｅ－ステラマリー"
+    ]
+  },
+  {
+    "name": "Indra",
+    "aliases": [
+      "インドラ"
+    ]
+  },
+  {
+    "name": "Typhon Ephemeros",
+    "aliases": [
+      "テュフォン・エフェメロス"
+    ]
+  },
+  {
+    "name": "Lilith",
+    "aliases": [
+      "リリス"
+    ]
+  },
+  {
+    "name": "King Ashoka",
+    "aliases": [
+      "アショカ王"
+    ]
+  },
+  {
+    "name": "Metatron Jeanne",
+    "aliases": [
+      "メタトロン・ジャンヌ"
+    ]
+  },
+  {
+    "name": "Dante Alighieri",
+    "aliases": [
+      "ダンテ・アリギエーリ"
+    ]
+  },
+  {
+    "name": "E-Grand Marie",
+    "aliases": [
+      "Ｅ－グランマリー"
+    ]
+  },
+  {
+    "name": "Ono-no-Komachi",
+    "aliases": [
+      "小野小町"
+    ]
+  },
+  {
+    "name": "Kurohime",
+    "aliases": [
+      "黒姫"
+    ]
+  },
+  {
+    "name": "Biscione (Ouroboros Shift)",
+    "aliases": [
+      "ビショーネ〔ウロボロスシフト〕"
+    ]
+  },
+  {
+    "name": "Biscione",
+    "aliases": [
+      "ビショーネ"
+    ]
+  },
+  {
+    "name": "Lionheart",
+    "aliases": [
+      "獅子心王"
+    ]
+  },
+  {
+    "name": "Richard the Lionheart",
+    "aliases": [
+      "獅子心王リチャード"
+    ]
+  },
+  {
+    "name": "Richard I",
+    "aliases": [
+      "リチャードⅠ世"
+    ]
+  },
+  {
+    "name": "Santa's Moon",
+    "aliases": [
+      "サンタズムーン"
+    ]
+  },
+  {
+    "name": "S Phantasmoon",
+    "aliases": [
+      "Ｓ・ファンタズムーン"
+    ]
+  },
+  {
+    "name": "Space Phantasmoon V",
+    "aliases": [
+      "スペース・ファンタズムーンＶ"
+    ]
+  },
+  {
+    "name": "Phantasmoon",
+    "aliases": [
+      "ファンタズムーン"
+    ]
+  },
+  {
+    "name": "Abigail Williams (Santa)",
+    "aliases": [
+      "アビゲイル・ウィリアムズ〔サンタ〕"
+    ]
+  },
+  {
+    "name": "Louhi",
+    "aliases": [
+      "ロウヒ"
+    ]
+  },
+  {
+    "name": "Van Gogh (Miner)",
+    "aliases": [
+      "ヴァン・ゴッホ〔マイナー〕"
+    ]
+  },
+  {
+    "name": "Tutankhamun",
+    "aliases": [
+      "ツタンカーメン"
+    ]
+  },
+  {
+    "name": "Muryan",
+    "aliases": [
+      "ムリアン"
+    ]
+  },
+  {
+    "name": "Kazuradrop",
+    "aliases": [
+      "カズラドロップ"
+    ]
+  },
+  {
+    "name": "Kishinami Hakuno",
+    "aliases": [
+      "岸波白野"
+    ]
+  },
+  {
+    "name": "Heroine XX (Alter)",
+    "aliases": [
+      "ヒロインXX・オルタ"
+    ]
+  },
+  {
+    "name": "Mysterious Heroine XX (Alter)",
+    "aliases": [
+      "謎のヒロインXX〔オルタ〕"
+    ]
+  },
+  {
+    "name": "Golden BB",
+    "aliases": [
+      "ゴールデンＢＢ"
+    ]
+  },
+  {
+    "name": "BB Cosmos",
+    "aliases": [
+      "ＢＢコスモ"
+    ]
+  },
+  {
+    "name": "BB Dubai",
+    "aliases": [
+      "ＢＢドバイ"
+    ]
+  },
+  {
+    "name": "Star Ciel",
+    "aliases": [
+      "スターシエル"
+    ]
+  },
+  {
+    "name": "Ciel",
+    "aliases": [
+      "シエル"
+    ]
+  },
+  {
+    "name": "Teach Me! Miss Ciel",
+    "aliases": [
+      "教えて！シエル先生"
+    ]
+  },
+  {
+    "name": "C.I.E.L",
+    "aliases": []
+  },
+  {
+    "name": "Mysterious Executor C.I.E.L",
+    "aliases": [
+      "謎の代行者C.I.E.L"
+    ]
+  },
+  {
+    "name": "Space Ereshkigal",
+    "aliases": [
+      "スペース・エレシュキガル"
+    ]
+  },
+  {
+    "name": "Anki Ereshkigal",
+    "aliases": [
+      "アンキ・エレシュキガル"
+    ]
+  },
+  {
+    "name": "Sirius",
+    "aliases": [
+      "シリウス"
+    ]
+  },
+  {
+    "name": "Azumi-no-Isora",
+    "aliases": [
+      "阿曇磯良"
+    ]
+  },
+  {
+    "name": "Hibiki & Chikagi",
+    "aliases": [
+      "ひびき＆千鍵"
+    ]
+  },
+  {
+    "name": "Kuonji Alice",
+    "aliases": [
+      "久遠寺有珠"
+    ]
+  },
+  {
+    "name": "Shizuki Soujuurou",
+    "aliases": [
+      "静希草十郎"
+    ]
+  },
+  {
+    "name": "Aozaki Aoko",
+    "aliases": [
+      "蒼崎青子"
+    ]
+  },
+  {
+    "name": "E-Aqua Marie",
+    "aliases": [
+      "Ｅ－アクアマリー"
+    ]
+  },
+  {
+    "name": "E-Flare Marie",
+    "aliases": [
+      "Ｅ－フレアマリー"
+    ]
+  },
+  {
+    "name": "Count Cagliostro",
+    "aliases": [
+      "カリオストロ伯爵"
+    ]
+  },
+  {
+    "name": "Alessandro di Cagliostro",
+    "aliases": [
+      "アレッサンドロ・ディ・カリオストロ"
+    ]
+  },
+  {
+    "name": "The Count of Monte Cristo",
+    "aliases": [
+      "巌窟王　モンテ・クリスト",
+      "巌窟王モンテ・クリスト"
+    ]
+  },
+  {
+    "name": "Hassan of the Shining Star",
+    "aliases": [
+      "耀星のハサン"
+    ]
+  },
+  {
+    "name": "Marie Antoinette Alter",
+    "aliases": [
+      "マリー・アントワネット・オルタ"
+    ]
+  },
+  {
+    "name": "Marie Antoinette (Alter)",
+    "aliases": [
+      "マリー・アントワネット〔オルタ〕"
+    ]
+  },
+  {
+    "name": "Andromeda",
+    "aliases": [
+      "アンドロメダ"
+    ]
+  },
+  {
+    "name": "Miyamoto Iori",
+    "aliases": [
+      "宮本伊織"
+    ]
+  },
+  {
+    "name": "Yui Shousetsu",
+    "aliases": [
+      "由井正雪"
+    ]
+  },
+  {
+    "name": "Ushi Gozen",
+    "aliases": [
+      "丑御前"
+    ]
+  },
+  {
+    "name": "Minamoto-no-Raikou/Ushi Gozen",
+    "aliases": [
+      "源頼光／丑御前"
+    ]
+  },
+  {
+    "name": "Yamato Takeru",
+    "aliases": [
+      "ヤマトタケル"
+    ]
+  },
+  {
+    "name": "Nemo Santa",
+    "aliases": [
+      "ネモサンタ"
+    ]
+  },
+  {
+    "name": "Nemo (Santa)",
+    "aliases": [
+      "ネモ〔サンタ〕"
+    ]
+  },
+  {
+    "name": "Uesugi Kenshin",
+    "aliases": [
+      "上杉謙信"
+    ]
+  },
+  {
+    "name": "Saika Magoichi",
+    "aliases": [
+      "雑賀孫一"
+    ]
+  },
+  {
+    "name": "Nagakura Shinpachi",
+    "aliases": [
+      "永倉新八"
+    ]
+  },
+  {
+    "name": "Takeda Shingen",
+    "aliases": [
+      "武田信玄"
+    ]
+  },
+  {
+    "name": "Takeda Harunobu",
+    "aliases": [
+      "武田晴信"
+    ]
+  },
+  {
+    "name": "Theseus",
+    "aliases": [
+      "テセウス"
+    ]
+  },
+  {
+    "name": "Sugitani Zenjubou",
+    "aliases": [
+      "杉谷善住坊"
+    ]
+  },
+  {
+    "name": "Ptolemaîos",
+    "aliases": [
+      "プトレマイオス"
+    ]
+  },
+  {
+    "name": "Wandjina",
+    "aliases": [
+      "ワンジナ"
+    ]
+  },
+  {
+    "name": "Cait Cú Cerpriestess",
+    "aliases": [
+      "ケット・クー・ミコケル"
+    ]
+  },
+  {
+    "name": "Tam Lin Barghest",
+    "aliases": [
+      "妖精騎士バーゲスト"
+    ]
+  },
+  {
+    "name": "UDK-Barghest",
+    "aliases": [
+      "ＵＤＫ－バーゲスト"
+    ]
+  },
+  {
+    "name": "Mélusine Undine",
+    "aliases": [
+      "メリュジーヌ・オンディーヌ"
+    ]
+  },
+  {
+    "name": "Cnoc na Riabh Yaraan-doo",
+    "aliases": [
+      "ノクナレア・ヤラアーンドゥ"
+    ]
+  },
+  {
+    "name": "Suzuka Gozen (Summer Vacation)",
+    "aliases": [
+      "鈴鹿御前〔サマバケ〕"
+    ]
+  },
+  {
+    "name": "Beach Queen Morgan",
+    "aliases": [
+      "水妃モルガン"
+    ]
+  },
+  {
+    "name": "Aesc the Savior",
+    "aliases": [
+      "救世主トネリコ"
+    ]
+  },
+  {
+    "name": "Aesc the Rain Witch",
+    "aliases": [
+      "雨の魔女トネリコ"
+    ]
+  },
+  {
+    "name": "Kali",
+    "aliases": [
+      "カーリー"
+    ]
+  },
+  {
+    "name": "Durga",
+    "aliases": [
+      "ドゥルガー"
+    ]
+  },
+  {
+    "name": "Duryodhana",
+    "aliases": [
+      "ドゥリーヨダナ"
+    ]
+  },
+  {
+    "name": "Bhima",
+    "aliases": [
+      "ビーマ"
+    ]
+  },
+  {
+    "name": "Kashin Koji",
+    "aliases": [
+      "果心居士"
+    ]
+  },
+  {
+    "name": "Setanta",
+    "aliases": [
+      "セタンタ"
+    ]
+  },
+  {
+    "name": "Locusta",
+    "aliases": [
+      "ロクスタ"
+    ]
+  },
+  {
+    "name": "Draco",
+    "aliases": [
+      "ドラコー"
+    ]
+  },
+  {
+    "name": "Sodom's Beast/Draco",
+    "aliases": [
+      "ソドムズビースト／ドラコー"
+    ]
+  },
+  {
+    "name": "Larva/Tiamat",
+    "aliases": [
+      "ラーヴァ／ティアマト"
+    ]
+  },
+  {
+    "name": "Takasugi Shinsaku",
+    "aliases": [
+      "高杉晋作"
+    ]
+  },
+  {
+    "name": "Johanna",
+    "aliases": [
+      "ヨハンナ"
+    ]
+  },
+  {
+    "name": "Pope Johanna",
+    "aliases": [
+      "女教皇ヨハンナ"
+    ]
+  },
+  {
+    "name": "Kukulcan",
+    "aliases": [
+      "ククルカン"
+    ]
+  },
+  {
+    "name": "Huitzilopochtli",
+    "aliases": [
+      "ウィツィロポチトリ"
+    ]
+  },
+  {
+    "name": "Tlaloc",
+    "aliases": [
+      "トラロック"
+    ]
+  },
+  {
+    "name": "Tenochtitlan",
+    "aliases": [
+      "テノチティトラン"
+    ]
+  },
+  {
+    "name": "Tezcatlipoca",
+    "aliases": [
+      "テスカトリポカ"
+    ]
+  },
+  {
+    "name": "Nitocris Alter",
+    "aliases": [
+      "ニトクリス・オルタ"
+    ]
+  },
+  {
+    "name": "Nitocris (Alter)",
+    "aliases": [
+      "ニトクリス〔オルタ〕"
+    ]
+  },
+  {
+    "name": "Father Kotomine",
+    "aliases": [
+      "言峰神父"
+    ]
+  },
+  {
+    "name": "Rasputin",
+    "aliases": [
+      "ラスプーチン"
+    ]
+  },
+  {
+    "name": "Grigori Rasputin",
+    "aliases": [
+      "グレゴリー・ラスプーチン"
+    ]
+  },
+  {
+    "name": "Kotomine Kirei",
+    "aliases": [
+      "言峰綺礼"
+    ]
+  },
+  {
+    "name": "Britomart",
+    "aliases": [
+      "ブリトマート"
+    ]
+  },
+  {
+    "name": "Nine-Tattoo Dragon Elisa",
+    "aliases": [
+      "九紋竜エリザ"
+    ]
+  },
+  {
+    "name": "Huang Feihu",
+    "aliases": [
+      "黄飛虎"
+    ]
+  },
+  {
+    "name": "Huyan Zhuo",
+    "aliases": [
+      "呼延灼"
+    ]
+  },
+  {
+    "name": "Iyo",
+    "aliases": [
+      "壱与"
+    ]
+  },
+  {
+    "name": "Yamanami Keisuke",
+    "aliases": [
+      "山南敬助"
+    ]
+  },
+  {
+    "name": "Komahime",
+    "aliases": [
+      "駒姫"
+    ]
+  },
+  {
+    "name": "Sen-no-Rikyu",
+    "aliases": [
+      "千利休"
+    ]
+  },
+  {
+    "name": "Ers",
+    "aliases": [
+      "イルス"
+    ]
+  },
+  {
+    "name": "Ortlinde",
+    "aliases": [
+      "オルトリンデ"
+    ]
+  },
+  {
+    "name": "Örun",
+    "aliases": [
+      "エルン"
+    ]
+  },
+  {
+    "name": "Hildr",
+    "aliases": [
+      "ヒルド"
+    ]
+  },
+  {
+    "name": "Rindr",
+    "aliases": [
+      "リンド"
+    ]
+  },
+  {
+    "name": "Thrúd",
+    "aliases": [
+      "スルーズ"
+    ]
+  },
+  {
+    "name": "Lady Avalon",
+    "aliases": [
+      "レディ・アヴァロン"
+    ]
+  },
+  {
+    "name": "Xu Fu",
+    "aliases": [
+      "徐福"
+    ]
+  },
+  {
+    "name": "Arcueid Brunestud",
+    "aliases": [
+      "アルクェイド・ブリュンスタッド"
+    ]
+  },
+  {
+    "name": "Archetype: Earth",
+    "aliases": [
+      "アーキタイプ：アース"
+    ]
+  },
+  {
+    "name": "Minamoto-no-Tametomo",
+    "aliases": [
+      "源為朝"
+    ]
+  },
+  {
+    "name": "Kyokutei Bakin",
+    "aliases": [
+      "曲亭馬琴"
+    ]
+  },
+  {
+    "name": "Zhang Jue",
+    "aliases": [
+      "張角"
+    ]
+  },
+  {
+    "name": "Don Quixote",
+    "aliases": [
+      "ドン・キホーテ"
+    ]
+  },
+  {
+    "name": "Kriemhild",
+    "aliases": [
+      "クリームヒルト"
+    ]
+  },
+  {
+    "name": "Roland",
+    "aliases": [
+      "ローラン"
+    ]
+  },
+  {
+    "name": "Charlemagne",
+    "aliases": [
+      "シャルルマーニュ"
+    ]
+  },
+  {
+    "name": "Kōnstantînos XI",
+    "aliases": [
+      "コンスタンティノス11世"
+    ]
+  },
+  {
+    "name": "Mary Anning",
+    "aliases": [
+      "メアリー・アニング"
+    ]
+  },
+  {
+    "name": "Daikokuten",
+    "aliases": [
+      "大黒天"
+    ]
+  },
+  {
+    "name": "Super Bunyan",
+    "aliases": [
+      "スーパーバニヤン"
+    ]
+  },
+  {
+    "name": "Taisui Xingjun",
+    "aliases": [
+      "太歳星君"
+    ]
+  },
+  {
+    "name": "Hai Bà Trưng",
+    "aliases": [
+      "徴姉妹"
+    ]
+  },
+  {
+    "name": "Manannán mac Lir",
+    "aliases": [
+      "マナナン・マク・リール"
+    ]
+  },
+  {
+    "name": "Bazett",
+    "aliases": [
+      "バゼット"
+    ]
+  },
+  {
+    "name": "Manannán mac Lir (Bazett)",
+    "aliases": [
+      "マナナン・マク・リール〔バゼット〕"
+    ]
+  },
+  {
+    "name": "Hephaistíon",
+    "aliases": [
+      "ヘファイスティオン"
+    ]
+  },
+  {
+    "name": "Koyanskaya of Dark",
+    "aliases": [
+      "闇のコヤンスカヤ"
+    ]
+  },
+  {
+    "name": "Beast IV",
+    "aliases": [
+      "ビーストⅣ"
+    ]
+  },
+  {
+    "name": "Nikitich",
+    "aliases": [
+      "ニキチッチ"
+    ]
+  },
+  {
+    "name": "Dobrynya Nikitich",
+    "aliases": [
+      "ドブルイニャ・ニキチッチ"
+    ]
+  },
+  {
+    "name": "Taigong Wang",
+    "aliases": [
+      "太公望"
+    ]
+  },
+  {
+    "name": "Martha Santa",
+    "aliases": [
+      "マルタ・サンタ"
+    ]
+  },
+  {
+    "name": "Martha (Santa)",
+    "aliases": [
+      "マルタ〔サンタ〕"
+    ]
+  },
+  {
+    "name": "Ranmaru X",
+    "aliases": [
+      "蘭丸X"
+    ]
+  },
+  {
+    "name": "Mysterious Ranmaru X",
+    "aliases": [
+      "謎の蘭丸X"
+    ]
+  },
+  {
+    "name": "Izumo-no-Okuni",
+    "aliases": [
+      "出雲阿国"
+    ]
+  },
+  {
+    "name": "Elisabeth Báthory (Cinderella)",
+    "aliases": [
+      "エリザベート・バートリー〔シンデレラ〕"
+    ]
+  },
+  {
+    "name": "Zenobia",
+    "aliases": [
+      "ゼノビア"
+    ]
+  },
+  {
+    "name": "Jacques de Molay",
+    "aliases": [
+      "ジャック・ド・モレー"
+    ]
+  },
+  {
+    "name": "Anastasia & Viy",
+    "aliases": [
+      "アナスタシア＆ヴィイ"
+    ]
+  },
+  {
+    "name": "Majin Saber",
+    "aliases": [
+      "魔セイバー"
+    ]
+  },
+  {
+    "name": "Oberon",
+    "aliases": [
+      "オベロン"
+    ]
+  },
+  {
+    "name": "Habetrot",
+    "aliases": [
+      "ハベトロット"
+    ]
+  },
+  {
+    "name": "Koyanskaya of Light",
+    "aliases": [
+      "光のコヤンスカヤ"
+    ]
+  },
+  {
+    "name": "Percival",
+    "aliases": [
+      "パーシヴァル"
+    ]
+  },
+  {
+    "name": "Tam Lin Lancelot",
+    "aliases": [
+      "妖精騎士ランスロット"
+    ]
+  },
+  {
+    "name": "Mélusine",
+    "aliases": [
+      "メリュジーヌ"
+    ]
+  },
+  {
+    "name": "Tam Lin Tristan",
+    "aliases": [
+      "妖精騎士トリスタン"
+    ]
+  },
+  {
+    "name": "Baobhan Sith",
+    "aliases": [
+      "バーヴァン・シー"
+    ]
+  },
+  {
+    "name": "Tam Lin Gawain",
+    "aliases": [
+      "妖精騎士ガウェイン"
+    ]
+  },
+  {
+    "name": "Barghest",
+    "aliases": [
+      "バーゲスト"
+    ]
+  },
+  {
+    "name": "Morgan",
+    "aliases": [
+      "モルガン"
+    ]
+  },
+  {
+    "name": "Idol X Alter",
+    "aliases": [
+      "アイドルXオルタ"
+    ]
+  },
+  {
+    "name": "Mysterious Idol X (Alter)",
+    "aliases": [
+      "謎のアイドルX〔オルタ〕"
+    ]
+  },
+  {
+    "name": "Miss Crane",
+    "aliases": [
+      "ミス・クレーン"
+    ]
+  },
+  {
+    "name": "Galatea",
+    "aliases": [
+      "ガラテア"
+    ]
+  },
+  {
+    "name": "Devil Caren",
+    "aliases": [
+      "デビルカレン"
+    ]
+  },
+  {
+    "name": "God Caren",
+    "aliases": [
+      "ゴッドカレン"
+    ]
+  },
+  {
+    "name": "Caren",
+    "aliases": [
+      "カレン"
+    ]
+  },
+  {
+    "name": "Amor",
+    "aliases": [
+      "アムール"
+    ]
+  },
+  {
+    "name": "Amor (Caren)",
+    "aliases": [
+      "アムール〔カレン〕"
+    ]
+  },
+  {
+    "name": "Kiichi Hogen",
+    "aliases": [
+      "鬼一法眼"
+    ]
+  },
+  {
+    "name": "Taira-no-Kagekiyo",
+    "aliases": [
+      "平景清"
+    ]
+  },
+  {
+    "name": "Senji Muramasa",
+    "aliases": [
+      "千子村正"
+    ]
+  },
+  {
+    "name": "Santa Karna",
+    "aliases": [
+      "サンタカルナ"
+    ]
+  },
+  {
+    "name": "Karna (Santa)",
+    "aliases": [
+      "カルナ〔サンタ〕"
+    ]
+  },
+  {
+    "name": "Vritra",
+    "aliases": [
+      "ヴリトラ"
+    ]
+  },
+  {
+    "name": "Ibuki-Douji",
+    "aliases": [
+      "伊吹童子"
+    ]
+  },
+  {
+    "name": "Watanabe-no-Tsuna",
+    "aliases": [
+      "渡辺綱"
+    ]
+  },
+  {
+    "name": "Ashiya Douman",
+    "aliases": [
+      "蘆屋道満"
+    ]
+  },
+  {
+    "name": "Nemo",
+    "aliases": [
+      "ネモ"
+    ]
+  },
+  {
+    "name": "Gogh",
+    "aliases": [
+      "ゴッホ"
+    ]
+  },
+  {
+    "name": "Van Gogh",
+    "aliases": [
+      "ヴァン・ゴッホ"
+    ]
+  },
+  {
+    "name": "Oda Nobukatsu",
+    "aliases": [
+      "織田信勝"
+    ]
+  },
+  {
+    "name": "Saito Hajime",
+    "aliases": [
+      "斎藤一"
+    ]
+  },
+  {
+    "name": "Himiko",
+    "aliases": [
+      "卑弥呼"
+    ]
+  },
+  {
+    "name": "Abigail Williams (Summer)",
+    "aliases": [
+      "アビゲイル・ウィリアムズ〔夏〕"
+    ]
+  },
+  {
+    "name": "Altria Caster",
+    "aliases": [
+      "アルトリア・キャスター"
+    ]
+  },
+  {
+    "name": "Utsumi Erice",
+    "aliases": [
+      "宇津見エリセ"
+    ]
+  },
+  {
+    "name": "Kijyo Koyo",
+    "aliases": [
+      "鬼女紅葉"
+    ]
+  },
+  {
+    "name": "Voyager",
+    "aliases": [
+      "ボイジャー"
+    ]
+  },
+  {
+    "name": "Romulus=Quirinus",
+    "aliases": [
+      "ロムルス＝クィリヌス"
+    ]
+  },
+  {
+    "name": "Caenis",
+    "aliases": [
+      "カイニス"
+    ]
+  },
+  {
+    "name": "Dioscuri",
+    "aliases": [
+      "ディオスクロイ"
+    ]
+  },
+  {
+    "name": "Odysseus",
+    "aliases": [
+      "オデュッセウス"
+    ]
+  },
+  {
+    "name": "Sei Shounagon",
+    "aliases": [
+      "清少納言"
+    ]
+  },
+  {
+    "name": "Yang Guifei",
+    "aliases": [
+      "楊貴妃"
+    ]
+  },
+  {
+    "name": "Europa",
+    "aliases": [
+      "エウロペ"
+    ]
+  },
+  {
+    "name": "Mandricardo",
+    "aliases": [
+      "マンドリカルド"
+    ]
+  },
+  {
+    "name": "Super Orion",
+    "aliases": [
+      "超人オリオン"
+    ]
+  },
+  {
+    "name": "Florence Nightingale Santa",
+    "aliases": [
+      "ナイチンゲール・サンタ"
+    ]
+  },
+  {
+    "name": "Florence Nightingale (Santa)",
+    "aliases": [
+      "ナイチンゲール〔サンタ〕"
+    ]
+  },
+  {
+    "name": "Calamity Jane",
+    "aliases": [
+      "カラミティ・ジェーン"
+    ]
+  },
+  {
+    "name": "Ashtart Origin",
+    "aliases": [
+      "アシュタレト・オリジン"
+    ]
+  },
+  {
+    "name": "Ishtar Ashtart",
+    "aliases": [
+      "イシュタル・アシュタレト"
+    ]
+  },
+  {
+    "name": "Ashtart",
+    "aliases": [
+      "アシュタレト"
+    ]
+  },
+  {
+    "name": "S. Ishtar",
+    "aliases": [
+      "Sイシュタル"
+    ]
+  },
+  {
+    "name": "Space Ishtar",
+    "aliases": [
+      "スペース・イシュタル"
+    ]
+  },
+  {
+    "name": "Okita J. Souji",
+    "aliases": [
+      "オキタ・Ｊ・ソウジ"
+    ]
+  },
+  {
+    "name": "Lambdaryllis",
+    "aliases": [
+      "ラムダリリス"
+    ]
+  },
+  {
+    "name": "Mysterious Alter Ego Λ",
+    "aliases": [
+      "謎のアルターエゴ・Λ"
+    ]
+  },
+  {
+    "name": "Salome",
+    "aliases": [
+      "サロメ"
+    ]
+  },
+  {
+    "name": "Charlotte Corday",
+    "aliases": [
+      "シャルロット・コルデー"
+    ]
+  },
+  {
+    "name": "Chen Gong",
+    "aliases": [
+      "陳宮"
+    ]
+  },
+  {
+    "name": "Bartholomew Roberts",
+    "aliases": [
+      "バーソロミュー・ロバーツ",
+      "バーソロミュー",
+      "Bartholomew"
+    ]
+  },
+  {
+    "name": "Gareth",
+    "aliases": [
+      "ガレス"
+    ]
+  },
+  {
+    "name": "Paris",
+    "aliases": [
+      "パリス"
+    ]
+  },
+  {
+    "name": "Jason",
+    "aliases": [
+      "イアソン"
+    ]
+  },
+  {
+    "name": "Nagao Kagetora",
+    "aliases": [
+      "長尾景虎"
+    ]
+  },
+  {
+    "name": "Mori Nagayoshi",
+    "aliases": [
+      "森長可"
+    ]
+  },
+  {
+    "name": "Oda Kippoushi",
+    "aliases": [
+      "織田吉法師"
+    ]
+  },
+  {
+    "name": "Demon King Nobunaga",
+    "aliases": [
+      "魔王信長"
+    ]
+  },
+  {
+    "name": "Asclepius",
+    "aliases": [
+      "アスクレピオス"
+    ]
+  },
+  {
+    "name": "Aśvatthāman",
+    "aliases": [
+      "アシュヴァッターマン"
+    ]
+  },
+  {
+    "name": "Arjuna (Alter)",
+    "aliases": [
+      "アルジュナ〔オルタ〕",
+      "アルジュナ・オルタ"
+    ]
+  },
+  {
+    "name": "William Tell",
+    "aliases": [
+      "ウィリアム・テル"
+    ]
+  },
+  {
+    "name": "Lakshmi Bai",
+    "aliases": [
+      "ラクシュミー・バーイー"
+    ]
+  },
+  {
+    "name": "Great Stone Statue God",
+    "aliases": [
+      "大いなる石像神"
+    ]
+  },
+  {
+    "name": "Ganesha",
+    "aliases": [
+      "ガネーシャ"
+    ]
+  },
+  {
+    "name": "Jinako Carigiri",
+    "aliases": [
+      "ジナコ＝カリギリ"
+    ]
+  },
+  {
+    "name": "Gray",
+    "aliases": [
+      "グレイ"
+    ]
+  },
+  {
+    "name": "Astraea",
+    "aliases": [
+      "アストライア"
+    ]
+  },
+  {
+    "name": "Sima Yi",
+    "aliases": [
+      "司馬懿"
+    ]
+  },
+  {
+    "name": "Sima Yi (Reines)",
+    "aliases": [
+      "司馬懿〔ライネス〕"
+    ]
+  },
+  {
+    "name": "Kama/Mara",
+    "aliases": [
+      "カーマ／マーラ"
+    ]
+  },
+  {
+    "name": "Beast III/L",
+    "aliases": [
+      "ビーストⅢ／L"
+    ]
+  },
+  {
+    "name": "Kama",
+    "aliases": [
+      "カーマ"
+    ]
+  },
+  {
+    "name": "Kingprotea",
+    "aliases": [
+      "キングプロテア"
+    ]
+  },
+  {
+    "name": "Murasaki Shikibu",
+    "aliases": [
+      "紫式部"
+    ]
+  },
+  {
+    "name": "Miyu Edelfelt",
+    "aliases": [
+      "美遊・エーデルフェルト",
+      "美遊",
+      "Miyu"
+    ]
+  },
+  {
+    "name": "Beni-Enma",
+    "aliases": [
+      "紅閻魔"
+    ]
+  },
+  {
+    "name": "Quetzalcoatl (Samba/Santa)",
+    "aliases": [
+      "ケツァル・コアトル〔サンバ／サンタ〕",
+      "ケツァル・コアトル・サンバ"
+    ]
+  },
+  {
+    "name": "Bradamante",
+    "aliases": [
+      "ブラダマンテ"
+    ]
+  },
+  {
+    "name": "Red Hare",
+    "aliases": [
+      "赤兎馬"
+    ]
+  },
+  {
+    "name": "Yu Mei-ren",
+    "aliases": [
+      "虞美人"
+    ]
+  },
+  {
+    "name": "Qin Shi Huang",
+    "aliases": [
+      "始皇帝"
+    ]
+  },
+  {
+    "name": "Qin Liangyu",
+    "aliases": [
+      "秦良玉"
+    ]
+  },
+  {
+    "name": "Prince of Lan Ling",
+    "aliases": [
+      "蘭陵王"
+    ]
+  },
+  {
+    "name": "Xiang Yu",
+    "aliases": [
+      "項羽"
+    ]
+  },
+  {
+    "name": "Sitonai",
+    "aliases": [
+      "シトナイ"
+    ]
+  },
+  {
+    "name": "Heroine XX",
+    "aliases": [
+      "ヒロインXX"
+    ]
+  },
+  {
+    "name": "Mysterious Heroine XX",
+    "aliases": [
+      "謎のヒロインXX"
+    ]
+  },
+  {
+    "name": "Scáthach-Skadi",
+    "aliases": [
+      "スカサハ＝スカディ"
+    ]
+  },
+  {
+    "name": "Valkyrie",
+    "aliases": [
+      "ワルキューレ"
+    ]
+  },
+  {
+    "name": "Sigurd",
+    "aliases": [
+      "シグルド"
+    ]
+  },
+  {
+    "name": "Napoleon",
+    "aliases": [
+      "ナポレオン"
+    ]
+  },
+  {
+    "name": "Sakamoto Ryouma",
+    "aliases": [
+      "坂本龍馬"
+    ]
+  },
+  {
+    "name": "Okada Izo",
+    "aliases": [
+      "岡田以蔵"
+    ]
+  },
+  {
+    "name": "Rengoku Alter",
+    "aliases": [
+      "煉獄オルタ"
+    ]
+  },
+  {
+    "name": "Majin Okita Souji",
+    "aliases": [
+      "魔・沖田総司"
+    ]
+  },
+  {
+    "name": "Okita Souji (Alter)",
+    "aliases": [
+      "沖田総司〔オルタ〕"
+    ]
+  },
+  {
+    "name": "Sieg",
+    "aliases": [
+      "ジーク"
+    ]
+  },
+  {
+    "name": "Chiron",
+    "aliases": [
+      "ケイローン"
+    ]
+  },
+  {
+    "name": "Achilles",
+    "aliases": [
+      "アキレウス"
+    ]
+  },
+  {
+    "name": "Ivan the Terrible",
+    "aliases": [
+      "イヴァン雷帝"
+    ]
+  },
+  {
+    "name": "Salieri",
+    "aliases": [
+      "サリエリ"
+    ]
+  },
+  {
+    "name": "Antonio Salieri",
+    "aliases": [
+      "アントニオ・サリエリ"
+    ]
+  },
+  {
+    "name": "Avicebron",
+    "aliases": [
+      "アヴィケブロン"
+    ]
+  },
+  {
+    "name": "Atalante Alter",
+    "aliases": [
+      "アタランテ・オルタ"
+    ]
+  },
+  {
+    "name": "Atalante (Alter)",
+    "aliases": [
+      "アタランテ〔オルタ〕"
+    ]
+  },
+  {
+    "name": "Anastasia",
+    "aliases": [
+      "アナスタシア"
+    ]
+  },
+  {
+    "name": "Asagami Fujino",
+    "aliases": [
+      "浅上藤乃"
+    ]
+  },
+  {
+    "name": "Semiramis",
+    "aliases": [
+      "セミラミス"
+    ]
+  },
+  {
+    "name": "Katsushika Hokusai",
+    "aliases": [
+      "葛飾北斎"
+    ]
+  },
+  {
+    "name": "Attila the San(ta)",
+    "aliases": [
+      "アルテラ・ザ・サン〔タ〕",
+      "アルテラ・サンタ"
+    ]
+  },
+  {
+    "name": "Ereshkigal",
+    "aliases": [
+      "エレシュキガル"
+    ]
+  },
+  {
+    "name": "Abigail Williams",
+    "aliases": [
+      "アビゲイル・ウィリアムズ",
+      "アビゲイル"
+    ]
+  },
+  {
+    "name": "Queen of Sheba",
+    "aliases": [
+      "シバの女王"
+    ]
+  },
+  {
+    "name": "Nezha",
+    "aliases": [
+      "哪吒"
+    ]
+  },
+  {
+    "name": "Circe",
+    "aliases": [
+      "キルケー"
+    ]
+  },
+  {
+    "name": "Mecha Eli-chan Mk.II",
+    "aliases": [
+      "メカエリチャンⅡ号機",
+      "メカエリチャン",
+      "Mecha Eli-chan"
+    ]
+  },
+  {
+    "name": "Osakabehime",
+    "aliases": [
+      "刑部姫"
+    ]
+  },
+  {
+    "name": "Katou \"Black Kite\" Danzo",
+    "aliases": [
+      "加藤段蔵"
+    ]
+  },
+  {
+    "name": "Yagyu Tajima-no-kami Munenori",
+    "aliases": [
+      "柳生但馬守宗矩",
+      "柳生但馬守",
+      "Yagyu Tajima-no-kami"
+    ]
+  },
+  {
+    "name": "Houzouin Inshun",
+    "aliases": [
+      "宝蔵院胤舜"
+    ]
+  },
+  {
+    "name": "Mochizuki Chiyome",
+    "aliases": [
+      "望月千代女"
+    ]
+  },
+  {
+    "name": "Tomoe Gozen",
+    "aliases": [
+      "巴御前"
+    ]
+  },
+  {
+    "name": "Pārvatī",
+    "aliases": [
+      "パールヴァティー"
+    ]
+  },
+  {
+    "name": "Maid Alter",
+    "aliases": [
+      "メイド・オルタ"
+    ]
+  },
+  {
+    "name": "Bunyan",
+    "aliases": [
+      "バニヤン"
+    ]
+  },
+  {
+    "name": "Paul Bunyan",
+    "aliases": [
+      "ポール・バニヤン"
+    ]
+  },
+  {
+    "name": "Sherlock Holmes",
+    "aliases": [
+      "シャーロック・ホームズ"
+    ]
+  },
+  {
+    "name": "Columbus",
+    "aliases": [
+      "コロンブス"
+    ]
+  },
+  {
+    "name": "Christopher Columbus",
+    "aliases": [
+      "クリストファー・コロンブス"
+    ]
+  },
+  {
+    "name": "Penthesilea",
+    "aliases": [
+      "ペンテシレイア"
+    ]
+  },
+  {
+    "name": "Wu Zetian",
+    "aliases": [
+      "武則天"
+    ]
+  },
+  {
+    "name": "Scheherazade",
+    "aliases": [
+      "シェヘラザード"
+    ]
+  },
+  {
+    "name": "Heaven's Hole",
+    "aliases": [
+      "ヘブンズホール"
+    ]
+  },
+  {
+    "name": "Beast III/R",
+    "aliases": [
+      "ビーストⅢ／Ｒ"
+    ]
+  },
+  {
+    "name": "Sessyoin Kiara",
+    "aliases": [
+      "殺生院キアラ"
+    ]
+  },
+  {
+    "name": "BB",
+    "aliases": [
+      "ＢＢ"
+    ]
+  },
+  {
+    "name": "Suzuka Gozen",
+    "aliases": [
+      "鈴鹿御前"
+    ]
+  },
+  {
+    "name": "Passionlip",
+    "aliases": [
+      "パッションリップ"
+    ]
+  },
+  {
+    "name": "Meltryllis",
+    "aliases": [
+      "メルトリリス"
+    ]
+  },
+  {
+    "name": "Chacha",
+    "aliases": [
+      "茶々"
+    ]
+  },
+  {
+    "name": "Hijikata Toshizo",
+    "aliases": [
+      "土方歳三"
+    ]
+  },
+  {
+    "name": "Arthur Pendragon (Prototype)",
+    "aliases": [
+      "アーサー・ペンドラゴン〔プロトタイプ〕",
+      "アーサー",
+      "Arthur"
+    ]
+  },
+  {
+    "name": "Yan Qing",
+    "aliases": [
+      "燕青"
+    ]
+  },
+  {
+    "name": "Hessian Lobo",
+    "aliases": [
+      "ヘシアン・ロボ"
+    ]
+  },
+  {
+    "name": "Emiya Alter",
+    "aliases": [
+      "エミヤオルタ"
+    ]
+  },
+  {
+    "name": "Emiya (Alter)",
+    "aliases": [
+      "エミヤ〔オルタ〕"
+    ]
+  },
+  {
+    "name": "Moriarty",
+    "aliases": [
+      "モリアーティ"
+    ]
+  },
+  {
+    "name": "James Moriarty",
+    "aliases": [
+      "ジェームズ・モリアーティ"
+    ]
+  },
+  {
+    "name": "Heroine X Alter",
+    "aliases": [
+      "ヒロインXオルタ"
+    ]
+  },
+  {
+    "name": "Mysterious Heroine X (Alter)",
+    "aliases": [
+      "謎のヒロインX〔オルタ〕"
+    ]
+  },
+  {
+    "name": "\"First Hassan\"",
+    "aliases": [
+      "“山の翁”"
+    ]
+  },
+  {
+    "name": "Miyamoto Musashi",
+    "aliases": [
+      "宮本武蔵"
+    ]
+  },
+  {
+    "name": "Demon King Goetia",
+    "aliases": [
+      "魔神王ゲーティア"
+    ]
+  },
+  {
+    "name": "Goetia",
+    "aliases": [
+      "ゲーティア"
+    ]
+  },
+  {
+    "name": "Merlin",
+    "aliases": [
+      "マーリン"
+    ]
+  },
+  {
+    "name": "Tiamat",
+    "aliases": [
+      "ティアマト"
+    ]
+  },
+  {
+    "name": "Jaguar Warrior",
+    "aliases": [
+      "ジャガーマン"
+    ]
+  },
+  {
+    "name": "Gorgon",
+    "aliases": [
+      "ゴルゴーン"
+    ]
+  },
+  {
+    "name": "Quetzalcoatl",
+    "aliases": [
+      "ケツァル・コアトル"
+    ]
+  },
+  {
+    "name": "Enkidu",
+    "aliases": [
+      "エルキドゥ"
+    ]
+  },
+  {
+    "name": "Ishtar",
+    "aliases": [
+      "イシュタル"
+    ]
+  },
+  {
+    "name": "Jeanne Alter Santa Lily",
+    "aliases": [
+      "ジャンヌオルタサンタリリィ"
+    ]
+  },
+  {
+    "name": "Jeanne d'Arc Alter Santa Lily",
+    "aliases": [
+      "ジャンヌ・ダルク・オルタ・サンタ・リリィ"
+    ]
+  },
+  {
+    "name": "Vlad III (EXTRA)",
+    "aliases": [
+      "ヴラド三世〔EXTRA〕"
+    ]
+  },
+  {
+    "name": "Cleopatra",
+    "aliases": [
+      "クレオパトラ"
+    ]
+  },
+  {
+    "name": "Elisabeth Báthory (Brave)",
+    "aliases": [
+      "エリザベート・バートリー〔ブレイブ〕"
+    ]
+  },
+  {
+    "name": "Chloe von Einzbern",
+    "aliases": [
+      "クロエ・フォン・アインツベルン",
+      "クロエ",
+      "Chloe"
+    ]
+  },
+  {
+    "name": "Illya",
+    "aliases": [
+      "イリヤ"
+    ]
+  },
+  {
+    "name": "Illyasviel von Einzbern",
+    "aliases": [
+      "イリヤスフィール・フォン・アインツベルン"
+    ]
+  },
+  {
+    "name": "Anne Bonny",
+    "aliases": [
+      "アン・ボニー"
+    ]
+  },
+  {
+    "name": "Tamamo Summer",
+    "aliases": [
+      "タマモちゃんサマー"
+    ]
+  },
+  {
+    "name": "Da Vinci",
+    "aliases": [
+      "ダ・ヴィンチ"
+    ]
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "aliases": [
+      "レオナルド・ダ・ヴィンチ"
+    ]
+  },
+  {
+    "name": "Bedivere",
+    "aliases": [
+      "ベディヴィエール"
+    ]
+  },
+  {
+    "name": "Tawara Touta",
+    "aliases": [
+      "俵藤太"
+    ]
+  },
+  {
+    "name": "Hassan of the Serenity",
+    "aliases": [
+      "静謐のハサン"
+    ]
+  },
+  {
+    "name": "Gawain",
+    "aliases": [
+      "ガウェイン"
+    ]
+  },
+  {
+    "name": "Tristan",
+    "aliases": [
+      "トリスタン"
+    ]
+  },
+  {
+    "name": "Nitocris",
+    "aliases": [
+      "ニトクリス"
+    ]
+  },
+  {
+    "name": "Ozymandias",
+    "aliases": [
+      "オジマンディアス"
+    ]
+  },
+  {
+    "name": "Fuuma \"Evil-wind\" Kotarou",
+    "aliases": [
+      "風魔小太郎"
+    ]
+  },
+  {
+    "name": "Ibaraki-Douji",
+    "aliases": [
+      "茨木童子"
+    ]
+  },
+  {
+    "name": "Minamoto-no-Raikou",
+    "aliases": [
+      "源頼光"
+    ]
+  },
+  {
+    "name": "Xuanzang Sanzang",
+    "aliases": [
+      "玄奘三蔵"
+    ]
+  },
+  {
+    "name": "Shuten-Douji",
+    "aliases": [
+      "酒呑童子"
+    ]
+  },
+  {
+    "name": "Iri",
+    "aliases": [
+      "アイリ"
+    ]
+  },
+  {
+    "name": "Irisviel (Holy Grail)",
+    "aliases": [
+      "アイリスフィール〔天の衣〕"
+    ]
+  },
+  {
+    "name": "Hassan of the Hundred Personas",
+    "aliases": [
+      "百貌のハサン"
+    ]
+  },
+  {
+    "name": "Emiya (Assassin)",
+    "aliases": [
+      "エミヤ〔アサシン〕"
+    ]
+  },
+  {
+    "name": "Iskandar",
+    "aliases": [
+      "イスカンダル"
+    ]
+  },
+  {
+    "name": "Aŋra Mainiiu",
+    "aliases": [
+      "アンリマユ"
+    ]
+  },
+  {
+    "name": "Jeanne Alter",
+    "aliases": [
+      "ジャンヌ・オルタ"
+    ]
+  },
+  {
+    "name": "Jeanne d'Arc (Alter)",
+    "aliases": [
+      "ジャンヌ・ダルク〔オルタ〕"
+    ]
+  },
+  {
+    "name": "Billy the Kid",
+    "aliases": [
+      "ビリー・ザ・キッド",
+      "ビリー",
+      "Billy"
+    ]
+  },
+  {
+    "name": "Geronimo",
+    "aliases": [
+      "ジェロニモ"
+    ]
+  },
+  {
+    "name": "Thomas Edison",
+    "aliases": [
+      "トーマス・エジソン"
+    ]
+  },
+  {
+    "name": "Li Shuwen",
+    "aliases": [
+      "李書文"
+    ]
+  },
+  {
+    "name": "Rama",
+    "aliases": [
+      "ラーマ"
+    ]
+  },
+  {
+    "name": "Blavatsky",
+    "aliases": [
+      "ブラヴァツキー"
+    ]
+  },
+  {
+    "name": "Helena Blavatsky",
+    "aliases": [
+      "エレナ・ブラヴァツキー"
+    ]
+  },
+  {
+    "name": "Medb",
+    "aliases": [
+      "メイヴ"
+    ]
+  },
+  {
+    "name": "Queen Medb",
+    "aliases": [
+      "女王メイヴ"
+    ]
+  },
+  {
+    "name": "Cú Chulainn Alter",
+    "aliases": [
+      "クー・フーリン・オルタ"
+    ]
+  },
+  {
+    "name": "Cú Chulainn (Alter)",
+    "aliases": [
+      "クー・フーリン〔オルタ〕"
+    ]
+  },
+  {
+    "name": "Florence Nightingale",
+    "aliases": [
+      "ナイチンゲール"
+    ]
+  },
+  {
+    "name": "Edmond Dantès",
+    "aliases": [
+      "巌窟王"
+    ]
+  },
+  {
+    "name": "Gilgamesh (Child)",
+    "aliases": [
+      "子ギル"
+    ]
+  },
+  {
+    "name": "Astolfo",
+    "aliases": [
+      "アストルフォ"
+    ]
+  },
+  {
+    "name": "Amakusa Shirou",
+    "aliases": [
+      "天草四郎"
+    ]
+  },
+  {
+    "name": "Ryougi Shiki",
+    "aliases": [
+      "両儀式"
+    ]
+  },
+  {
+    "name": "Nero Bride",
+    "aliases": [
+      "ネロ・ブライド"
+    ]
+  },
+  {
+    "name": "Nero Claudius (Bride)",
+    "aliases": [
+      "ネロ・クラウディウス〔ブライド〕"
+    ]
+  },
+  {
+    "name": "Beowulf",
+    "aliases": [
+      "ベオウルフ"
+    ]
+  },
+  {
+    "name": "Brynhild",
+    "aliases": [
+      "ブリュンヒルデ"
+    ]
+  },
+  {
+    "name": "Fionn mac Cumhaill",
+    "aliases": [
+      "フィン・マックール",
+      "フィン",
+      "Fionn"
+    ]
+  },
+  {
+    "name": "Heroine X",
+    "aliases": [
+      "ヒロインX"
+    ]
+  },
+  {
+    "name": "Mysterious Heroine X",
+    "aliases": [
+      "謎のヒロインX"
+    ]
+  },
+  {
+    "name": "Karna",
+    "aliases": [
+      "カルナ"
+    ]
+  },
+  {
+    "name": "Arjuna",
+    "aliases": [
+      "アルジュナ"
+    ]
+  },
+  {
+    "name": "King Solomon",
+    "aliases": [
+      "ソロモン王"
+    ]
+  },
+  {
+    "name": "Solomon",
+    "aliases": [
+      "ソロモン"
+    ]
+  },
+  {
+    "name": "Fran",
+    "aliases": [
+      "フラン"
+    ]
+  },
+  {
+    "name": "Frankenstein",
+    "aliases": [
+      "フランケンシュタイン"
+    ]
+  },
+  {
+    "name": "Jekyll",
+    "aliases": [
+      "ジキル"
+    ]
+  },
+  {
+    "name": "Henry Jekyll & Hyde",
+    "aliases": [
+      "ヘンリー・ジキル＆ハイド"
+    ]
+  },
+  {
+    "name": "Babbage",
+    "aliases": [
+      "バベッジ"
+    ]
+  },
+  {
+    "name": "Charles Babbage",
+    "aliases": [
+      "チャールズ・バベッジ"
+    ]
+  },
+  {
+    "name": "Paracelsus",
+    "aliases": [
+      "パラケルスス"
+    ]
+  },
+  {
+    "name": "Paracelsus von Hohenheim",
+    "aliases": [
+      "ヴァン・ホーエンハイム・パラケルスス"
+    ]
+  },
+  {
+    "name": "Nikola Tesla",
+    "aliases": [
+      "ニコラ・テスラ"
+    ]
+  },
+  {
+    "name": "Mordred",
+    "aliases": [
+      "モードレッド"
+    ]
+  },
+  {
+    "name": "Jack the Ripper",
+    "aliases": [
+      "ジャック・ザ・リッパー",
+      "ジャック",
+      "Jack"
+    ]
+  },
+  {
+    "name": "Nursery Rhyme",
+    "aliases": [
+      "ナーサリー・ライム"
+    ]
+  },
+  {
+    "name": "Santa Alter",
+    "aliases": [
+      "サンタオルタ"
+    ]
+  },
+  {
+    "name": "Altria Pendragon (Santa Alter)",
+    "aliases": [
+      "アルトリア・ペンドラゴン〔サンタオルタ〕"
+    ]
+  },
+  {
+    "name": "Fergus mac Róich",
+    "aliases": [
+      "フェルグス・マック・ロイ",
+      "フェルグス",
+      "Fergus"
+    ]
+  },
+  {
+    "name": "Diarmuid Ua Duibhne",
+    "aliases": [
+      "ディルムッド・オディナ",
+      "ディルムッド",
+      "Diarmuid"
+    ]
+  },
+  {
+    "name": "Scáthach",
+    "aliases": [
+      "スカサハ"
+    ]
+  },
+  {
+    "name": "Oda Nobunaga",
+    "aliases": [
+      "織田信長"
+    ]
+  },
+  {
+    "name": "Okita Souji",
+    "aliases": [
+      "沖田総司"
+    ]
+  },
+  {
+    "name": "Medea Lily",
+    "aliases": [
+      "メディア・リリィ"
+    ]
+  },
+  {
+    "name": "Medea (Lily)",
+    "aliases": [
+      "メディア〔リリィ〕"
+    ]
+  },
+  {
+    "name": "Mary",
+    "aliases": [
+      "アン＆メアリー"
+    ]
+  },
+  {
+    "name": "Anne Bonny & Mary Read",
+    "aliases": [
+      "アン・ボニー＆メアリー・リード"
+    ]
+  },
+  {
+    "name": "Drake",
+    "aliases": [
+      "ドレイク"
+    ]
+  },
+  {
+    "name": "Francis Drake",
+    "aliases": [
+      "フランシス・ドレイク"
+    ]
+  },
+  {
+    "name": "Hektor",
+    "aliases": [
+      "ヘクトール"
+    ]
+  },
+  {
+    "name": "David",
+    "aliases": [
+      "ダビデ"
+    ]
+  },
+  {
+    "name": "Tamamo-no-Mae",
+    "aliases": [
+      "玉藻の前"
+    ]
+  },
+  {
+    "name": "Elisabeth Báthory (Halloween)",
+    "aliases": [
+      "エリザベート・バートリー〔ハロウィン〕"
+    ]
+  },
+  {
+    "name": "Orion",
+    "aliases": [
+      "オリオン"
+    ]
+  },
+  {
+    "name": "Jeanne d'Arc",
+    "aliases": [
+      "ジャンヌ・ダルク",
+      "ジャンヌ",
+      "Jeanne"
+    ]
+  },
+  {
+    "name": "Tamamo Cat",
+    "aliases": [
+      "タマモキャット"
+    ]
+  },
+  {
+    "name": "Eric Bloodaxe",
+    "aliases": [
+      "エイリーク・ブラッドアクス",
+      "エイリーク",
+      "Eric"
+    ]
+  },
+  {
+    "name": "Kiyohime",
+    "aliases": [
+      "清姫"
+    ]
+  },
+  {
+    "name": "Darius III",
+    "aliases": [
+      "ダレイオス三世"
+    ]
+  },
+  {
+    "name": "Caligula",
+    "aliases": [
+      "カリギュラ"
+    ]
+  },
+  {
+    "name": "Asterios",
+    "aliases": [
+      "アステリオス"
+    ]
+  },
+  {
+    "name": "Vlad III",
+    "aliases": [
+      "ヴラド三世"
+    ]
+  },
+  {
+    "name": "Sakata Kintoki",
+    "aliases": [
+      "坂田金時"
+    ]
+  },
+  {
+    "name": "Spartacus",
+    "aliases": [
+      "スパルタクス"
+    ]
+  },
+  {
+    "name": "Lu Bu Fengxian",
+    "aliases": [
+      "呂布奉先",
+      "呂布",
+      "Lu Bu"
+    ]
+  },
+  {
+    "name": "Lancelot",
+    "aliases": [
+      "ランスロット"
+    ]
+  },
+  {
+    "name": "Heracles",
+    "aliases": [
+      "ヘラクレス"
+    ]
+  },
+  {
+    "name": "Carmilla",
+    "aliases": [
+      "カーミラ"
+    ]
+  },
+  {
+    "name": "Mata Hari",
+    "aliases": [
+      "マタ・ハリ"
+    ]
+  },
+  {
+    "name": "Phantom of the Opera",
+    "aliases": [
+      "ファントム・オブ・ジ・オペラ",
+      "ファントム",
+      "Phantom"
+    ]
+  },
+  {
+    "name": "Sanson",
+    "aliases": [
+      "サンソン"
+    ]
+  },
+  {
+    "name": "Charles-Henri Sanson",
+    "aliases": [
+      "シャルル＝アンリ・サンソン"
+    ]
+  },
+  {
+    "name": "Jing Ke",
+    "aliases": [
+      "荊軻"
+    ]
+  },
+  {
+    "name": "Stheno",
+    "aliases": [
+      "ステンノ"
+    ]
+  },
+  {
+    "name": "Cursed Arm",
+    "aliases": [
+      "ハサン"
+    ]
+  },
+  {
+    "name": "Hassan of the Cursed Arm",
+    "aliases": [
+      "呪腕のハサン"
+    ]
+  },
+  {
+    "name": "Kojirou",
+    "aliases": [
+      "小次郎"
+    ]
+  },
+  {
+    "name": "Sasaki Kojirou",
+    "aliases": [
+      "佐々木小次郎"
+    ]
+  },
+  {
+    "name": "Zhuge Liang",
+    "aliases": [
+      "諸葛孔明"
+    ]
+  },
+  {
+    "name": "Zhuge Liang (Lord El-Melloi II)",
+    "aliases": [
+      "諸葛孔明〔エルメロイⅡ世〕"
+    ]
+  },
+  {
+    "name": "Amadeus",
+    "aliases": [
+      "アマデウス"
+    ]
+  },
+  {
+    "name": "Wolfgang Amadeus Mozart",
+    "aliases": [
+      "ヴォルフガング・アマデウス・モーツァルト"
+    ]
+  },
+  {
+    "name": "Mephistopheles",
+    "aliases": [
+      "メフィストフェレス"
+    ]
+  },
+  {
+    "name": "Shakespeare",
+    "aliases": [
+      "シェイクスピア"
+    ]
+  },
+  {
+    "name": "William Shakespeare",
+    "aliases": [
+      "ウィリアム・シェイクスピア"
+    ]
+  },
+  {
+    "name": "Andersen",
+    "aliases": [
+      "アンデルセン"
+    ]
+  },
+  {
+    "name": "Hans Christian Andersen",
+    "aliases": [
+      "ハンス・クリスチャン・アンデルセン"
+    ]
+  },
+  {
+    "name": "Medea",
+    "aliases": [
+      "メディア"
+    ]
+  },
+  {
+    "name": "Martha",
+    "aliases": [
+      "マルタ"
+    ]
+  },
+  {
+    "name": "Marie Antoinette",
+    "aliases": [
+      "マリー・アントワネット"
+    ]
+  },
+  {
+    "name": "Alexander",
+    "aliases": [
+      "アレキサンダー"
+    ]
+  },
+  {
+    "name": "Ushiwakamaru",
+    "aliases": [
+      "牛若丸"
+    ]
+  },
+  {
+    "name": "Boudica",
+    "aliases": [
+      "ブーディカ"
+    ]
+  },
+  {
+    "name": "Teach",
+    "aliases": [
+      "ティーチ"
+    ]
+  },
+  {
+    "name": "Edward Teach",
+    "aliases": [
+      "エドワード・ティーチ"
+    ]
+  },
+  {
+    "name": "Georgios",
+    "aliases": [
+      "ゲオルギウス"
+    ]
+  },
+  {
+    "name": "Medusa",
+    "aliases": [
+      "メドゥーサ"
+    ]
+  },
+  {
+    "name": "Romulus",
+    "aliases": [
+      "ロムルス"
+    ]
+  },
+  {
+    "name": "Leonidas I",
+    "aliases": [
+      "レオニダス一世",
+      "レオニダス",
+      "Leonidas"
+    ]
+  },
+  {
+    "name": "Cú Chulainn (Prototype)",
+    "aliases": [
+      "クー・フーリン〔プロトタイプ〕"
+    ]
+  },
+  {
+    "name": "Benkei",
+    "aliases": [
+      "弁慶"
+    ]
+  },
+  {
+    "name": "Musashibou Benkei",
+    "aliases": [
+      "武蔵坊弁慶"
+    ]
+  },
+  {
+    "name": "Elisabeth Báthory",
+    "aliases": [
+      "エリザベート・バートリー",
+      "エリザベート",
+      "Elisabeth"
+    ]
+  },
+  {
+    "name": "Cú Chulainn",
+    "aliases": [
+      "クー・フーリン"
+    ]
+  },
+  {
+    "name": "Arash",
+    "aliases": [
+      "アーラシュ"
+    ]
+  },
+  {
+    "name": "Euryale",
+    "aliases": [
+      "エウリュアレ"
+    ]
+  },
+  {
+    "name": "Atalante",
+    "aliases": [
+      "アタランテ"
+    ]
+  },
+  {
+    "name": "Robin Hood",
+    "aliases": [
+      "ロビンフッド"
+    ]
+  },
+  {
+    "name": "Gilgamesh",
+    "aliases": [
+      "ギルガメッシュ"
+    ]
+  },
+  {
+    "name": "Emiya",
+    "aliases": [
+      "エミヤ"
+    ]
+  },
+  {
+    "name": "d'Eon",
+    "aliases": [
+      "デオン"
+    ]
+  },
+  {
+    "name": "Chevalier d'Eon",
+    "aliases": [
+      "シュヴァリエ・デオン"
+    ]
+  },
+  {
+    "name": "Gilles de Rais",
+    "aliases": [
+      "ジル・ド・レェ",
+      "ジル",
+      "Gilles"
+    ]
+  },
+  {
+    "name": "Altera",
+    "aliases": [
+      "アルテラ"
+    ]
+  },
+  {
+    "name": "Caesar",
+    "aliases": [
+      "カエサル"
+    ]
+  },
+  {
+    "name": "Gaius Julius Caesar",
+    "aliases": [
+      "ガイウス・ユリウス・カエサル"
+    ]
+  },
+  {
+    "name": "Siegfried",
+    "aliases": [
+      "ジークフリート"
+    ]
+  },
+  {
+    "name": "Nero Claudius",
+    "aliases": [
+      "ネロ・クラウディウス",
+      "ネロ",
+      "Nero"
+    ]
+  },
+  {
+    "name": "Saber Lily",
+    "aliases": [
+      "セイバー・リリィ"
+    ]
+  },
+  {
+    "name": "Altria Pendragon (Lily)",
+    "aliases": [
+      "アルトリア・ペンドラゴン〔リリィ〕"
+    ]
+  },
+  {
+    "name": "Saber Alter",
+    "aliases": [
+      "セイバーオルタ"
+    ]
+  },
+  {
+    "name": "Altria Pendragon (Alter)",
+    "aliases": [
+      "アルトリア・ペンドラゴン〔オルタ〕"
+    ]
+  },
+  {
+    "name": "Altria Pendragon",
+    "aliases": [
+      "アルトリア・ペンドラゴン",
+      "アルトリア",
+      "Altria"
+    ]
+  },
+  {
+    "name": "Mash Kyrielight",
+    "aliases": [
+      "マシュ・キリエライト",
+      "マシュ",
+      "Mash"
+    ]
+  }
+]
