@@ -1,0 +1,2395 @@
+[
+  {
+    "name": "Katherine",
+    "aliases": [
+      "カレン",
+      "카렌",
+      "華蓮"
+    ]
+  },
+  {
+    "name": "Petey",
+    "aliases": [
+      "チュウスケ",
+      "추이",
+      "丘助"
+    ]
+  },
+  {
+    "name": "Eve",
+    "aliases": [
+      "イブ",
+      "이븐",
+      "伊芙"
+    ]
+  },
+  {
+    "name": "Poké Kid",
+    "aliases": [
+      "ポケモンごっこ",
+      "포켓몬놀이",
+      "寶可夢小朋友"
+    ]
+  },
+  {
+    "name": "Kali",
+    "aliases": [
+      "キリカ",
+      "안향",
+      "桐華"
+    ]
+  },
+  {
+    "name": "Helena",
+    "aliases": [
+      "サヨコ",
+      "소야",
+      "紗幽子"
+    ]
+  },
+  {
+    "name": "Naomi",
+    "aliases": [
+      "ナナセ",
+      "새나",
+      "奈奈彩"
+    ]
+  },
+  {
+    "name": "Team Rocket Grunt",
+    "aliases": [
+      "ロケットだんの　したっぱ",
+      "로켓단의 조무래기",
+      "火箭隊手下"
+    ]
+  },
+  {
+    "name": "Team Magma Grunt",
+    "aliases": [
+      "マグマだんの　したっぱ",
+      "마그마단의 조무래기",
+      "熔岩隊手下"
+    ]
+  },
+  {
+    "name": "Pokémon Breeder",
+    "aliases": [
+      "ポケモンブリーダー",
+      "포켓몬 브리더",
+      "寶可夢培育家"
+    ]
+  },
+  {
+    "name": "Veteran",
+    "aliases": [
+      "ベテラントレーナー",
+      "베테랑 트레이너",
+      "資深訓練家"
+    ]
+  },
+  {
+    "name": "Team Flare Grunt",
+    "aliases": [
+      "フレアだんの　したっぱ",
+      "플레어단의 조무래기",
+      "閃焰隊手下"
+    ]
+  },
+  {
+    "name": "Furisode Girl",
+    "aliases": [
+      "ふりそで",
+      "기모노드레스",
+      "長袖和服少女"
+    ]
+  },
+  {
+    "name": "Team Plasma Grunt",
+    "aliases": [
+      "プラズマだんの　したっぱ",
+      "플라스마단의 조무래기",
+      "等離子隊手下"
+    ]
+  },
+  {
+    "name": "Team Skull Grunt",
+    "aliases": [
+      "スカルだんの　したっぱ",
+      "스컬단의 조무래기",
+      "骷髏隊手下"
+    ]
+  },
+  {
+    "name": "Gentleman",
+    "aliases": [
+      "ジェントルマン",
+      "신사",
+      "紳士"
+    ]
+  },
+  {
+    "name": "Team Galactic Grunt",
+    "aliases": [
+      "ギンガだんの　したっぱ",
+      "갤럭시단의 조무래기",
+      "銀河隊手下"
+    ]
+  },
+  {
+    "name": "Sightseer",
+    "aliases": [
+      "かんこうきゃく",
+      "관광객",
+      "觀光客"
+    ]
+  },
+  {
+    "name": "Lady",
+    "aliases": [
+      "おじょうさま",
+      "아기씨",
+      "千金小姐"
+    ]
+  },
+  {
+    "name": "Hex Maniac",
+    "aliases": [
+      "オカルトマニア",
+      "오컬트마니아",
+      "靈異迷"
+    ]
+  },
+  {
+    "name": "Aether Foundation",
+    "aliases": [
+      "エーテルざいだん",
+      "에테르재단",
+      "以太基金會"
+    ]
+  },
+  {
+    "name": "Team Aqua Grunt",
+    "aliases": [
+      "アクアだんの　したっぱ",
+      "아쿠아단의 조무래기",
+      "海洋隊手下"
+    ]
+  },
+  {
+    "name": "Urbain",
+    "aliases": [
+      "ガイ",
+      "가이",
+      "蓋伊"
+    ]
+  },
+  {
+    "name": "Harmony",
+    "aliases": [
+      "セイカ",
+      "새아",
+      "生彩"
+    ]
+  },
+  {
+    "name": "Teddy",
+    "aliases": [
+      "マサヒト",
+      "정환",
+      "勇仁"
+    ]
+  },
+  {
+    "name": "Linnea",
+    "aliases": [
+      "アサミ",
+      "조미",
+      "亞莎美"
+    ]
+  },
+  {
+    "name": "Drayton",
+    "aliases": [
+      "カキツバタ",
+      "제빈",
+      "杜若"
+    ]
+  },
+  {
+    "name": "Clive",
+    "aliases": [
+      "ネルケ",
+      "네르케",
+      "聶凱"
+    ]
+  },
+  {
+    "name": "Kieran",
+    "aliases": [
+      "スグリ",
+      "카지",
+      "烏栗"
+    ]
+  },
+  {
+    "name": "Carmine",
+    "aliases": [
+      "ゼイユ",
+      "시유",
+      "丹瑜"
+    ]
+  },
+  {
+    "name": "Lacey",
+    "aliases": [
+      "タロ",
+      "타로",
+      "紫竽"
+    ]
+  },
+  {
+    "name": "Blossom",
+    "aliases": [
+      "シオネ",
+      "시오네",
+      "汐音"
+    ]
+  },
+  {
+    "name": "Raifort",
+    "aliases": [
+      "レホール",
+      "레포르",
+      "蕾荷"
+    ]
+  },
+  {
+    "name": "Perrin",
+    "aliases": [
+      "サザレ",
+      "세류",
+      "沙儷"
+    ]
+  },
+  {
+    "name": "Brassius",
+    "aliases": [
+      "コルサ",
+      "콜사",
+      "寇沙"
+    ]
+  },
+  {
+    "name": "Miriam",
+    "aliases": [
+      "ミモザ",
+      "미모사",
+      "米莫莎"
+    ]
+  },
+  {
+    "name": "Hassel",
+    "aliases": [
+      "ハッサク",
+      "팔자크",
+      "八朔"
+    ]
+  },
+  {
+    "name": "Katy",
+    "aliases": [
+      "カエデ",
+      "단풍",
+      "阿楓"
+    ]
+  },
+  {
+    "name": "Eri",
+    "aliases": [
+      "ビワ",
+      "비파",
+      "枇琶"
+    ]
+  },
+  {
+    "name": "Ortega",
+    "aliases": [
+      "オルティガ",
+      "오르티가",
+      "奧爾迪加"
+    ]
+  },
+  {
+    "name": "Atticus",
+    "aliases": [
+      "シュウメイ",
+      "추명",
+      "秋明"
+    ]
+  },
+  {
+    "name": "Giacomo",
+    "aliases": [
+      "ピーニャ",
+      "피나",
+      "皮拿"
+    ]
+  },
+  {
+    "name": "Mela",
+    "aliases": [
+      "メロコ",
+      "멜로코",
+      "梅洛可"
+    ]
+  },
+  {
+    "name": "Clavell",
+    "aliases": [
+      "クラベル",
+      "클라벨",
+      "克拉韋爾"
+    ]
+  },
+  {
+    "name": "Arven",
+    "aliases": [
+      "ペパー",
+      "페퍼",
+      "派帕"
+    ]
+  },
+  {
+    "name": "Sabi",
+    "aliases": [
+      "ワサビ",
+      "사비",
+      "山葵"
+    ]
+  },
+  {
+    "name": "Arezu",
+    "aliases": [
+      "ヒナツ",
+      "성화",
+      "火夏"
+    ]
+  },
+  {
+    "name": "Mai",
+    "aliases": [
+      "ヨネ",
+      "미도",
+      "阿米"
+    ]
+  },
+  {
+    "name": "Larry",
+    "aliases": [
+      "アオキ",
+      "청목",
+      "青木"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "aliases": [
+      "ポピー",
+      "뽀삐",
+      "波琵"
+    ]
+  },
+  {
+    "name": "Rika",
+    "aliases": [
+      "チリ",
+      "칠리",
+      "辛俐"
+    ]
+  },
+  {
+    "name": "Brycen-Man",
+    "aliases": [
+      "ハチクマン",
+      "담죽맨",
+      "哈奇酷俠"
+    ]
+  },
+  {
+    "name": "Bellelba",
+    "aliases": [
+      "ジュジュベ",
+      "주즈베",
+      "麗棗"
+    ]
+  },
+  {
+    "name": "Jacq",
+    "aliases": [
+      "ジニア",
+      "지니어",
+      "吉尼亞"
+    ]
+  },
+  {
+    "name": "Volo",
+    "aliases": [
+      "ウォロ",
+      "월로",
+      "望羅"
+    ]
+  },
+  {
+    "name": "Iono",
+    "aliases": [
+      "ナンジャモ",
+      "모야모",
+      "奇樹"
+    ]
+  },
+  {
+    "name": "Geeta",
+    "aliases": [
+      "オモダカ",
+      "테사",
+      "也慈"
+    ]
+  },
+  {
+    "name": "Grusha",
+    "aliases": [
+      "グルーシャ",
+      "그루샤",
+      "古魯夏"
+    ]
+  },
+  {
+    "name": "Penny",
+    "aliases": [
+      "ボタン",
+      "모란",
+      "牡丹"
+    ]
+  },
+  {
+    "name": "Akari",
+    "aliases": [
+      "ショウ",
+      "윤슬",
+      "小照"
+    ]
+  },
+  {
+    "name": "Rei",
+    "aliases": [
+      "テル",
+      "영빈",
+      "明耀"
+    ]
+  },
+  {
+    "name": "Nemona",
+    "aliases": [
+      "ネモ",
+      "네모",
+      "妮莫"
+    ]
+  },
+  {
+    "name": "Juliana",
+    "aliases": [
+      "アオイ",
+      "푸름",
+      "小青"
+    ]
+  },
+  {
+    "name": "Florian",
+    "aliases": [
+      "ハルト",
+      "보민",
+      "小春"
+    ]
+  },
+  {
+    "name": "Irida",
+    "aliases": [
+      "カイ",
+      "주혜",
+      "珠貝"
+    ]
+  },
+  {
+    "name": "Adaman",
+    "aliases": [
+      "セキ",
+      "찬석",
+      "剛石"
+    ]
+  },
+  {
+    "name": "Ball Guy",
+    "aliases": [
+      "ボールガイ",
+      "볼가이",
+      "阿球"
+    ]
+  },
+  {
+    "name": "Team Yell Grunt",
+    "aliases": [
+      "エールだんの　したっぱ",
+      "옐단의 조무래기",
+      "吶喊隊手下"
+    ]
+  },
+  {
+    "name": "Chase",
+    "aliases": [
+      "カケル",
+      "태주",
+      "小驅"
+    ]
+  },
+  {
+    "name": "Avery",
+    "aliases": [
+      "セイボリー",
+      "세이버리",
+      "賽寶利"
+    ]
+  },
+  {
+    "name": "Klara",
+    "aliases": [
+      "クララ",
+      "도정",
+      "克拉拉"
+    ]
+  },
+  {
+    "name": "Elaine",
+    "aliases": [
+      "アユミ",
+      "보연",
+      "步美"
+    ]
+  },
+  {
+    "name": "The Shadow Triad",
+    "aliases": [
+      "ダークトリニティ",
+      "다크트리니티",
+      "黑暗鐵三角"
+    ]
+  },
+  {
+    "name": "Ash",
+    "aliases": [
+      "サトシ",
+      "지우",
+      "小智"
+    ]
+  },
+  {
+    "name": "Oleana",
+    "aliases": [
+      "オリーヴ",
+      "올리브",
+      "奧利薇"
+    ]
+  },
+  {
+    "name": "Rose",
+    "aliases": [
+      "ローズ",
+      "로즈",
+      "洛茲"
+    ]
+  },
+  {
+    "name": "Sonia",
+    "aliases": [
+      "ソニア",
+      "소니아",
+      "索妮亞"
+    ]
+  },
+  {
+    "name": "Raihan",
+    "aliases": [
+      "キバナ",
+      "금랑",
+      "奇巴納"
+    ]
+  },
+  {
+    "name": "Piers",
+    "aliases": [
+      "ネズ",
+      "두송",
+      "聶梓"
+    ]
+  },
+  {
+    "name": "Melony",
+    "aliases": [
+      "メロン",
+      "멜론",
+      "美蓉"
+    ]
+  },
+  {
+    "name": "Gordie",
+    "aliases": [
+      "マクワ",
+      "마쿠와",
+      "瑪瓜"
+    ]
+  },
+  {
+    "name": "Opal",
+    "aliases": [
+      "ポプラ",
+      "포플러",
+      "波普菈"
+    ]
+  },
+  {
+    "name": "Kabu",
+    "aliases": [
+      "カブ",
+      "순무",
+      "卡蕪"
+    ]
+  },
+  {
+    "name": "Allister",
+    "aliases": [
+      "オニオン",
+      "어니언",
+      "歐尼奧"
+    ]
+  },
+  {
+    "name": "Bea",
+    "aliases": [
+      "サイトウ",
+      "채두",
+      "彩豆"
+    ]
+  },
+  {
+    "name": "Nessa",
+    "aliases": [
+      "ルリナ",
+      "야청",
+      "露璃娜"
+    ]
+  },
+  {
+    "name": "Milo",
+    "aliases": [
+      "ヤロー",
+      "아킬",
+      "亞洛"
+    ]
+  },
+  {
+    "name": "Leon",
+    "aliases": [
+      "ダンデ",
+      "단델",
+      "丹帝"
+    ]
+  },
+  {
+    "name": "Bede",
+    "aliases": [
+      "ビート",
+      "비트",
+      "彼特"
+    ]
+  },
+  {
+    "name": "Marnie",
+    "aliases": [
+      "マリィ",
+      "마리",
+      "瑪俐"
+    ]
+  },
+  {
+    "name": "Hop",
+    "aliases": [
+      "ホップ",
+      "호브",
+      "赫普"
+    ]
+  },
+  {
+    "name": "Gloria",
+    "aliases": [
+      "ユウリ",
+      "우리",
+      "小優"
+    ]
+  },
+  {
+    "name": "Victor",
+    "aliases": [
+      "マサル",
+      "승재",
+      "小勝"
+    ]
+  },
+  {
+    "name": "James",
+    "aliases": [
+      "コジロウ",
+      "로이",
+      "小次郎"
+    ]
+  },
+  {
+    "name": "Jessie",
+    "aliases": [
+      "ムサシ",
+      "로사",
+      "武藏"
+    ]
+  },
+  {
+    "name": "Saturn",
+    "aliases": [
+      "サターン",
+      "새턴",
+      "鎮星"
+    ]
+  },
+  {
+    "name": "Jupiter",
+    "aliases": [
+      "ジュピター",
+      "주피터",
+      "歲星"
+    ]
+  },
+  {
+    "name": "Mars",
+    "aliases": [
+      "マーズ",
+      "마스",
+      "夥星"
+    ]
+  },
+  {
+    "name": "Shelly",
+    "aliases": [
+      "イズミ",
+      "이연",
+      "阿泉"
+    ]
+  },
+  {
+    "name": "Matt",
+    "aliases": [
+      "ウシオ",
+      "해조",
+      "阿潮"
+    ]
+  },
+  {
+    "name": "Courtney",
+    "aliases": [
+      "カガリ",
+      "구열",
+      "火雁"
+    ]
+  },
+  {
+    "name": "Tabitha",
+    "aliases": [
+      "ホムラ",
+      "호걸",
+      "火村"
+    ]
+  },
+  {
+    "name": "Emma",
+    "aliases": [
+      "マチエール",
+      "마티에르",
+      "瑪琪艾兒"
+    ]
+  },
+  {
+    "name": "Looker",
+    "aliases": [
+      "ハンサム",
+      "핸섬",
+      "帥哥"
+    ]
+  },
+  {
+    "name": "Eusine",
+    "aliases": [
+      "ミナキ",
+      "수호",
+      "水京"
+    ]
+  },
+  {
+    "name": "Lisia",
+    "aliases": [
+      "ルチア",
+      "루티아",
+      "琉琪亞"
+    ]
+  },
+  {
+    "name": "Benga",
+    "aliases": [
+      "バンジロウ",
+      "구아버",
+      "蕃石郎"
+    ]
+  },
+  {
+    "name": "Morgan",
+    "aliases": [
+      "ルミタン",
+      "르마탱",
+      "朝蜜"
+    ]
+  },
+  {
+    "name": "Dana",
+    "aliases": [
+      "ラジュルネ",
+      "라쥬르네",
+      "晝珠"
+    ]
+  },
+  {
+    "name": "Evelyn",
+    "aliases": [
+      "ルスワール",
+      "르수아르",
+      "夕絲"
+    ]
+  },
+  {
+    "name": "Nita",
+    "aliases": [
+      "ラニュイ",
+      "라뉴이",
+      "夜妮"
+    ]
+  },
+  {
+    "name": "Argenta",
+    "aliases": [
+      "ケイト",
+      "맨드라",
+      "青葙"
+    ]
+  },
+  {
+    "name": "Dahlia",
+    "aliases": [
+      "ダリア",
+      "달리아",
+      "大麗"
+    ]
+  },
+  {
+    "name": "Brandon",
+    "aliases": [
+      "ジンダイ",
+      "기선",
+      "神代"
+    ]
+  },
+  {
+    "name": "Greta",
+    "aliases": [
+      "コゴミ",
+      "나리",
+      "黃瓜香"
+    ]
+  },
+  {
+    "name": "Lucy",
+    "aliases": [
+      "アザミ",
+      "다슬",
+      "小薊"
+    ]
+  },
+  {
+    "name": "Lysandre",
+    "aliases": [
+      "フラダリ",
+      "플라드리",
+      "弗拉達利"
+    ]
+  },
+  {
+    "name": "Ghetsis",
+    "aliases": [
+      "ゲーチス",
+      "게치스",
+      "魁奇思"
+    ]
+  },
+  {
+    "name": "Cyrus",
+    "aliases": [
+      "アカギ",
+      "태홍",
+      "赤日"
+    ]
+  },
+  {
+    "name": "Archie",
+    "aliases": [
+      "アオギリ",
+      "아강",
+      "水梧桐"
+    ]
+  },
+  {
+    "name": "Maxie",
+    "aliases": [
+      "マツブサ",
+      "마적",
+      "赤焰松"
+    ]
+  },
+  {
+    "name": "Colress",
+    "aliases": [
+      "アクロマ",
+      "아크로마",
+      "阿克羅瑪"
+    ]
+  },
+  {
+    "name": "Ryuki",
+    "aliases": [
+      "リュウキ",
+      "용규",
+      "龍葵"
+    ]
+  },
+  {
+    "name": "Dexio",
+    "aliases": [
+      "デクシオ",
+      "덱시오",
+      "德克希歐"
+    ]
+  },
+  {
+    "name": "Sina",
+    "aliases": [
+      "ジーナ",
+      "지나",
+      "吉娜"
+    ]
+  },
+  {
+    "name": "Faba",
+    "aliases": [
+      "ザオボー",
+      "자우보",
+      "扎奧博"
+    ]
+  },
+  {
+    "name": "Molayne",
+    "aliases": [
+      "マーレイン",
+      "멀레인",
+      "馬睿因"
+    ]
+  },
+  {
+    "name": "Ilima",
+    "aliases": [
+      "イリマ",
+      "일리마",
+      "伊利馬"
+    ]
+  },
+  {
+    "name": "Trevor",
+    "aliases": [
+      "トロバ",
+      "트로바",
+      "多羅巴"
+    ]
+  },
+  {
+    "name": "Tierno",
+    "aliases": [
+      "ティエルノ",
+      "티에르노",
+      "提耶魯諾"
+    ]
+  },
+  {
+    "name": "Drayden",
+    "aliases": [
+      "シャガ",
+      "사간",
+      "夏卡"
+    ]
+  },
+  {
+    "name": "Anabel",
+    "aliases": [
+      "リラ",
+      "리라",
+      "莉拉"
+    ]
+  },
+  {
+    "name": "Malva",
+    "aliases": [
+      "パキラ",
+      "파키라",
+      "帕琦拉"
+    ]
+  },
+  {
+    "name": "Lucian",
+    "aliases": [
+      "ゴヨウ",
+      "오엽",
+      "悟松"
+    ]
+  },
+  {
+    "name": "Olympia",
+    "aliases": [
+      "ゴジカ",
+      "고지카",
+      "葛吉花"
+    ]
+  },
+  {
+    "name": "Byron",
+    "aliases": [
+      "トウガン",
+      "동관",
+      "東瓜"
+    ]
+  },
+  {
+    "name": "Chuck",
+    "aliases": [
+      "シジマ",
+      "사도",
+      "阿四"
+    ]
+  },
+  {
+    "name": "Burgh",
+    "aliases": [
+      "アーティ",
+      "아티",
+      "亞堤"
+    ]
+  },
+  {
+    "name": "Lenora",
+    "aliases": [
+      "アロエ",
+      "알로에",
+      "蘆薈"
+    ]
+  },
+  {
+    "name": "Professor Rowan",
+    "aliases": [
+      "ナナカマド",
+      "마박사",
+      "山梨"
+    ]
+  },
+  {
+    "name": "Lucas",
+    "aliases": [
+      "コウキ",
+      "광휘",
+      "明輝"
+    ]
+  },
+  {
+    "name": "Hala",
+    "aliases": [
+      "ハラ",
+      "할라",
+      "哈拉"
+    ]
+  },
+  {
+    "name": "Lana",
+    "aliases": [
+      "スイレン",
+      "수련",
+      "水蓮"
+    ]
+  },
+  {
+    "name": "Darach",
+    "aliases": [
+      "コクラン",
+      "코크런",
+      "石蘭"
+    ]
+  },
+  {
+    "name": "Diantha",
+    "aliases": [
+      "カルネ",
+      "카르네",
+      "卡露妮"
+    ]
+  },
+  {
+    "name": "Valerie",
+    "aliases": [
+      "マーシュ",
+      "마슈",
+      "瑪綉"
+    ]
+  },
+  {
+    "name": "Riley",
+    "aliases": [
+      "ゲン",
+      "현이",
+      "亞玄"
+    ]
+  },
+  {
+    "name": "Drasna",
+    "aliases": [
+      "ドラセナ",
+      "드라세나",
+      "朵拉塞娜"
+    ]
+  },
+  {
+    "name": "Bertha",
+    "aliases": [
+      "キクノ",
+      "들국화",
+      "菊野"
+    ]
+  },
+  {
+    "name": "Glacia",
+    "aliases": [
+      "プリム",
+      "미혜",
+      "波妮"
+    ]
+  },
+  {
+    "name": "Aaron",
+    "aliases": [
+      "リョウ",
+      "충호",
+      "阿柳"
+    ]
+  },
+  {
+    "name": "Fantina",
+    "aliases": [
+      "メリッサ",
+      "멜리사",
+      "梅麗莎"
+    ]
+  },
+  {
+    "name": "Falkner",
+    "aliases": [
+      "ハヤト",
+      "비상",
+      "阿速"
+    ]
+  },
+  {
+    "name": "Kiawe",
+    "aliases": [
+      "カキ",
+      "키아웨",
+      "卡奇"
+    ]
+  },
+  {
+    "name": "Morty",
+    "aliases": [
+      "マツバ",
+      "유빈",
+      "松葉"
+    ]
+  },
+  {
+    "name": "Hugh",
+    "aliases": [
+      "ヒュウ",
+      "휴이",
+      "阿修"
+    ]
+  },
+  {
+    "name": "Cress",
+    "aliases": [
+      "コーン",
+      "콘",
+      "寇恩"
+    ]
+  },
+  {
+    "name": "Chili",
+    "aliases": [
+      "ポッド",
+      "팟",
+      "伯特"
+    ]
+  },
+  {
+    "name": "Proton",
+    "aliases": [
+      "ランス",
+      "랜스",
+      "蘭斯"
+    ]
+  },
+  {
+    "name": "Petrel",
+    "aliases": [
+      "ラムダ",
+      "람다",
+      "拉姆達"
+    ]
+  },
+  {
+    "name": "Ariana",
+    "aliases": [
+      "アテナ",
+      "아테나",
+      "雅典娜"
+    ]
+  },
+  {
+    "name": "Archer",
+    "aliases": [
+      "アポロ",
+      "아폴로",
+      "阿波羅"
+    ]
+  },
+  {
+    "name": "Giovanni",
+    "aliases": [
+      "サカキ",
+      "비주기",
+      "坂木"
+    ]
+  },
+  {
+    "name": "Shauna",
+    "aliases": [
+      "サナ",
+      "사나",
+      "莎娜"
+    ]
+  },
+  {
+    "name": "Samson Oak",
+    "aliases": [
+      "ナリヤ・オーキド",
+      "송호 오",
+      "成也・大木"
+    ]
+  },
+  {
+    "name": "Professor Oak",
+    "aliases": [
+      "オーキド",
+      "오박사",
+      "大木"
+    ]
+  },
+  {
+    "name": "Professor Sycamore",
+    "aliases": [
+      "プラターヌ",
+      "플라타느",
+      "布拉塔諾"
+    ]
+  },
+  {
+    "name": "Sidney",
+    "aliases": [
+      "カゲツ",
+      "혁진",
+      "花月"
+    ]
+  },
+  {
+    "name": "Palmer",
+    "aliases": [
+      "クロツグ",
+      "종수",
+      "桄榔"
+    ]
+  },
+  {
+    "name": "Silver",
+    "aliases": [
+      "シルバー",
+      "실버",
+      "小銀"
+    ]
+  },
+  {
+    "name": "Alder",
+    "aliases": [
+      "アデク",
+      "노간주",
+      "阿戴克"
+    ]
+  },
+  {
+    "name": "Clemont",
+    "aliases": [
+      "シトロン",
+      "시트론",
+      "希特隆"
+    ]
+  },
+  {
+    "name": "Serena",
+    "aliases": [
+      "セレナ",
+      "세레나",
+      "莎莉娜"
+    ]
+  },
+  {
+    "name": "Zinnia",
+    "aliases": [
+      "ヒガナ",
+      "피아나",
+      "希嘉娜"
+    ]
+  },
+  {
+    "name": "Wally",
+    "aliases": [
+      "ミツル",
+      "민진",
+      "滿充"
+    ]
+  },
+  {
+    "name": "Wallace",
+    "aliases": [
+      "ミクリ",
+      "윤진",
+      "米可利"
+    ]
+  },
+  {
+    "name": "May",
+    "aliases": [
+      "ハルカ",
+      "봄이",
+      "小遙"
+    ]
+  },
+  {
+    "name": "Guzma",
+    "aliases": [
+      "グズマ",
+      "구즈마",
+      "古茲馬"
+    ]
+  },
+  {
+    "name": "Mallow",
+    "aliases": [
+      "マオ",
+      "마오",
+      "瑪奧"
+    ]
+  },
+  {
+    "name": "Selene",
+    "aliases": [
+      "ミヅキ",
+      "미월",
+      "美月"
+    ]
+  },
+  {
+    "name": "Elio",
+    "aliases": [
+      "ヨウ",
+      "영태",
+      "小陽"
+    ]
+  },
+  {
+    "name": "Plumeria",
+    "aliases": [
+      "プルメリ",
+      "플루메리",
+      "布爾美麗"
+    ]
+  },
+  {
+    "name": "Lusamine",
+    "aliases": [
+      "ルザミーネ",
+      "루자미네",
+      "露莎米奈"
+    ]
+  },
+  {
+    "name": "Gladion",
+    "aliases": [
+      "グラジオ",
+      "글라디오",
+      "格拉吉歐"
+    ]
+  },
+  {
+    "name": "Lillie",
+    "aliases": [
+      "リーリエ",
+      "릴리에",
+      "莉莉艾"
+    ]
+  },
+  {
+    "name": "The Masked Royal",
+    "aliases": [
+      "ロイヤルマスク",
+      "로열마스크",
+      "皇家蒙面人"
+    ]
+  },
+  {
+    "name": "Dawn",
+    "aliases": [
+      "ヒカリ",
+      "빛나",
+      "小光"
+    ]
+  },
+  {
+    "name": "Volkner",
+    "aliases": [
+      "デンジ",
+      "전진",
+      "電次"
+    ]
+  },
+  {
+    "name": "Sabrina",
+    "aliases": [
+      "ナツメ",
+      "초련",
+      "娜姿"
+    ]
+  },
+  {
+    "name": "Jasmine",
+    "aliases": [
+      "ミカン",
+      "규리",
+      "阿蜜"
+    ]
+  },
+  {
+    "name": "Ethan",
+    "aliases": [
+      "ヒビキ",
+      "심향",
+      "阿響"
+    ]
+  },
+  {
+    "name": "Lance",
+    "aliases": [
+      "ワタル",
+      "목호",
+      "阿渡"
+    ]
+  },
+  {
+    "name": "Misty",
+    "aliases": [
+      "カスミ",
+      "이슬",
+      "小霞"
+    ]
+  },
+  {
+    "name": "Emmet",
+    "aliases": [
+      "クダリ",
+      "하행",
+      "南廈"
+    ]
+  },
+  {
+    "name": "Ingo",
+    "aliases": [
+      "ノボリ",
+      "상행",
+      "北尚"
+    ]
+  },
+  {
+    "name": "Cilan",
+    "aliases": [
+      "デント",
+      "덴트",
+      "天桐"
+    ]
+  },
+  {
+    "name": "Elesa",
+    "aliases": [
+      "カミツレ",
+      "카밀레",
+      "小菊兒"
+    ]
+  },
+  {
+    "name": "Tina",
+    "aliases": [
+      "リッカ",
+      "리카",
+      "俐卡"
+    ]
+  },
+  {
+    "name": "Trinnia",
+    "aliases": [
+      "サクサ",
+      "사크사",
+      "綠菫"
+    ]
+  },
+  {
+    "name": "Tricia",
+    "aliases": [
+      "トリカ",
+      "트리커",
+      "藍菫"
+    ]
+  },
+  {
+    "name": "Bianca",
+    "aliases": [
+      "ベル",
+      "벨",
+      "白露"
+    ]
+  },
+  {
+    "name": "Rosa",
+    "aliases": [
+      "メイ",
+      "명희",
+      "鳴依"
+    ]
+  },
+  {
+    "name": "Nate",
+    "aliases": [
+      "キョウヘイ",
+      "공명",
+      "共平"
+    ]
+  },
+  {
+    "name": "Barry",
+    "aliases": [
+      "ジュン",
+      "용식",
+      "阿馴"
+    ]
+  },
+  {
+    "name": "Hau",
+    "aliases": [
+      "ハウ",
+      "하우",
+      "哈烏"
+    ]
+  },
+  {
+    "name": "Marley",
+    "aliases": [
+      "マイ",
+      "미정",
+      "米依"
+    ]
+  },
+  {
+    "name": "Siebold",
+    "aliases": [
+      "ズミ",
+      "즈미",
+      "志米"
+    ]
+  },
+  {
+    "name": "Caitlin",
+    "aliases": [
+      "カトレア",
+      "카틀레야",
+      "嘉德麗雅"
+    ]
+  },
+  {
+    "name": "Drake",
+    "aliases": [
+      "ゲンジ",
+      "권수",
+      "源治"
+    ]
+  },
+  {
+    "name": "Trista",
+    "aliases": [
+      "クルティ",
+      "커티",
+      "紅菫"
+    ]
+  },
+  {
+    "name": "Iris",
+    "aliases": [
+      "アイリス",
+      "아이리스",
+      "艾莉絲"
+    ]
+  },
+  {
+    "name": "Cynthia",
+    "aliases": [
+      "シロナ",
+      "난천",
+      "竹蘭"
+    ]
+  },
+  {
+    "name": "Steven",
+    "aliases": [
+      "ダイゴ",
+      "성호",
+      "大吾"
+    ]
+  },
+  {
+    "name": "N",
+    "aliases": [
+      "Ｎ"
+    ]
+  },
+  {
+    "name": "Camper",
+    "aliases": [
+      "キャンプボーイ",
+      "캠프보이",
+      "露營少年"
+    ]
+  },
+  {
+    "name": "Rising Star",
+    "aliases": [
+      "ホープトレーナー",
+      "호프 트레이너",
+      "新星訓練家"
+    ]
+  },
+  {
+    "name": "Scientist",
+    "aliases": [
+      "けんきゅういん",
+      "연구원",
+      "研究員"
+    ]
+  },
+  {
+    "name": "Punk Girl",
+    "aliases": [
+      "バッドガール",
+      "배드걸",
+      "壞女孩"
+    ]
+  },
+  {
+    "name": "Street Thug",
+    "aliases": [
+      "こわいおじさん",
+      "무서운 아저씨",
+      "可怕的大叔"
+    ]
+  },
+  {
+    "name": "Preschooler",
+    "aliases": [
+      "えんじ",
+      "보육원아",
+      "幼稚園小朋友"
+    ]
+  },
+  {
+    "name": "Hiker",
+    "aliases": [
+      "やまおとこ",
+      "등산가",
+      "登山男"
+    ]
+  },
+  {
+    "name": "Lass",
+    "aliases": [
+      "ミニスカート",
+      "짧은 치마",
+      "迷你裙"
+    ]
+  },
+  {
+    "name": "Pokémon Ranger",
+    "aliases": [
+      "ポケモンレンジャー",
+      "포켓몬 레인저",
+      "寶可夢巡護員"
+    ]
+  },
+  {
+    "name": "Poké Fan",
+    "aliases": [
+      "だいすきクラブ",
+      "애호가클럽",
+      "發燒友俱樂部"
+    ]
+  },
+  {
+    "name": "Collector",
+    "aliases": [
+      "ポケモンコレクター",
+      "포켓몬 컬렉터",
+      "寶可夢收藏家"
+    ]
+  },
+  {
+    "name": "Youngster",
+    "aliases": [
+      "たんぱんこぞう",
+      "반바지 꼬마",
+      "短褲小子"
+    ]
+  },
+  {
+    "name": "Black Belt",
+    "aliases": [
+      "からておう",
+      "태권왕",
+      "空手道王"
+    ]
+  },
+  {
+    "name": "Swimmer",
+    "aliases": [
+      "かいパンやろう",
+      "수영팬티소년",
+      "泳褲小伙子",
+      "ビキニのおねえさん",
+      "비키니 아가씨",
+      "比基尼姐姐"
+    ]
+  },
+  {
+    "name": "Beauty",
+    "aliases": [
+      "おとなのおねえさん",
+      "아가씨",
+      "大姐姐"
+    ]
+  },
+  {
+    "name": "Ace Trainer",
+    "aliases": [
+      "エリートトレーナー",
+      "엘리트 트레이너",
+      "精英訓練家"
+    ]
+  },
+  {
+    "name": "Sawyer",
+    "aliases": [
+      "ドリバル",
+      "드리버",
+      "螺伯"
+    ]
+  },
+  {
+    "name": "Rachel",
+    "aliases": [
+      "チェッタ",
+      "치터",
+      "棘兒"
+    ]
+  },
+  {
+    "name": "Lear",
+    "aliases": [
+      "ライヤー",
+      "라이어",
+      "鎯琊"
+    ]
+  },
+  {
+    "name": "Professor Bellis",
+    "aliases": [
+      "ヒナギク博士",
+      "데이지박사",
+      "雛菊博士"
+    ]
+  },
+  {
+    "name": "Paulo",
+    "aliases": [
+      "キリヤ",
+      "고상",
+      "梧桐"
+    ]
+  },
+  {
+    "name": "Marshal",
+    "aliases": [
+      "レンブ",
+      "연무",
+      "連武"
+    ]
+  },
+  {
+    "name": "Karen",
+    "aliases": [
+      "カリン",
+      "카렌",
+      "梨花"
+    ]
+  },
+  {
+    "name": "Agatha",
+    "aliases": [
+      "キクコ",
+      "국화",
+      "菊子"
+    ]
+  },
+  {
+    "name": "Janine",
+    "aliases": [
+      "アンズ",
+      "도희",
+      "阿杏"
+    ]
+  },
+  {
+    "name": "Blaine",
+    "aliases": [
+      "カツラ",
+      "강연",
+      "夏伯"
+    ]
+  },
+  {
+    "name": "Kahili",
+    "aliases": [
+      "カヒリ",
+      "카일리",
+      "卡希麗"
+    ]
+  },
+  {
+    "name": "Bruno",
+    "aliases": [
+      "シバ",
+      "시바",
+      "希巴"
+    ]
+  },
+  {
+    "name": "Nanu",
+    "aliases": [
+      "クチナシ",
+      "나누",
+      "默丹"
+    ]
+  },
+  {
+    "name": "Wikstrom",
+    "aliases": [
+      "ガンピ",
+      "간피",
+      "雁鎧"
+    ]
+  },
+  {
+    "name": "Koga",
+    "aliases": [
+      "キョウ",
+      "독수",
+      "阿桔"
+    ]
+  },
+  {
+    "name": "Grant",
+    "aliases": [
+      "ザクロ",
+      "자크로",
+      "查克洛"
+    ]
+  },
+  {
+    "name": "Marlon",
+    "aliases": [
+      "シズイ",
+      "시즈",
+      "西子伊"
+    ]
+  },
+  {
+    "name": "Olivia",
+    "aliases": [
+      "ライチ",
+      "라이치",
+      "麗姿"
+    ]
+  },
+  {
+    "name": "Maylene",
+    "aliases": [
+      "スモモ",
+      "자두",
+      "阿李"
+    ]
+  },
+  {
+    "name": "Phoebe",
+    "aliases": [
+      "フヨウ",
+      "회연",
+      "芙蓉"
+    ]
+  },
+  {
+    "name": "Grimsley",
+    "aliases": [
+      "ギーマ",
+      "블래리",
+      "越橘"
+    ]
+  },
+  {
+    "name": "Will",
+    "aliases": [
+      "イツキ",
+      "일목",
+      "一樹"
+    ]
+  },
+  {
+    "name": "Noland",
+    "aliases": [
+      "ダツラ",
+      "다투라",
+      "達拉"
+    ]
+  },
+  {
+    "name": "Bugsy",
+    "aliases": [
+      "ツクシ",
+      "호일",
+      "阿筆"
+    ]
+  },
+  {
+    "name": "Roxanne",
+    "aliases": [
+      "ツツジ",
+      "원규",
+      "杜娟"
+    ]
+  },
+  {
+    "name": "Brawly",
+    "aliases": [
+      "トウキ",
+      "철구",
+      "藤樹"
+    ]
+  },
+  {
+    "name": "Winona",
+    "aliases": [
+      "ナギ",
+      "은송",
+      "娜琪"
+    ]
+  },
+  {
+    "name": "Thorton",
+    "aliases": [
+      "ネジキ",
+      "수철",
+      "捩木"
+    ]
+  },
+  {
+    "name": "Brycen",
+    "aliases": [
+      "ハチク",
+      "담죽",
+      "哈奇庫"
+    ]
+  },
+  {
+    "name": "Viola",
+    "aliases": [
+      "ビオラ",
+      "비올라",
+      "紫羅蘭"
+    ]
+  },
+  {
+    "name": "Roark",
+    "aliases": [
+      "ヒョウタ",
+      "강석",
+      "瓢太"
+    ]
+  },
+  {
+    "name": "Ramos",
+    "aliases": [
+      "フクジ",
+      "후쿠지",
+      "福爺"
+    ]
+  },
+  {
+    "name": "Sophocles",
+    "aliases": [
+      "マーマネ",
+      "마마네",
+      "馬瑪內"
+    ]
+  },
+  {
+    "name": "Lt. Surge",
+    "aliases": [
+      "マチス",
+      "마티스",
+      "馬志士"
+    ]
+  },
+  {
+    "name": "Mina",
+    "aliases": [
+      "マツリカ",
+      "말리화",
+      "茉莉"
+    ]
+  },
+  {
+    "name": "Clay",
+    "aliases": [
+      "ヤーコン",
+      "야콘",
+      "菊老大"
+    ]
+  },
+  {
+    "name": "Pryce",
+    "aliases": [
+      "ヤナギ",
+      "류옹",
+      "柳伯"
+    ]
+  },
+  {
+    "name": "Tate",
+    "aliases": [
+      "フウ",
+      "풍",
+      "小楓"
+    ]
+  },
+  {
+    "name": "Liza",
+    "aliases": [
+      "ラン",
+      "란",
+      "小南"
+    ]
+  },
+  {
+    "name": "Flannery",
+    "aliases": [
+      "アスナ",
+      "민지",
+      "亞莎"
+    ]
+  },
+  {
+    "name": "Clair",
+    "aliases": [
+      "イブキ",
+      "이향",
+      "小椿"
+    ]
+  },
+  {
+    "name": "Gardenia",
+    "aliases": [
+      "ナタネ",
+      "유채",
+      "菜種"
+    ]
+  },
+  {
+    "name": "Whitney",
+    "aliases": [
+      "アカネ",
+      "꼭두",
+      "小茜"
+    ]
+  },
+  {
+    "name": "Candice",
+    "aliases": [
+      "スズナ",
+      "무청",
+      "小菘"
+    ]
+  },
+  {
+    "name": "Shauntal",
+    "aliases": [
+      "シキミ",
+      "망초",
+      "婉龍"
+    ]
+  },
+  {
+    "name": "Cheryl",
+    "aliases": [
+      "モミ",
+      "모미",
+      "芽米"
+    ]
+  },
+  {
+    "name": "Wulfric",
+    "aliases": [
+      "ウルップ",
+      "우르프",
+      "得撫"
+    ]
+  },
+  {
+    "name": "Blue",
+    "aliases": [
+      "グリーン",
+      "그린",
+      "青綠"
+    ]
+  },
+  {
+    "name": "Hilbert",
+    "aliases": [
+      "トウヤ",
+      "투지",
+      "鬥也"
+    ]
+  },
+  {
+    "name": "Brendan",
+    "aliases": [
+      "ユウキ",
+      "휘웅",
+      "小悠"
+    ]
+  },
+  {
+    "name": "Kris",
+    "aliases": [
+      "クリス",
+      "크리스",
+      "克麗絲"
+    ]
+  },
+  {
+    "name": "Leaf",
+    "aliases": [
+      "リーフ",
+      "리프",
+      "葉子"
+    ]
+  },
+  {
+    "name": "Skyla",
+    "aliases": [
+      "フウロ",
+      "풍란",
+      "風露"
+    ]
+  },
+  {
+    "name": "Brock",
+    "aliases": [
+      "タケシ",
+      "웅",
+      "小剛"
+    ]
+  },
+  {
+    "name": "Cheren",
+    "aliases": [
+      "チェレン",
+      "체렌",
+      "黑連"
+    ]
+  },
+  {
+    "name": "Hapu",
+    "aliases": [
+      "ハプウ",
+      "하푸우",
+      "哈普烏"
+    ]
+  },
+  {
+    "name": "Korrina",
+    "aliases": [
+      "コルニ",
+      "코르니",
+      "可爾妮"
+    ]
+  },
+  {
+    "name": "Roxie",
+    "aliases": [
+      "ホミカ",
+      "보미카",
+      "霍米加"
+    ]
+  },
+  {
+    "name": "Crasher Wake",
+    "aliases": [
+      "マキシ",
+      "맥실러",
+      "吉憲"
+    ]
+  },
+  {
+    "name": "Norman",
+    "aliases": [
+      "センリ",
+      "종길",
+      "千里"
+    ]
+  },
+  {
+    "name": "Erika",
+    "aliases": [
+      "エリカ",
+      "민화",
+      "莉佳"
+    ]
+  },
+  {
+    "name": "Acerola",
+    "aliases": [
+      "アセロラ",
+      "아세로라",
+      "阿塞蘿拉"
+    ]
+  },
+  {
+    "name": "Flint",
+    "aliases": [
+      "オーバ",
+      "대엽",
+      "大葉"
+    ]
+  },
+  {
+    "name": "Lorelei",
+    "aliases": [
+      "カンナ",
+      "칸나",
+      "科拿"
+    ]
+  },
+  {
+    "name": "Hilda",
+    "aliases": [
+      "トウコ",
+      "투희",
+      "鬥子"
+    ]
+  },
+  {
+    "name": "Calem",
+    "aliases": [
+      "カルム",
+      "칼름",
+      "卡魯穆"
+    ]
+  },
+  {
+    "name": "Lyra",
+    "aliases": [
+      "コトネ",
+      "금선",
+      "琴音"
+    ]
+  },
+  {
+    "name": "Kukui",
+    "aliases": [
+      "ククイ",
+      "쿠쿠이",
+      "庫庫伊"
+    ]
+  },
+  {
+    "name": "Red",
+    "aliases": [
+      "レッド",
+      "레드",
+      "赤紅"
+    ]
+  }
+]
