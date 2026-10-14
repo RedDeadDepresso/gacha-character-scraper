@@ -16,14 +16,17 @@ const (
 
 // GirlsFrontline2 reads dolls from the gfl2-team-builder open game data. The
 // name has no apostrophe or colon so it is safe as a file name. The source only
-// has English names, so there are no aliases.
+// has English names; aliases in other languages are added to data/ by hand, so
+// existing entries are never overwritten, only new dolls are merged in.
 type GirlsFrontline2 struct{}
 
 func (GirlsFrontline2) Name() string { return "Girls Frontline 2" }
 
 // Scrape skips everything when the gfl2-team-builder commit hasn't changed
-// since the last run (cached in config/commits.json). Otherwise it rebuilds the
-// list newest-first (a higher gunDataId is a later release).
+// since the last run (cached in config/commits.json). Otherwise it fetches the
+// doll list (newest first, a higher gunDataId is a later release) and merges
+// it into the existing data: dolls already present keep their saved entry
+// (name and hand-written aliases) and new dolls are put at the front.
 func (g GirlsFrontline2) Scrape(existing []Character) ([]Character, error) {
 	sha, err := LatestCommit(gfl2Repo, gfl2Branch)
 	if err != nil {
@@ -65,22 +68,38 @@ func (g GirlsFrontline2) Scrape(existing []Character) ([]Character, error) {
 		return idx[a] > idx[b]
 	})
 
-	chars := make([]Character, 0, len(idx))
-	seen := map[string]bool{}
-	for _, i := range idx {
-		name := strings.Join(strings.Fields(raw.Dolls[i].Name), " ")
-		if k := strings.ToLower(name); !seen[k] {
-			seen[k] = true
-			chars = append(chars, Character{Name: name, Aliases: []string{}})
+	// Names already saved, including their aliases, so a doll that is known
+	// under any of them is not added a second time.
+	known := map[string]bool{}
+	for _, c := range existing {
+		known[strings.ToLower(c.Name)] = true
+		for _, a := range c.Aliases {
+			known[strings.ToLower(strings.TrimSpace(a))] = true
 		}
 	}
-	if len(chars) == 0 {
+
+	// idx is newest first, so new dolls keep that order at the front.
+	added := make([]Character, 0)
+	for _, i := range idx {
+		name := strings.Join(strings.Fields(raw.Dolls[i].Name), " ")
+		k := strings.ToLower(name)
+		if known[k] {
+			continue
+		}
+		known[k] = true
+		added = append(added, Character{Name: name, Aliases: []string{}})
+	}
+	if len(existing) == 0 && len(added) == 0 {
 		return nil, fmt.Errorf("girls frontline 2: no dolls found")
 	}
+
+	chars := make([]Character, 0, len(added)+len(existing))
+	chars = append(chars, added...)
+	chars = append(chars, existing...)
 
 	if err := SaveCommit(g.Name(), sha); err != nil {
 		return nil, err
 	}
-	log.Printf("[Girls Frontline 2] %d dolls (commit %s)", len(chars), sha[:7])
+	log.Printf("[Girls Frontline 2] %d dolls, %d new (commit %s)", len(chars), len(added), sha[:7])
 	return chars, nil
 }
