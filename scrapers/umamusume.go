@@ -5,20 +5,49 @@ import (
 	"fmt"
 	"log"
 	"sort"
+	"strconv"
 	"strings"
 )
 
-const umaURL = "https://umapyoi.net/api/v1/character/info"
+const (
+	umaRepo        = "daftuyda/UmaTools"
+	umaBranch      = "HEAD" // the repo's default branch
+	umaManifestURL = "https://gametora.com/data/manifests/umamusume.json"
+	umaDatasetURL  = "https://gametora.com/data/umamusume/%s.%s.json"
+	umaDatasetKey  = "character-cards"
+)
 
-// UmaMusume reads the character list from umapyoi.net.
+// UmaMusume reads the playable characters from GameTora's data files.
 type UmaMusume struct{}
 
 func (UmaMusume) Name() string { return "Uma Musume Pretty Derby" }
 
-type umaCharacter struct {
+// flexInt decodes a JSON number or a numeric string.
+type flexInt int
+
+func (f *flexInt) UnmarshalJSON(b []byte) error {
+	s := strings.Trim(strings.TrimSpace(string(b)), `"`)
+	if s == "" || s == "null" {
+		*f = 0
+		return nil
+	}
+	n, err := strconv.Atoi(s)
+	if err != nil {
+		return fmt.Errorf("not an integer: %s", b)
+	}
+	*f = flexInt(n)
+	return nil
+}
+
+// umaCard is one entry of GameTora's character-cards dataset: an outfit of a
+// character. Every card of a character shares the same char_id and names.
+type umaCard struct {
+	CharID flexInt `json:"char_id"`
+	CardID flexInt `json:"card_id"`
 	NameEN *string `json:"name_en"`
 	NameJP *string `json:"name_jp"`
-	GameID *int    `json:"game_id"`
+	NameKO *string `json:"name_ko"`
+	NameTW *string `json:"name_tw"`
 }
 
 func deref(s *string) string {
@@ -28,68 +57,119 @@ func deref(s *string) string {
 	return strings.TrimSpace(*s)
 }
 
-// Scrape fetches every character in one request and returns them newest-first
-// (lower game_id = older). Entries without a game_id are kept and treated as
-// the newest. The whole list is rebuilt each run.
-func (u UmaMusume) Scrape(_ []Character) ([]Character, error) {
-	body, err := get(umaURL)
+// fetchUmaCards downloads the manifest, then the character-cards file whose
+// name carries the hash listed in it (character-cards.<hash>.json).
+func fetchUmaCards() ([]umaCard, error) {
+	body, err := get(umaManifestURL)
+	if err != nil {
+		return nil, err
+	}
+	var manifest map[string]json.RawMessage
+	err = json.NewDecoder(body).Decode(&manifest)
+	body.Close()
+	if err != nil {
+		return nil, fmt.Errorf("parse uma manifest: %w", err)
+	}
+	hash := strings.Trim(strings.TrimSpace(string(manifest[umaDatasetKey])), `"`)
+	if hash == "" || hash == "null" {
+		return nil, fmt.Errorf("uma manifest has no %q entry", umaDatasetKey)
+	}
+
+	body, err = get(fmt.Sprintf(umaDatasetURL, umaDatasetKey, hash))
 	if err != nil {
 		return nil, err
 	}
 	defer body.Close()
-	var all []umaCharacter
-	if err := json.NewDecoder(body).Decode(&all); err != nil {
-		return nil, fmt.Errorf("parse uma musume: %w", err)
+	var cards []umaCard
+	if err := json.NewDecoder(body).Decode(&cards); err != nil {
+		return nil, fmt.Errorf("parse uma %s: %w", umaDatasetKey, err)
 	}
+	return cards, nil
+}
 
+// buildUmaCharacters turns outfit cards into one entry per character
+// (char_id), newest first: a lower char_id is an older character. The name is
+// the English name (Japanese if there is none) and the aliases are the
+// Japanese, Korean and Traditional Chinese names.
+func buildUmaCharacters(cards []umaCard) []Character {
 	type entry struct {
-		name, jp string
-		id       int
+		id               int
+		name, jp, ko, tw string
 	}
-	best := map[string]entry{} // lowercase name -> lowest game_id
-	for _, c := range all {
-		// No game_id: age unknown, so treat as newest (lowest score).
-		id := 1 << 30
-		if c.GameID != nil {
-			id = *c.GameID
-		}
-		name, jp := deref(c.NameEN), deref(c.NameJP)
-		if name == "" {
-			name = jp // no English name: fall back to the Japanese one
-		}
-		if name == "" {
+	byID := map[int]*entry{}
+	for _, c := range cards {
+		id := int(c.CharID)
+		if id == 0 {
 			continue
 		}
-		key := strings.ToLower(name)
-		if cur, ok := best[key]; !ok || id < cur.id {
-			best[key] = entry{name: name, jp: jp, id: id}
+		e := byID[id]
+		if e == nil {
+			e = &entry{id: id}
+			byID[id] = e
+		}
+		// Cards of one character agree; fill any gaps from later cards.
+		for _, f := range []struct {
+			dst *string
+			src *string
+		}{{&e.name, c.NameEN}, {&e.jp, c.NameJP}, {&e.ko, c.NameKO}, {&e.tw, c.NameTW}} {
+			if *f.dst == "" {
+				*f.dst = deref(f.src)
+			}
 		}
 	}
 
-	list := make([]entry, 0, len(best))
-	for _, e := range best {
+	list := make([]*entry, 0, len(byID))
+	for _, e := range byID {
+		if e.name == "" {
+			e.name = e.jp // no English name yet: fall back to the Japanese one
+		}
+		if e.name == "" {
+			continue
+		}
 		list = append(list, e)
 	}
-	sort.Slice(list, func(i, j int) bool {
-		if list[i].id != list[j].id {
-			return list[i].id > list[j].id // newest first
-		}
-		// Same id (e.g. entries without a game_id): sort by name so the order
-		// is stable between runs (the map above iterates in random order).
-		return strings.ToLower(list[i].name) < strings.ToLower(list[j].name)
-	})
+	sort.Slice(list, func(i, j int) bool { return list[i].id > list[j].id }) // newest first
 
 	chars := make([]Character, 0, len(list))
+	pos := map[string]int{}
 	for _, e := range list {
-		c := Character{Name: e.name, Aliases: []string{}}
-		if e.jp != "" && !strings.EqualFold(e.jp, e.name) {
-			c.Aliases = append(c.Aliases, e.jp)
+		aliases := []string{e.jp, e.ko, e.tw}
+		key := strings.ToLower(e.name)
+		if p, ok := pos[key]; ok { // same name under another id: fold into the newer one
+			chars[p].Aliases = cleanAliases(chars[p].Name, append(chars[p].Aliases, aliases...))
+			continue
 		}
-		chars = append(chars, c)
+		pos[key] = len(chars)
+		chars = append(chars, Character{Name: e.name, Aliases: cleanAliases(e.name, aliases)})
 	}
+	return chars
+}
+
+// Scrape skips everything when the UmaTools commit hasn't changed since the
+// last run (cached in config/commits.json), on the assumption that UmaTools is
+// updated whenever new characters are added. Otherwise the whole list is
+// rebuilt from GameTora.
+func (u UmaMusume) Scrape(existing []Character) ([]Character, error) {
+	sha, err := LatestCommit(umaRepo, umaBranch)
+	if err != nil {
+		return nil, err
+	}
+	if len(existing) > 0 && sha == LoadCommit(u.Name()) {
+		log.Printf("[Uma Musume] UmaTools unchanged (%s), skipping", sha[:7])
+		return existing, nil
+	}
+
+	cards, err := fetchUmaCards()
+	if err != nil {
+		return nil, err
+	}
+	chars := buildUmaCharacters(cards)
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("uma musume: no characters found")
 	}
-	log.Printf("[Uma Musume] %d characters", len(chars))
+	if err := SaveCommit(u.Name(), sha); err != nil {
+		return nil, err
+	}
+	log.Printf("[Uma Musume] %d characters (commit %s)", len(chars), sha[:7])
 	return chars, nil
 }

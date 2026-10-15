@@ -1,1040 +1,1074 @@
 [
   {
-    "name": "Genuine",
-    "aliases": [
-      "ジェニュイン"
-    ]
-  },
-  {
-    "name": "Junko Hosoe",
-    "aliases": [
-      "細江純子"
-    ]
-  },
-  {
-    "name": "Misato Akasaka",
-    "aliases": [
-      "赤坂美聡"
-    ]
-  },
-  {
-    "name": "Yayoi Akikawa",
-    "aliases": [
-      "秋川やよい"
-    ]
-  },
-  {
-    "name": "Yunohana Bloom",
-    "aliases": [
-      "ユノハナブルーム"
-    ]
-  },
-  {
-    "name": "Kiyoko Hoshina",
-    "aliases": [
-      "保科健子"
-    ]
-  },
-  {
-    "name": "Tucker Bryne",
-    "aliases": [
-      "タッカーブライン"
-    ]
-  },
-  {
-    "name": "Haiseiko",
-    "aliases": [
-      "ハイセイコー"
-    ]
-  },
-  {
-    "name": "Speed Symboli",
-    "aliases": [
-      "スピードシンボリ"
-    ]
-  },
-  {
-    "name": "Saint Lite",
-    "aliases": [
-      "セントライト"
-    ]
-  },
-  {
-    "name": "Sugar Lights",
-    "aliases": [
-      "シュガーライツ"
-    ]
-  },
-  {
-    "name": "Ryoka Tsurugi",
-    "aliases": [
-      "都留岐涼花"
-    ]
-  },
-  {
-    "name": "Mei Satake",
-    "aliases": [
-      "佐岳メイ"
-    ]
-  },
-  {
-    "name": "Byerley Turk",
-    "aliases": [
-      "バイアリーターク"
-    ]
-  },
-  {
-    "name": "Godolphin Barb",
-    "aliases": [
-      "ゴドルフィンバルブ"
-    ]
-  },
-  {
-    "name": "Darley Arabian",
-    "aliases": [
-      "ダーレーアラビアン"
-    ]
-  },
-  {
-    "name": "Light Hello",
-    "aliases": [
-      "ライトハロー"
-    ]
-  },
-  {
-    "name": "Riko Kashimoto",
-    "aliases": [
-      "樫本理子"
-    ]
-  },
-  {
-    "name": "Sasami Anshinzawa",
-    "aliases": [
-      "安心沢刺々美"
-    ]
-  },
-  {
-    "name": "Aoi Kiryuin",
-    "aliases": [
-      "桐生院葵"
-    ]
-  },
-  {
-    "name": "Etsuko Otonashi",
-    "aliases": [
-      "乙名史悦子"
-    ]
-  },
-  {
-    "name": "Tazuna Hayakawa",
-    "aliases": [
-      "駿川たづな"
-    ]
-  },
-  {
-    "name": "Sonon Elfie",
-    "aliases": [
-      "ソノンエルフィー"
-    ]
-  },
-  {
-    "name": "Rigantona",
-    "aliases": [
-      "リガントーナ"
-    ]
-  },
-  {
-    "name": "Venus Paques",
-    "aliases": [
-      "ヴェニュスパーク"
-    ]
-  },
-  {
-    "name": "Little Cocon",
-    "aliases": [
-      "リトルココン"
-    ]
-  },
-  {
-    "name": "Bitter Glasse",
-    "aliases": [
-      "ビターグラッセ"
-    ]
-  },
-  {
-    "name": "Happy Meek",
-    "aliases": [
-      "ハッピーミーク"
-    ]
-  },
-  {
     "name": "Phalaenopsis",
     "aliases": [
       "ファレノプシス"
     ]
   },
   {
-    "name": "Titleholder",
-    "aliases": [
-      "タイトルホルダー"
-    ]
-  },
-  {
-    "name": "Efforia",
-    "aliases": [
-      "エフフォーリア"
-    ]
-  },
-  {
     "name": "Rulership",
     "aliases": [
-      "ルーラーシップ"
+      "ルーラーシップ",
+      "룰러쉽"
     ]
   },
   {
     "name": "Rose Kingdom",
     "aliases": [
-      "ローズキングダム"
+      "ローズキングダム",
+      "로즈 킹덤"
     ]
   },
   {
     "name": "Victoire Pisa",
     "aliases": [
-      "ヴィクトワールピサ"
-    ]
-  },
-  {
-    "name": "Logotype",
-    "aliases": [
-      "ロゴタイプ"
+      "ヴィクトワールピサ",
+      "빅투아르 피사"
     ]
   },
   {
     "name": "Epiphaneia",
     "aliases": [
-      "エピファネイア"
-    ]
-  },
-  {
-    "name": "Marche Lorraine",
-    "aliases": [
-      "マルシュロレーヌ"
-    ]
-  },
-  {
-    "name": "Casino Drive",
-    "aliases": [
-      "カジノドライヴ"
-    ]
-  },
-  {
-    "name": "Forever Young",
-    "aliases": [
-      "フォーエバーヤング"
+      "エピファネイア",
+      "에피파네이아"
     ]
   },
   {
     "name": "Kiseki",
     "aliases": [
-      "キセキ"
+      "キセキ",
+      "키세키"
     ]
   },
   {
     "name": "Red Desire",
     "aliases": [
-      "レッドディザイア"
+      "レッドディザイア",
+      "레드 디자이어"
     ]
   },
   {
     "name": "Stay Gold",
     "aliases": [
-      "ステイゴールド"
+      "ステイゴールド",
+      "스테이 골드",
+      "黃金旅程"
     ]
   },
   {
     "name": "Curren Bouquetd'or",
     "aliases": [
-      "カレンブーケドール"
+      "カレンブーケドール",
+      "카렌 부케도르",
+      "機伶金花"
     ]
   },
   {
     "name": "Chrono Genesis",
     "aliases": [
-      "クロノジェネシス"
+      "クロノジェネシス",
+      "크로노 제네시스",
+      "時代創世"
     ]
   },
   {
     "name": "Loves Only You",
     "aliases": [
-      "ラヴズオンリーユー"
+      "ラヴズオンリーユー",
+      "러브즈 온리 유",
+      "唯獨愛你"
     ]
   },
   {
     "name": "Gran Alegria",
     "aliases": [
-      "グランアレグリア"
+      "グランアレグリア",
+      "그란 알레그리아",
+      "放聲歡呼"
     ]
   },
   {
     "name": "Lucky Lilac",
     "aliases": [
-      "ラッキーライラック"
+      "ラッキーライラック",
+      "럭키 라일락",
+      "幸運歐丁香"
     ]
   },
   {
     "name": "Almond Eye",
     "aliases": [
-      "アーモンドアイ"
-    ]
-  },
-  {
-    "name": "Blast Onepiece",
-    "aliases": [
-      "ブラストワンピース"
+      "アーモンドアイ",
+      "아몬드 아이",
+      "杏目"
     ]
   },
   {
     "name": "Fenomeno",
     "aliases": [
-      "フェノーメノ"
-    ]
-  },
-  {
-    "name": "Sakura Chitose O",
-    "aliases": [
-      "サクラチトセオー"
+      "フェノーメノ",
+      "페노메노",
+      "超常駿驥"
     ]
   },
   {
     "name": "Bubble Gum Fellow",
     "aliases": [
-      "バブルガムフェロー"
+      "バブルガムフェロー",
+      "버블검 펠로",
+      "泡泡糖小子"
     ]
   },
   {
     "name": "Durandal",
     "aliases": [
-      "デュランダル"
+      "デュランダル",
+      "뒤랑달",
+      "杜蘭達爾"
     ]
   },
   {
     "name": "Calstone Light O",
     "aliases": [
-      "カルストンライトオ"
+      "カルストンライトオ",
+      "칼스톤 라이트 오",
+      "浮岩光王"
     ]
   },
   {
     "name": "Dream Journey",
     "aliases": [
-      "ドリームジャーニー"
+      "ドリームジャーニー",
+      "드림 저니",
+      "夢之旅"
     ]
   },
   {
     "name": "Admire Groove",
     "aliases": [
-      "アドマイヤグルーヴ"
+      "アドマイヤグルーヴ",
+      "어드마이어 그루브",
+      "愛慕律動"
     ]
   },
   {
     "name": "Win Variation",
     "aliases": [
-      "ウインバリアシオン"
+      "ウインバリアシオン",
+      "윈 바리아시옹",
+      "凱旋芭蕾"
     ]
   },
   {
     "name": "Gentildonna",
     "aliases": [
-      "ジェンティルドンナ"
+      "ジェンティルドンナ",
+      "젠틸돈나",
+      "貴婦人"
     ]
   },
   {
     "name": "Orfevre",
     "aliases": [
-      "オルフェーヴル"
+      "オルフェーヴル",
+      "오르페브르",
+      "黃金巨匠"
     ]
   },
   {
     "name": "Buena Vista",
     "aliases": [
-      "ブエナビスタ"
+      "ブエナビスタ",
+      "부에나 비스타",
+      "迷人景致"
     ]
   },
   {
     "name": "Fusaichi Pandora",
     "aliases": [
-      "フサイチパンドラ"
+      "フサイチパンドラ",
+      "후사이치 판도라",
+      "房一潘朵拉"
     ]
   },
   {
     "name": "Daring Heart",
     "aliases": [
-      "デアリングハート"
+      "デアリングハート",
+      "데어링 하트",
+      "勇敢之心"
     ]
   },
   {
     "name": "Air Messiah",
     "aliases": [
-      "エアメサイア"
+      "エアメサイア",
+      "에어 메사이어",
+      "空中彌賽亞"
     ]
   },
   {
     "name": "Cesario",
     "aliases": [
-      "シーザリオ"
+      "シーザリオ",
+      "세자리오",
+      "西薩里奧"
     ]
   },
   {
     "name": "Rhein Kraft",
     "aliases": [
-      "ラインクラフト"
+      "ラインクラフト",
+      "라인 크라프트",
+      "萊茵實力"
     ]
   },
   {
     "name": "Duramente",
     "aliases": [
-      "ドゥラメンテ"
+      "ドゥラメンテ",
+      "두라멘테",
+      "大鳴大放"
     ]
   },
   {
     "name": "Tap Dance City",
     "aliases": [
-      "タップダンスシチー"
+      "タップダンスシチー",
+      "탭 댄스 시티",
+      "踢踏城市"
     ]
   },
   {
     "name": "Hishi Miracle",
     "aliases": [
-      "ヒシミラクル"
+      "ヒシミラクル",
+      "히시 미라클",
+      "菱奇蹟"
     ]
   },
   {
     "name": "Neo Universe",
     "aliases": [
-      "ネオユニヴァース"
+      "ネオユニヴァース",
+      "네오 유니버스",
+      "新宇宙"
     ]
   },
   {
     "name": "Katsuragi Ace",
     "aliases": [
-      "カツラギエース"
+      "カツラギエース",
+      "카츠라기 에이스",
+      "葛城榮主"
     ]
   },
   {
     "name": "Royce and Royce",
     "aliases": [
-      "ロイスアンドロイス"
+      "ロイスアンドロイス",
+      "로이스 앤 로이스",
+      "萊斯萊斯"
     ]
   },
   {
     "name": "Sounds of Earth",
     "aliases": [
-      "サウンズオブアース"
-    ]
-  },
-  {
-    "name": "Samson Big",
-    "aliases": [
-      "サムソンビッグ"
+      "サウンズオブアース",
+      "사운즈 오브 어스",
+      "萬籟爭鳴"
     ]
   },
   {
     "name": "Wonder Acute",
     "aliases": [
-      "ワンダーアキュート"
+      "ワンダーアキュート",
+      "원더 어큐트",
+      "奇銳駿"
     ]
   },
   {
     "name": "Hokko Tarumae",
     "aliases": [
-      "ホッコータルマエ"
+      "ホッコータルマエ",
+      "홋코 타루마에",
+      "北幸樽前"
     ]
   },
   {
     "name": "Copano Rickey",
     "aliases": [
-      "コパノリッキー"
+      "コパノリッキー",
+      "코파노 리키",
+      "小林歷奇"
     ]
   },
   {
     "name": "Still in Love",
     "aliases": [
-      "スティルインラブ"
+      "スティルインラブ",
+      "스틸 인 러브",
+      "愛如往昔"
     ]
   },
   {
     "name": "No Reason",
     "aliases": [
-      "ノーリーズン"
+      "ノーリーズン",
+      "노 리즌",
+      "無需理由"
     ]
   },
   {
     "name": "Believe",
     "aliases": [
-      "ビリーヴ"
+      "ビリーヴ",
+      "빌리브",
+      "信念"
     ]
   },
   {
     "name": "Jungle Pocket",
     "aliases": [
-      "ジャングルポケット"
+      "ジャングルポケット",
+      "정글 포켓",
+      "叢林口袋"
     ]
   },
   {
     "name": "K.S.Miracle",
     "aliases": [
-      "ケイエスミラクル"
+      "ケイエスミラクル",
+      "케이에스 미라클",
+      "喜嘉奇蹟"
     ]
   },
   {
     "name": "Dantsu Flame",
     "aliases": [
-      "ダンツフレーム"
+      "ダンツフレーム",
+      "단츠 플레임",
+      "緞通烈焰"
     ]
   },
   {
     "name": "Vivlos",
     "aliases": [
-      "ヴィブロス"
+      "ヴィブロス",
+      "비블로스",
+      "比布魯斯"
     ]
   },
   {
     "name": "Verxina",
     "aliases": [
-      "ヴィルシーナ"
+      "ヴィルシーナ",
+      "베르시나",
+      "極峰"
     ]
   },
   {
     "name": "Cheval Grand",
     "aliases": [
-      "シュヴァルグラン"
+      "シュヴァルグラン",
+      "슈발 그랑",
+      "高尚駿逸"
     ]
   },
   {
     "name": "Satono Crown",
     "aliases": [
-      "サトノクラウン"
+      "サトノクラウン",
+      "사토노 크라운",
+      "里見皇冠"
     ]
   },
   {
     "name": "Aston Machan",
     "aliases": [
-      "アストンマーチャン"
+      "アストンマーチャン",
+      "애스턴 마짱",
+      "奧斯頓真弓"
     ]
   },
   {
     "name": "Mejiro Ramonu",
     "aliases": [
-      "メジロラモーヌ"
+      "メジロラモーヌ",
+      "메지로 라모누",
+      "目白拉茉奴"
     ]
   },
   {
     "name": "Daiichi Ruby",
     "aliases": [
-      "ダイイチルビー"
+      "ダイイチルビー",
+      "다이이치 루비",
+      "第一紅寶"
     ]
   },
   {
     "name": "Tanino Gimlet",
     "aliases": [
-      "タニノギムレット"
+      "タニノギムレット",
+      "타니노 김렛",
+      "谷水琴蕾"
     ]
   },
   {
-    "name": "Symboli Kris S",
+    "name": "Symboli Kris S",
     "aliases": [
-      "シンボリクリスエス"
+      "シンボリクリスエス",
+      "심볼리 크리스 에스",
+      "克莉斯耶絲象徵"
     ]
   },
   {
     "name": "North Flight",
     "aliases": [
-      "ノースフライト"
+      "ノースフライト",
+      "노스 플라이트",
+      "北方飛翔"
     ]
   },
   {
     "name": "Espoir City",
     "aliases": [
-      "エスポワールシチー"
+      "エスポワールシチー",
+      "에스푸아르 시티",
+      "希望城市"
     ]
   },
   {
     "name": "Transcend",
     "aliases": [
-      "トランセンド"
+      "トランセンド",
+      "트랜센드",
+      "創升"
     ]
   },
   {
     "name": "Furioso",
     "aliases": [
-      "フリオーソ"
+      "フリオーソ",
+      "푸리오소",
+      "狂熱激昂"
     ]
   },
   {
     "name": "Yamanin Zephyr",
     "aliases": [
-      "ヤマニンゼファー"
+      "ヤマニンゼファー",
+      "야마닌 제퍼",
+      "山人西風"
     ]
   },
   {
     "name": "Narita Top Road",
     "aliases": [
-      "ナリタトップロード"
+      "ナリタトップロード",
+      "나리타 탑 로드",
+      "成田路"
     ]
   },
   {
     "name": "Sakura Laurel",
     "aliases": [
-      "サクラローレル"
-    ]
-  },
-  {
-    "name": "Daring Tact",
-    "aliases": [
-      "デアリングタクト"
+      "サクラローレル",
+      "사쿠라 로렐",
+      "櫻花桂冠"
     ]
   },
   {
     "name": "Mejiro Bright",
     "aliases": [
-      "メジロブライト"
+      "メジロブライト",
+      "메지로 브라이트",
+      "目白光明"
     ]
   },
   {
     "name": "Tsurumaru Tsuyoshi",
     "aliases": [
-      "ツルマルツヨシ"
+      "ツルマルツヨシ",
+      "츠루마루 츠요시",
+      "鶴丸強志"
     ]
   },
   {
     "name": "Yaeno Muteki",
     "aliases": [
-      "ヤエノムテキ"
+      "ヤエノムテキ",
+      "야에노 무테키",
+      "八重無敵"
     ]
   },
   {
     "name": "Mejiro Ardan",
     "aliases": [
-      "メジロアルダン"
+      "メジロアルダン",
+      "메지로 아르당",
+      "目白阿爾丹"
     ]
   },
   {
     "name": "Sirius Symboli",
     "aliases": [
-      "シリウスシンボリ"
+      "シリウスシンボリ",
+      "시리우스 심볼리",
+      "天狼星象徵"
     ]
   },
   {
-    "name": "Sakura Chiyono O",
+    "name": "Sakura Chiyono O",
     "aliases": [
-      "サクラチヨノオー"
+      "サクラチヨノオー",
+      "사쿠라 치요노 오",
+      "櫻花千代王"
     ]
   },
   {
     "name": "Kitasan Black",
     "aliases": [
-      "キタサンブラック"
+      "キタサンブラック",
+      "키타산 블랙",
+      "北部玄駒"
     ]
   },
   {
     "name": "Satono Diamond",
     "aliases": [
-      "サトノダイヤモンド"
+      "サトノダイヤモンド",
+      "사토노 다이아몬드",
+      "里見光鑽"
     ]
   },
   {
     "name": "Twin Turbo",
     "aliases": [
-      "ツインターボ"
+      "ツインターボ",
+      "트윈 터보",
+      "雙渦輪"
     ]
   },
   {
     "name": "Daitaku Helios",
     "aliases": [
-      "ダイタクヘリオス"
+      "ダイタクヘリオス",
+      "다이타쿠 헬리오스",
+      "大德太陽"
     ]
   },
   {
     "name": "Mejiro Palmer",
     "aliases": [
-      "メジロパーマー"
+      "メジロパーマー",
+      "메지로 파머",
+      "目白善信"
     ]
   },
   {
     "name": "Ikuno Dictus",
     "aliases": [
-      "イクノディクタス"
+      "イクノディクタス",
+      "이쿠노 딕터스",
+      "生野狄杜斯"
     ]
   },
   {
     "name": "Matikanetannhauser",
     "aliases": [
-      "マチカネタンホイザ"
+      "マチカネタンホイザ",
+      "마치카네 탄호이저",
+      "待兼唐懷瑟"
     ]
   },
   {
     "name": "King Halo",
     "aliases": [
-      "キングヘイロー"
+      "キングヘイロー",
+      "킹 헤일로",
+      "帝王光輝"
     ]
   },
   {
     "name": "Nice Nature",
     "aliases": [
-      "ナイスネイチャ"
+      "ナイスネイチャ",
+      "나이스 네이처",
+      "優秀素質"
     ]
   },
   {
     "name": "Mejiro Dober",
     "aliases": [
-      "メジロドーベル"
+      "メジロドーベル",
+      "메지로 도베르",
+      "目白多伯"
     ]
   },
   {
     "name": "Meisho Doto",
     "aliases": [
-      "メイショウドトウ"
+      "メイショウドトウ",
+      "메이쇼 도토",
+      "名將怒濤"
     ]
   },
   {
     "name": "Mr. C.B.",
     "aliases": [
-      "ミスターシービー"
+      "ミスターシービー",
+      "미스터 시비",
+      "千明代表"
     ]
   },
   {
-    "name": "Matikane​fukukitaru",
+    "name": "Matikanefukukitaru",
     "aliases": [
-      "マチカネフクキタル"
+      "マチカネフクキタル",
+      "마치카네 후쿠키타루",
+      "待兼福來"
     ]
   },
   {
     "name": "Marvelous Sunday",
     "aliases": [
-      "マーベラスサンデー"
+      "マーベラスサンデー",
+      "마블러스 선데이",
+      "美麗週日"
     ]
   },
   {
     "name": "Biko Pegasus",
     "aliases": [
-      "ビコーペガサス"
+      "ビコーペガサス",
+      "비코 페가수스",
+      "微光飛駒"
     ]
   },
   {
     "name": "Bamboo Memory",
     "aliases": [
-      "バンブーメモリー"
+      "バンブーメモリー",
+      "뱀부 메모리",
+      "青竹回憶"
     ]
   },
   {
     "name": "Haru Urara",
     "aliases": [
-      "ハルウララ"
+      "ハルウララ",
+      "하루 우라라",
+      "春烏菈菈"
     ]
   },
   {
     "name": "Nishino Flower",
     "aliases": [
-      "ニシノフラワー"
+      "ニシノフラワー",
+      "니시노 플라워",
+      "西野花"
     ]
   },
   {
     "name": "Narita Taishin",
     "aliases": [
-      "ナリタタイシン"
+      "ナリタタイシン",
+      "나리타 타이신",
+      "成田大進"
     ]
   },
   {
     "name": "Nakayama Festa",
     "aliases": [
-      "ナカヤマフェスタ"
+      "ナカヤマフェスタ",
+      "나카야마 페스타",
+      "中山慶典"
     ]
   },
   {
     "name": "Tosen Jordan",
     "aliases": [
-      "トーセンジョーダン"
+      "トーセンジョーダン",
+      "토센 조던",
+      "島川喬登"
     ]
   },
   {
     "name": "Zenno Rob Roy",
     "aliases": [
-      "ゼンノロブロイ"
+      "ゼンノロブロイ",
+      "젠노 롭 로이",
+      "荒漠英雄"
     ]
   },
   {
     "name": "Smart Falcon",
     "aliases": [
-      "スマートファルコン"
+      "スマートファルコン",
+      "스마트 팔콘",
+      "醒目飛鷹"
     ]
   },
   {
     "name": "Super Creek",
     "aliases": [
-      "スーパークリーク"
+      "スーパークリーク",
+      "슈퍼 크릭",
+      "超級小溪"
     ]
   },
   {
     "name": "Sweep Tosho",
     "aliases": [
-      "スイープトウショウ"
+      "スイープトウショウ",
+      "스윕 토쇼",
+      "東商變革"
     ]
   },
   {
     "name": "Shinko Windy",
     "aliases": [
-      "シンコウウインディ"
+      "シンコウウインディ",
+      "신코 윈디",
+      "新光風"
     ]
   },
   {
     "name": "Seeking the Pearl",
     "aliases": [
-      "シーキングザパール"
+      "シーキングザパール",
+      "시킹 더 펄",
+      "採珠"
     ]
   },
   {
-    "name": "Sakura Bakushin O",
+    "name": "Sakura Bakushin O",
     "aliases": [
-      "サクラバクシンオー"
+      "サクラバクシンオー",
+      "사쿠라 바쿠신 오",
+      "櫻花驀進王"
     ]
   },
   {
     "name": "Gold City",
     "aliases": [
-      "ゴールドシチー"
+      "ゴールドシチー",
+      "골드 시티",
+      "黃金城市"
     ]
   },
   {
     "name": "Kawakami Princess",
     "aliases": [
-      "カワカミプリンセス"
+      "カワカミプリンセス",
+      "카와카미 프린세스",
+      "川上公主"
     ]
   },
   {
     "name": "Curren Chan",
     "aliases": [
-      "カレンチャン"
+      "カレンチャン",
+      "카렌짱",
+      "真機伶"
     ]
   },
   {
     "name": "Eishin Flash",
     "aliases": [
-      "エイシンフラッシュ"
+      "エイシンフラッシュ",
+      "에이신 플래시",
+      "榮進閃耀"
     ]
   },
   {
     "name": "Air Shakur",
     "aliases": [
-      "エアシャカール"
+      "エアシャカール",
+      "에어 샤커",
+      "空中神宮"
     ]
   },
   {
     "name": "Winning Ticket",
     "aliases": [
-      "ウイニングチケット"
+      "ウイニングチケット",
+      "위닝 티켓",
+      "勝利獎券"
     ]
   },
   {
     "name": "Inari One",
     "aliases": [
-      "イナリワン"
+      "イナリワン",
+      "이나리 원",
+      "稻荷一"
     ]
   },
   {
     "name": "Admire Vega",
     "aliases": [
-      "アドマイヤベガ"
+      "アドマイヤベガ",
+      "어드마이어 베가",
+      "愛慕織姬"
     ]
   },
   {
     "name": "Agnes Tachyon",
     "aliases": [
-      "アグネスタキオン"
+      "アグネスタキオン",
+      "아그네스 타키온",
+      "愛麗速子"
     ]
   },
   {
     "name": "Ines Fujin",
     "aliases": [
-      "アイネスフウジン"
+      "アイネスフウジン",
+      "아이네스 후진",
+      "艾尼風神"
     ]
   },
   {
     "name": "Rice Shower",
     "aliases": [
-      "ライスシャワー"
+      "ライスシャワー",
+      "라이스 샤워",
+      "米浴"
     ]
   },
   {
     "name": "Yukino Bijin",
     "aliases": [
-      "ユキノビジン"
+      "ユキノビジン",
+      "유키노 비진",
+      "雪之美人"
     ]
   },
   {
     "name": "Hishi Akebono",
     "aliases": [
-      "ヒシアケボノ"
+      "ヒシアケボノ",
+      "히시 아케보노",
+      "菱曙"
     ]
   },
   {
     "name": "Mejiro Ryan",
     "aliases": [
-      "メジロライアン"
+      "メジロライアン",
+      "메지로 라이언",
+      "目白雷恩"
     ]
   },
   {
     "name": "Mihono Bourbon",
     "aliases": [
-      "ミホノブルボン"
+      "ミホノブルボン",
+      "미호노 부르봉",
+      "美浦波旁"
     ]
   },
   {
     "name": "Manhattan Cafe",
     "aliases": [
-      "マンハッタンカフェ"
+      "マンハッタンカフェ",
+      "맨하탄 카페",
+      "曼哈頓咖啡"
     ]
   },
   {
     "name": "Mayano Top Gun",
     "aliases": [
-      "マヤノトップガン"
+      "マヤノトップガン",
+      "마야노 탑건",
+      "重砲"
     ]
   },
   {
     "name": "Biwa Hayahide",
     "aliases": [
-      "ビワハヤヒデ"
+      "ビワハヤヒデ",
+      "비와 하야히데",
+      "琵琶晨光"
     ]
   },
   {
     "name": "Fine Motion",
     "aliases": [
-      "ファインモーション"
+      "ファインモーション",
+      "파인 모션",
+      "美妙姿勢"
     ]
   },
   {
     "name": "Tamamo Cross",
     "aliases": [
-      "タマモクロス"
+      "タマモクロス",
+      "타마모 크로스",
+      "玉藻十字"
     ]
   },
   {
     "name": "Seiun Sky",
     "aliases": [
-      "セイウンスカイ"
+      "セイウンスカイ",
+      "세이운 스카이",
+      "青雲天空"
     ]
   },
   {
     "name": "Agnes Digital",
     "aliases": [
-      "アグネスデジタル"
+      "アグネスデジタル",
+      "아그네스 디지털",
+      "愛麗數碼"
     ]
   },
   {
     "name": "Air Groove",
     "aliases": [
-      "エアグルーヴ"
+      "エアグルーヴ",
+      "에어 그루브",
+      "氣槽"
     ]
   },
   {
     "name": "Symboli Rudolf",
     "aliases": [
-      "シンボリルドルフ"
+      "シンボリルドルフ",
+      "심볼리 루돌프",
+      "魯道夫象徵"
     ]
   },
   {
     "name": "Narita Brian",
     "aliases": [
-      "ナリタブライアン"
+      "ナリタブライアン",
+      "나리타 브라이언",
+      "成田白仁"
     ]
   },
   {
-    "name": "T.M. Opera O",
+    "name": "TM Opera O",
     "aliases": [
-      "テイエムオペラオー"
+      "テイエムオペラオー",
+      "티엠 오페라 오",
+      "好歌劇"
     ]
   },
   {
     "name": "El Condor Pasa",
     "aliases": [
-      "エルコンドルパサー"
+      "エルコンドルパサー",
+      "엘 콘도르 파사",
+      "神鷹"
     ]
   },
   {
     "name": "Mejiro McQueen",
     "aliases": [
-      "メジロマックイーン"
+      "メジロマックイーン",
+      "메지로 맥퀸",
+      "目白麥昆"
     ]
   },
   {
     "name": "Hishi Amazon",
     "aliases": [
-      "ヒシアマゾン"
+      "ヒシアマゾン",
+      "히시 아마존",
+      "菱亞馬遜"
     ]
   },
   {
     "name": "Grass Wonder",
     "aliases": [
-      "グラスワンダー"
+      "グラスワンダー",
+      "그래스 원더",
+      "草上飛"
     ]
   },
   {
     "name": "Taiki Shuttle",
     "aliases": [
-      "タイキシャトル"
+      "タイキシャトル",
+      "타이키 셔틀",
+      "大樹快車"
     ]
   },
   {
     "name": "Daiwa Scarlet",
     "aliases": [
-      "ダイワスカーレット"
+      "ダイワスカーレット",
+      "다이와 스칼렛",
+      "大和赤驥"
     ]
   },
   {
     "name": "Vodka",
     "aliases": [
-      "ウオッカ"
+      "ウオッカ",
+      "보드카",
+      "伏特加"
     ]
   },
   {
     "name": "Gold Ship",
     "aliases": [
-      "ゴールドシップ"
+      "ゴールドシップ",
+      "골드 쉽",
+      "黃金船"
     ]
   },
   {
     "name": "Oguri Cap",
     "aliases": [
-      "オグリキャップ"
+      "オグリキャップ",
+      "오구리 캡",
+      "小栗帽"
     ]
   },
   {
     "name": "Fuji Kiseki",
     "aliases": [
-      "フジキセキ"
+      "フジキセキ",
+      "후지 키세키",
+      "富士奇石"
     ]
   },
   {
     "name": "Maruzensky",
     "aliases": [
-      "マルゼンスキー"
+      "マルゼンスキー",
+      "마루젠스키",
+      "丸善斯基"
     ]
   },
   {
     "name": "Tokai Teio",
     "aliases": [
-      "トウカイテイオー"
+      "トウカイテイオー",
+      "토카이 테이오",
+      "東海帝皇"
     ]
   },
   {
     "name": "Silence Suzuka",
     "aliases": [
-      "サイレンススズカ"
+      "サイレンススズカ",
+      "사일런스 스즈카",
+      "無聲鈴鹿"
     ]
   },
   {
     "name": "Special Week",
     "aliases": [
-      "スペシャルウィーク"
+      "スペシャルウィーク",
+      "스페셜 위크",
+      "特別週"
     ]
   }
 ]
