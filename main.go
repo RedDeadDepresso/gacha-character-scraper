@@ -33,6 +33,7 @@ var registry = []scrapers.Scraper{
 	scrapers.GenshinImpact{},
 	scrapers.GirlsFrontline2{},
 	scrapers.PokemonMasters{},
+	scrapers.Hololive{},
 }
 
 func main() {
