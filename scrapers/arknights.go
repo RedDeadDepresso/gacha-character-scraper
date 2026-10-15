@@ -1,124 +1,140 @@
 package scrapers
 
 import (
+	"encoding/json"
+	"fmt"
 	"log"
+	"sort"
+	"strconv"
 	"strings"
-	"time"
-
-	"github.com/PuerkitoBio/goquery"
 )
 
 const (
-	arknightsBase    = "https://arknights.wiki.gg"
-	arknightsListURL = arknightsBase + "/wiki/Operator/List"
-	requestDelay     = 500 * time.Millisecond
+	arknightsRepo   = "VanAstraea/novena"
+	arknightsBranch = "main"
+	arknightsURL    = "https://vanastraea.github.io/novena/data/v1/%s/operators.json"
 )
 
-// Arknights scrapes https://arknights.wiki.gg.
+// Servers whose operators.json gives the aliases, in alias order. The English
+// file ("en") gives the main name.
+var arknightsServers = []string{"jp", "kr", "cn"}
+
+// Arknights reads operators from Novena's static data files.
 type Arknights struct{}
 
 func (Arknights) Name() string { return "Arknights" }
 
-type operatorLink struct {
-	Name string
-	URL  string
+type arknightsOp struct {
+	ID   string `json:"id"`
+	Name string `json:"name"`
+	CN   string `json:"cn"` // Chinese name, present in the English file
 }
 
-// Scrape walks the operator list in page order. It stops as soon as it reaches
-// the first character already saved in data/Arknights.json, so the list page is
-// assumed to be ordered newest-first. New characters are prepended to existing.
-func (a Arknights) Scrape(existing []Character) ([]Character, error) {
-	links, err := a.operatorLinks()
+// fetchArknightsOps downloads <server>/operators.json ({"ops": [...]}).
+func fetchArknightsOps(server string) ([]arknightsOp, error) {
+	body, err := get(fmt.Sprintf(arknightsURL, server))
 	if err != nil {
 		return nil, err
 	}
-	log.Printf("[Arknights] %d operators on list page", len(links))
+	defer body.Close()
+	var data struct {
+		Ops []arknightsOp `json:"ops"`
+	}
+	if err := json.NewDecoder(body).Decode(&data); err != nil {
+		return nil, fmt.Errorf("parse %s operators.json: %w", server, err)
+	}
+	return data.Ops, nil
+}
 
-	var fresh []Character
-	for _, l := range links {
-		if len(existing) > 0 && strings.EqualFold(l.Name, existing[0].Name) {
-			log.Printf("[Arknights] reached known operator %q, stopping", l.Name)
-			break
+// arknightsNumber returns the number in an id like "char_4226_veen" (4226).
+func arknightsNumber(id string) int {
+	parts := strings.Split(id, "_")
+	if len(parts) < 2 {
+		return 0
+	}
+	n, _ := strconv.Atoi(parts[1])
+	return n
+}
+
+// buildArknightsCharacters merges the per-server operator lists by id. The
+// name is the English one (an operator not in the English file is skipped) and
+// the aliases are the Japanese, Korean and Chinese names. Newest first: a lower
+// id number is an older operator.
+func buildArknightsCharacters(en []arknightsOp, others map[string][]arknightsOp) []Character {
+	byServer := map[string]map[string]string{} // server -> id -> name
+	for server, ops := range others {
+		m := make(map[string]string, len(ops))
+		for _, op := range ops {
+			m[op.ID] = strings.TrimSpace(op.Name)
 		}
-		time.Sleep(requestDelay)
-		c, err := a.operatorPage(l)
-		if err != nil {
-			log.Printf("[Arknights] skip %s: %v", l.Name, err)
+		byServer[server] = m
+	}
+
+	list := make([]arknightsOp, 0, len(en))
+	for _, op := range en {
+		if strings.TrimSpace(op.Name) != "" {
+			list = append(list, op)
+		}
+	}
+	sort.SliceStable(list, func(i, j int) bool {
+		a, b := arknightsNumber(list[i].ID), arknightsNumber(list[j].ID)
+		if a != b {
+			return a > b
+		}
+		return list[i].ID > list[j].ID
+	})
+
+	chars := make([]Character, 0, len(list))
+	pos := map[string]int{}
+	for _, op := range list {
+		name := strings.Join(strings.Fields(op.Name), " ")
+		var aliases []string
+		for _, server := range arknightsServers {
+			aliases = append(aliases, byServer[server][op.ID])
+		}
+		aliases = append(aliases, op.CN) // fallback when the cn file lacks it
+		key := strings.ToLower(name)
+		if p, ok := pos[key]; ok { // same name under another id: fold into the newer one
+			chars[p].Aliases = cleanAliases(chars[p].Name, append(chars[p].Aliases, aliases...))
 			continue
 		}
-		log.Printf("[Arknights] + %s %v", c.Name, c.Aliases)
-		fresh = append(fresh, c)
+		pos[key] = len(chars)
+		chars = append(chars, Character{Name: name, Aliases: cleanAliases(name, aliases)})
 	}
-	return append(fresh, existing...), nil
+	return chars
 }
 
-// operatorLinks reads the name link from each row of the operator list table.
-func (Arknights) operatorLinks() ([]operatorLink, error) {
-	body, err := get(arknightsListURL)
+// Scrape skips everything when the Novena commit hasn't changed since the last
+// run (cached in config/commits.json). Otherwise the whole list is rebuilt from
+// the en, jp, kr and cn operators.json files.
+func (a Arknights) Scrape(existing []Character) ([]Character, error) {
+	sha, err := LatestCommit(arknightsRepo, arknightsBranch)
 	if err != nil {
 		return nil, err
 	}
-	defer body.Close()
-	doc, err := goquery.NewDocumentFromReader(body)
+	if len(existing) > 0 && sha == LoadCommit(a.Name()) {
+		log.Printf("[Arknights] Novena unchanged (%s), skipping", sha[:7])
+		return existing, nil
+	}
+
+	en, err := fetchArknightsOps("en")
 	if err != nil {
 		return nil, err
 	}
-
-	var links []operatorLink
-	seen := map[string]bool{}
-	doc.Find("table tr").Each(func(_ int, row *goquery.Selection) {
-		// First anchor in the row with visible text that points to a wiki page.
-		row.Find("a[href^='/wiki/']").EachWithBreak(func(_ int, s *goquery.Selection) bool {
-			text := strings.TrimSpace(s.Text())
-			href, _ := s.Attr("href")
-			if text == "" || strings.Contains(href, ":") || seen[href] {
-				return true // keep looking in this row
-			}
-			seen[href] = true
-			links = append(links, operatorLink{Name: text, URL: arknightsBase + href})
-			return false
-		})
-	})
-	return links, nil
-}
-
-// nameLangs are the lang attributes that carry the operator's names in other
-// languages, e.g. <div lang="ja">怒潮ズィマー</div>.
-var nameLangs = map[string]bool{
-	"zh-hans": true, "zh-hant": true, "zh": true, "zh-cn": true, "zh-tw": true,
-	"ja": true, "ko": true,
-}
-
-// operatorPage collects the names in other languages from the page's
-// <div lang="..."> elements. Only the first div per language is used, since
-// later ones (voice lines, quotes, ...) are not names.
-func (Arknights) operatorPage(l operatorLink) (Character, error) {
-	body, err := get(l.URL)
-	if err != nil {
-		return Character{}, err
-	}
-	defer body.Close()
-	doc, err := goquery.NewDocumentFromReader(body)
-	if err != nil {
-		return Character{}, err
+	others := map[string][]arknightsOp{}
+	for _, server := range arknightsServers {
+		if others[server], err = fetchArknightsOps(server); err != nil {
+			return nil, err
+		}
 	}
 
-	c := Character{Name: l.Name, Aliases: []string{}}
-	seenLang := map[string]bool{}
-	seenName := map[string]bool{strings.ToLower(l.Name): true}
-	doc.Find("div[lang]").Each(func(_ int, d *goquery.Selection) {
-		lang, _ := d.Attr("lang")
-		lang = strings.ToLower(strings.TrimSpace(lang))
-		if !nameLangs[lang] || seenLang[lang] {
-			return
-		}
-		name := strings.TrimSpace(d.Text())
-		if name == "" || seenName[strings.ToLower(name)] {
-			return
-		}
-		seenLang[lang] = true
-		seenName[strings.ToLower(name)] = true
-		c.Aliases = append(c.Aliases, name)
-	})
-	return c, nil
+	chars := buildArknightsCharacters(en, others)
+	if len(chars) == 0 {
+		return nil, fmt.Errorf("arknights: no operators found")
+	}
+	if err := SaveCommit(a.Name(), sha); err != nil {
+		return nil, err
+	}
+	log.Printf("[Arknights] %d operators (commit %s)", len(chars), sha[:7])
+	return chars, nil
 }

@@ -1,293 +1,220 @@
 [
   {
-    "name": "Zima the Raging Tide",
+    "name": "Jacinta",
     "aliases": [
-      "怒潮凛冬",
-      "怒潮ズィマー",
-      "지마 더 레이징 타이드"
+      "嘉辛塔"
+    ]
+  },
+  {
+    "name": "Timeslot",
+    "aliases": [
+      "时隙"
+    ]
+  },
+  {
+    "name": "Thumpy",
+    "aliases": [
+      "珊比"
+    ]
+  },
+  {
+    "name": "Pedro",
+    "aliases": [
+      "佩德洛"
+    ]
+  },
+  {
+    "name": "Homebound",
+    "aliases": [
+      "旅骨"
+    ]
+  },
+  {
+    "name": "Clementia",
+    "aliases": [
+      "克莱门莎"
+    ]
+  },
+  {
+    "name": "Mechanist",
+    "aliases": [
+      "机械师"
+    ]
+  },
+  {
+    "name": "Aphrissa",
+    "aliases": [
+      "谬因"
+    ]
+  },
+  {
+    "name": "Closure",
+    "aliases": [
+      "クロージャ",
+      "클로저",
+      "可露希尔"
+    ]
+  },
+  {
+    "name": "GALLUS²",
+    "aliases": []
+  },
+  {
+    "name": "Вий",
+    "aliases": [
+      "ヴィイ",
+      "비이",
+      "维伊"
+    ]
+  },
+  {
+    "name": "Crackborne",
+    "aliases": [
+      "クラックボーン",
+      "크랙본",
+      "裂响"
     ]
   },
   {
     "name": "Ukusik",
     "aliases": [
-      "乌啾",
       "ウクシク",
-      "우쿠시크"
+      "우쿠시크",
+      "乌啾"
     ]
   },
   {
     "name": "Botani",
     "aliases": [
-      "伯塔尼",
       "ボタニ",
-      "보타니"
-    ]
-  },
-  {
-    "name": "Bellone",
-    "aliases": [
-      "贝洛内",
-      "貝洛內",
-      "ベッローネ",
-      "벨로네"
-    ]
-  },
-  {
-    "name": "Ripresa",
-    "aliases": [
-      "复奏",
-      "リプレーザ"
-    ]
-  },
-  {
-    "name": "Ch'en the Dawnstreak",
-    "aliases": [
-      "赤刃明霄陈",
-      "赤刃明霄せきじんめいしょうチェン"
-    ]
-  },
-  {
-    "name": "Wang",
-    "aliases": [
-      "望",
-      "ウァン",
-      "왕"
-    ]
-  },
-  {
-    "name": "Ju",
-    "aliases": [
-      "矩",
-      "ジュー"
+      "보타니",
+      "伯塔尼"
     ]
   },
   {
     "name": "Taraxacum",
     "aliases": [
-      "风絮",
-      "タラクサカム"
+      "タラクサカム",
+      "타락사쿰",
+      "风絮"
     ]
   },
   {
-    "name": "Titi",
+    "name": "Ju",
     "aliases": [
-      "缇缇",
-      "ティティ",
-      "티티"
+      "ジュー",
+      "쥐",
+      "矩"
     ]
   },
   {
-    "name": "Varkáris",
+    "name": "Koromaru",
     "aliases": [
-      "摆渡人",
-      "ヴァルカリス",
-      "바르카리스"
+      "虎狼丸"
     ]
   },
   {
-    "name": "Perfumer the Distilled",
+    "name": "Yukari Takeba",
     "aliases": [
-      "撷英调香师",
-      "萃香パフューマー",
-      "퍼퓨머 더 디스틸드"
+      "岳羽由加莉"
     ]
   },
   {
-    "name": "Nasti",
+    "name": "Aegis",
     "aliases": [
-      "娜斯提",
-      "ナスティ",
-      "내스티"
+      "埃癸斯"
+    ]
+  },
+  {
+    "name": "Makoto Yuki",
+    "aliases": [
+      "结城理"
+    ]
+  },
+  {
+    "name": "Rhodes Island Recon",
+    "aliases": [
+      "罗德岛隐秘队"
     ]
   },
   {
     "name": "Cairn",
     "aliases": [
-      "响石",
       "ケルン",
-      "케언"
+      "케언",
+      "响石"
     ]
   },
   {
     "name": "Skybox",
     "aliases": [
-      "天空盒",
       "スカイボックス",
-      "스카이박스"
+      "스카이박스",
+      "天空盒"
     ]
   },
   {
-    "name": "Astgenne the Lightchaser",
+    "name": "Nasti",
     "aliases": [
-      "溯光星源",
-      "溯光そこうアステジーニ",
-      "아스트젠 더 라이트체이서"
-    ]
-  },
-  {
-    "name": "Pramanix the Prerita",
-    "aliases": [
-      "圣聆初雪",
-      "聖聆せいれいプラマニクス",
-      "프라마닉스 더 프레리타"
-    ]
-  },
-  {
-    "name": "SilverAsh the Reignfrost",
-    "aliases": [
-      "凛御银灰",
-      "凛御りんぎょシルバーアッシュ",
-      "실버애쉬 더 레인프로스트"
+      "ナスティ",
+      "내스티",
+      "娜斯提"
     ]
   },
   {
     "name": "Snow Hunter",
     "aliases": [
-      "雪猎",
       "スノーハンター",
-      "스노우헌터"
-    ]
-  },
-  {
-    "name": "Hadiya",
-    "aliases": [
-      "哈蒂娅",
-      "ハディヤ",
-      "하디야"
-    ]
-  },
-  {
-    "name": "Akkord",
-    "aliases": [
-      "协律",
-      "アコルト",
-      "아코르트"
-    ]
-  },
-  {
-    "name": "Mantra",
-    "aliases": [
-      "真言",
-      "マントラ",
-      "만트라"
-    ]
-  },
-  {
-    "name": "Vetochki",
-    "aliases": [
-      "折桠",
-      "ヴェトチキ",
-      "베토치키"
+      "스노우헌터",
+      "雪猎"
     ]
   },
   {
     "name": "Snegurochka",
     "aliases": [
-      "冬时",
       "スネグーラチカ",
-      "스네구로치카"
+      "스네구로치카",
+      "冬时"
     ]
   },
   {
-    "name": "Sakiko Togawa",
+    "name": "Vetochki",
     "aliases": [
-      "丰川祥子",
-      "豐川祥子",
-      "豊川とがわ 祥子さきこ",
-      "토가와 사키코"
+      "ヴェトチキ",
+      "베토치키",
+      "折桠"
     ]
   },
   {
-    "name": "Nyamu Yūtenji",
+    "name": "Mantra",
     "aliases": [
-      "祐天寺若麦",
-      "祐天寺若麥",
-      "祐天寺ゆうてんじ にゃむ",
-      "유텐지 냐무"
-    ]
-  },
-  {
-    "name": "Umiri Yahata",
-    "aliases": [
-      "八幡海铃",
-      "八幡海鈴",
-      "八幡やはた 海鈴うみり",
-      "야하타 우미리"
-    ]
-  },
-  {
-    "name": "Mutsumi Wakaba",
-    "aliases": [
-      "若叶睦",
-      "若葉睦",
-      "若葉わかば 睦むつみ",
-      "와카바 무츠미"
-    ]
-  },
-  {
-    "name": "Uika Misumi",
-    "aliases": [
-      "三角初华",
-      "三角初華",
-      "三角みすみ 初華ういか",
-      "미스미 우이카"
-    ]
-  },
-  {
-    "name": "Hoshiguma the Breacher",
-    "aliases": [
-      "斩业星熊",
-      "斬業ホシグマ",
-      "호시구마 더 브리처"
-    ]
-  },
-  {
-    "name": "Haruka",
-    "aliases": [
-      "遥",
-      "ハルカ",
-      "하루카"
+      "マントラ",
+      "만트라",
+      "真言"
     ]
   },
   {
     "name": "Kichisei",
     "aliases": [
-      "吉星",
       "キチセイ",
-      "키치세이"
+      "키치세이",
+      "吉星"
+    ]
+  },
+  {
+    "name": "Haruka",
+    "aliases": [
+      "ハルカ",
+      "하루카",
+      "遥"
     ]
   },
   {
     "name": "Matsukiri",
     "aliases": [
-      "松桐",
       "マツキリ",
-      "마츠키리"
-    ]
-  },
-  {
-    "name": "Leizi the Thunderbringer",
-    "aliases": [
-      "司霆惊蛰",
-      "司霆レイズ",
-      "레이즈 더 썬더브링어"
-    ]
-  },
-  {
-    "name": "Record Keeper",
-    "aliases": [
-      "录武官",
-      "錄武官",
-      "レコードキーパー",
-      "레코드키퍼"
-    ]
-  },
-  {
-    "name": "Tragodia",
-    "aliases": [
-      "酒神",
-      "トラゴディア",
-      "트라고디아"
+      "마츠키리",
+      "松桐"
     ]
   },
   {
@@ -298,49 +225,96 @@
     ]
   },
   {
-    "name": "Tippi",
+    "name": "Record Keeper",
     "aliases": [
-      "蒂比",
-      "ティッピ",
-      "티피"
+      "レコードキーパー",
+      "레코드키퍼",
+      "录武官"
+    ]
+  },
+  {
+    "name": "Raidian",
+    "aliases": [
+      "レイディアン",
+      "라이디언",
+      "电弧"
     ]
   },
   {
     "name": "Sankta Miksaparato",
     "aliases": [
-      "信仰搅拌机",
       "サンクタ・ミキサー",
-      "산크타 믹사파라토"
-    ]
-  },
-  {
-    "name": "Exusiai the New Covenant",
-    "aliases": [
-      "新约能天使",
-      "新約しんやくエクシア",
-      "엑시아 더 뉴 커버넌트"
+      "산크타 믹사파라토",
+      "信仰搅拌机"
     ]
   },
   {
     "name": "Lemuen",
     "aliases": [
-      "蕾缪安",
-      "蕾繆安",
       "レミュアン",
-      "르무엔"
+      "르무엔",
+      "蕾缪安"
     ]
   },
   {
-    "name": "Gracebearer",
+    "name": "Tippi",
     "aliases": [
-      "聆音",
-      "グレースベアラー",
-      "그레이스베어러"
+      "ティッピ",
+      "티피",
+      "蒂比"
     ]
   },
   {
     "name": "CONFESS-47",
     "aliases": []
+  },
+  {
+    "name": "Gracebearer",
+    "aliases": [
+      "グレースベアラー",
+      "그레이스베어러",
+      "聆音"
+    ]
+  },
+  {
+    "name": "Umiri Yahata",
+    "aliases": [
+      "八幡海鈴",
+      "야하타 우미리",
+      "八幡海铃"
+    ]
+  },
+  {
+    "name": "Nyamu Yūtenji",
+    "aliases": [
+      "祐天寺にゃむ",
+      "유텐지 냐무",
+      "祐天寺若麦"
+    ]
+  },
+  {
+    "name": "Uika Misumi",
+    "aliases": [
+      "三角初華",
+      "미스미 우이카",
+      "三角初华"
+    ]
+  },
+  {
+    "name": "Mutsumi Wakaba",
+    "aliases": [
+      "若葉睦",
+      "와카바 무츠미",
+      "若叶睦"
+    ]
+  },
+  {
+    "name": "Sakiko Togawa",
+    "aliases": [
+      "豊川祥子",
+      "토가와 사키코",
+      "丰川祥子"
+    ]
   },
   {
     "name": "Mon3tr",
@@ -349,678 +323,381 @@
   {
     "name": "Alanna",
     "aliases": [
-      "阿兰娜",
-      "阿蘭娜",
       "アランナ",
-      "알라나"
-    ]
-  },
-  {
-    "name": "Windscoot",
-    "aliases": [
-      "骋风",
-      "ウインドスクート",
-      "윈드스쿠트"
-    ]
-  },
-  {
-    "name": "Necrass",
-    "aliases": [
-      "死芒",
-      "ネクラス",
-      "네크라스"
-    ]
-  },
-  {
-    "name": "Wulfenite",
-    "aliases": [
-      "钼铅",
-      "ウルフェナイト",
-      "울페나이트"
+      "알라나",
+      "阿兰娜"
     ]
   },
   {
     "name": "Brigid",
     "aliases": [
-      "水灯心",
       "ブリギッド",
-      "브리지드"
-    ]
-  },
-  {
-    "name": "Entelechia",
-    "aliases": [
-      "隐德来希",
-      "隱德來希",
-      "エンテレケイア",
-      "엔텔레키아"
+      "브리지드",
+      "水灯心"
     ]
   },
   {
     "name": "Nowell",
     "aliases": [
-      "诺威尔",
-      "諾威爾",
       "ノウエル",
-      "노웰"
-    ]
-  },
-  {
-    "name": "Yu",
-    "aliases": [
-      "余",
-      "餘",
-      "ユー",
-      "위"
-    ]
-  },
-  {
-    "name": "Blaze the Igniting Spark",
-    "aliases": [
-      "烛煌",
-      "燭煌",
-      "熾炎しえんブレイズ",
-      "블레이즈 디 이그나이팅 스파크"
-    ]
-  },
-  {
-    "name": "Surfer",
-    "aliases": [
-      "寻澜",
-      "サーファー",
-      "서퍼"
+      "노웰",
+      "诺威尔"
     ]
   },
   {
     "name": "Xingzhu",
     "aliases": [
-      "行箸",
       "シィンズゥ",
-      "싱주"
+      "싱주",
+      "行箸"
     ]
   },
   {
-    "name": "Thorns the Lodestar",
+    "name": "Wulfenite",
     "aliases": [
-      "引星棘刺",
-      "引星いんせいソーンズ",
-      "쏜즈 더 로드스타"
+      "ウルフェナイト",
+      "울페나이트",
+      "钼铅"
     ]
   },
   {
-    "name": "Rose Salt",
+    "name": "Varkáris",
     "aliases": [
-      "瑰盐",
-      "ローズソルト",
-      "로즈솔트"
-    ]
-  },
-  {
-    "name": "Tecno",
-    "aliases": [
-      "特克诺",
-      "テクノ",
-      "테크노"
-    ]
-  },
-  {
-    "name": "Lappland the Decadenza",
-    "aliases": [
-      "荒芜拉普兰德",
-      "荒蕪こうぶラップランド",
-      "라플란드 더 데카덴차"
-    ]
-  },
-  {
-    "name": "Crownslayer",
-    "aliases": [
-      "弑君者",
-      "クラウンスレイヤー",
-      "크라운슬레이어"
-    ]
-  },
-  {
-    "name": "Vulpisfoglia",
-    "aliases": [
-      "忍冬",
-      "ウルピスフォリア",
-      "불피스폴리아"
-    ]
-  },
-  {
-    "name": "Philae",
-    "aliases": [
-      "菲莱",
-      "フィラエ",
-      "필라에"
-    ]
-  },
-  {
-    "name": "Figurino",
-    "aliases": [
-      "裁度",
-      "フィグリーノ",
-      "피구리노"
+      "ヴァルカリス",
+      "바르카리스",
+      "摆渡人"
     ]
   },
   {
     "name": "Contrail",
     "aliases": [
-      "云迹",
       "コントレイル",
-      "콘트레일"
+      "콘트레일",
+      "云迹"
     ]
   },
   {
-    "name": "Vina Victoria",
+    "name": "Tecno",
     "aliases": [
-      "维娜·维多利亚",
-      "維娜·維多利亞",
-      "ヴィーナ・ヴィクトリア",
-      "비나 빅토리아"
+      "テクノ",
+      "테크노",
+      "特克诺"
+    ]
+  },
+  {
+    "name": "Rose Salt",
+    "aliases": [
+      "ローズソルト",
+      "로즈솔트",
+      "瑰盐"
     ]
   },
   {
     "name": "Catherine",
     "aliases": [
-      "凯瑟琳",
-      "凱瑟琳",
       "キャサリン",
-      "캐서린"
+      "캐서린",
+      "凯瑟琳"
     ]
   },
   {
-    "name": "Bobbing",
+    "name": "Figurino",
     "aliases": [
-      "波卜",
-      "ボビング",
-      "보빙"
+      "フィグリーノ",
+      "피구리노",
+      "裁度"
     ]
   },
   {
-    "name": "Marcille",
+    "name": "Tin Man",
     "aliases": [
-      "玛露西尔",
-      "瑪露希爾",
-      "マルシル",
-      "마르실"
+      "ブリキ",
+      "틴맨",
+      "锡人"
     ]
   },
   {
-    "name": "Senshi",
+    "name": "Philae",
     "aliases": [
-      "森西",
-      "先西",
-      "センシ",
-      "센시"
-    ]
-  },
-  {
-    "name": "Laios",
-    "aliases": [
-      "莱欧斯",
-      "萊歐斯",
-      "ライオス",
-      "라이오스"
-    ]
-  },
-  {
-    "name": "Chilchuck",
-    "aliases": [
-      "齐尔查克",
-      "奇爾查克",
-      "チルチャック",
-      "칠책"
-    ]
-  },
-  {
-    "name": "Nymph",
-    "aliases": [
-      "妮芙",
-      "ニンフ",
-      "님프"
+      "フィラエ",
+      "필라에",
+      "菲莱"
     ]
   },
   {
     "name": "Mitm",
     "aliases": [
-      "渡桥",
       "ミトム",
-      "님프"
+      "미틈",
+      "渡桥"
     ]
   },
   {
-    "name": "Narantuya",
+    "name": "Nymph",
     "aliases": [
-      "娜仁图亚",
-      "ナラントゥヤ",
-      "나란투야"
-    ]
-  },
-  {
-    "name": "Pepe",
-    "aliases": [
-      "佩佩",
-      "ペペ",
-      "페페"
-    ]
-  },
-  {
-    "name": "Papyrus",
-    "aliases": [
-      "莎草",
-      "パピルス",
-      "파피루스"
-    ]
-  },
-  {
-    "name": "Sand Reckoner",
-    "aliases": [
-      "衡沙",
-      "サンドレコナー",
-      "샌드레코너"
+      "ニンフ",
+      "님프",
+      "妮芙"
     ]
   },
   {
     "name": "Ulpianus",
     "aliases": [
-      "乌尔比安",
-      "烏爾比安",
       "ウルピアヌス",
-      "울피아누스"
+      "울피아누스",
+      "乌尔比安"
     ]
   },
   {
-    "name": "Lucilla",
+    "name": "Chilchuck",
     "aliases": [
-      "海霓",
-      "ルシーラ",
-      "루실라"
+      "チルチャック",
+      "칠책",
+      "齐尔查克"
+    ]
+  },
+  {
+    "name": "Senshi",
+    "aliases": [
+      "センシ",
+      "센시",
+      "森西"
+    ]
+  },
+  {
+    "name": "Laios",
+    "aliases": [
+      "ライオス",
+      "라이오스",
+      "莱欧斯"
+    ]
+  },
+  {
+    "name": "Marcille",
+    "aliases": [
+      "マルシル",
+      "마르실",
+      "玛露西尔"
+    ]
+  },
+  {
+    "name": "Sand Reckoner",
+    "aliases": [
+      "サンドレコナー",
+      "샌드레코너",
+      "衡沙"
+    ]
+  },
+  {
+    "name": "Papyrus",
+    "aliases": [
+      "パピルス",
+      "파피루스",
+      "莎草"
+    ]
+  },
+  {
+    "name": "Narantuya",
+    "aliases": [
+      "ナラントゥヤ",
+      "나란투야",
+      "娜仁图亚"
     ]
   },
   {
     "name": "Underflow",
     "aliases": [
-      "深巡",
-      "アンダーフロー"
+      "アンダーフロー",
+      "언더플로우",
+      "深巡"
     ]
-  },
-  {
-    "name": "Wiš'adel",
-    "aliases": [
-      "维什戴尔",
-      "維什戴爾",
-      "ウィシャデル",
-      "위셔델"
-    ]
-  },
-  {
-    "name": "Logos",
-    "aliases": [
-      "逻各斯",
-      "邏各斯",
-      "ロゴス",
-      "로고스"
-    ]
-  },
-  {
-    "name": "Civilight Eterna",
-    "aliases": [
-      "魔王",
-      "シヴィライト・エテルナ\n魔王",
-      "시빌라이트 에테르나"
-    ]
-  },
-  {
-    "name": "Fang the Fire-Sharpened",
-    "aliases": [
-      "历阵锐枪芬",
-      "歷陣銳槍芬",
-      "歴陣鋭槍れきじんえいそうフェン",
-      "팽 더 파이어 샤픈드"
-    ]
-  },
-  {
-    "name": "Amiya (Medic)",
-    "aliases": []
   },
   {
     "name": "PhonoR-0",
     "aliases": []
   },
   {
-    "name": "Ascalon",
+    "name": "Civilight Eterna",
     "aliases": [
-      "阿斯卡纶",
-      "阿斯卡綸",
-      "アスカロン",
-      "아스카론"
+      "シヴィライト・エテルナ",
+      "시빌라이트 에테르나",
+      "魔王"
     ]
   },
   {
-    "name": "Aroma",
+    "name": "Logos",
     "aliases": [
-      "阿罗玛",
-      "阿羅瑪",
-      "アロマ",
-      "아로마"
+      "ロゴス",
+      "로고스",
+      "逻各斯"
+    ]
+  },
+  {
+    "name": "Ascalon",
+    "aliases": [
+      "アスカロン",
+      "아스카론",
+      "阿斯卡纶"
     ]
   },
   {
     "name": "Odda",
     "aliases": [
-      "奥达",
-      "奧達",
       "オッダ",
-      "오다"
+      "오다",
+      "奥达"
     ]
   },
   {
     "name": "Lutonada",
     "aliases": [
-      "露托",
       "ルトナダ",
-      "루토나다"
-    ]
-  },
-  {
-    "name": "Ela",
-    "aliases": [
-      "艾拉",
-      "エラ",
-      "엘라"
+      "루토나다",
+      "露托"
     ]
   },
   {
     "name": "Fuze",
     "aliases": [
-      "导火索",
-      "導火索",
-      "フューズ",
-      "퓨즈"
+      "导火索"
     ]
   },
   {
     "name": "Doc",
     "aliases": [
-      "医生",
-      "醫生",
-      "ドック",
-      "닥"
+      "医生"
     ]
   },
   {
     "name": "Iana",
     "aliases": [
-      "双月",
-      "イアナ",
-      "야나"
+      "双月"
     ]
   },
   {
-    "name": "Zuo Le",
+    "name": "Ela",
     "aliases": [
-      "左乐",
-      "左樂",
-      "ズオ・ラウ",
-      "좌락"
-    ]
-  },
-  {
-    "name": "Shu",
-    "aliases": [
-      "黍",
-      "シュウ",
-      "슈"
-    ]
-  },
-  {
-    "name": "Wanqing",
-    "aliases": [
-      "万顷",
-      "萬頃",
-      "ワンチィン",
-      "완칭"
+      "艾拉"
     ]
   },
   {
     "name": "Grain Buds",
     "aliases": [
-      "小满",
-      "小滿",
       "グレインバッズ",
-      "그레인버즈"
+      "그레인버즈",
+      "小满"
+    ]
+  },
+  {
+    "name": "Zuo Le",
+    "aliases": [
+      "ズオ・ラウ",
+      "좌락",
+      "左乐"
+    ]
+  },
+  {
+    "name": "Wanqing",
+    "aliases": [
+      "ワンチィン",
+      "완칭",
+      "万顷"
     ]
   },
   {
     "name": "Ray",
     "aliases": [
-      "莱伊",
-      "萊伊",
       "レイ",
-      "레이"
-    ]
-  },
-  {
-    "name": "Warmy",
-    "aliases": [
-      "温米",
-      "溫米",
-      "ウォーミー",
-      "워미"
+      "레이",
+      "莱伊"
     ]
   },
   {
     "name": "Degenbrecher",
     "aliases": [
-      "锏",
-      "鐧",
       "デーゲンブレヒャー",
-      "데겐블레허"
+      "데겐블레허",
+      "锏"
     ]
   },
   {
     "name": "Harold",
     "aliases": [
-      "哈洛德",
       "ハロルド",
-      "해럴드"
-    ]
-  },
-  {
-    "name": "Leto",
-    "aliases": [
-      "烈夏",
-      "リェータ",
-      "레토"
-    ]
-  },
-  {
-    "name": "Virtuosa",
-    "aliases": [
-      "塑心",
-      "ヴィルトゥオーサ",
-      "비르투오사"
-    ]
-  },
-  {
-    "name": "Lessing",
-    "aliases": [
-      "止颂",
-      "止頌",
-      "レッシング",
-      "레싱"
-    ]
-  },
-  {
-    "name": "Viviana",
-    "aliases": [
-      "薇薇安娜",
-      "ヴィヴィアナ",
-      "비비아나"
-    ]
-  },
-  {
-    "name": "Bassline",
-    "aliases": [
-      "深律",
-      "ベースライン",
-      "베이스라인"
-    ]
-  },
-  {
-    "name": "Diamante",
-    "aliases": [
-      "折光",
-      "ディアマンテ",
-      "디아만테"
-    ]
-  },
-  {
-    "name": "Caper",
-    "aliases": [
-      "跃跃",
-      "躍躍",
-      "ケイパー",
-      "케이퍼"
-    ]
-  },
-  {
-    "name": "Hoederer",
-    "aliases": [
-      "赫德雷",
-      "へドリー",
-      "외드레르"
+      "해럴드",
+      "哈洛德"
     ]
   },
   {
     "name": "Delphine",
     "aliases": [
-      "戴菲恩",
       "デルフィーン",
-      "델핀"
+      "델핀",
+      "戴菲恩"
     ]
   },
   {
-    "name": "Vendela",
+    "name": "Bassline",
     "aliases": [
-      "刺玫",
-      "ヴァンデラ",
-      "벤델라"
+      "ベースライン",
+      "베이스라인",
+      "深律"
     ]
   },
   {
     "name": "Verdant",
     "aliases": [
-      "维荻",
-      "維荻",
-      "ヴァ―ダント",
-      "버던트"
-    ]
-  },
-  {
-    "name": "Jessica the Liberated",
-    "aliases": [
-      "涤火杰西卡",
-      "滌火潔西卡",
-      "滌じょう火かジェシカ",
-      "제시카 더 리버레이티드"
-    ]
-  },
-  {
-    "name": "Coldshot",
-    "aliases": [
-      "冰酿",
-      "冰釀",
-      "コールドショット",
-      "콜드샷"
-    ]
-  },
-  {
-    "name": "Almond",
-    "aliases": [
-      "杏仁",
-      "アーモンド",
-      "아몬드"
-    ]
-  },
-  {
-    "name": "Typhon",
-    "aliases": [
-      "提丰",
-      "提豐",
-      "ティフォン",
-      "티폰"
-    ]
-  },
-  {
-    "name": "Santalla",
-    "aliases": [
-      "寒檀",
-      "サンタラ",
-      "산탈라"
-    ]
-  },
-  {
-    "name": "Swire the Elegant Wit",
-    "aliases": [
-      "琳琅诗怀雅",
-      "琳瑯詩懷雅",
-      "琳りん琅ろうスワイヤー",
-      "스와이어 디 엘리건트 위트"
-    ]
-  },
-  {
-    "name": "Eyjafjalla the Hvít Aska",
-    "aliases": [
-      "纯烬艾雅法拉",
-      "純燼艾雅法拉",
-      "純じゅん燼じんエイヤフィヤトラ",
-      "에이야퍄들라 더 크비트 아스카"
-    ]
-  },
-  {
-    "name": "Poncirus",
-    "aliases": [
-      "青枳",
-      "ポンシラス",
-      "폰사이러스"
+      "ヴァーダント",
+      "버던트",
+      "维荻"
     ]
   },
   {
     "name": "Bryophyta",
     "aliases": [
-      "苍苔",
-      "蒼苔",
-      "ブライオフャイタ",
-      "브라이오피타"
+      "ブライオファイタ",
+      "브라이오피타",
+      "苍苔"
     ]
   },
   {
-    "name": "Executor the Ex Foedere",
+    "name": "Almond",
     "aliases": [
-      "圣约送葬人",
-      "聖約送葬人",
-      "聖約せいやくイグゼキュター",
-      "이그제큐터 디 엑스 포에데레"
+      "アーモンド",
+      "아몬드",
+      "杏仁"
     ]
   },
   {
-    "name": "Spuria",
+    "name": "Coldshot",
     "aliases": [
-      "空构",
-      "空構",
-      "スプリア",
-      "스푸리아"
+      "コールドショット",
+      "콜드샷",
+      "冰酿"
     ]
   },
   {
-    "name": "Insider",
+    "name": "Valarqvin",
     "aliases": [
-      "隐现",
-      "隱現",
-      "インサイダー",
-      "인사이더"
+      "ヴァラルクビン",
+      "발라크빈",
+      "凛视"
+    ]
+  },
+  {
+    "name": "Caper",
+    "aliases": [
+      "ケイパー",
+      "케이퍼",
+      "跃跃"
+    ]
+  },
+  {
+    "name": "Viviana",
+    "aliases": [
+      "ヴィヴィアナ",
+      "비비아나",
+      "薇薇安娜"
     ]
   },
   {
@@ -1028,2504 +705,526 @@
     "aliases": []
   },
   {
-    "name": "Ho'olheyak",
-    "aliases": [
-      "霍尔海雅",
-      "霍爾海雅",
-      "ホルハイヤ",
-      "오올헤약"
-    ]
+    "name": "U-Official",
+    "aliases": []
   },
   {
-    "name": "Silence the Paradigmatic",
+    "name": "Hoederer",
     "aliases": [
-      "淬羽赫默",
-      "淬さい羽うサイレンス",
-      "사일런스 더 패러디그매틱"
-    ]
-  },
-  {
-    "name": "Muelsyse",
-    "aliases": [
-      "缪尔赛思",
-      "繆爾賽思",
-      "ミュルジス",
-      "뮤엘시스"
-    ]
-  },
-  {
-    "name": "Melanite",
-    "aliases": [
-      "玫拉",
-      "メラナイト",
-      "멜라나이트"
+      "ヘドリー",
+      "외드레르",
+      "赫德雷"
     ]
   },
   {
     "name": "Ines",
     "aliases": [
-      "伊内丝",
-      "伊內絲",
       "イネス",
-      "이네스"
-    ]
-  },
-  {
-    "name": "Morgan",
-    "aliases": [
-      "摩根",
-      "モーガン"
-    ]
-  },
-  {
-    "name": "Cement",
-    "aliases": [
-      "洋灰",
-      "セメント",
-      "시멘트"
-    ]
-  },
-  {
-    "name": "Humus",
-    "aliases": [
-      "休谟斯",
-      "休謨斯",
-      "ヒューマス",
-      "휴머스"
-    ]
-  },
-  {
-    "name": "Kirin R Yato",
-    "aliases": [
-      "麒麟R夜刀",
-      "キリンRヤトウ",
-      "키린R 야토"
-    ]
-  },
-  {
-    "name": "Rathalos S Noir Corne",
-    "aliases": [
-      "火龙S黑角",
-      "火龍S黑角",
-      "レウスSノイルホーン",
-      "레우스S 느와르 코르네"
-    ]
-  },
-  {
-    "name": "Terra Research Commission",
-    "aliases": [
-      "泰拉大陆调查团",
-      "泰拉大陸調查團",
-      "テラ大陸調査団",
-      "테라 대륙 조사단"
-    ]
-  },
-  {
-    "name": "Qiubai",
-    "aliases": [
-      "仇白",
-      "チューバイ",
-      "치우바이"
+      "이네스",
+      "伊内丝"
     ]
   },
   {
     "name": "Wind Chimes",
     "aliases": [
-      "铎铃",
-      "鐸鈴",
       "ウィンドチャイム",
-      "윈드차임스"
+      "윈드차임스",
+      "铎铃"
+    ]
+  },
+  {
+    "name": "Qiubai",
+    "aliases": [
+      "チューバイ",
+      "치우바이",
+      "仇白"
+    ]
+  },
+  {
+    "name": "Warmy",
+    "aliases": [
+      "ウォーミー",
+      "워미",
+      "温米"
     ]
   },
   {
     "name": "Lin",
     "aliases": [
-      "林",
       "リン",
-      "린"
+      "린",
+      "林"
     ]
   },
   {
-    "name": "Chongyue",
+    "name": "Lucilla",
     "aliases": [
-      "重岳",
-      "チョンユエ",
-      "총웨"
-    ]
-  },
-  {
-    "name": "Firewhistle",
-    "aliases": [
-      "火哨",
-      "ファイヤーホイッスル",
-      "파이어휘슬"
+      "ルシーラ",
+      "루실라",
+      "海霓"
     ]
   },
   {
     "name": "Jieyun",
     "aliases": [
-      "截云",
-      "截雲",
       "ジエユン",
-      "지에윈"
+      "지에윈",
+      "截云"
     ]
   },
   {
-    "name": "Reed the Flame Shadow",
+    "name": "Terra Research Commission",
     "aliases": [
-      "焰影苇草",
-      "焰影葦草",
-      "焔えん影えいリード",
-      "리드 더 플레임 섀도우"
-    ]
-  },
-  {
-    "name": "Puzzle",
-    "aliases": [
-      "谜图",
-      "謎圖",
-      "パズル",
-      "퍼즐"
-    ]
-  },
-  {
-    "name": "Harmonie",
-    "aliases": [
-      "和弦[note 1]",
-      "ハーモニー[note 2]",
-      "아르모니"
-    ]
-  },
-  {
-    "name": "Texas the Omertosa",
-    "aliases": [
-      "缄默德克萨斯",
-      "血掟けつじょうテキサス",
-      "텍사스 디 오메르토사"
-    ]
-  },
-  {
-    "name": "Vigil",
-    "aliases": [
-      "伺夜",
-      "ヴィジェル",
-      "비질"
-    ]
-  },
-  {
-    "name": "Penance",
-    "aliases": [
-      "斥罪",
-      "ペナンス",
-      "페넌스"
-    ]
-  },
-  {
-    "name": "Qanipalaat",
-    "aliases": [
-      "雪绒",
-      "雪絨",
-      "カニパラート",
-      "카니팔라트"
-    ]
-  },
-  {
-    "name": "Lunacub",
-    "aliases": [
-      "子月",
-      "ルナカブ"
-    ]
-  },
-  {
-    "name": "Quartz",
-    "aliases": [
-      "石英",
-      "クォーツ",
-      "쿼츠"
+      "テラ大陸調査団",
+      "테라 대륙 조사단",
+      "泰拉大陆调查团"
     ]
   },
   {
     "name": "Stainless",
     "aliases": [
-      "白铁",
-      "白鐵",
       "ステインレス",
-      "스테인리스"
+      "스테인리스",
+      "白铁"
     ]
   },
   {
     "name": "Paprika",
     "aliases": [
-      "明椒",
       "パプリカ",
-      "파프리카"
-    ]
-  },
-  {
-    "name": "Dagda",
-    "aliases": [
-      "达格达",
-      "達格達",
-      "ダグザ",
-      "다그다"
-    ]
-  },
-  {
-    "name": "Totter",
-    "aliases": [
-      "铅踝",
-      "鉛踝",
-      "トター",
-      "토터"
+      "파프리카",
+      "明椒"
     ]
   },
   {
     "name": "Luo Xiaohei",
     "aliases": [
-      "罗小黑",
-      "羅小黑",
-      "羅小黒ロシャオヘイ",
-      "나소흑"
+      "羅小黒",
+      "나소흑",
+      "罗小黑"
+    ]
+  },
+  {
+    "name": "Highmore",
+    "aliases": [
+      "ハイモア",
+      "하이모어",
+      "海沫"
+    ]
+  },
+  {
+    "name": "Penance",
+    "aliases": [
+      "ペナンス",
+      "페넌스",
+      "斥罪"
     ]
   },
   {
     "name": "Młynar",
     "aliases": [
-      "玛恩纳",
-      "瑪恩納",
       "ムリナール",
-      "무에나"
+      "무에나",
+      "玛恩纳"
     ]
   },
   {
-    "name": "Proviso",
+    "name": "Quartz",
     "aliases": [
-      "但书",
-      "但書",
-      "プロヴァイゾ",
-      "프로바이조"
+      "クォーツ",
+      "쿼츠",
+      "石英"
     ]
   },
   {
-    "name": "Dorothy",
+    "name": "Totter",
     "aliases": [
-      "多萝西",
-      "多蘿西",
-      "ドロシー",
-      "도로시"
+      "トター",
+      "토터",
+      "铅踝"
     ]
   },
   {
-    "name": "Greyy the Lightningbearer",
+    "name": "Pepe",
     "aliases": [
-      "承曦格雷伊",
-      "承しょう曦ぎグレイ",
-      "그레이 더 라이트닝베어러"
+      "ペペ",
+      "페페",
+      "佩佩"
     ]
   },
   {
-    "name": "Astgenne",
+    "name": "Titi",
     "aliases": [
-      "星源",
-      "アステジーニ",
-      "아스트젠"
+      "ティティ",
+      "티티",
+      "缇缇"
     ]
   },
   {
     "name": "Pozëmka",
     "aliases": [
-      "鸿雪",
-      "鴻雪",
       "パゼオンカ",
-      "파죰카"
-    ]
-  },
-  {
-    "name": "Gavial the Invincible",
-    "aliases": [
-      "百炼嘉维尔",
-      "百鍊嘉維爾",
-      "百ひゃく錬れんガヴィル",
-      "가비알 디 인빈서블"
-    ]
-  },
-  {
-    "name": "Cantabile",
-    "aliases": [
-      "晓歌",
-      "曉歌",
-      "カンタービレ",
-      "칸타빌레"
+      "파죰카",
+      "鸿雪"
     ]
   },
   {
     "name": "Minimalist",
     "aliases": [
-      "至简",
-      "至簡",
       "ミニマリスト",
-      "미니멀리스트"
+      "미니멀리스트",
+      "至简"
     ]
   },
   {
-    "name": "Ebenholz",
+    "name": "Surfer",
     "aliases": [
-      "黑键",
-      "黑鍵",
-      "エーベンホルツ",
-      "에벤홀츠"
+      "サーファー",
+      "서퍼",
+      "寻澜"
+    ]
+  },
+  {
+    "name": "Akkord",
+    "aliases": [
+      "アコルト",
+      "아코르트",
+      "协律"
+    ]
+  },
+  {
+    "name": "Dorothy",
+    "aliases": [
+      "ドロシー",
+      "도로시",
+      "多萝西"
     ]
   },
   {
     "name": "Czerny",
     "aliases": [
-      "车尔尼",
-      "車爾尼",
       "ツェルニー",
-      "체르니"
+      "체르니",
+      "车尔尼"
     ]
   },
   {
-    "name": "Hibiscus the Purifier",
+    "name": "Ebenholz",
     "aliases": [
-      "濯尘芙蓉",
-      "濯塵芙蓉",
-      "濯たく塵じんハイビスカス",
-      "히비스커스 더 퓨리파이어"
-    ]
-  },
-  {
-    "name": "Erato",
-    "aliases": [
-      "埃拉托",
-      "エラト",
-      "에라토"
-    ]
-  },
-  {
-    "name": "Lumen",
-    "aliases": [
-      "流明",
-      "ルーメン",
-      "루멘"
-    ]
-  },
-  {
-    "name": "Irene",
-    "aliases": [
-      "艾丽妮",
-      "艾麗妮",
-      "アイリーニ",
-      "아이린"
-    ]
-  },
-  {
-    "name": "Specter the Unchained",
-    "aliases": [
-      "归溟幽灵鲨",
-      "歸溟幽靈鯊",
-      "帰き溟めいスペクター",
-      "스펙터 디 언체인드"
-    ]
-  },
-  {
-    "name": "Windflit",
-    "aliases": [
-      "掠风",
-      "掠風",
-      "ウィンドフリット",
-      "윈드플릿"
-    ]
-  },
-  {
-    "name": "Horn",
-    "aliases": [
-      "号角",
-      "號角",
-      "ホルン",
-      "혼"
-    ]
-  },
-  {
-    "name": "Rockrock",
-    "aliases": [
-      "洛洛",
-      "ロックロック",
-      "락락"
+      "エーベンホルツ",
+      "에벤홀츠",
+      "黑键"
     ]
   },
   {
     "name": "Heidi",
     "aliases": [
-      "海蒂",
       "ハイディ",
-      "하이디"
+      "하이디",
+      "海蒂"
+    ]
+  },
+  {
+    "name": "Erato",
+    "aliases": [
+      "エラト",
+      "에라토",
+      "埃拉托"
+    ]
+  },
+  {
+    "name": "Lumen",
+    "aliases": [
+      "ルーメン",
+      "루멘",
+      "流明"
     ]
   },
   {
     "name": "Chestnut",
     "aliases": [
-      "褐果",
-      "チェスナット",
-      "체스트넛"
+      "チェストナット",
+      "체스트넛",
+      "褐果"
     ]
   },
   {
-    "name": "Fiammetta",
+    "name": "Rockrock",
     "aliases": [
-      "菲亚梅塔",
-      "菲亞梅塔",
-      "フィアメッタ",
-      "피아메타"
+      "ロックロック",
+      "락락",
+      "洛洛"
     ]
   },
   {
-    "name": "Kazemaru",
+    "name": "Horn",
     "aliases": [
-      "风丸",
-      "風丸",
-      "カゼマル",
-      "카제마루"
+      "ホルン",
+      "혼",
+      "号角"
+    ]
+  },
+  {
+    "name": "Bellone",
+    "aliases": [
+      "ベッローネ",
+      "벨로네",
+      "贝洛内"
     ]
   },
   {
     "name": "Enforcer",
     "aliases": [
-      "见行者",
-      "見行者",
       "エンフォーサー",
-      "인포서"
+      "인포서",
+      "见行者"
     ]
   },
   {
-    "name": "Goldenglow",
+    "name": "Proviso",
     "aliases": [
-      "澄闪",
-      "澄閃",
-      "ゴールデングロー",
-      "골든글로우"
+      "プロヴァイゾ",
+      "프로바이조",
+      "但书"
     ]
   },
   {
-    "name": "Quercus",
+    "name": "Ripresa",
     "aliases": [
-      "夏栎",
-      "夏櫟",
-      "クエルクス",
-      "퀘르쿠스"
+      "リプレーザ",
+      "리프레사",
+      "复奏"
     ]
   },
   {
-    "name": "Ling",
+    "name": "Ho'olheyak",
     "aliases": [
-      "令",
-      "リィン",
-      "링"
+      "ホルハイヤ",
+      "오올헤약",
+      "霍尔海雅"
     ]
   },
   {
-    "name": "Lee",
+    "name": "Vulpisfoglia",
     "aliases": [
-      "老鲤",
-      "老鯉",
-      "リー",
-      "리"
+      "ウルピスフォリア",
+      "불피스폴리아",
+      "忍冬"
     ]
   },
   {
-    "name": "Kroos the Keen Glint",
+    "name": "Shalem",
     "aliases": [
-      "寒芒克洛丝",
-      "寒芒克洛絲",
-      "寒かん芒ぼうクルース",
-      "크루스 더 킨 글린트"
+      "シャレム",
+      "샬렘",
+      "暮落"
     ]
   },
   {
-    "name": "Blacknight",
+    "name": "Kestrel",
     "aliases": [
-      "夜半",
-      "ブラックナイト",
-      "블랙나이트"
+      "ケストレル",
+      "케스트럴",
+      "红隼"
     ]
   },
   {
     "name": "Nine-Colored Deer",
     "aliases": [
       "九色鹿",
-      "九く色しき鹿ろく",
       "나인컬러드 디어"
     ]
   },
   {
-    "name": "Gnosis",
+    "name": "Puzzle",
     "aliases": [
-      "灵知",
-      "靈知",
-      "ノーシス",
-      "노시스"
+      "パズル",
+      "퍼즐",
+      "谜图"
     ]
   },
   {
-    "name": "Aurora",
+    "name": "Kazemaru",
     "aliases": [
-      "极光",
-      "極光",
-      "オーロラ",
-      "오로라"
+      "カゼマル",
+      "카제마루",
+      "风丸"
+    ]
+  },
+  {
+    "name": "Spuria",
+    "aliases": [
+      "スプリア",
+      "스푸리아",
+      "空构"
+    ]
+  },
+  {
+    "name": "Lunacub",
+    "aliases": [
+      "ルナカブ",
+      "루나컵",
+      "子月"
     ]
   },
   {
     "name": "Kjera",
     "aliases": [
-      "耶拉",
       "イェラ",
-      "쉐라"
+      "쉐라",
+      "耶拉"
     ]
   },
   {
-    "name": "Nearl the Radiant Knight",
+    "name": "Lessing",
     "aliases": [
-      "耀骑士临光",
-      "耀騎士臨光",
-      "耀よう騎き士しニアール",
-      "니어 더 래디언트 나이트"
+      "レッシング",
+      "레싱",
+      "止颂"
     ]
   },
   {
-    "name": "Flametail",
+    "name": "Entelechia",
     "aliases": [
-      "焰尾",
-      "フレイムテイル",
-      "플레임테일"
+      "エンテレケイア",
+      "엔텔레키아",
+      "隐德来希"
     ]
   },
   {
-    "name": "Wild Mane",
+    "name": "Irene",
     "aliases": [
-      "野鬃",
-      "ワイルドメイン",
-      "와일드메인"
+      "アイリーニ",
+      "아이린",
+      "艾丽妮"
     ]
   },
   {
-    "name": "Corroserum",
+    "name": "Melanite",
     "aliases": [
-      "蚀清",
-      "蝕清",
-      "コロセラム",
-      "코로세럼"
-    ]
-  },
-  {
-    "name": "Honeyberry",
-    "aliases": [
-      "蜜莓",
-      "ハニーベリー",
-      "허니베리"
+      "メラナイト",
+      "멜라나이트",
+      "玫拉"
     ]
   },
   {
     "name": "Pudding",
     "aliases": [
-      "布丁",
       "プリン",
-      "푸딩"
+      "푸딩",
+      "布丁"
     ]
   },
   {
-    "name": "Justice Knight",
+    "name": "'Justice Knight'",
     "aliases": [
-      "正义骑士号",
       "ジャスティスナイト",
-      "저스티스 나이트"
+      "저스티스 나이트",
+      "正义骑士号"
     ]
   },
   {
-    "name": "Fartooth",
+    "name": "Wang",
     "aliases": [
-      "远牙",
-      "遠牙",
-      "ファートゥース",
-      "파투스"
+      "ウァン",
+      "왕",
+      "望"
     ]
   },
   {
-    "name": "Ashlock",
+    "name": "Yu",
     "aliases": [
-      "灰毫",
-      "アッシュロック",
-      "애쉬락"
+      "ユー",
+      "위",
+      "余"
     ]
   },
   {
-    "name": "Saileach",
+    "name": "Shu",
     "aliases": [
-      "琴柳",
-      "サイラッハ",
-      "사일라흐"
+      "シュウ",
+      "슈",
+      "黍"
     ]
   },
   {
-    "name": "Mulberry",
+    "name": "Chongyue",
     "aliases": [
-      "桑葚",
-      "マルベリー",
-      "멀베리"
+      "チョンユエ",
+      "총웨",
+      "重岳"
     ]
   },
   {
-    "name": "Roberta",
+    "name": "Ling",
     "aliases": [
-      "罗比菈塔",
-      "羅比菈塔",
-      "ロベルタ",
-      "로베르타"
-    ]
-  },
-  {
-    "name": "Mizuki",
-    "aliases": [
-      "水月",
-      "ミヅキ",
-      "미즈키"
-    ]
-  },
-  {
-    "name": "Ch'en the Holungday",
-    "aliases": [
-      "假日威龙陈",
-      "假日威龍陳",
-      "遊ゆう龍りゅうチェン",
-      "첸 더 홀룽데이"
-    ]
-  },
-  {
-    "name": "La Pluma",
-    "aliases": [
-      "羽毛笔",
-      "羽毛筆",
-      "ラ・プルマ",
-      "라 플루마"
-    ]
-  },
-  {
-    "name": "Tequila",
-    "aliases": [
-      "龙舌兰",
-      "龍舌蘭",
-      "テキーラ",
-      "테킬라"
-    ]
-  },
-  {
-    "name": "Pallas",
-    "aliases": [
-      "帕拉斯",
-      "パラス",
-      "팔라스"
-    ]
-  },
-  {
-    "name": "Carnelian",
-    "aliases": [
-      "卡涅利安",
-      "カーネリアン",
-      "카넬리안"
-    ]
-  },
-  {
-    "name": "Bena",
-    "aliases": [
-      "贝娜",
-      "貝娜",
-      "ベナ",
-      "베나"
-    ]
-  },
-  {
-    "name": "Kirara",
-    "aliases": [
-      "绮良",
-      "綺良",
-      "キララ",
-      "키라라"
-    ]
-  },
-  {
-    "name": "Indigo",
-    "aliases": [
-      "深靛",
-      "インディゴ",
-      "인디고"
-    ]
-  },
-  {
-    "name": "Kal'tsit",
-    "aliases": [
-      "凯尔希",
-      "凱爾希",
-      "ケルシー",
-      "켈시"
-    ]
-  },
-  {
-    "name": "Skadi the Corrupting Heart",
-    "aliases": [
-      "浊心斯卡蒂",
-      "濁心斯卡蒂",
-      "濁だく心しんスカジ",
-      "스카디 더 커럽팅 하트"
-    ]
-  },
-  {
-    "name": "Gladiia",
-    "aliases": [
-      "歌蕾蒂娅",
-      "歌蕾蒂婭",
-      "グレイディーア",
-      "글래디아"
-    ]
-  },
-  {
-    "name": "Akafuyu",
-    "aliases": [
-      "赤冬",
-      "アカフユ",
-      "아카후유"
-    ]
-  },
-  {
-    "name": "Passenger",
-    "aliases": [
-      "异客",
-      "異客",
-      "パッセンジャー",
-      "패신저"
-    ]
-  },
-  {
-    "name": "Heavyrain",
-    "aliases": [
-      "暴雨",
-      "ヘビーレイン",
-      "헤비레인"
-    ]
-  },
-  {
-    "name": "Toddifons",
-    "aliases": [
-      "熔泉",
-      "トギフォンス",
-      "토디폰스"
-    ]
-  },
-  {
-    "name": "Ash",
-    "aliases": [
-      "灰烬",
-      "灰燼",
-      "アッシュ",
-      "애쉬"
-    ]
-  },
-  {
-    "name": "Frost",
-    "aliases": [
-      "霜华",
-      "霜華",
-      "フロスト",
-      "프로스트"
-    ]
-  },
-  {
-    "name": "Blitz",
-    "aliases": [
-      "闪击",
-      "閃擊",
-      "ブリッツ",
-      "블리츠"
-    ]
-  },
-  {
-    "name": "Tachanka",
-    "aliases": [
-      "战车",
-      "戰車",
-      "タチャンカ",
-      "타찬카"
+      "リィン",
+      "링",
+      "令"
     ]
   },
   {
     "name": "Dusk",
     "aliases": [
-      "夕",
       "シー",
-      "시"
-    ]
-  },
-  {
-    "name": "Saga",
-    "aliases": [
-      "嵯峨",
-      "サガ",
-      "사가"
-    ]
-  },
-  {
-    "name": "Mr. Nothing",
-    "aliases": [
-      "乌有",
-      "烏有",
-      "ウユウ",
-      "우요우"
-    ]
-  },
-  {
-    "name": "Lava the Purgatory",
-    "aliases": [
-      "炎狱炎熔",
-      "炎獄炎熔",
-      "炎えん獄ごくラヴァ",
-      "라바 더 퍼거토리"
-    ]
-  },
-  {
-    "name": "Tuye",
-    "aliases": [
-      "图耶",
-      "圖耶",
-      "トゥイエ",
-      "투예"
-    ]
-  },
-  {
-    "name": "Archetto",
-    "aliases": [
-      "空弦",
-      "アルケット",
-      "아르케토"
-    ]
-  },
-  {
-    "name": "Iris",
-    "aliases": [
-      "爱丽丝",
-      "愛麗絲",
-      "アイリス",
-      "아이리스"
-    ]
-  },
-  {
-    "name": "Beanstalk",
-    "aliases": [
-      "豆苗",
-      "ビーンストーク",
-      "빈스토크"
-    ]
-  },
-  {
-    "name": "Mountain",
-    "aliases": [
-      "山",
-      "マウンテン",
-      "마운틴"
-    ]
-  },
-  {
-    "name": "Kafka",
-    "aliases": [
-      "卡夫卡",
-      "カフカ",
-      "카프카"
-    ]
-  },
-  {
-    "name": "Robin",
-    "aliases": [
-      "罗宾",
-      "羅賓",
-      "ロビン",
-      "로빈"
-    ]
-  },
-  {
-    "name": "Pinecone",
-    "aliases": [
-      "松果",
-      "パインコーン",
-      "파인콘"
-    ]
-  },
-  {
-    "name": "Purestream",
-    "aliases": [
-      "清流",
-      "セイリュウ",
-      "퓨어스트림"
-    ]
-  },
-  {
-    "name": "Rosmontis",
-    "aliases": [
-      "迷迭香",
-      "ロスモンティス",
-      "로즈몬티스"
-    ]
-  },
-  {
-    "name": "Mudrock",
-    "aliases": [
-      "泥岩",
-      "マドロック",
-      "머드락"
-    ]
-  },
-  {
-    "name": "Amiya (Guard)",
-    "aliases": []
-  },
-  {
-    "name": "Whisperain",
-    "aliases": [
-      "絮雨",
-      "ウィスパーレイン",
-      "위스퍼레인"
-    ]
-  },
-  {
-    "name": "Jackie",
-    "aliases": [
-      "杰克",
-      "傑克",
-      "ジャッキー",
-      "재키"
-    ]
-  },
-  {
-    "name": "Blemishine",
-    "aliases": [
-      "瑕光",
-      "ブレミシャイン",
-      "블레미샤인"
-    ]
-  },
-  {
-    "name": "Whislash",
-    "aliases": [
-      "鞭刃",
-      "ウィスラッシュ",
-      "위슬래시"
-    ]
-  },
-  {
-    "name": "Aosta",
-    "aliases": [
-      "奥斯塔",
-      "奧斯塔",
-      "アオスタ",
-      "아오스타"
-    ]
-  },
-  {
-    "name": "Bubble",
-    "aliases": [
-      "泡泡",
-      "バブル",
-      "버블"
-    ]
-  },
-  {
-    "name": "Surtr",
-    "aliases": [
-      "史尔特尔",
-      "史爾特爾",
-      "スルト",
-      "수르트"
-    ]
-  },
-  {
-    "name": "April",
-    "aliases": [
-      "四月",
-      "エイプリル",
-      "에이프릴"
-    ]
-  },
-  {
-    "name": "Mint",
-    "aliases": [
-      "薄绿",
-      "薄綠",
-      "ミント",
-      "민트"
-    ]
-  },
-  {
-    "name": "Arene",
-    "aliases": [
-      "芳汀",
-      "アレーン",
-      "아렌"
-    ]
-  },
-  {
-    "name": "Eunectes",
-    "aliases": [
-      "森蚺",
-      "ユーネクテス",
-      "유넥티스"
-    ]
-  },
-  {
-    "name": "Flint",
-    "aliases": [
-      "燧石",
-      "フリント",
-      "플린트"
-    ]
-  },
-  {
-    "name": "Tomimi",
-    "aliases": [
-      "特米米",
-      "トミミ",
-      "토미미"
-    ]
-  },
-  {
-    "name": "Aciddrop",
-    "aliases": [
-      "酸糖",
-      "アシッドドロップ",
-      "애시드드롭"
-    ]
-  },
-  {
-    "name": "Scene",
-    "aliases": [
-      "稀音",
-      "シーン",
-      "씬"
-    ]
-  },
-  {
-    "name": "Thorns",
-    "aliases": [
-      "棘刺",
-      "ソーンズ",
-      "쏜즈"
-    ]
-  },
-  {
-    "name": "Andreana",
-    "aliases": [
-      "安哲拉",
-      "アンドレアナ",
-      "안드레아나"
-    ]
-  },
-  {
-    "name": "Jaye",
-    "aliases": [
-      "孑",
-      "ジェイ",
-      "제이"
-    ]
-  },
-  {
-    "name": "W",
-    "aliases": []
-  },
-  {
-    "name": "Weedy",
-    "aliases": [
-      "温蒂",
-      "溫蒂",
-      "ウィーディ",
-      "위디"
-    ]
-  },
-  {
-    "name": "Elysium",
-    "aliases": [
-      "极境",
-      "極境",
-      "エリジウム",
-      "엘리시움"
-    ]
-  },
-  {
-    "name": "THRM-EX",
-    "aliases": []
-  },
-  {
-    "name": "Phantom",
-    "aliases": [
-      "傀影",
-      "ファントム",
-      "팬텀"
-    ]
-  },
-  {
-    "name": "Sideroca",
-    "aliases": [
-      "铸铁",
-      "シデロカ",
-      "시데로카"
-    ]
-  },
-  {
-    "name": "Shamare",
-    "aliases": [
-      "巫恋",
-      "巫戀",
-      "シャマレ",
-      "샤마르"
-    ]
-  },
-  {
-    "name": "Cutter",
-    "aliases": [
-      "刻刀",
-      "カッター",
-      "커터"
-    ]
-  },
-  {
-    "name": "Chiave",
-    "aliases": [
-      "贾维",
-      "賈維",
-      "キアーベ",
-      "키아베"
-    ]
-  },
-  {
-    "name": "Beeswax",
-    "aliases": [
-      "蜜蜡",
-      "蜜蠟",
-      "ビーズワクス",
-      "비즈왁스"
-    ]
-  },
-  {
-    "name": "Asbestos",
-    "aliases": [
-      "石棉",
-      "アスベストス",
-      "아스베스토스"
-    ]
-  },
-  {
-    "name": "Tsukinogi",
-    "aliases": [
-      "月禾",
-      "ツキノギ",
-      "츠키노기"
-    ]
-  },
-  {
-    "name": "Suzuran",
-    "aliases": [
-      "铃兰",
-      "鈴蘭",
-      "スズラン",
-      "스즈란"
-    ]
-  },
-  {
-    "name": "Folinic",
-    "aliases": [
-      "亚叶",
-      "亞葉",
-      "フォリニック",
-      "폴리닉"
-    ]
-  },
-  {
-    "name": "Ayerscarpe",
-    "aliases": [
-      "断崖",
-      "斷崖",
-      "エアースカーペ",
-      "에이어스카르페"
-    ]
-  },
-  {
-    "name": "Click",
-    "aliases": [
-      "卡达",
-      "卡達",
-      "カシャ",
-      "클릭"
-    ]
-  },
-  {
-    "name": "Rosa",
-    "aliases": [
-      "早露",
-      "ロサ",
-      "로사"
-    ]
-  },
-  {
-    "name": "Leonhardt",
-    "aliases": [
-      "莱恩哈特",
-      "萊恩哈特",
-      "レオンハルト",
-      "레온하르트"
-    ]
-  },
-  {
-    "name": "Absinthe",
-    "aliases": [
-      "苦艾",
-      "アブサント",
-      "압생트"
-    ]
-  },
-  {
-    "name": "Podenco",
-    "aliases": [
-      "波登可",
-      "ポデンコ",
-      "포덴코"
-    ]
-  },
-  {
-    "name": "Bagpipe",
-    "aliases": [
-      "风笛",
-      "風笛",
-      "バグパイプ",
-      "백파이프"
-    ]
-  },
-  {
-    "name": "Sesa",
-    "aliases": [
-      "慑砂",
-      "懾砂",
-      "シェーシャ",
-      "세사"
-    ]
-  },
-  {
-    "name": "Bibeak",
-    "aliases": [
-      "柏喙",
-      "バイビーク",
-      "바이비크"
-    ]
-  },
-  {
-    "name": "Utage",
-    "aliases": [
-      "宴",
-      "ウタゲ",
-      "우타게"
-    ]
-  },
-  {
-    "name": "Ceobe",
-    "aliases": [
-      "刻俄柏",
-      "ケオベ",
-      "케오베"
-    ]
-  },
-  {
-    "name": "Leizi",
-    "aliases": [
-      "惊蛰",
-      "驚蟄",
-      "レイズ",
-      "레이즈"
-    ]
-  },
-  {
-    "name": "Aak",
-    "aliases": [
-      "阿",
-      "ア",
-      "아"
+      "시",
+      "夕"
     ]
   },
   {
     "name": "Nian",
     "aliases": [
-      "年",
       "ニェン",
-      "니엔"
+      "니엔",
+      "年"
     ]
   },
   {
-    "name": "Hung",
+    "name": "Ceobe",
     "aliases": [
-      "吽",
-      "ウン",
-      "훔"
+      "ケオベ",
+      "케오베",
+      "刻俄柏"
     ]
   },
   {
-    "name": "Snowsant",
+    "name": "Typhon",
     "aliases": [
-      "雪雉",
-      "スノーズント",
-      "스노우상트"
+      "ティフォン",
+      "티폰",
+      "提丰"
     ]
   },
   {
-    "name": "Reed",
+    "name": "Crownslayer",
     "aliases": [
-      "苇草",
-      "葦草",
-      "リード",
-      "리드"
+      "クラウンスレイヤー",
+      "크라운슬레이어",
+      "弑君者"
     ]
   },
   {
-    "name": "Broca",
+    "name": "Kal'tsit·Esperanta",
     "aliases": [
-      "布洛卡",
-      "ブローカ",
-      "브로카"
+      "ケルシー・エスペランタ",
+      "켈시 에스페란타",
+      "凯尔希·思衡托"
     ]
   },
   {
-    "name": "Blaze",
+    "name": "Zima the Raging Tide",
     "aliases": [
-      "煌",
-      "ブレイズ",
-      "블레이즈"
+      "怒潮ズィマー",
+      "지마 더 레이징 타이드",
+      "怒潮凛冬"
     ]
   },
   {
-    "name": "GreyThroat",
+    "name": "Ch'en the Dawnstreak",
     "aliases": [
-      "灰喉",
-      "グレースロート",
-      "그레이스롯"
-    ]
-  },
-  {
-    "name": "Ambriel",
-    "aliases": [
-      "安比尔",
-      "安比爾",
-      "アンブリエル",
-      "엠브리엘"
-    ]
-  },
-  {
-    "name": "Mostima",
-    "aliases": [
-      "莫斯提马",
-      "莫斯提馬",
-      "モスティマ",
-      "모스티마"
-    ]
-  },
-  {
-    "name": "Waai Fu",
-    "aliases": [
-      "槐琥",
-      "ワイフー",
-      "와이후"
-    ]
-  },
-  {
-    "name": "Bison",
-    "aliases": [
-      "拜松",
-      "バイソン",
-      "바이슨"
-    ]
-  },
-  {
-    "name": "May",
-    "aliases": [
-      "梅",
-      "メイ",
-      "메이"
-    ]
-  },
-  {
-    "name": "Breeze",
-    "aliases": [
-      "微风",
-      "微風",
-      "ブリーズ",
-      "브리즈"
-    ]
-  },
-  {
-    "name": "Dur-nar",
-    "aliases": [
-      "坚雷",
-      "堅雷",
-      "ジュナー",
-      "듀나"
-    ]
-  },
-  {
-    "name": "Ethan",
-    "aliases": [
-      "伊桑",
-      "イーサン",
-      "에단"
-    ]
-  },
-  {
-    "name": "Schwarz",
-    "aliases": [
-      "黑",
-      "シュヴァルツ",
-      "슈바르츠"
-    ]
-  },
-  {
-    "name": "Ceylon",
-    "aliases": [
-      "锡兰",
-      "錫蘭",
-      "セイロン",
-      "실론"
-    ]
-  },
-  {
-    "name": "Glaucus",
-    "aliases": [
-      "格劳克斯",
-      "格勞克斯",
-      "グラウコス",
-      "글라우쿠스"
-    ]
-  },
-  {
-    "name": "Sussurro",
-    "aliases": [
-      "苏苏洛",
-      "蘇蘇洛",
-      "ススーロ",
-      "수수로"
-    ]
-  },
-  {
-    "name": "Hellagur",
-    "aliases": [
-      "赫拉格",
-      "ヘラグ",
-      "헬라그"
-    ]
-  },
-  {
-    "name": "Astesia",
-    "aliases": [
-      "星极",
-      "星極",
-      "アステシア",
-      "아스테시아"
-    ]
-  },
-  {
-    "name": "Myrtle",
-    "aliases": [
-      "桃金娘",
-      "テンニンカ",
-      "머틀"
-    ]
-  },
-  {
-    "name": "Magallan",
-    "aliases": [
-      "麦哲伦",
-      "麥哲倫",
-      "マゼラン",
-      "마젤란"
-    ]
-  },
-  {
-    "name": "Flamebringer",
-    "aliases": [
-      "炎客",
-      "エンカク",
-      "플레임브링어"
-    ]
-  },
-  {
-    "name": "Executor",
-    "aliases": [
-      "送葬人",
-      "イグゼキュター",
-      "이그제큐터"
-    ]
-  },
-  {
-    "name": "Vermeil",
-    "aliases": [
-      "红云",
-      "紅雲",
-      "ヴァーミル",
-      "버메일"
-    ]
-  },
-  {
-    "name": "Ch'en",
-    "aliases": [
-      "陈",
-      "陳",
-      "チェン",
-      "첸"
-    ]
-  },
-  {
-    "name": "Swire",
-    "aliases": [
-      "诗怀雅",
-      "詩懷雅",
-      "スワイヤー",
-      "스와이어"
-    ]
-  },
-  {
-    "name": "Greyy",
-    "aliases": [
-      "格雷伊",
-      "グレイ",
-      "그레이"
-    ]
-  },
-  {
-    "name": "Spot",
-    "aliases": [
-      "斑点",
-      "斑點",
-      "スポット",
-      "스팟"
-    ]
-  },
-  {
-    "name": "Skadi",
-    "aliases": [
-      "斯卡蒂",
-      "スカジ",
-      "스카디"
-    ]
-  },
-  {
-    "name": "Nightmare",
-    "aliases": [
-      "夜魔",
-      "ナイトメア",
-      "나이트메어"
-    ]
-  },
-  {
-    "name": "Grani",
-    "aliases": [
-      "格拉尼",
-      "グラニ",
-      "그라니"
-    ]
-  },
-  {
-    "name": "Beehunter",
-    "aliases": [
-      "猎蜂",
-      "獵蜂",
-      "ビーハンター",
-      "비헌터"
-    ]
-  },
-  {
-    "name": "Catapult",
-    "aliases": [
-      "空爆",
-      "カタパルト",
-      "캐터펄트"
-    ]
-  },
-  {
-    "name": "Midnight",
-    "aliases": [
-      "月见夜",
-      "月見夜",
-      "ミッドナイト",
-      "미드나이트"
-    ]
-  },
-  {
-    "name": "Exusiai",
-    "aliases": [
-      "能天使",
-      "エクシア",
-      "엑시아"
-    ]
-  },
-  {
-    "name": "Shining",
-    "aliases": [
-      "闪灵",
-      "閃靈",
-      "シャイニング",
-      "샤이닝"
-    ]
-  },
-  {
-    "name": "Angelina",
-    "aliases": [
-      "安洁莉娜",
-      "安潔莉娜",
-      "アンジェリーナ",
-      "안젤리나"
-    ]
-  },
-  {
-    "name": "SilverAsh",
-    "aliases": [
-      "银灰",
-      "銀灰",
-      "シルバーアッシュ",
-      "실버애쉬"
-    ]
-  },
-  {
-    "name": "Saria",
-    "aliases": [
-      "塞雷娅",
-      "塞雷婭",
-      "サリア",
-      "사리아"
-    ]
-  },
-  {
-    "name": "Ifrit",
-    "aliases": [
-      "伊芙利特",
-      "イフリータ",
-      "이프리트"
-    ]
-  },
-  {
-    "name": "Hoshiguma",
-    "aliases": [
-      "星熊",
-      "ホシグマ",
-      "호시구마"
-    ]
-  },
-  {
-    "name": "Nightingale",
-    "aliases": [
-      "夜莺",
-      "夜鶯",
-      "ナイチンゲール",
-      "나이팅게일"
-    ]
-  },
-  {
-    "name": "Eyjafjalla",
-    "aliases": [
-      "艾雅法拉",
-      "エイヤフィヤトラ",
-      "에이야퍄들라"
-    ]
-  },
-  {
-    "name": "Siege",
-    "aliases": [
-      "推进之王",
-      "推進之王",
-      "シージ",
-      "시즈"
-    ]
-  },
-  {
-    "name": "Zima",
-    "aliases": [
-      "凛冬",
-      "ズィマー",
-      "지마"
-    ]
-  },
-  {
-    "name": "Blue Poison",
-    "aliases": [
-      "蓝毒",
-      "藍毒",
-      "アズリウス",
-      "블루포이즌"
-    ]
-  },
-  {
-    "name": "Indra",
-    "aliases": [
-      "因陀罗",
-      "因陀羅",
-      "インドラ",
-      "인드라"
-    ]
-  },
-  {
-    "name": "Nearl",
-    "aliases": [
-      "临光",
-      "臨光",
-      "ニアール",
-      "니어"
-    ]
-  },
-  {
-    "name": "Cliffheart",
-    "aliases": [
-      "崖心",
-      "クリフハート",
-      "클리프하트"
-    ]
-  },
-  {
-    "name": "Manticore",
-    "aliases": [
-      "狮蝎",
-      "獅蠍",
-      "マンティコア",
-      "맨티코어"
-    ]
-  },
-  {
-    "name": "Texas",
-    "aliases": [
-      "德克萨斯",
-      "德克薩斯",
-      "テキサス",
-      "텍사스"
-    ]
-  },
-  {
-    "name": "Lappland",
-    "aliases": [
-      "拉普兰德",
-      "拉普蘭德",
-      "ラップランド",
-      "라플란드"
-    ]
-  },
-  {
-    "name": "Projekt Red",
-    "aliases": [
-      "红",
-      "紅",
-      "レッド",
-      "레드"
-    ]
-  },
-  {
-    "name": "Silence",
-    "aliases": [
-      "赫默",
-      "サイレンス",
-      "사일런스"
-    ]
-  },
-  {
-    "name": "Istina",
-    "aliases": [
-      "真理",
-      "イースチナ",
-      "이스티나"
-    ]
-  },
-  {
-    "name": "Franka",
-    "aliases": [
-      "芙兰卡",
-      "芙蘭卡",
-      "フランカ",
-      "프란카"
-    ]
-  },
-  {
-    "name": "Liskarm",
-    "aliases": [
-      "雷蛇",
-      "リスカム",
-      "리스캄"
-    ]
-  },
-  {
-    "name": "Platinum",
-    "aliases": [
-      "白金",
-      "プラチナ",
-      "플래티넘"
-    ]
-  },
-  {
-    "name": "Mayer",
-    "aliases": [
-      "梅尔",
-      "梅爾",
-      "メイヤー",
-      "메이어"
-    ]
-  },
-  {
-    "name": "FEater",
-    "aliases": [
-      "食铁兽",
-      "食鐵獸",
-      "エフイーター",
-      "에프이터"
-    ]
-  },
-  {
-    "name": "Amiya",
-    "aliases": [
-      "阿米娅",
-      "阿米婭",
-      "アーミヤ",
-      "아미야"
-    ]
-  },
-  {
-    "name": "Meteorite",
-    "aliases": [
-      "陨星",
-      "隕星",
-      "メテオリーテ",
-      "메테오라이트"
-    ]
-  },
-  {
-    "name": "Savage",
-    "aliases": [
-      "暴行",
-      "サベージ",
-      "새비지"
-    ]
-  },
-  {
-    "name": "Skyfire",
-    "aliases": [
-      "天火",
-      "スカイフレア",
-      "스카이파이어"
-    ]
-  },
-  {
-    "name": "Croissant",
-    "aliases": [
-      "可颂",
-      "可頌",
-      "クロワッサン",
-      "크루아상"
-    ]
-  },
-  {
-    "name": "Sora",
-    "aliases": [
-      "空",
-      "ソラ",
-      "소라"
-    ]
-  },
-  {
-    "name": "Vulcan",
-    "aliases": [
-      "火神",
-      "ヴァルカン",
-      "벌컨"
-    ]
-  },
-  {
-    "name": "Firewatch",
-    "aliases": [
-      "守林人",
-      "ファイヤーウォッチ",
-      "파이어워치"
-    ]
-  },
-  {
-    "name": "Specter",
-    "aliases": [
-      "幽灵鲨",
-      "幽靈鯊",
-      "スペクター",
-      "스펙터"
-    ]
-  },
-  {
-    "name": "Pramanix",
-    "aliases": [
-      "初雪",
-      "プラマニクス",
-      "프라마닉스"
-    ]
-  },
-  {
-    "name": "Ptilopsis",
-    "aliases": [
-      "白面鸮",
-      "白面鴞",
-      "フィリオプシス",
-      "프틸롭시스"
-    ]
-  },
-  {
-    "name": "Provence",
-    "aliases": [
-      "普罗旺斯",
-      "普羅旺斯",
-      "プロヴァンス",
-      "프로방스"
-    ]
-  },
-  {
-    "name": "Warfarin",
-    "aliases": [
-      "华法琳",
-      "華法琳",
-      "ワルファリン",
-      "와파린"
-    ]
-  },
-  {
-    "name": "Cuora",
-    "aliases": [
-      "蛇屠箱",
-      "クオーラ",
-      "쿠오라"
-    ]
-  },
-  {
-    "name": "Myrrh",
-    "aliases": [
-      "末药",
-      "ミルラ",
-      "미르"
-    ]
-  },
-  {
-    "name": "Courier",
-    "aliases": [
-      "讯使",
-      "訊使",
-      "クーリエ",
-      "쿠리어"
-    ]
-  },
-  {
-    "name": "Dobermann",
-    "aliases": [
-      "杜宾",
-      "杜賓",
-      "ドーベルマン",
-      "도베르만"
-    ]
-  },
-  {
-    "name": "Earthspirit",
-    "aliases": [
-      "地灵",
-      "アーススピリット",
-      "어스스피릿"
-    ]
-  },
-  {
-    "name": "Gitano",
-    "aliases": [
-      "远山",
-      "遠山",
-      "ギターノ",
-      "기타노"
-    ]
-  },
-  {
-    "name": "Frostleaf",
-    "aliases": [
-      "霜叶",
-      "霜葉",
-      "フロストリーフ",
-      "프로스트리프"
-    ]
-  },
-  {
-    "name": "Vigna",
-    "aliases": [
-      "红豆",
-      "紅豆",
-      "ヴィグナ",
-      "비그나"
-    ]
-  },
-  {
-    "name": "Haze",
-    "aliases": [
-      "夜烟",
-      "ヘイズ",
-      "헤이즈"
-    ]
-  },
-  {
-    "name": "Rope",
-    "aliases": [
-      "暗索",
-      "ロープ",
-      "로프"
-    ]
-  },
-  {
-    "name": "Shirayuki",
-    "aliases": [
-      "白雪",
-      "シラユキ",
-      "시라유키"
-    ]
-  },
-  {
-    "name": "Gravel",
-    "aliases": [
-      "砾",
-      "礫",
-      "グラベル",
-      "그라벨"
-    ]
-  },
-  {
-    "name": "Mousse",
-    "aliases": [
-      "慕斯",
-      "ムース",
-      "무스"
-    ]
-  },
-  {
-    "name": "Matterhorn",
-    "aliases": [
-      "角峰",
-      "マッターホルン",
-      "마터호른"
-    ]
-  },
-  {
-    "name": "Estelle",
-    "aliases": [
-      "艾丝黛尔",
-      "艾絲黛爾",
-      "エステル",
-      "에스텔"
-    ]
-  },
-  {
-    "name": "Shaw",
-    "aliases": [
-      "阿消",
-      "ショウ",
-      "쇼"
-    ]
-  },
-  {
-    "name": "Matoimaru",
-    "aliases": [
-      "缠丸",
-      "纏丸",
-      "マトイマル",
-      "마토이마루"
-    ]
-  },
-  {
-    "name": "Jessica",
-    "aliases": [
-      "杰西卡",
-      "潔西卡",
-      "ジェシカ",
-      "제시카"
-    ]
-  },
-  {
-    "name": "Meteor",
-    "aliases": [
-      "流星",
-      "メテオ",
-      "메테오"
-    ]
-  },
-  {
-    "name": "Scavenger",
-    "aliases": [
-      "清道夫",
-      "スカベンジャー",
-      "스캐빈저"
-    ]
-  },
-  {
-    "name": "Perfumer",
-    "aliases": [
-      "调香师",
-      "調香師",
-      "パフューマー",
-      "퍼퓨머"
-    ]
-  },
-  {
-    "name": "Deepcolor",
-    "aliases": [
-      "深海色",
-      "ディピカ",
-      "딥컬러"
-    ]
-  },
-  {
-    "name": "Gummy",
-    "aliases": [
-      "古米",
-      "グム",
-      "굼"
-    ]
-  },
-  {
-    "name": "Gavial",
-    "aliases": [
-      "嘉维尔",
-      "嘉維爾",
-      "ガヴィル",
-      "가비알"
-    ]
-  },
-  {
-    "name": "Adnachiel",
-    "aliases": [
-      "安德切尔",
-      "安德切爾",
-      "アドナキエル",
-      "아드나키엘"
-    ]
-  },
-  {
-    "name": "Beagle",
-    "aliases": [
-      "米格鲁",
-      "米格魯",
-      "ビーグル",
-      "비글"
-    ]
-  },
-  {
-    "name": "Popukar",
-    "aliases": [
-      "泡普卡",
-      "ポプカル",
-      "포푸카"
-    ]
-  },
-  {
-    "name": "Kroos",
-    "aliases": [
-      "克洛丝",
-      "克洛絲",
-      "クルース",
-      "크루스"
-    ]
-  },
-  {
-    "name": "Hibiscus",
-    "aliases": [
-      "芙蓉",
-      "ハイビスカス",
-      "히비스커스"
-    ]
-  },
-  {
-    "name": "Ansel",
-    "aliases": [
-      "安赛尔",
-      "安賽爾",
-      "アンセル",
-      "안셀"
-    ]
-  },
-  {
-    "name": "Melantha",
-    "aliases": [
-      "玫兰莎",
-      "玫蘭莎",
-      "メランサ",
-      "멜란사"
-    ]
-  },
-  {
-    "name": "Vanilla",
-    "aliases": [
-      "香草",
-      "バニラ",
-      "바닐라"
-    ]
-  },
-  {
-    "name": "Orchid",
-    "aliases": [
-      "梓兰",
-      "梓蘭",
-      "オーキッド",
-      "오키드"
-    ]
-  },
-  {
-    "name": "Steward",
-    "aliases": [
-      "史都华德",
-      "史都華德",
-      "スチュワード",
-      "스튜어드"
-    ]
-  },
-  {
-    "name": "Fang",
-    "aliases": [
-      "芬",
-      "フェン",
-      "팽"
-    ]
-  },
-  {
-    "name": "Cardigan",
-    "aliases": [
-      "卡缇",
-      "卡緹",
-      "カーディ",
-      "카디건"
-    ]
-  },
-  {
-    "name": "Plume",
-    "aliases": [
-      "翎羽",
-      "プリュム",
-      "플룸"
-    ]
-  },
-  {
-    "name": "Lava",
-    "aliases": [
-      "炎熔",
-      "ラヴァ",
-      "라바"
-    ]
-  },
-  {
-    "name": "Durin",
-    "aliases": [
-      "杜林",
-      "ドゥリン",
-      "두린"
-    ]
-  },
-  {
-    "name": "Rangers",
-    "aliases": [
-      "巡林者",
-      "レンジャー",
-      "레인저"
-    ]
-  },
-  {
-    "name": "Yato",
-    "aliases": [
-      "夜刀",
-      "ヤトウ",
-      "야토"
-    ]
-  },
-  {
-    "name": "12F",
-    "aliases": []
-  },
-  {
-    "name": "Noir Corne",
-    "aliases": [
-      "黑角",
-      "ノイルホーン",
-      "느와르 코르네"
-    ]
-  },
-  {
-    "name": "Lancet-2",
-    "aliases": []
-  },
-  {
-    "name": "Castle-3",
-    "aliases": []
-  },
-  {
-    "name": "Mechanist",
-    "aliases": [
-      "机械师",
-      "メカニスト",
-      "메커니스트"
-    ]
-  },
-  {
-    "name": "Raidian",
-    "aliases": [
-      "电弧",
-      "レイディアン",
-      "라이디언"
-    ]
-  },
-  {
-    "name": "Lord/Sharp",
-    "aliases": [
-      "领主·Sharp",
-      "領主・Sharp",
-      "로드·샤프"
-    ]
-  },
-  {
-    "name": "Shalem",
-    "aliases": [
-      "暮落",
-      "シャレム",
-      "샬렘"
-    ]
-  },
-  {
-    "name": "Valarqvin",
-    "aliases": [
-      "凛视",
-      "凜視",
-      "ヴァラルクビン",
-      "발라크빈"
-    ]
-  },
-  {
-    "name": "Tin Man",
-    "aliases": [
-      "锡人",
-      "錫人",
-      "ブリキ",
-      "틴맨"
-    ]
-  },
-  {
-    "name": "Kestrel",
-    "aliases": [
-      "红隼",
-      "紅隼",
-      "ケストレル",
-      "케스트럴"
-    ]
-  },
-  {
-    "name": "Highmore",
-    "aliases": [
-      "海沫",
-      "ハイモア",
-      "하이모어"
-    ]
-  },
-  {
-    "name": "Conviction",
-    "aliases": [
-      "断罪者",
-      "斷罪者",
-      "コンビクション",
-      "컨빅션"
-    ]
-  },
-  {
-    "name": "Alliance/Supportive Operator",
-    "aliases": [
-      "盟约·辅助干员",
-      "盟約・補助オペレーター",
-      "맹약·서포터 오퍼레이터"
-    ]
-  },
-  {
-    "name": "U-Official",
-    "aliases": []
-  },
-  {
-    "name": "Homebound",
-    "aliases": [
-      "旅骨"
-    ]
-  },
-  {
-    "name": "Makoto Yuki",
-    "aliases": [
-      "结城理",
-      "結城ゆうき 理まこと",
-      "유키 마코토"
-    ]
-  },
-  {
-    "name": "Yukari Takeba",
-    "aliases": [
-      "岳羽由加莉",
-      "岳羽 ゆかり",
-      "타케바 유카리"
-    ]
-  },
-  {
-    "name": "Aegis",
-    "aliases": [
-      "埃癸斯",
-      "アイギス",
-      "아이기스"
-    ]
-  },
-  {
-    "name": "Koromaru",
-    "aliases": [
-      "虎狼丸",
-      "コロマル",
-      "코로마루"
-    ]
-  },
-  {
-    "name": "Angelina the Mellow Wish",
-    "aliases": [
-      "予愿安洁莉娜"
-    ]
-  },
-  {
-    "name": "Thumpy",
-    "aliases": [
-      "珊比"
-    ]
-  },
-  {
-    "name": "Timeslot",
-    "aliases": [
-      "时隙"
-    ]
-  },
-  {
-    "name": "Jacinta",
-    "aliases": [
-      "嘉辛塔"
-    ]
-  },
-  {
-    "name": "Aphrissa",
-    "aliases": [
-      "谬因"
-    ]
-  },
-  {
-    "name": "Pedro",
-    "aliases": [
-      "佩德洛"
-    ]
-  },
-  {
-    "name": "Violet Mizutsune Orchid",
-    "aliases": [
-      "焰狐龙梓兰"
+      "赤刃明霄チェン",
+      "첸 더 던스트릭",
+      "赤刃明霄陈"
     ]
   },
   {
@@ -3535,57 +1234,2147 @@
     ]
   },
   {
-    "name": "Rhodes Island Recon",
+    "name": "Violet Mizutsune Orchid",
     "aliases": [
-      "罗德岛隐秘队"
+      "焰狐龙梓兰"
     ]
   },
   {
-    "name": "Viy",
+    "name": "Astgenne the Lightchaser",
     "aliases": [
-      "维伊",
-      "ヴィイ",
-      "비이"
+      "溯光アステジーニ",
+      "아스트젠 더 라이트체이서",
+      "溯光星源"
     ]
   },
   {
-    "name": "Closure",
+    "name": "Pramanix the Prerita",
     "aliases": [
-      "可露希尔"
+      "聖聆プラマニクス",
+      "프라마닉스 더 프레리타",
+      "圣聆初雪"
     ]
   },
   {
-    "name": "Kal'tsit - Esperanta",
+    "name": "SilverAsh the Reignfrost",
     "aliases": [
-      "凯尔希·思衡托",
-      "ケルシー・エスペランタ"
+      "凛御シルバーアッシュ",
+      "실버애쉬 더 레인프로스트",
+      "凛御银灰"
     ]
   },
   {
-    "name": "Crackborne",
+    "name": "Hoshiguma the Breacher",
     "aliases": [
-      "裂响"
+      "斬業ホシグマ",
+      "호시구마 더 브리처",
+      "斩业星熊"
     ]
   },
   {
-    "name": "GALLUS²",
-    "aliases": []
-  },
-  {
-    "name": "Clementia",
+    "name": "Leizi the Thunderbringer",
     "aliases": [
-      "克莱门莎",
-      "クレメンティア"
+      "司霆レイズ",
+      "레이즈 더 썬더브링어",
+      "司霆惊蛰"
     ]
   },
   {
-    "name": "Elite Op",
-    "aliases": []
+    "name": "Tragodia",
+    "aliases": [
+      "トラゴーディア",
+      "트라고디아",
+      "酒神"
+    ]
   },
   {
-    "name": "De Toledo",
+    "name": "Exusiai the New Covenant",
+    "aliases": [
+      "新約エクシア",
+      "엑시아 더 뉴 커버넌트",
+      "新约能天使"
+    ]
+  },
+  {
+    "name": "Blaze the Igniting Spark",
+    "aliases": [
+      "熾炎ブレイズ",
+      "블레이즈 디 이그나이팅 스파크",
+      "烛煌"
+    ]
+  },
+  {
+    "name": "Thorns the Lodestar",
+    "aliases": [
+      "引星ソーンズ",
+      "쏜즈 더 로드스타",
+      "引星棘刺"
+    ]
+  },
+  {
+    "name": "Lappland the Decadenza",
+    "aliases": [
+      "荒蕪ラップランド",
+      "라플란드 더 데카덴차",
+      "荒芜拉普兰德"
+    ]
+  },
+  {
+    "name": "Amiya (Medic)",
+    "aliases": [
+      "アーミヤ (Medic)",
+      "아미야 (Medic)",
+      "阿米娅 (Medic)",
+      "阿米娅"
+    ]
+  },
+  {
+    "name": "Fang the Fire-Sharpened",
+    "aliases": [
+      "歴陣鋭槍フェン",
+      "팽 더 파이어 샤픈드",
+      "历阵锐枪芬"
+    ]
+  },
+  {
+    "name": "Wiš'adel",
+    "aliases": [
+      "ウィシャデル",
+      "위셔델",
+      "维什戴尔"
+    ]
+  },
+  {
+    "name": "Jessica the Liberated",
+    "aliases": [
+      "滌火ジェシカ",
+      "제시카 더 리버레이티드",
+      "涤火杰西卡"
+    ]
+  },
+  {
+    "name": "Swire the Elegant Wit",
+    "aliases": [
+      "琳琅スワイヤー",
+      "스와이어 디 엘리건트 위트",
+      "琳琅诗怀雅"
+    ]
+  },
+  {
+    "name": "Executor the Ex Foedere",
+    "aliases": [
+      "聖約イグゼキュター",
+      "이그제큐터 디 엑스 포에데레",
+      "圣约送葬人"
+    ]
+  },
+  {
+    "name": "Silence the Paradigmatic",
+    "aliases": [
+      "淬羽サイレンス",
+      "사일런스 더 패러디그매틱",
+      "淬羽赫默"
+    ]
+  },
+  {
+    "name": "Rathalos S Noir Corne",
+    "aliases": [
+      "レウスSノイルホーン",
+      "레우스S 느와르 코르네",
+      "火龙S黑角"
+    ]
+  },
+  {
+    "name": "Kirin R Yato",
+    "aliases": [
+      "キリンRヤトウ",
+      "키린R 야토",
+      "麒麟R夜刀"
+    ]
+  },
+  {
+    "name": "Texas the Omertosa",
+    "aliases": [
+      "血掟テキサス",
+      "텍사스 디 오메르토사",
+      "缄默德克萨斯"
+    ]
+  },
+  {
+    "name": "Greyy the Lightningbearer",
+    "aliases": [
+      "承曦グレイ",
+      "그레이 더 라이트닝베어러",
+      "承曦格雷伊"
+    ]
+  },
+  {
+    "name": "Gavial the Invincible",
+    "aliases": [
+      "百錬ガヴィル",
+      "가비알 디 인빈서블",
+      "百炼嘉维尔"
+    ]
+  },
+  {
+    "name": "Hibiscus the Purifier",
+    "aliases": [
+      "濯塵ハイビスカス",
+      "히비스커스 더 퓨리파이어",
+      "濯尘芙蓉"
+    ]
+  },
+  {
+    "name": "Specter the Unchained",
+    "aliases": [
+      "帰溟スペクター",
+      "스펙터 디 언체인드",
+      "归溟幽灵鲨"
+    ]
+  },
+  {
+    "name": "Perfumer the Distilled",
+    "aliases": [
+      "萃香パフューマー",
+      "퍼퓨머 더 디스틸트",
+      "撷英调香师"
+    ]
+  },
+  {
+    "name": "Kroos the Keen Glint",
+    "aliases": [
+      "寒芒クルース",
+      "크루스 더 킨 글린트",
+      "寒芒克洛丝"
+    ]
+  },
+  {
+    "name": "Reed the Flame Shadow",
+    "aliases": [
+      "焔影リード",
+      "리드 더 플레임 섀도우",
+      "焰影苇草"
+    ]
+  },
+  {
+    "name": "Vina Victoria",
+    "aliases": [
+      "ヴィーナ・ヴィクトリア",
+      "비나 빅토리아",
+      "维娜·维多利亚"
+    ]
+  },
+  {
+    "name": "Eyjafjalla the Hvít Aska",
+    "aliases": [
+      "純燼エイヤフィヤトラ",
+      "에이야퍄들라 더 크비트 아스카",
+      "纯烬艾雅法拉"
+    ]
+  },
+  {
+    "name": "Angelina the Mellow Wish",
+    "aliases": [
+      "予愿安洁莉娜"
+    ]
+  },
+  {
+    "name": "Nearl the Radiant Knight",
+    "aliases": [
+      "耀騎士ニアール",
+      "니어 더 래디언트 나이트",
+      "耀骑士临光"
+    ]
+  },
+  {
+    "name": "Ch'en the Holungday",
+    "aliases": [
+      "遊龍チェン",
+      "첸 더 홀룽데이",
+      "假日威龙陈"
+    ]
+  },
+  {
+    "name": "Skadi the Corrupting Heart",
+    "aliases": [
+      "濁心スカジ",
+      "스카디 더 커럽팅 하트",
+      "浊心斯卡蒂"
+    ]
+  },
+  {
+    "name": "Lava the Purgatory",
+    "aliases": [
+      "炎獄ラヴァ",
+      "라바 더 퍼거토리",
+      "炎狱炎熔"
+    ]
+  },
+  {
+    "name": "Amiya (Guard)",
+    "aliases": [
+      "アーミヤ (Guard)",
+      "아미야 (Guard)",
+      "阿米娅 (Guard)",
+      "阿米娅"
+    ]
+  },
+  {
+    "name": "Rangers",
+    "aliases": [
+      "レンジャー",
+      "레인저",
+      "巡林者"
+    ]
+  },
+  {
+    "name": "Yato",
+    "aliases": [
+      "ヤトウ",
+      "야토",
+      "夜刀"
+    ]
+  },
+  {
+    "name": "Durin",
+    "aliases": [
+      "ドゥリン",
+      "두린",
+      "杜林"
+    ]
+  },
+  {
+    "name": "Noir Corne",
+    "aliases": [
+      "ノイルホーン",
+      "느와르 코르네",
+      "黑角"
+    ]
+  },
+  {
+    "name": "Diamante",
+    "aliases": [
+      "ディアマンテ",
+      "디아만테",
+      "折光"
+    ]
+  },
+  {
+    "name": "Insider",
+    "aliases": [
+      "インサイダー",
+      "인사이더",
+      "隐现"
+    ]
+  },
+  {
+    "name": "Cantabile",
+    "aliases": [
+      "カンタービレ",
+      "칸타빌레",
+      "晓歌"
+    ]
+  },
+  {
+    "name": "Wild Mane",
+    "aliases": [
+      "ワイルドメイン",
+      "와일드메인",
+      "野鬃"
+    ]
+  },
+  {
+    "name": "Vendela",
+    "aliases": [
+      "ヴァンデラ",
+      "벤델라",
+      "刺玫"
+    ]
+  },
+  {
+    "name": "Firewhistle",
+    "aliases": [
+      "ファイヤーホイッスル",
+      "파이어휘슬",
+      "火哨"
+    ]
+  },
+  {
+    "name": "Quercus",
+    "aliases": [
+      "クエルクス",
+      "퀘르쿠스",
+      "夏栎"
+    ]
+  },
+  {
+    "name": "Humus",
+    "aliases": [
+      "ヒューマス",
+      "휴머스",
+      "休谟斯"
+    ]
+  },
+  {
+    "name": "Corroserum",
+    "aliases": [
+      "コロセラム",
+      "코로세럼",
+      "蚀清"
+    ]
+  },
+  {
+    "name": "Poncirus",
+    "aliases": [
+      "ポンシラス",
+      "폰사이러스",
+      "青枳"
+    ]
+  },
+  {
+    "name": "Bobbing",
+    "aliases": [
+      "ボビング",
+      "보빙",
+      "波卜"
+    ]
+  },
+  {
+    "name": "Tequila",
+    "aliases": [
+      "テキーラ",
+      "테킬라",
+      "龙舌兰"
+    ]
+  },
+  {
+    "name": "Pallas",
+    "aliases": [
+      "パラス",
+      "팔라스",
+      "帕拉斯"
+    ]
+  },
+  {
+    "name": "Roberta",
+    "aliases": [
+      "ロベルタ",
+      "로베르타",
+      "罗比菈塔"
+    ]
+  },
+  {
+    "name": "Saileach",
+    "aliases": [
+      "サイラッハ",
+      "사일라흐",
+      "琴柳"
+    ]
+  },
+  {
+    "name": "Kirara",
+    "aliases": [
+      "キララ",
+      "키라라",
+      "绮良"
+    ]
+  },
+  {
+    "name": "Blacknight",
+    "aliases": [
+      "ブラックナイト",
+      "블랙나이트",
+      "夜半"
+    ]
+  },
+  {
+    "name": "Akafuyu",
+    "aliases": [
+      "アカフユ",
+      "아카후유",
+      "赤冬"
+    ]
+  },
+  {
+    "name": "Gladiia",
+    "aliases": [
+      "グレイディーア",
+      "글래디아",
+      "歌蕾蒂娅"
+    ]
+  },
+  {
+    "name": "Mulberry",
+    "aliases": [
+      "マルベリー",
+      "멀베리",
+      "桑葚"
+    ]
+  },
+  {
+    "name": "Passenger",
+    "aliases": [
+      "パッセンジャー",
+      "패신저",
+      "异客"
+    ]
+  },
+  {
+    "name": "Indigo",
+    "aliases": [
+      "インディゴ",
+      "인디고",
+      "深靛"
+    ]
+  },
+  {
+    "name": "Qanipalaat",
+    "aliases": [
+      "カニパラート",
+      "카니팔라트",
+      "雪绒"
+    ]
+  },
+  {
+    "name": "Cement",
+    "aliases": [
+      "セメント",
+      "시멘트",
+      "洋灰"
+    ]
+  },
+  {
+    "name": "Tachanka",
+    "aliases": [
+      "战车"
+    ]
+  },
+  {
+    "name": "Frost",
+    "aliases": [
+      "霜华"
+    ]
+  },
+  {
+    "name": "Blitz",
+    "aliases": [
+      "闪击"
+    ]
+  },
+  {
+    "name": "Ash",
+    "aliases": [
+      "灰烬"
+    ]
+  },
+  {
+    "name": "Mr. Nothing",
+    "aliases": [
+      "ウユウ",
+      "우요우",
+      "乌有"
+    ]
+  },
+  {
+    "name": "Beanstalk",
+    "aliases": [
+      "ビーンストーク",
+      "빈스토크",
+      "豆苗"
+    ]
+  },
+  {
+    "name": "Robin",
+    "aliases": [
+      "ロビン",
+      "로빈",
+      "罗宾"
+    ]
+  },
+  {
+    "name": "Necrass",
+    "aliases": [
+      "ネクラス",
+      "네크라스",
+      "死芒"
+    ]
+  },
+  {
+    "name": "Honeyberry",
+    "aliases": [
+      "ハニーベリー",
+      "허니베리",
+      "蜜莓"
+    ]
+  },
+  {
+    "name": "Aroma",
+    "aliases": [
+      "アロマ",
+      "아로마",
+      "阿罗玛"
+    ]
+  },
+  {
+    "name": "Windscoot",
+    "aliases": [
+      "ウィンドスクート",
+      "윈드스쿠트",
+      "骋风"
+    ]
+  },
+  {
+    "name": "Pinecone",
+    "aliases": [
+      "パインコーン",
+      "파인콘",
+      "松果"
+    ]
+  },
+  {
+    "name": "Mizuki",
+    "aliases": [
+      "ミヅキ",
+      "미즈키",
+      "水月"
+    ]
+  },
+  {
+    "name": "Whisperain",
+    "aliases": [
+      "ウィスパーレイン",
+      "위스퍼레인",
+      "絮雨"
+    ]
+  },
+  {
+    "name": "Windflit",
+    "aliases": [
+      "ウインドフリット",
+      "윈드플릿",
+      "掠风"
+    ]
+  },
+  {
+    "name": "Ashlock",
+    "aliases": [
+      "アッシュロック",
+      "애쉬락",
+      "灰毫"
+    ]
+  },
+  {
+    "name": "Fartooth",
+    "aliases": [
+      "ファートゥース",
+      "파투스",
+      "远牙"
+    ]
+  },
+  {
+    "name": "Vigil",
+    "aliases": [
+      "ヴィジェル",
+      "비질",
+      "伺夜"
+    ]
+  },
+  {
+    "name": "Carnelian",
+    "aliases": [
+      "カーネリアン",
+      "카넬리안",
+      "卡涅利安"
+    ]
+  },
+  {
+    "name": "Blemishine",
+    "aliases": [
+      "ブレミシャイン",
+      "블레미샤인",
+      "瑕光"
+    ]
+  },
+  {
+    "name": "Aurora",
+    "aliases": [
+      "オーロラ",
+      "오로라",
+      "极光"
+    ]
+  },
+  {
+    "name": "La Pluma",
+    "aliases": [
+      "ラ・プルマ",
+      "라 플루마",
+      "羽毛笔"
+    ]
+  },
+  {
+    "name": "Flametail",
+    "aliases": [
+      "フレイムテイル",
+      "플레임테일",
+      "焰尾"
+    ]
+  },
+  {
+    "name": "Eunectes",
+    "aliases": [
+      "ユーネクテス",
+      "유넥티스",
+      "森蚺"
+    ]
+  },
+  {
+    "name": "Flint",
+    "aliases": [
+      "フリント",
+      "플린트",
+      "燧石"
+    ]
+  },
+  {
+    "name": "Tomimi",
+    "aliases": [
+      "トミミ",
+      "토미미",
+      "特米米"
+    ]
+  },
+  {
+    "name": "Absinthe",
+    "aliases": [
+      "アブサント",
+      "압생트",
+      "苦艾"
+    ]
+  },
+  {
+    "name": "Tuye",
+    "aliases": [
+      "トゥイエ",
+      "투예",
+      "图耶"
+    ]
+  },
+  {
+    "name": "Elysium",
+    "aliases": [
+      "エリジウム",
+      "엘리시움",
+      "极境"
+    ]
+  },
+  {
+    "name": "Weedy",
+    "aliases": [
+      "ウィーディ",
+      "위디",
+      "温蒂"
+    ]
+  },
+  {
+    "name": "Hadiya",
+    "aliases": [
+      "ハディヤ",
+      "하디야",
+      "哈蒂娅"
+    ]
+  },
+  {
+    "name": "de Toledo",
     "aliases": [
       "德·托莱多"
+    ]
+  },
+  {
+    "name": "Rosmontis",
+    "aliases": [
+      "ロスモンティス",
+      "로즈몬티스",
+      "迷迭香"
+    ]
+  },
+  {
+    "name": "Mint",
+    "aliases": [
+      "ミント",
+      "민트",
+      "薄绿"
+    ]
+  },
+  {
+    "name": "Purestream",
+    "aliases": [
+      "セイリュウ",
+      "퓨어스트림",
+      "清流"
+    ]
+  },
+  {
+    "name": "Snowsant",
+    "aliases": [
+      "スノーズント",
+      "스노우상트",
+      "雪雉"
+    ]
+  },
+  {
+    "name": "Bubble",
+    "aliases": [
+      "バブル",
+      "버블",
+      "泡泡"
+    ]
+  },
+  {
+    "name": "Sesa",
+    "aliases": [
+      "シェーシャ",
+      "세사",
+      "慑砂"
+    ]
+  },
+  {
+    "name": "Asbestos",
+    "aliases": [
+      "アスベストス",
+      "아스베스토스",
+      "石棉"
+    ]
+  },
+  {
+    "name": "Goldenglow",
+    "aliases": [
+      "ゴールデングロー",
+      "골든글로우",
+      "澄闪"
+    ]
+  },
+  {
+    "name": "THRM-EX",
+    "aliases": []
+  },
+  {
+    "name": "Leonhardt",
+    "aliases": [
+      "レオンハルト",
+      "레온하르트",
+      "莱恩哈特"
+    ]
+  },
+  {
+    "name": "Bena",
+    "aliases": [
+      "ベナ",
+      "베나",
+      "贝娜"
+    ]
+  },
+  {
+    "name": "GreyThroat",
+    "aliases": [
+      "グレースロート",
+      "그레이스롯",
+      "灰喉"
+    ]
+  },
+  {
+    "name": "Aciddrop",
+    "aliases": [
+      "アシッドドロップ",
+      "애시드드롭",
+      "酸糖"
+    ]
+  },
+  {
+    "name": "April",
+    "aliases": [
+      "エイプリル",
+      "에이프릴",
+      "四月"
+    ]
+  },
+  {
+    "name": "Toddifons",
+    "aliases": [
+      "トギフォンス",
+      "토디폰스",
+      "熔泉"
+    ]
+  },
+  {
+    "name": "Saga",
+    "aliases": [
+      "サガ",
+      "사가",
+      "嵯峨"
+    ]
+  },
+  {
+    "name": "Suzuran",
+    "aliases": [
+      "スズラン",
+      "스즈란",
+      "铃兰"
+    ]
+  },
+  {
+    "name": "Broca",
+    "aliases": [
+      "ブローカ",
+      "브로카",
+      "布洛卡"
+    ]
+  },
+  {
+    "name": "Ethan",
+    "aliases": [
+      "イーサン",
+      "에단",
+      "伊桑"
+    ]
+  },
+  {
+    "name": "Surtr",
+    "aliases": [
+      "スルト",
+      "수르트",
+      "史尔特尔"
+    ]
+  },
+  {
+    "name": "Chiave",
+    "aliases": [
+      "キアーベ",
+      "키아베",
+      "贾维"
+    ]
+  },
+  {
+    "name": "Ceylon",
+    "aliases": [
+      "セイロン",
+      "실론",
+      "锡兰"
+    ]
+  },
+  {
+    "name": "Jackie",
+    "aliases": [
+      "ジャッキー",
+      "재키",
+      "杰克"
+    ]
+  },
+  {
+    "name": "Aosta",
+    "aliases": [
+      "アオスタ",
+      "아오스타",
+      "奥斯塔"
+    ]
+  },
+  {
+    "name": "Folinic",
+    "aliases": [
+      "フォリニック",
+      "폴리닉",
+      "亚叶"
+    ]
+  },
+  {
+    "name": "Beeswax",
+    "aliases": [
+      "ビーズワクス",
+      "비즈왁스",
+      "蜜蜡"
+    ]
+  },
+  {
+    "name": "Tsukinogi",
+    "aliases": [
+      "ツキノギ",
+      "츠키노기",
+      "月禾"
+    ]
+  },
+  {
+    "name": "Santalla",
+    "aliases": [
+      "サンタラ",
+      "산탈라",
+      "寒檀"
+    ]
+  },
+  {
+    "name": "Schwarz",
+    "aliases": [
+      "シュヴァルツ",
+      "슈바르츠",
+      "黑"
+    ]
+  },
+  {
+    "name": "Iris",
+    "aliases": [
+      "アイリス",
+      "아이리스",
+      "爱丽丝"
+    ]
+  },
+  {
+    "name": "Utage",
+    "aliases": [
+      "ウタゲ",
+      "우타게",
+      "宴"
+    ]
+  },
+  {
+    "name": "Scene",
+    "aliases": [
+      "シーン",
+      "씬",
+      "稀音"
+    ]
+  },
+  {
+    "name": "Sideroca",
+    "aliases": [
+      "シデロカ",
+      "시데로카",
+      "铸铁"
+    ]
+  },
+  {
+    "name": "Archetto",
+    "aliases": [
+      "アルケット",
+      "아르케토",
+      "空弦"
+    ]
+  },
+  {
+    "name": "Click",
+    "aliases": [
+      "カシャ",
+      "클릭",
+      "卡达"
+    ]
+  },
+  {
+    "name": "Glaucus",
+    "aliases": [
+      "グラウコス",
+      "글라우쿠스",
+      "格劳克斯"
+    ]
+  },
+  {
+    "name": "Bison",
+    "aliases": [
+      "バイソン",
+      "바이슨",
+      "拜松"
+    ]
+  },
+  {
+    "name": "Lee",
+    "aliases": [
+      "リー",
+      "리",
+      "老鲤"
+    ]
+  },
+  {
+    "name": "Mudrock",
+    "aliases": [
+      "マドロック",
+      "머드락",
+      "泥岩"
+    ]
+  },
+  {
+    "name": "Swire",
+    "aliases": [
+      "スワイヤー",
+      "스와이어",
+      "诗怀雅"
+    ]
+  },
+  {
+    "name": "Leizi",
+    "aliases": [
+      "レイズ",
+      "레이즈",
+      "惊蛰"
+    ]
+  },
+  {
+    "name": "Heavyrain",
+    "aliases": [
+      "ヘビーレイン",
+      "헤비레인",
+      "暴雨"
+    ]
+  },
+  {
+    "name": "Ambriel",
+    "aliases": [
+      "アンブリエル",
+      "엠브리엘",
+      "安比尔"
+    ]
+  },
+  {
+    "name": "Cutter",
+    "aliases": [
+      "カッター",
+      "커터",
+      "刻刀"
+    ]
+  },
+  {
+    "name": "Fiammetta",
+    "aliases": [
+      "フィアメッタ",
+      "피아메타",
+      "菲亚梅塔"
+    ]
+  },
+  {
+    "name": "Sussurro",
+    "aliases": [
+      "ススーロ",
+      "수수로",
+      "苏苏洛"
+    ]
+  },
+  {
+    "name": "Harmonie",
+    "aliases": [
+      "ハーモニー",
+      "아르모니",
+      "和弦"
+    ]
+  },
+  {
+    "name": "Ayerscarpe",
+    "aliases": [
+      "エアースカーペ",
+      "에이어스카르페",
+      "断崖"
+    ]
+  },
+  {
+    "name": "Thorns",
+    "aliases": [
+      "ソーンズ",
+      "쏜즈",
+      "棘刺"
+    ]
+  },
+  {
+    "name": "Angelina",
+    "aliases": [
+      "アンジェリーナ",
+      "안젤리나",
+      "安洁莉娜"
+    ]
+  },
+  {
+    "name": "Vigna",
+    "aliases": [
+      "ヴィグナ",
+      "비그나",
+      "红豆"
+    ]
+  },
+  {
+    "name": "Matoimaru",
+    "aliases": [
+      "マトイマル",
+      "마토이마루",
+      "缠丸"
+    ]
+  },
+  {
+    "name": "Castle-3",
+    "aliases": []
+  },
+  {
+    "name": "Lancet-2",
+    "aliases": []
+  },
+  {
+    "name": "Spot",
+    "aliases": [
+      "スポット",
+      "스팟",
+      "斑点"
+    ]
+  },
+  {
+    "name": "Midnight",
+    "aliases": [
+      "ミッドナイト",
+      "미드나이트",
+      "月见夜"
+    ]
+  },
+  {
+    "name": "Catapult",
+    "aliases": [
+      "カタパルト",
+      "캐터펄트",
+      "空爆"
+    ]
+  },
+  {
+    "name": "Popukar",
+    "aliases": [
+      "ポプカル",
+      "포푸카",
+      "泡普卡"
+    ]
+  },
+  {
+    "name": "Executor",
+    "aliases": [
+      "イグゼキュター",
+      "이그제큐터",
+      "送葬人"
+    ]
+  },
+  {
+    "name": "Orchid",
+    "aliases": [
+      "オーキッド",
+      "오키드",
+      "梓兰"
+    ]
+  },
+  {
+    "name": "Shaw",
+    "aliases": [
+      "ショウ",
+      "쇼",
+      "阿消"
+    ]
+  },
+  {
+    "name": "Breeze",
+    "aliases": [
+      "ブリーズ",
+      "브리즈",
+      "微风"
+    ]
+  },
+  {
+    "name": "Astesia",
+    "aliases": [
+      "アステシア",
+      "아스테시아",
+      "星极"
+    ]
+  },
+  {
+    "name": "Jaye",
+    "aliases": [
+      "ジェイ",
+      "제이",
+      "孑"
+    ]
+  },
+  {
+    "name": "Arene",
+    "aliases": [
+      "アレーン",
+      "아렌",
+      "芳汀"
+    ]
+  },
+  {
+    "name": "Whislash",
+    "aliases": [
+      "ウィスラッシュ",
+      "위슬래시",
+      "鞭刃"
+    ]
+  },
+  {
+    "name": "Mountain",
+    "aliases": [
+      "マウンテン",
+      "마운틴",
+      "山"
+    ]
+  },
+  {
+    "name": "Skadi",
+    "aliases": [
+      "スカジ",
+      "스카디",
+      "斯卡蒂"
+    ]
+  },
+  {
+    "name": "Reed",
+    "aliases": [
+      "リード",
+      "리드",
+      "苇草"
+    ]
+  },
+  {
+    "name": "Dur-nar",
+    "aliases": [
+      "ジュナー",
+      "듀나",
+      "坚雷"
+    ]
+  },
+  {
+    "name": "Podenco",
+    "aliases": [
+      "ポデンコ",
+      "포덴코",
+      "波登可"
+    ]
+  },
+  {
+    "name": "Shamare",
+    "aliases": [
+      "シャマレ",
+      "샤마르",
+      "巫恋"
+    ]
+  },
+  {
+    "name": "Greyy",
+    "aliases": [
+      "グレイ",
+      "그레이",
+      "格雷伊"
+    ]
+  },
+  {
+    "name": "Bibeak",
+    "aliases": [
+      "バイビーク",
+      "바이비크",
+      "柏喙"
+    ]
+  },
+  {
+    "name": "Phantom",
+    "aliases": [
+      "ファントム",
+      "팬텀",
+      "傀影"
+    ]
+  },
+  {
+    "name": "Muelsyse",
+    "aliases": [
+      "ミュルジス",
+      "뮤엘시스",
+      "缪尔赛思"
+    ]
+  },
+  {
+    "name": "Magallan",
+    "aliases": [
+      "マゼラン",
+      "마젤란",
+      "麦哲伦"
+    ]
+  },
+  {
+    "name": "Virtuosa",
+    "aliases": [
+      "ヴィルトゥオーサ",
+      "비르투오사",
+      "塑心"
+    ]
+  },
+  {
+    "name": "Waai Fu",
+    "aliases": [
+      "ワイフー",
+      "와이후",
+      "槐琥"
+    ]
+  },
+  {
+    "name": "Mayer",
+    "aliases": [
+      "メイヤー",
+      "메이어",
+      "梅尔"
+    ]
+  },
+  {
+    "name": "FEater",
+    "aliases": [
+      "エフイーター",
+      "에프이터",
+      "食铁兽"
+    ]
+  },
+  {
+    "name": "Vanilla",
+    "aliases": [
+      "バニラ",
+      "바닐라",
+      "香草"
+    ]
+  },
+  {
+    "name": "Gravel",
+    "aliases": [
+      "グラベル",
+      "그라벨",
+      "砾"
+    ]
+  },
+  {
+    "name": "Rope",
+    "aliases": [
+      "ロープ",
+      "로프",
+      "暗索"
+    ]
+  },
+  {
+    "name": "Jessica",
+    "aliases": [
+      "ジェシカ",
+      "제시카",
+      "杰西卡"
+    ]
+  },
+  {
+    "name": "Savage",
+    "aliases": [
+      "サベージ",
+      "새비지",
+      "暴行"
+    ]
+  },
+  {
+    "name": "Hung",
+    "aliases": [
+      "ウン",
+      "훔",
+      "吽"
+    ]
+  },
+  {
+    "name": "Aak",
+    "aliases": [
+      "ア",
+      "아",
+      "阿"
+    ]
+  },
+  {
+    "name": "Bagpipe",
+    "aliases": [
+      "バグパイプ",
+      "백파이프",
+      "风笛"
+    ]
+  },
+  {
+    "name": "Grani",
+    "aliases": [
+      "グラニ",
+      "그라니",
+      "格拉尼"
+    ]
+  },
+  {
+    "name": "Meteorite",
+    "aliases": [
+      "メテオリーテ",
+      "메테오라이트",
+      "陨星"
+    ]
+  },
+  {
+    "name": "Andreana",
+    "aliases": [
+      "アンドレアナ",
+      "안드레아나",
+      "安哲拉"
+    ]
+  },
+  {
+    "name": "Manticore",
+    "aliases": [
+      "マンティコア",
+      "맨티코어",
+      "狮蝎"
+    ]
+  },
+  {
+    "name": "Kafka",
+    "aliases": [
+      "カフカ",
+      "카프카",
+      "卡夫卡"
+    ]
+  },
+  {
+    "name": "Mostima",
+    "aliases": [
+      "モスティマ",
+      "모스티마",
+      "莫斯提马"
+    ]
+  },
+  {
+    "name": "Ansel",
+    "aliases": [
+      "アンセル",
+      "안셀",
+      "安赛尔"
+    ]
+  },
+  {
+    "name": "Adnachiel",
+    "aliases": [
+      "アドナキエル",
+      "아드나키엘",
+      "安德切尔"
+    ]
+  },
+  {
+    "name": "Steward",
+    "aliases": [
+      "スチュワード",
+      "스튜어드",
+      "史都华德"
+    ]
+  },
+  {
+    "name": "Cardigan",
+    "aliases": [
+      "カーディ",
+      "카디건",
+      "卡缇"
+    ]
+  },
+  {
+    "name": "Melantha",
+    "aliases": [
+      "メランサ",
+      "멜란사",
+      "玫兰莎"
+    ]
+  },
+  {
+    "name": "Gnosis",
+    "aliases": [
+      "ノーシス",
+      "노시스",
+      "灵知"
+    ]
+  },
+  {
+    "name": "Platinum",
+    "aliases": [
+      "プラチナ",
+      "플래티넘",
+      "白金"
+    ]
+  },
+  {
+    "name": "Saria",
+    "aliases": [
+      "サリア",
+      "사리아",
+      "塞雷娅"
+    ]
+  },
+  {
+    "name": "Croissant",
+    "aliases": [
+      "クロワッサン",
+      "크루아상",
+      "可颂"
+    ]
+  },
+  {
+    "name": "Matterhorn",
+    "aliases": [
+      "マッターホルン",
+      "마터호른",
+      "角峰"
+    ]
+  },
+  {
+    "name": "Courier",
+    "aliases": [
+      "クーリエ",
+      "쿠리어",
+      "讯使"
+    ]
+  },
+  {
+    "name": "Rosa",
+    "aliases": [
+      "ロサ",
+      "로사",
+      "早露"
+    ]
+  },
+  {
+    "name": "Gummy",
+    "aliases": [
+      "グム",
+      "굼",
+      "古米"
+    ]
+  },
+  {
+    "name": "Istina",
+    "aliases": [
+      "イースチナ",
+      "이스티나",
+      "真理"
+    ]
+  },
+  {
+    "name": "Leto",
+    "aliases": [
+      "リェータ",
+      "레토",
+      "烈夏"
+    ]
+  },
+  {
+    "name": "Frostleaf",
+    "aliases": [
+      "フロストリーフ",
+      "프로스트리프",
+      "霜叶"
+    ]
+  },
+  {
+    "name": "Plume",
+    "aliases": [
+      "プリュム",
+      "플룸",
+      "翎羽"
+    ]
+  },
+  {
+    "name": "Vermeil",
+    "aliases": [
+      "ヴァーミル",
+      "버메일",
+      "红云"
+    ]
+  },
+  {
+    "name": "Hellagur",
+    "aliases": [
+      "ヘラグ",
+      "헬라그",
+      "赫拉格"
+    ]
+  },
+  {
+    "name": "Gavial",
+    "aliases": [
+      "ガヴィル",
+      "가비알",
+      "嘉维尔"
+    ]
+  },
+  {
+    "name": "Mousse",
+    "aliases": [
+      "ムース",
+      "무스",
+      "慕斯"
+    ]
+  },
+  {
+    "name": "Earthspirit",
+    "aliases": [
+      "アーススピリット",
+      "어스스피릿",
+      "地灵"
+    ]
+  },
+  {
+    "name": "Perfumer",
+    "aliases": [
+      "パフューマー",
+      "퍼퓨머",
+      "调香师"
+    ]
+  },
+  {
+    "name": "Eyjafjalla",
+    "aliases": [
+      "エイヤフィヤトラ",
+      "에이야퍄들라",
+      "艾雅法拉"
+    ]
+  },
+  {
+    "name": "Nightingale",
+    "aliases": [
+      "ナイチンゲール",
+      "나이팅게일",
+      "夜莺"
+    ]
+  },
+  {
+    "name": "Pramanix",
+    "aliases": [
+      "プラマニクス",
+      "프라마닉스",
+      "初雪"
+    ]
+  },
+  {
+    "name": "Cliffheart",
+    "aliases": [
+      "クリフハート",
+      "클리프하트",
+      "崖心"
+    ]
+  },
+  {
+    "name": "SilverAsh",
+    "aliases": [
+      "シルバーアッシュ",
+      "실버애쉬",
+      "银灰"
+    ]
+  },
+  {
+    "name": "Warfarin",
+    "aliases": [
+      "ワルファリン",
+      "와파린",
+      "华法琳"
+    ]
+  },
+  {
+    "name": "Skyfire",
+    "aliases": [
+      "スカイフレア",
+      "스카이파이어",
+      "天火"
+    ]
+  },
+  {
+    "name": "Nightmare",
+    "aliases": [
+      "ナイトメア",
+      "나이트메어",
+      "夜魔"
+    ]
+  },
+  {
+    "name": "Vulcan",
+    "aliases": [
+      "ヴァルカン",
+      "벌컨",
+      "火神"
+    ]
+  },
+  {
+    "name": "Conviction",
+    "aliases": [
+      "コンビクション",
+      "컨빅션",
+      "断罪者"
+    ]
+  },
+  {
+    "name": "Firewatch",
+    "aliases": [
+      "ファイヤーウォッチ",
+      "파이어워치",
+      "守林人"
+    ]
+  },
+  {
+    "name": "Dagda",
+    "aliases": [
+      "ダグザ",
+      "다그다",
+      "达格达"
+    ]
+  },
+  {
+    "name": "Indra",
+    "aliases": [
+      "インドラ",
+      "인드라",
+      "因陀罗"
+    ]
+  },
+  {
+    "name": "Morgan",
+    "aliases": [
+      "モーガン",
+      "모건",
+      "摩根"
+    ]
+  },
+  {
+    "name": "Myrtle",
+    "aliases": [
+      "テンニンカ",
+      "머틀",
+      "桃金娘"
+    ]
+  },
+  {
+    "name": "Cuora",
+    "aliases": [
+      "クオーラ",
+      "쿠오라",
+      "蛇屠箱"
+    ]
+  },
+  {
+    "name": "Scavenger",
+    "aliases": [
+      "スカベンジャー",
+      "스캐빈저",
+      "清道夫"
+    ]
+  },
+  {
+    "name": "Nearl",
+    "aliases": [
+      "ニアール",
+      "니어",
+      "临光"
+    ]
+  },
+  {
+    "name": "Shining",
+    "aliases": [
+      "シャイニング",
+      "샤이닝",
+      "闪灵"
+    ]
+  },
+  {
+    "name": "Provence",
+    "aliases": [
+      "プロヴァンス",
+      "프로방스",
+      "普罗旺斯"
+    ]
+  },
+  {
+    "name": "Projekt Red",
+    "aliases": [
+      "レッド",
+      "레드",
+      "红"
+    ]
+  },
+  {
+    "name": "Specter",
+    "aliases": [
+      "スペクター",
+      "스펙터",
+      "幽灵鲨"
+    ]
+  },
+  {
+    "name": "Haze",
+    "aliases": [
+      "ヘイズ",
+      "헤이즈",
+      "夜烟"
+    ]
+  },
+  {
+    "name": "Lappland",
+    "aliases": [
+      "ラップランド",
+      "라플란드",
+      "拉普兰德"
+    ]
+  },
+  {
+    "name": "Beehunter",
+    "aliases": [
+      "ビーハンター",
+      "비헌터",
+      "猎蜂"
+    ]
+  },
+  {
+    "name": "Hoshiguma",
+    "aliases": [
+      "ホシグマ",
+      "호시구마",
+      "星熊"
+    ]
+  },
+  {
+    "name": "Astgenne",
+    "aliases": [
+      "アステジーニ",
+      "아스트젠",
+      "星源"
+    ]
+  },
+  {
+    "name": "Ifrit",
+    "aliases": [
+      "イフリータ",
+      "이프리트",
+      "伊芙利特"
+    ]
+  },
+  {
+    "name": "May",
+    "aliases": [
+      "メイ",
+      "메이",
+      "梅"
+    ]
+  },
+  {
+    "name": "Flamebringer",
+    "aliases": [
+      "エンカク",
+      "플레임브링어",
+      "炎客"
+    ]
+  },
+  {
+    "name": "Dobermann",
+    "aliases": [
+      "ドーベルマン",
+      "도베르만",
+      "杜宾"
+    ]
+  },
+  {
+    "name": "Blue Poison",
+    "aliases": [
+      "アズリウス",
+      "블루포이즌",
+      "蓝毒"
+    ]
+  },
+  {
+    "name": "Ptilopsis",
+    "aliases": [
+      "フィリオプシス",
+      "프틸롭시스",
+      "白面鸮"
+    ]
+  },
+  {
+    "name": "Estelle",
+    "aliases": [
+      "エステル",
+      "에스텔",
+      "艾丝黛尔"
+    ]
+  },
+  {
+    "name": "Meteor",
+    "aliases": [
+      "メテオ",
+      "메테오",
+      "流星"
+    ]
+  },
+  {
+    "name": "Kroos",
+    "aliases": [
+      "クルース",
+      "크루스",
+      "克洛丝"
+    ]
+  },
+  {
+    "name": "Fang",
+    "aliases": [
+      "フェン",
+      "팽",
+      "芬"
+    ]
+  },
+  {
+    "name": "Beagle",
+    "aliases": [
+      "ビーグル",
+      "비글",
+      "米格鲁"
+    ]
+  },
+  {
+    "name": "Lava",
+    "aliases": [
+      "ラヴァ",
+      "라바",
+      "炎熔"
+    ]
+  },
+  {
+    "name": "Hibiscus",
+    "aliases": [
+      "ハイビスカス",
+      "히비스커스",
+      "芙蓉"
+    ]
+  },
+  {
+    "name": "Shirayuki",
+    "aliases": [
+      "シラユキ",
+      "시라유키",
+      "白雪"
+    ]
+  },
+  {
+    "name": "Myrrh",
+    "aliases": [
+      "ミルラ",
+      "미르",
+      "末药"
+    ]
+  },
+  {
+    "name": "Zima",
+    "aliases": [
+      "ズィマー",
+      "지마",
+      "凛冬"
+    ]
+  },
+  {
+    "name": "W",
+    "aliases": []
+  },
+  {
+    "name": "Siege",
+    "aliases": [
+      "シージ",
+      "시즈",
+      "推进之王"
+    ]
+  },
+  {
+    "name": "Deepcolor",
+    "aliases": [
+      "ディピカ",
+      "딥컬러",
+      "深海色"
+    ]
+  },
+  {
+    "name": "Gitano",
+    "aliases": [
+      "ギターノ",
+      "기타노",
+      "远山"
+    ]
+  },
+  {
+    "name": "Silence",
+    "aliases": [
+      "サイレンス",
+      "사일런스",
+      "赫默"
+    ]
+  },
+  {
+    "name": "Liskarm",
+    "aliases": [
+      "リスカム",
+      "리스캄",
+      "雷蛇"
+    ]
+  },
+  {
+    "name": "Franka",
+    "aliases": [
+      "フランカ",
+      "프란카",
+      "芙兰卡"
+    ]
+  },
+  {
+    "name": "Exusiai",
+    "aliases": [
+      "エクシア",
+      "엑시아",
+      "能天使"
+    ]
+  },
+  {
+    "name": "Texas",
+    "aliases": [
+      "テキサス",
+      "텍사스",
+      "德克萨斯"
+    ]
+  },
+  {
+    "name": "Sora",
+    "aliases": [
+      "ソラ",
+      "소라",
+      "空"
+    ]
+  },
+  {
+    "name": "Blaze",
+    "aliases": [
+      "ブレイズ",
+      "블레이즈",
+      "煌"
+    ]
+  },
+  {
+    "name": "Ch'en",
+    "aliases": [
+      "チェン",
+      "첸",
+      "陈"
+    ]
+  },
+  {
+    "name": "12F",
+    "aliases": []
+  },
+  {
+    "name": "Kal'tsit",
+    "aliases": [
+      "ケルシー",
+      "켈시",
+      "凯尔希"
+    ]
+  },
+  {
+    "name": "Amiya",
+    "aliases": [
+      "アーミヤ",
+      "아미야",
+      "阿米娅"
     ]
   }
 ]
