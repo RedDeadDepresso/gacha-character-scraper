@@ -1,21 +1,15 @@
-// Command main runs every gacha scraper listed in config/games.json and saves the
+// Command main runs every gacha scraper listed in config/series.json and saves the
 // results to data/<gacha>.json.
 package main
 
 import (
-	"encoding/json"
 	"log"
 	"os"
-	"path/filepath"
 
 	"github.com/reddeaddepresso/gacha-character-scraper/scrapers"
 )
 
 const dataDir = "data"
-
-type config struct {
-	Gachas []string `json:"gachas"`
-}
 
 // registry lists every available scraper. Add new gachas here.
 var registry = []scrapers.Scraper{
@@ -39,19 +33,19 @@ var registry = []scrapers.Scraper{
 }
 
 func main() {
-	b, err := os.ReadFile(filepath.Join(scrapers.ConfigDir, "games.json"))
+	series, err := scrapers.LoadSeries()
 	if err != nil {
 		log.Fatal(err)
 	}
-	var cfg config
-	if err := json.Unmarshal(b, &cfg); err != nil {
-		log.Fatal(err)
+	var games []string
+	for _, sr := range series {
+		games = append(games, sr.Game)
 	}
 
 	failed := false
 	for _, s := range registry {
-		if !contains(cfg.Gachas, s.Name()) {
-			log.Printf("[%s] not in config/games.json, skipping", s.Name())
+		if !contains(games, s.Name()) {
+			log.Printf("[%s] not in config/series.json, skipping", s.Name())
 			continue
 		}
 		existing, err := scrapers.LoadData(dataDir, s.Name())

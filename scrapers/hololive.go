@@ -17,8 +17,8 @@ const (
 	holoShortPfx = "la-short_name-"
 )
 
-// Languages used for aliases, in alias order. The file name uses the
-// capitalised language (LangCharacter_Jpn.json).
+// Languages of the LangCharacter files (converted with LangCode). The file name
+// uses the capitalised language (LangCharacter_Jpn.json).
 var holoLangs = []string{"jpn", "kor", "chs", "cht"}
 
 // Hololive reads characters from the Holodori database. The game is saved as
@@ -64,15 +64,15 @@ func holoLangTexts(lang string) (names, shorts map[string]string, err error) {
 // Scrape skips everything when the holodori-db-eng-diff commit hasn't changed
 // since the last run (cached in config/commits.json). Otherwise it rebuilds the
 // list newest-first, ordered by debut date (the "order" field breaks ties, a
-// higher value = later). Aliases are the full names and then the short names
-// in Japanese, Korean, Simplified and Traditional Chinese, plus the English
-// short name.
+// higher value = later). The names are the full names in English, Japanese,
+// Korean, Simplified and Traditional Chinese; the aliases are the short names
+// in those languages.
 func (h Hololive) Scrape(existing []Character) ([]Character, error) {
 	sha, err := LatestCommit(holoRepo, holoBranch)
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(h.Name()) {
+	if upToDate(h.Name(), sha, existing) {
 		log.Printf("[Hololive] holodori-db-eng-diff unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -132,22 +132,22 @@ func (h Hololive) Scrape(existing []Character) ([]Character, error) {
 	pos := map[string]int{}
 	for _, i := range idx {
 		e := entries[i]
-		name := strings.Join(strings.Fields(e.Data.NameEng), " ")
-		var aliases []string
-		for l := range holoLangs {
-			aliases = append(aliases, fullNames[l][e.ID])
+		b := newNameBuilder().Name(LangEN, e.Data.NameEng)
+		for l, lang := range holoLangs {
+			b.Name(lang, fullNames[l][e.ID])
 		}
-		aliases = append(aliases, e.Data.ShortNameEng)
+		b.Alias(e.Data.ShortNameEng)
 		for l := range holoLangs {
-			aliases = append(aliases, shortNames[l][e.ID])
+			b.Alias(shortNames[l][e.ID])
 		}
-		key := strings.ToLower(name)
+		c := b.Character()
+		key := strings.ToLower(c.Name[LangEN])
 		if p, ok := pos[key]; ok { // same name: fold into the newer entry
-			chars[p].Aliases = cleanAliases(chars[p].Name, append(chars[p].Aliases, aliases...))
+			chars[p] = builderOf(chars[p]).Merge(c).Character()
 			continue
 		}
 		pos[key] = len(chars)
-		chars = append(chars, Character{Name: name, Aliases: cleanAliases(name, aliases)})
+		chars = append(chars, c)
 	}
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("hololive: no characters found")

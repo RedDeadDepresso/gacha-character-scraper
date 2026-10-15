@@ -46,7 +46,7 @@ func (a AzurLane) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(a.Name()) {
+	if upToDate(a.Name(), sha, existing) {
 		log.Printf("[Azur Lane] azur-lane-data unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -97,16 +97,12 @@ func (a AzurLane) Scrape(existing []Character) ([]Character, error) {
 
 	chars := make([]Character, 0, len(list))
 	for _, s := range list {
-		c := Character{Name: s.Name, Aliases: []string{}}
-		seen := map[string]bool{strings.ToLower(s.Name): true}
-		for _, a := range []string{s.CNName, s.JPName, s.KRName} {
-			a = strings.TrimSpace(a)
-			if a != "" && !seen[strings.ToLower(a)] {
-				seen[strings.ToLower(a)] = true
-				c.Aliases = append(c.Aliases, a)
-			}
-		}
-		chars = append(chars, c)
+		chars = append(chars, newNameBuilder().
+			Name(LangEN, s.Name).
+			Name(LangZH, s.CNName).
+			Name(LangJA, s.JPName).
+			Name(LangKO, s.KRName).
+			Character())
 	}
 	if err := SaveCommit(a.Name(), sha); err != nil {
 		return nil, err

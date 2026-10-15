@@ -15,8 +15,8 @@ const (
 	arknightsURL    = "https://vanastraea.github.io/novena/data/v1/%s/operators.json"
 )
 
-// Servers whose operators.json gives the aliases, in alias order. The English
-// file ("en") gives the main name.
+// Servers whose operators.json gives the Japanese, Korean and Chinese names
+// (converted with LangCode). The English file ("en") gives the English name.
 var arknightsServers = []string{"jp", "kr", "cn"}
 
 // Arknights reads operators from Novena's static data files.
@@ -57,9 +57,9 @@ func arknightsNumber(id string) int {
 }
 
 // buildArknightsCharacters merges the per-server operator lists by id. The
-// name is the English one (an operator not in the English file is skipped) and
-// the aliases are the Japanese, Korean and Chinese names. Newest first: a lower
-// id number is an older operator.
+// English name is required (an operator not in the English file is skipped);
+// the Japanese, Korean and Simplified Chinese names come from the other
+// servers. Newest first: a lower id number is an older operator.
 func buildArknightsCharacters(en []arknightsOp, others map[string][]arknightsOp) []Character {
 	byServer := map[string]map[string]string{} // server -> id -> name
 	for server, ops := range others {
@@ -87,19 +87,19 @@ func buildArknightsCharacters(en []arknightsOp, others map[string][]arknightsOp)
 	chars := make([]Character, 0, len(list))
 	pos := map[string]int{}
 	for _, op := range list {
-		name := strings.Join(strings.Fields(op.Name), " ")
-		var aliases []string
+		b := newNameBuilder().Name(LangEN, op.Name)
 		for _, server := range arknightsServers {
-			aliases = append(aliases, byServer[server][op.ID])
+			b.Name(server, byServer[server][op.ID])
 		}
-		aliases = append(aliases, op.CN) // fallback when the cn file lacks it
-		key := strings.ToLower(name)
+		b.Name(LangZH, op.CN) // fallback when the cn file lacks it
+		c := b.Character()
+		key := strings.ToLower(c.Name[LangEN])
 		if p, ok := pos[key]; ok { // same name under another id: fold into the newer one
-			chars[p].Aliases = cleanAliases(chars[p].Name, append(chars[p].Aliases, aliases...))
+			chars[p] = builderOf(chars[p]).Merge(c).Character()
 			continue
 		}
 		pos[key] = len(chars)
-		chars = append(chars, Character{Name: name, Aliases: cleanAliases(name, aliases)})
+		chars = append(chars, c)
 	}
 	return chars
 }
@@ -112,7 +112,7 @@ func (a Arknights) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(a.Name()) {
+	if upToDate(a.Name(), sha, existing) {
 		log.Printf("[Arknights] Novena unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}

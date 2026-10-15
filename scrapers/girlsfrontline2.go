@@ -16,8 +16,9 @@ const (
 
 // GirlsFrontline2 reads dolls from the gfl2-team-builder open game data. The
 // name has no apostrophe or colon so it is safe as a file name. The source only
-// has English names; aliases in other languages are added to data/ by hand, so
-// existing entries are never overwritten, only new dolls are merged in.
+// has English names; names in other languages are added to data/ by hand, so
+// existing entries are never overwritten, only new dolls are merged in. Names
+// in other languages can be added to data/ by hand under "name" (ja_jp, ...).
 type GirlsFrontline2 struct{}
 
 func (GirlsFrontline2) Name() string { return "Girls Frontline 2" }
@@ -32,6 +33,8 @@ func (g GirlsFrontline2) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
+	// Not upToDate(): the source has English names only, so there is nothing to
+	// rebuild when the saved list is in the old format (it is converted on load).
 	if len(existing) > 0 && sha == LoadCommit(g.Name()) {
 		log.Printf("[Girls Frontline 2] gfl2-team-builder unchanged (%s), skipping", sha[:7])
 		return existing, nil
@@ -72,7 +75,9 @@ func (g GirlsFrontline2) Scrape(existing []Character) ([]Character, error) {
 	// under any of them is not added a second time.
 	known := map[string]bool{}
 	for _, c := range existing {
-		known[strings.ToLower(c.Name)] = true
+		for _, n := range c.Name {
+			known[strings.ToLower(n)] = true
+		}
 		for _, a := range c.Aliases {
 			known[strings.ToLower(strings.TrimSpace(a))] = true
 		}
@@ -87,7 +92,7 @@ func (g GirlsFrontline2) Scrape(existing []Character) ([]Character, error) {
 			continue
 		}
 		known[k] = true
-		added = append(added, Character{Name: name, Aliases: []string{}})
+		added = append(added, Character{Name: Names{LangEN: name}, Aliases: []string{}})
 	}
 	if len(existing) == 0 && len(added) == 0 {
 		return nil, fmt.Errorf("girls frontline 2: no dolls found")

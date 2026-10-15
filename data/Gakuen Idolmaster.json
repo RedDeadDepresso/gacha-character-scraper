@@ -1,6 +1,10 @@
 [
   {
-    "name": "Amaya, Tsubame",
+    "name": {
+      "en_us": "Amaya, Tsubame",
+      "ja_jp": "雨夜, 燕",
+      "ko_kr": "아마야, 츠바메"
+    },
     "aliases": [
       "雨夜 燕",
       "雨夜燕",
@@ -10,7 +14,11 @@
     ]
   },
   {
-    "name": "Hataya, Misuzu",
+    "name": {
+      "en_us": "Hataya, Misuzu",
+      "ja_jp": "秦谷, 美鈴",
+      "ko_kr": "하타야, 미스즈"
+    },
     "aliases": [
       "秦谷 美鈴",
       "秦谷美鈴",
@@ -20,7 +28,11 @@
     ]
   },
   {
-    "name": "Juo, Sena",
+    "name": {
+      "en_us": "Juo, Sena",
+      "ja_jp": "十王, 星南",
+      "ko_kr": "주오, 세나"
+    },
     "aliases": [
       "十王 星南",
       "十王星南",
@@ -29,7 +41,11 @@
     ]
   },
   {
-    "name": "Hanami, Ume",
+    "name": {
+      "en_us": "Hanami, Ume",
+      "ja_jp": "花海, 佑芽",
+      "ko_kr": "하나미, 우메"
+    },
     "aliases": [
       "花海 佑芽",
       "花海佑芽",
@@ -38,7 +54,11 @@
     ]
   },
   {
-    "name": "Himesaki, Rinami",
+    "name": {
+      "en_us": "Himesaki, Rinami",
+      "ja_jp": "姫崎, 莉波",
+      "ko_kr": "히메사키, 리나미"
+    },
     "aliases": [
       "姫崎 莉波",
       "姫崎莉波",
@@ -48,7 +68,11 @@
     ]
   },
   {
-    "name": "Shinosawa, Hiro",
+    "name": {
+      "en_us": "Shinosawa, Hiro",
+      "ja_jp": "篠澤, 広",
+      "ko_kr": "시노사와, 히로"
+    },
     "aliases": [
       "篠澤 広",
       "篠澤広",
@@ -61,7 +85,11 @@
     ]
   },
   {
-    "name": "Shiun, Sumika",
+    "name": {
+      "en_us": "Shiun, Sumika",
+      "ja_jp": "紫雲, 清夏",
+      "ko_kr": "시운, 스미카"
+    },
     "aliases": [
       "紫雲 清夏",
       "紫雲清夏",
@@ -71,7 +99,11 @@
     ]
   },
   {
-    "name": "Kuramoto, China",
+    "name": {
+      "en_us": "Kuramoto, China",
+      "ja_jp": "倉本, 千奈",
+      "ko_kr": "쿠라모토, 치나"
+    },
     "aliases": [
       "倉本 千奈",
       "倉本千奈",
@@ -81,7 +113,11 @@
     ]
   },
   {
-    "name": "Katsuragi, Lilja",
+    "name": {
+      "en_us": "Katsuragi, Lilja",
+      "ja_jp": "葛城, リーリヤ",
+      "ko_kr": "카츠라기, 릴리야"
+    },
     "aliases": [
       "葛城 リーリヤ",
       "葛城リーリヤ",
@@ -94,7 +130,11 @@
     ]
   },
   {
-    "name": "Arimura, Mao",
+    "name": {
+      "en_us": "Arimura, Mao",
+      "ja_jp": "有村, 麻央",
+      "ko_kr": "아리무라, 마오"
+    },
     "aliases": [
       "有村 麻央",
       "有村麻央",
@@ -103,7 +143,11 @@
     ]
   },
   {
-    "name": "Fujita, Kotone",
+    "name": {
+      "en_us": "Fujita, Kotone",
+      "ja_jp": "藤田, ことね",
+      "ko_kr": "후지타, 코토네"
+    },
     "aliases": [
       "藤田 ことね",
       "藤田ことね",
@@ -113,7 +157,11 @@
     ]
   },
   {
-    "name": "Tsukimura, Temari",
+    "name": {
+      "en_us": "Tsukimura, Temari",
+      "ja_jp": "月村, 手毬",
+      "ko_kr": "츠키무라, 테마리"
+    },
     "aliases": [
       "月村 手毬",
       "月村手毬",
@@ -122,7 +170,11 @@
     ]
   },
   {
-    "name": "Hanami, Saki",
+    "name": {
+      "en_us": "Hanami, Saki",
+      "ja_jp": "花海, 咲季",
+      "ko_kr": "하나미, 사키"
+    },
     "aliases": [
       "花海 咲季",
       "花海咲季",

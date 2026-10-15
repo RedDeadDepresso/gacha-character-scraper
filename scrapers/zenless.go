@@ -35,7 +35,7 @@ func (z ZenlessZoneZero) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(z.Name()) {
+	if upToDate(z.Name(), sha, existing) {
 		log.Printf("[Zenless Zone Zero] zzz-wiki unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -78,16 +78,12 @@ func (z ZenlessZoneZero) Scrape(existing []Character) ([]Character, error) {
 
 	chars := make([]Character, 0, len(list))
 	for _, e := range list {
-		c := Character{Name: e.EN, Aliases: []string{}}
-		seen := map[string]bool{strings.ToLower(e.EN): true}
-		for _, a := range []string{e.ZH, e.JA, e.KO} {
-			a = strings.TrimSpace(a)
-			if a != "" && !seen[strings.ToLower(a)] {
-				seen[strings.ToLower(a)] = true
-				c.Aliases = append(c.Aliases, a)
-			}
-		}
-		chars = append(chars, c)
+		chars = append(chars, newNameBuilder().
+			Name(LangEN, e.EN).
+			Name(LangZH, e.ZH).
+			Name(LangJA, e.JA).
+			Name(LangKO, e.KO).
+			Character())
 	}
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("zenless zone zero: no characters found")

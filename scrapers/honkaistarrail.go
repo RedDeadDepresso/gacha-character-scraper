@@ -19,7 +19,7 @@ const (
 	hsrLocaleURL = "https://raw.githubusercontent.com/fribbels/hsr-optimizer/refs/heads/main/public/locales/%s/gameData.yaml"
 )
 
-// Locale folders used for aliases, in alias order.
+// Locale folders used for the other languages (converted with LangCode).
 var hsrLangs = []string{"ja_JP", "ko_KR", "ru_RU", "zh_CN", "zh_TW"}
 
 // HonkaiStarRail reads characters from the hsr-optimizer repo.
@@ -40,7 +40,7 @@ func (h HonkaiStarRail) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(h.Name()) {
+	if upToDate(h.Name(), sha, existing) {
 		log.Printf("[Honkai Star Rail] hsr-optimizer unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -108,21 +108,13 @@ func (h HonkaiStarRail) Scrape(existing []Character) ([]Character, error) {
 
 	chars := make([]Character, 0, len(list))
 	for _, e := range list {
-		c := Character{Name: e.name, Aliases: []string{}}
-		seen := map[string]bool{strings.ToLower(e.name): true}
-		add := func(a string) {
-			a = cleanHSR(a)
-			if a != "" && !seen[strings.ToLower(a)] {
-				seen[strings.ToLower(a)] = true
-				c.Aliases = append(c.Aliases, a)
-			}
-		}
+		b := newNameBuilder().Name(LangEN, e.name)
 		for _, lang := range hsrLangs {
 			n := locales[lang][e.id]
-			add(n.Name)
-			add(n.LongName) // skipped automatically when identical to Name
+			b.Name(lang, cleanHSR(n.Name))
+			b.Alias(cleanHSR(n.LongName)) // dropped when identical to the name
 		}
-		chars = append(chars, c)
+		chars = append(chars, b.Character())
 	}
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("honkai star rail: no characters found")

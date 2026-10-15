@@ -1,6120 +1,7145 @@
 [
   {
-    "name": "Alba",
-    "aliases": [
-      "アルバ"
-    ]
-  },
-  {
-    "name": "Vaseraga (Grand)",
-    "aliases": [
-      "バザラガ"
-    ]
-  },
-  {
-    "name": "Cocopio",
-    "aliases": [
-      "ココピオ"
-    ]
-  },
-  {
-    "name": "Uruki (Wind)",
-    "aliases": [
-      "ウルキ"
-    ]
-  },
-  {
-    "name": "Mordred",
-    "aliases": [
-      "モルドレッド"
-    ]
-  },
-  {
-    "name": "Bhadra",
-    "aliases": [
-      "バドラ"
-    ]
-  },
-  {
-    "name": "Seox (Summer)",
-    "aliases": [
-      "シス"
-    ]
-  },
-  {
-    "name": "Payila (Summer)",
-    "aliases": [
-      "ハイラ"
-    ]
-  },
-  {
-    "name": "You (Summer)",
-    "aliases": [
-      "ヨウ"
-    ]
-  },
-  {
-    "name": "Gwynne (Yukata)",
-    "aliases": [
-      "グウィン"
-    ]
-  },
-  {
-    "name": "Yoruichi Shihoin",
-    "aliases": [
-      "四楓院夜一"
-    ]
-  },
-  {
-    "name": "Toshiro Hitsugaya and Rangiku Matsumoto",
-    "aliases": [
-      "日番谷冬獅郎＆松本乱菊"
-    ]
-  },
-  {
-    "name": "Nelliel Tu Odelschwanck",
-    "aliases": [
-      "ネリエル・トゥ・オーデルシュヴァンク"
-    ]
-  },
-  {
-    "name": "Ichigo Kurosaki",
-    "aliases": [
-      "黒崎一護"
-    ]
-  },
-  {
-    "name": "Atman (Summer)",
-    "aliases": [
-      "アートマン"
-    ]
-  },
-  {
-    "name": "Osiris (Yukata)",
-    "aliases": [
-      "オシリス"
-    ]
-  },
-  {
-    "name": "Europa (Formal)",
-    "aliases": [
-      "エウロペ"
-    ]
-  },
-  {
-    "name": "Meg and Mari (Formal)",
-    "aliases": [
-      "メグ＆まりっぺ"
-    ]
-  },
-  {
-    "name": "Notus",
-    "aliases": [
-      "ノトス"
-    ]
-  },
-  {
-    "name": "Shao (SSR)",
-    "aliases": [
-      "シャオ"
-    ]
-  },
-  {
-    "name": "Io (SSR)",
-    "aliases": [
-      "イオ"
-    ]
-  },
-  {
-    "name": "Mikaboshi",
-    "aliases": [
-      "ミカボシ"
-    ]
-  },
-  {
-    "name": "Greed and Ling Yao",
-    "aliases": [
-      "グリード＆リン・ヤオ"
-    ]
-  },
-  {
-    "name": "Olivier Mira Armstrong",
-    "aliases": [
-      "オリヴィエ・ミラ・アームストロング"
-    ]
-  },
-  {
-    "name": "Roy Mustang",
-    "aliases": [
-      "ロイ・マスタング"
-    ]
-  },
-  {
-    "name": "Edward Elric",
-    "aliases": [
-      "エドワード・エルリック"
-    ]
-  },
-  {
-    "name": "Manu Ponumau",
-    "aliases": [
-      "マヌ＝ポヌマウ"
-    ]
-  },
-  {
-    "name": "Felluca",
-    "aliases": [
-      "フェルルカ"
-    ]
-  },
-  {
-    "name": "Fylkis",
-    "aliases": [
-      "フィルキス"
-    ]
-  },
-  {
-    "name": "Parashurama",
-    "aliases": [
-      "パラシュラーマ"
-    ]
-  },
-  {
-    "name": "Echidna",
-    "aliases": [
-      "エキドナ"
-    ]
-  },
-  {
-    "name": "Alliah (Yukata)",
-    "aliases": [
-      "アリア"
-    ]
-  },
-  {
-    "name": "Anthuria (Summer)",
-    "aliases": [
-      "アンスリア"
-    ]
-  },
-  {
-    "name": "Eustace (Yukata)",
-    "aliases": [
-      "ユーステス"
-    ]
-  },
-  {
-    "name": "Apollonia (Summer)",
-    "aliases": [
-      "アポロニア"
-    ]
-  },
-  {
-    "name": "Octavia",
-    "aliases": [
-      "オクタヴィア"
-    ]
-  },
-  {
-    "name": "Lyria (Event SSR)",
-    "aliases": [
-      "ルリア"
-    ]
-  },
-  {
-    "name": "Ange (SSR)",
-    "aliases": [
-      "アンジェ"
-    ]
-  },
-  {
-    "name": "Walfrid",
-    "aliases": [
-      "ヴァルフリート"
-    ]
-  },
-  {
-    "name": "Gawain (Valentine)",
-    "aliases": [
-      "ガウェイン"
-    ]
-  },
-  {
-    "name": "Wamdus (Valentine)",
-    "aliases": [
-      "ワムデュス"
-    ]
-  },
-  {
-    "name": "Arriet (Light)",
-    "aliases": [
-      "アンリエット"
-    ]
-  },
-  {
-    "name": "McCoy",
-    "aliases": [
-      "マッコイ"
-    ]
-  },
-  {
-    "name": "Constance",
-    "aliases": [
-      "コンスタンツィア"
-    ]
-  },
-  {
-    "name": "Lulou Holou",
-    "aliases": [
-      "ルロウホロウ"
-    ]
-  },
-  {
-    "name": "Sandira",
-    "aliases": [
-      "サンチラ"
-    ]
-  },
-  {
-    "name": "Caesar",
-    "aliases": [
-      "シーザー"
-    ]
-  },
-  {
-    "name": "Amaterasu",
-    "aliases": [
-      "アマテラス"
-    ]
-  },
-  {
-    "name": "Bhaisa",
-    "aliases": [
-      "バイシュラ"
-    ]
-  },
-  {
-    "name": "Darydara",
-    "aliases": [
-      "ダリダラ"
-    ]
-  },
-  {
-    "name": "Maria Theresa (Holiday)",
-    "aliases": [
-      "マリア・テレサ"
-    ]
-  },
-  {
-    "name": "Zeta (Holiday)",
-    "aliases": [
-      "ゼタ"
-    ]
-  },
-  {
-    "name": "Bennu (Holiday)",
-    "aliases": [
-      "ベンヌ"
-    ]
-  },
-  {
-    "name": "Reinhardtzar (Holiday)",
-    "aliases": [
-      "ラインハルザ"
-    ]
-  },
-  {
-    "name": "Rei & Unit 00",
-    "aliases": [
-      "レイ＆零号機"
-    ]
-  },
-  {
-    "name": "Kaworu & Mark.06",
-    "aliases": [
-      "カヲル&mark.06"
-    ]
-  },
-  {
-    "name": "Asuka & Unit 02",
-    "aliases": [
-      "アスカ&2号機"
-    ]
-  },
-  {
-    "name": "Shinji & Unit 01",
-    "aliases": [
-      "シンジ＆初号機"
-    ]
-  },
-  {
-    "name": "Chichiri (Water)",
-    "aliases": [
-      "チチリ"
-    ]
-  },
-  {
-    "name": "Metera (Grand)",
-    "aliases": [
-      "メーテラ"
-    ]
-  },
-  {
-    "name": "Tien (Halloween)",
-    "aliases": [
-      "エッセル"
-    ]
-  },
-  {
-    "name": "Lancelot (Halloween)",
-    "aliases": [
-      "ランスロット"
-    ]
-  },
-  {
-    "name": "Vajra (Halloween)",
-    "aliases": [
-      "ヴァジラ"
-    ]
-  },
-  {
-    "name": "Danua (SSR)",
-    "aliases": [
-      "ダヌア"
-    ]
-  },
-  {
-    "name": "Lamorak",
-    "aliases": [
-      "ラモラック"
-    ]
-  },
-  {
-    "name": "Joel (SSR)",
-    "aliases": [
-      "ジョエル"
-    ]
-  },
-  {
-    "name": "Sylvia",
-    "aliases": [
-      "シルヴィア"
-    ]
-  },
-  {
-    "name": "Berceau",
-    "aliases": [
-      "ベルソー"
-    ]
-  },
-  {
-    "name": "Sariel",
-    "aliases": [
-      "サリエル"
-    ]
-  },
-  {
-    "name": "Catura (Summer)",
-    "aliases": [
-      "シャトラ"
-    ]
-  },
-  {
-    "name": "Haaselia (Summer)",
-    "aliases": [
-      "ハーゼリーラ"
-    ]
-  },
-  {
-    "name": "Killua",
-    "aliases": [
-      "キルア"
-    ]
-  },
-  {
-    "name": "Chrollo",
-    "aliases": [
-      "クロロ"
-    ]
-  },
-  {
-    "name": "Kurapika",
-    "aliases": [
-      "クラピカ"
-    ]
-  },
-  {
-    "name": "Gon",
-    "aliases": [
-      "ゴン"
-    ]
-  },
-  {
-    "name": "Cassius (Summer)",
-    "aliases": [
-      "カシウス"
-    ]
-  },
-  {
-    "name": "Lich (Summer)",
-    "aliases": [
-      "リッチ"
-    ]
-  },
-  {
-    "name": "Korwa (Yukata)",
-    "aliases": [
-      "コルワ"
-    ]
-  },
-  {
-    "name": "Atum (Summer)",
-    "aliases": [
-      "アトゥム"
-    ]
-  },
-  {
-    "name": "Fraux (Formal)",
-    "aliases": [
-      "フラウ"
-    ]
-  },
-  {
-    "name": "Ilsa (Formal)",
-    "aliases": [
-      "イルザ"
-    ]
-  },
-  {
-    "name": "Grimnir (Dark)",
-    "aliases": [
-      "グリームニル"
-    ]
-  },
-  {
-    "name": "Hauhet",
-    "aliases": [
-      "ハウヘト"
-    ]
-  },
-  {
-    "name": "Skuld",
-    "aliases": [
-      "スクルド"
-    ]
-  },
-  {
-    "name": "Siegfried (Grand)",
-    "aliases": [
-      "ジークフリート"
-    ]
-  },
-  {
-    "name": "Kou (Light)",
-    "aliases": [
-      "コウ"
-    ]
-  },
-  {
-    "name": "Cagliostro and Clarisse",
-    "aliases": [
-      "可憐なる師弟 カリオストロ＆クラリス"
-    ]
-  },
-  {
-    "name": "Mars",
-    "aliases": [
-      "マーズ"
-    ]
-  },
-  {
-    "name": "Lavirita",
-    "aliases": [
-      "ラヴィリタ"
-    ]
-  },
-  {
-    "name": "Pijiu",
-    "aliases": [
-      "ピィジウ"
-    ]
-  },
-  {
-    "name": "Cherine",
-    "aliases": [
-      "シェリーネ"
-    ]
-  },
-  {
-    "name": "Shukra",
-    "aliases": [
-      "シュクラ"
-    ]
-  },
-  {
-    "name": "Seofon (Yukata)",
-    "aliases": [
-      "シエテ"
-    ]
-  },
-  {
-    "name": "Vikala (Yukata)",
-    "aliases": [
-      "ビカラ"
-    ]
-  },
-  {
-    "name": "Mahira (Summer)",
-    "aliases": [
-      "マキラ"
-    ]
-  },
-  {
-    "name": "Lu Woh (Summer)",
-    "aliases": [
-      "ル・オー"
-    ]
-  },
-  {
-    "name": "Basara",
-    "aliases": [
-      "バサラ"
-    ]
-  },
-  {
-    "name": "Joy (Event SSR)",
-    "aliases": [
-      "ジョイ"
-    ]
-  },
-  {
-    "name": "Tsukuyomi",
-    "aliases": [
-      "ツクヨミ"
-    ]
-  },
-  {
-    "name": "Yuel (Grand)",
-    "aliases": [
-      "ユエル"
-    ]
-  },
-  {
-    "name": "Makura (Valentine)",
-    "aliases": [
-      "マコラ"
-    ]
-  },
-  {
-    "name": "Lobelia (Valentine)",
-    "aliases": [
-      "ロベリア"
-    ]
-  },
-  {
-    "name": "Evangeline A.K. McDowell",
-    "aliases": [
-      "エヴァンジェリン・ａ・ｋ・マクダウェル"
-    ]
-  },
-  {
-    "name": "Negi Springfield",
-    "aliases": [
-      "ネギ・スプリングフィールド"
-    ]
-  },
-  {
-    "name": "Jack Rakan",
-    "aliases": [
-      "ジャック・ラカン"
-    ]
-  },
-  {
-    "name": "Setsuna Sakurazaki",
-    "aliases": [
-      "桜咲刹那"
-    ]
-  },
-  {
-    "name": "Feena (Light)",
-    "aliases": [
-      "フィーナ"
-    ]
-  },
-  {
-    "name": "Maleagant",
-    "aliases": [
-      "メレアガンス"
-    ]
-  },
-  {
-    "name": "Koku",
-    "aliases": [
-      "コク"
-    ]
-  },
-  {
-    "name": "Goblin Mage (SSR)",
-    "aliases": [
-      "ミニゴブ"
-    ]
-  },
-  {
-    "name": "Indala",
-    "aliases": [
-      "インダラ"
-    ]
-  },
-  {
-    "name": "Raphael",
-    "aliases": [
-      "ラファエル"
-    ]
-  },
-  {
-    "name": "Aletheia (Dark)",
-    "aliases": [
-      "アレーティア"
-    ]
-  },
-  {
-    "name": "Yatima",
-    "aliases": [
-      "ヤチマ"
-    ]
-  },
-  {
-    "name": "Payila (Event)",
-    "aliases": [
-      "ハイラ"
-    ]
-  },
-  {
-    "name": "Feower (Holiday)",
-    "aliases": [
-      "カトル"
-    ]
-  },
-  {
-    "name": "Zooey (Holiday)",
-    "aliases": [
-      "ゾーイ"
-    ]
-  },
-  {
-    "name": "Yggdrasil (Holiday)",
-    "aliases": [
-      "ユグドラシル"
-    ]
-  },
-  {
-    "name": "Wamdus (Holiday)",
-    "aliases": [
-      "ワムデュス"
-    ]
-  },
-  {
-    "name": "Veldora Tempest",
-    "aliases": [
-      "ヴェルドラ＝テンペスト"
-    ]
-  },
-  {
-    "name": "Diablo (Collab)",
-    "aliases": [
-      "ディアブロ"
-    ]
-  },
-  {
-    "name": "Shion (Collab)",
-    "aliases": [
-      "シオン"
-    ]
-  },
-  {
-    "name": "Rimuru Tempest",
-    "aliases": [
-      "リムル＝テンペスト"
-    ]
-  },
-  {
-    "name": "Will (SSR)",
-    "aliases": [
-      "ウィル"
-    ]
-  },
-  {
-    "name": "Lecia (SSR)",
-    "aliases": [
-      "リーシャ"
-    ]
-  },
-  {
-    "name": "Manamel (Halloween)",
-    "aliases": [
-      "マナマル"
-    ]
-  },
-  {
-    "name": "Satyr (Halloween)",
-    "aliases": [
-      "サテュロス"
-    ]
-  },
-  {
-    "name": "Wilnas (Halloween)",
-    "aliases": [
-      "ウィルナス"
-    ]
-  },
-  {
-    "name": "Uruki",
-    "aliases": [
-      "ウルキ"
-    ]
-  },
-  {
-    "name": "Florence (Dark)",
-    "aliases": [
-      "フロレンス"
-    ]
-  },
-  {
-    "name": "Vane (Grand)",
-    "aliases": [
-      "ヴェイン"
-    ]
-  },
-  {
-    "name": "Novei",
-    "aliases": [
-      "ナーヴェ"
-    ]
-  },
-  {
-    "name": "Noire",
-    "aliases": [
-      "ノワール"
-    ]
-  },
-  {
-    "name": "Sevastien (SSR)",
-    "aliases": [
-      "セワスチアン"
-    ]
-  },
-  {
-    "name": "Medusa (Grand)",
-    "aliases": [
-      "メドゥーサ"
-    ]
-  },
-  {
-    "name": "Nier (Yukata)",
-    "aliases": [
-      "ニーア"
-    ]
-  },
-  {
-    "name": "Aglovale (Yukata)",
-    "aliases": [
-      "アグロヴァル"
-    ]
-  },
-  {
-    "name": "Galleon (Summer)",
-    "aliases": [
-      "ガレヲン"
-    ]
-  },
-  {
-    "name": "Shushuku",
-    "aliases": [
-      "シュシュク"
-    ]
-  },
-  {
-    "name": "Hekate (Summer)",
-    "aliases": [
-      "ヘカテー"
-    ]
-  },
-  {
-    "name": "Ragazzo (Summer)",
-    "aliases": [
-      "ラガッツォ"
-    ]
-  },
-  {
-    "name": "Tweyen (Yukata)",
-    "aliases": [
-      "ソーン"
-    ]
-  },
-  {
-    "name": "Hallessena (Summer)",
-    "aliases": [
-      "ハレゼナ"
-    ]
-  },
-  {
-    "name": "Cucouroux (Summer)",
-    "aliases": [
-      "ククル"
-    ]
-  },
-  {
-    "name": "Raziel (Summer)",
-    "aliases": [
-      "ラジエル"
-    ]
-  },
-  {
-    "name": "Tefnut (Summer)",
-    "aliases": [
-      "テフヌト"
-    ]
-  },
-  {
-    "name": "Orologia",
-    "aliases": [
-      "オロロジャイア"
-    ]
-  },
-  {
-    "name": "Nectar (Water)",
-    "aliases": [
-      "ネクタル"
-    ]
-  },
-  {
-    "name": "Ami",
-    "aliases": [
-      "アミ"
-    ]
-  },
-  {
-    "name": "Mirin (SSR)",
-    "aliases": [
-      "ミリン"
-    ]
-  },
-  {
-    "name": "Sato",
-    "aliases": [
-      "さと"
-    ]
-  },
-  {
-    "name": "Veight (Wind)",
-    "aliases": [
-      "ヴァイト"
-    ]
-  },
-  {
-    "name": "Sui",
-    "aliases": [
-      "スイ"
-    ]
-  },
-  {
-    "name": "Chloe (SSR)",
-    "aliases": [
-      "クロエ"
-    ]
-  },
-  {
-    "name": "Kolulu (Earth)",
-    "aliases": [
-      "コルル"
-    ]
-  },
-  {
-    "name": "Chichiri",
-    "aliases": [
-      "チチリ"
-    ]
-  },
-  {
-    "name": "Anne (Light)",
-    "aliases": [
-      "アン"
-    ]
-  },
-  {
-    "name": "Spinnah (SSR)",
-    "aliases": [
-      "スピナー"
-    ]
-  },
-  {
-    "name": "Pochacco",
+    "name": {
+      "en_us": "Alba",
+      "ja_jp": "アルバ"
+    },
     "aliases": []
   },
   {
-    "name": "Elmott (Yukata)",
-    "aliases": [
-      "エルモート"
-    ]
-  },
-  {
-    "name": "De La Fille (Yukata)",
-    "aliases": [
-      "レ・フィーエ"
-    ]
-  },
-  {
-    "name": "Fenie",
-    "aliases": [
-      "フェニー"
-    ]
-  },
-  {
-    "name": "Horus (Summer)",
-    "aliases": [
-      "ホルス"
-    ]
-  },
-  {
-    "name": "Magus (Summer)",
-    "aliases": [
-      "メイガス"
-    ]
-  },
-  {
-    "name": "Raziel (Event)",
-    "aliases": [
-      "ラジエル"
-    ]
-  },
-  {
-    "name": "Sandalphon",
-    "aliases": [
-      "サンダルフォン"
-    ]
-  },
-  {
-    "name": "Sabrina",
-    "aliases": [
-      "サブリナ"
-    ]
-  },
-  {
-    "name": "Richard (SSR)",
-    "aliases": [
-      "リチャード"
-    ]
-  },
-  {
-    "name": "Cidala (Valentine)",
-    "aliases": [
-      "シンダラ"
-    ]
-  },
-  {
-    "name": "Nehan (Valentine)",
-    "aliases": [
-      "ネハン"
-    ]
-  },
-  {
-    "name": "Robertina",
-    "aliases": [
-      "ロベルティナ"
-    ]
-  },
-  {
-    "name": "Juri (SSR)",
-    "aliases": [
-      "ユーリ"
-    ]
-  },
-  {
-    "name": "Himiko Toga",
-    "aliases": [
-      "トガヒミコ"
-    ]
-  },
-  {
-    "name": "Olivia",
-    "aliases": [
-      "オリヴィエ"
-    ]
-  },
-  {
-    "name": "Deliford (SSR)",
-    "aliases": [
-      "デリフォード"
-    ]
-  },
-  {
-    "name": "Katsuki Bakugo",
-    "aliases": [
-      "爆豪勝己"
-    ]
-  },
-  {
-    "name": "Izuku Midoriya",
-    "aliases": [
-      "緑谷出久"
-    ]
-  },
-  {
-    "name": "Tyra",
-    "aliases": [
-      "ティラ"
-    ]
-  },
-  {
-    "name": "Payila",
-    "aliases": [
-      "ハイラ"
-    ]
-  },
-  {
-    "name": "Uriel",
-    "aliases": [
-      "ウリエル"
-    ]
-  },
-  {
-    "name": "Lowain (SSR)",
-    "aliases": [
-      "ローアイン"
-    ]
-  },
-  {
-    "name": "Zeta (Grand)",
-    "aliases": [
-      "ゼタ"
-    ]
-  },
-  {
-    "name": "Noa (Holiday)",
-    "aliases": [
-      "ノア"
-    ]
-  },
-  {
-    "name": "Helel ben Shalem (Holiday)",
-    "aliases": [
-      "ヘレル・ベン・シャレム"
-    ]
-  },
-  {
-    "name": "Illnott (Holiday)",
-    "aliases": [
-      "イルノート"
-    ]
-  },
-  {
-    "name": "Yuni (Holiday)",
-    "aliases": [
-      "ユニ"
-    ]
-  },
-  {
-    "name": "Volenna (SSR)",
-    "aliases": [
-      "ボレミア"
-    ]
-  },
-  {
-    "name": "Barawa and Sarya",
-    "aliases": [
-      "バロワ＆サーヤ"
-    ]
-  },
-  {
-    "name": "Gabriel",
-    "aliases": [
-      "ガブリエル"
-    ]
-  },
-  {
-    "name": "Utsusemi",
-    "aliases": [
-      "ウツセミ"
-    ]
-  },
-  {
-    "name": "Sevilbarra (SSR)",
-    "aliases": [
-      "サビルバラ"
-    ]
-  },
-  {
-    "name": "Dante (Halloween)",
-    "aliases": [
-      "ダーント"
-    ]
-  },
-  {
-    "name": "Vikala (Halloween)",
-    "aliases": [
-      "ビカラ"
-    ]
-  },
-  {
-    "name": "Tikoh (Halloween)",
-    "aliases": [
-      "ティコ"
-    ]
-  },
-  {
-    "name": "Siegfried (Light)",
-    "aliases": [
-      "ジークフリート"
-    ]
-  },
-  {
-    "name": "Catherine (Wind)",
-    "aliases": [
-      "キャサリン"
-    ]
-  },
-  {
-    "name": "Kaguya",
-    "aliases": [
-      "カグヤ"
-    ]
-  },
-  {
-    "name": "Paris",
-    "aliases": [
-      "パリス"
-    ]
-  },
-  {
-    "name": "Meg and Mari",
-    "aliases": [
-      "メグ＆まりっぺ"
-    ]
-  },
-  {
-    "name": "Ragazzo",
-    "aliases": [
-      "ラガッツォ"
-    ]
-  },
-  {
-    "name": "Seruel (Summer)",
-    "aliases": [
-      "セルエル"
-    ]
-  },
-  {
-    "name": "Anila (Yukata)",
-    "aliases": [
-      "アニラ"
-    ]
-  },
-  {
-    "name": "Vania (Yukata)",
-    "aliases": [
-      "ヴァンピィ"
-    ]
-  },
-  {
-    "name": "Nobara Kugisaki and Maki Zen'in",
-    "aliases": [
-      "釘崎野薔薇＆禪院真希"
-    ]
-  },
-  {
-    "name": "Yuji Itadori and Megumi Fushiguro",
-    "aliases": [
-      "虎杖悠仁＆伏黒 恵"
-    ]
-  },
-  {
-    "name": "Dorothy and Claudia (Summer)",
-    "aliases": [
-      "サーヴァンツ ドロシー＆クラウディア"
-    ]
-  },
-  {
-    "name": "Aliza (Summer)",
-    "aliases": [
-      "アリーザ"
-    ]
-  },
-  {
-    "name": "Yurius (Summer)",
-    "aliases": [
-      "ユリウス"
-    ]
-  },
-  {
-    "name": "Fediel (Summer)",
-    "aliases": [
-      "フェディエル"
-    ]
-  },
-  {
-    "name": "Vaseraga (Summer)",
-    "aliases": [
-      "バザラガ"
-    ]
-  },
-  {
-    "name": "Enyo (Summer)",
-    "aliases": [
-      "エニュオ"
-    ]
-  },
-  {
-    "name": "Pholia (Yukata)",
-    "aliases": [
-      "フォリア"
-    ]
-  },
-  {
-    "name": "Cupitan (Summer)",
-    "aliases": [
-      "クピタン"
-    ]
-  },
-  {
-    "name": "Cosmos",
-    "aliases": [
-      "コスモス"
-    ]
-  },
-  {
-    "name": "Baal (Fire)",
-    "aliases": [
-      "バアル"
-    ]
-  },
-  {
-    "name": "Korwa (Water)",
-    "aliases": [
-      "コルワ"
-    ]
-  },
-  {
-    "name": "Drusilla (SSR)",
-    "aliases": [
-      "ドロッセル"
-    ]
-  },
-  {
-    "name": "Lily (Wind)",
-    "aliases": [
-      "リリィ"
-    ]
-  },
-  {
-    "name": "Icarus",
-    "aliases": [
-      "イカロス"
-    ]
-  },
-  {
-    "name": "Cantate",
-    "aliases": [
-      "カンターテ"
-    ]
-  },
-  {
-    "name": "Caro",
-    "aliases": [
-      "カロ"
-    ]
-  },
-  {
-    "name": "Jasmine (SSR)",
-    "aliases": [
-      "ジャスミン"
-    ]
-  },
-  {
-    "name": "Yaia (SSR)",
-    "aliases": [
-      "ヤイア"
-    ]
-  },
-  {
-    "name": "Cinnamoroll and Pompompurin",
+    "name": {
+      "en_us": "Vaseraga (Grand)",
+      "ja_jp": "バザラガ"
+    },
     "aliases": []
   },
   {
-    "name": "Ilsa (Yukata)",
-    "aliases": [
-      "イルザ"
-    ]
-  },
-  {
-    "name": "Nezha (Yukata)",
-    "aliases": [
-      "ナタク"
-    ]
-  },
-  {
-    "name": "Monika (Summer)",
-    "aliases": [
-      "モニカ"
-    ]
-  },
-  {
-    "name": "Azusa (Summer)",
-    "aliases": [
-      "アズサ"
-    ]
-  },
-  {
-    "name": "Ewiyar (Grand)",
-    "aliases": [
-      "イーウィヤ"
-    ]
-  },
-  {
-    "name": "Seofon (Event)",
-    "aliases": [
-      "シエテ"
-    ]
-  },
-  {
-    "name": "Hekate",
-    "aliases": [
-      "ヘカテー"
-    ]
-  },
-  {
-    "name": "Lu Woh",
-    "aliases": [
-      "ル・オー"
-    ]
-  },
-  {
-    "name": "Sen (Valentine)",
-    "aliases": [
-      "セン"
-    ]
-  },
-  {
-    "name": "Sandalphon (Valentine)",
-    "aliases": [
-      "サンダルフォン"
-    ]
-  },
-  {
-    "name": "Orchid",
-    "aliases": [
-      "オーキス"
-    ]
-  },
-  {
-    "name": "Cendrillon",
-    "aliases": [
-      "サンドリヨン"
-    ]
-  },
-  {
-    "name": "Amelia",
-    "aliases": [
-      "エミリア"
-    ]
-  },
-  {
-    "name": "Halluel and Malluel",
-    "aliases": [
-      "ハールート・マールート"
-    ]
-  },
-  {
-    "name": "Ultimate Friday",
-    "aliases": [
-      "ｕ・フライデー"
-    ]
-  },
-  {
-    "name": "Makura",
-    "aliases": [
-      "マコラ"
-    ]
-  },
-  {
-    "name": "Michael",
-    "aliases": [
-      "ミカエル"
-    ]
-  },
-  {
-    "name": "Erin (SSR)",
-    "aliases": [
-      "エリン"
-    ]
-  },
-  {
-    "name": "Charlotta (Grand)",
-    "aliases": [
-      "シャルロッテ"
-    ]
-  },
-  {
-    "name": "Catura (Holiday)",
-    "aliases": [
-      "シャトラ"
-    ]
-  },
-  {
-    "name": "Cain (Holiday)",
-    "aliases": [
-      "カイン"
-    ]
-  },
-  {
-    "name": "Fiorito (Holiday)",
-    "aliases": [
-      "フィオリト"
-    ]
-  },
-  {
-    "name": "Europa (Holiday)",
-    "aliases": [
-      "エウロペ"
-    ]
-  },
-  {
-    "name": "Therese (Wind)",
-    "aliases": [
-      "テレーズ"
-    ]
-  },
-  {
-    "name": "Adam",
-    "aliases": [
-      "アダム"
-    ]
-  },
-  {
-    "name": "Alliah",
-    "aliases": [
-      "アリア"
-    ]
-  },
-  {
-    "name": "Yuel and Societte",
-    "aliases": [
-      "永遠の親愛 ユエル＆ソシエ"
-    ]
-  },
-  {
-    "name": "Florence (Halloween)",
-    "aliases": [
-      "フロレンス"
-    ]
-  },
-  {
-    "name": "Mugen (Halloween)",
-    "aliases": [
-      "ムゲン"
-    ]
-  },
-  {
-    "name": "Lich (Halloween)",
-    "aliases": [
-      "リッチ"
-    ]
-  },
-  {
-    "name": "Aglovale and Tor",
-    "aliases": [
-      "覇道を征く主従 アグロヴァル＆トー"
-    ]
-  },
-  {
-    "name": "Percival (Grand)",
-    "aliases": [
-      "パーシヴァル"
-    ]
-  },
-  {
-    "name": "Zoro and Sanji",
-    "aliases": [
-      "ゾロ＆サンジ"
-    ]
-  },
-  {
-    "name": "Bowman",
-    "aliases": [
-      "ボーマン"
-    ]
-  },
-  {
-    "name": "Jessica (SSR)",
-    "aliases": [
-      "ジェシカ"
-    ]
-  },
-  {
-    "name": "Nami and Robin",
-    "aliases": [
-      "ナミ&ロビン"
-    ]
-  },
-  {
-    "name": "Luffy",
-    "aliases": [
-      "ルフィ"
-    ]
-  },
-  {
-    "name": "Anderson",
-    "aliases": [
-      "アンダーソン"
-    ]
-  },
-  {
-    "name": "Erika",
-    "aliases": [
-      "エリカ"
-    ]
-  },
-  {
-    "name": "Jeanne d'Arc (Water Summer)",
-    "aliases": [
-      "ジャンヌ"
-    ]
-  },
-  {
-    "name": "Wamdus",
-    "aliases": [
-      "ワムデュス"
-    ]
-  },
-  {
-    "name": "Sturm (Summer)",
-    "aliases": [
-      "スツルム"
-    ]
-  },
-  {
-    "name": "Tikoh (Summer)",
-    "aliases": [
-      "ティコ"
-    ]
-  },
-  {
-    "name": "Clarisse (Summer)",
-    "aliases": [
-      "クラリス"
-    ]
-  },
-  {
-    "name": "Magisa (Summer)",
-    "aliases": [
-      "マギサ"
-    ]
-  },
-  {
-    "name": "Eustace (Summer)",
-    "aliases": [
-      "ユーステス"
-    ]
-  },
-  {
-    "name": "Shion (Summer)",
-    "aliases": [
-      "シオン"
-    ]
-  },
-  {
-    "name": "Mirin (Summer)",
-    "aliases": [
-      "ミリン"
-    ]
-  },
-  {
-    "name": "Vikala (Summer)",
-    "aliases": [
-      "ビカラ"
-    ]
-  },
-  {
-    "name": "Vajra (Summer)",
-    "aliases": [
-      "ヴァジラ"
-    ]
-  },
-  {
-    "name": "Gwynne",
-    "aliases": [
-      "グウィン"
-    ]
-  },
-  {
-    "name": "Galleon",
-    "aliases": [
-      "ガレヲン"
-    ]
-  },
-  {
-    "name": "Jamil (SSR)",
-    "aliases": [
-      "ジャミル"
-    ]
-  },
-  {
-    "name": "Elea",
-    "aliases": [
-      "エイレア"
-    ]
-  },
-  {
-    "name": "Anna (SSR)",
-    "aliases": [
-      "アンナ"
-    ]
-  },
-  {
-    "name": "Manamel",
-    "aliases": [
-      "マナマル"
-    ]
-  },
-  {
-    "name": "Iroha",
-    "aliases": [
-      "イロハ"
-    ]
-  },
-  {
-    "name": "Prishe",
-    "aliases": [
-      "プリッシュ"
-    ]
-  },
-  {
-    "name": "Lilisette",
-    "aliases": [
-      "リリゼット"
-    ]
-  },
-  {
-    "name": "Sophia (Water)",
-    "aliases": [
-      "ソフィア"
-    ]
-  },
-  {
-    "name": "Skull and Balurga",
-    "aliases": [
-      "自由を謳う漢達 スカル＆バルルガン"
-    ]
-  },
-  {
-    "name": "Laguna (SSR)",
-    "aliases": [
-      "ラグナ"
-    ]
-  },
-  {
-    "name": "You",
-    "aliases": [
-      "ヨウ"
-    ]
-  },
-  {
-    "name": "Narmaya (Yukata)",
-    "aliases": [
-      "ナルメア"
-    ]
-  },
-  {
-    "name": "Silva (Yukata)",
-    "aliases": [
-      "シルヴァ"
-    ]
-  },
-  {
-    "name": "Yuni",
-    "aliases": [
-      "ユニ"
-    ]
-  },
-  {
-    "name": "Medusa (Summer)",
-    "aliases": [
-      "メドゥーサ"
-    ]
-  },
-  {
-    "name": "Sylph",
-    "aliases": [
-      "シルフ"
-    ]
-  },
-  {
-    "name": "Freyr",
-    "aliases": [
-      "フレイ"
-    ]
-  },
-  {
-    "name": "Ladiva (Valentine)",
-    "aliases": [
-      "ファスティバ"
-    ]
-  },
-  {
-    "name": "Vira (Valentine)",
-    "aliases": [
-      "ヴィーラ"
-    ]
-  },
-  {
-    "name": "Cassius (Valentine)",
-    "aliases": [
-      "カシウス"
-    ]
-  },
-  {
-    "name": "Special Week, Silence Suzuka, and Tokai Teio",
-    "aliases": [
-      "スペシャルウィーク＆サイレンススズカ＆トウカイテイオー"
-    ]
-  },
-  {
-    "name": "Lilele (Fire)",
-    "aliases": [
-      "リルル"
-    ]
-  },
-  {
-    "name": "Ippatsu (SSR)",
-    "aliases": [
-      "イッパツ"
-    ]
-  },
-  {
-    "name": "Wilnas",
-    "aliases": [
-      "ウィルナス"
-    ]
-  },
-  {
-    "name": "Yggdrasil (Wind)",
-    "aliases": [
-      "ユグドラシル"
-    ]
-  },
-  {
-    "name": "Cupitan",
-    "aliases": [
-      "クピタン"
-    ]
-  },
-  {
-    "name": "Ewiyar",
-    "aliases": [
-      "イーウィヤ"
-    ]
-  },
-  {
-    "name": "Cidala",
-    "aliases": [
-      "シンダラ"
-    ]
-  },
-  {
-    "name": "Fediel",
-    "aliases": [
-      "フェディエル"
-    ]
-  },
-  {
-    "name": "Satyr (Earth)",
-    "aliases": [
-      "サテュロス"
-    ]
-  },
-  {
-    "name": "Lancelot (Grand)",
-    "aliases": [
-      "ランスロット"
-    ]
-  },
-  {
-    "name": "Catura (Event)",
-    "aliases": [
-      "シャトラ"
-    ]
-  },
-  {
-    "name": "Altair (Holiday)",
-    "aliases": [
-      "アルタイル"
-    ]
-  },
-  {
-    "name": "Mahira (Holiday)",
-    "aliases": [
-      "マキラ"
-    ]
-  },
-  {
-    "name": "Nobita",
-    "aliases": [
-      "のび太"
-    ]
-  },
-  {
-    "name": "Doraemon",
-    "aliases": [
-      "ドラえもん"
-    ]
-  },
-  {
-    "name": "Anthuria (Holiday)",
-    "aliases": [
-      "アンスリア"
-    ]
-  },
-  {
-    "name": "Randall (SSR)",
-    "aliases": [
-      "ランドル"
-    ]
-  },
-  {
-    "name": "Arulumaya (Light)",
-    "aliases": [
-      "アルルメイヤ"
-    ]
-  },
-  {
-    "name": "Benjamin",
-    "aliases": [
-      "ベンジャミン"
-    ]
-  },
-  {
-    "name": "Enyo",
-    "aliases": [
-      "エニュオ"
-    ]
-  },
-  {
-    "name": "Lunalu (Light)",
-    "aliases": [
-      "ルナール"
-    ]
-  },
-  {
-    "name": "Yorozuya",
-    "aliases": [
-      "万事屋銀ちゃん 坂田銀時&志村新八&神楽"
-    ]
-  },
-  {
-    "name": "Cucouroux (Halloween)",
-    "aliases": [
-      "ククル"
-    ]
-  },
-  {
-    "name": "Vane (Halloween)",
-    "aliases": [
-      "ヴェイン"
-    ]
-  },
-  {
-    "name": "Shinsengumi",
-    "aliases": [
-      "真選組 土方十四郎&沖田総悟"
-    ]
-  },
-  {
-    "name": "Azusa",
-    "aliases": [
-      "アズサ"
-    ]
-  },
-  {
-    "name": "Arthur",
-    "aliases": [
-      "アーサー"
-    ]
-  },
-  {
-    "name": "Lich",
-    "aliases": [
-      "リッチ"
-    ]
-  },
-  {
-    "name": "Elmott (SSR)",
-    "aliases": [
-      "エルモート"
-    ]
-  },
-  {
-    "name": "Grea (Light)",
-    "aliases": [
-      "グレア"
-    ]
-  },
-  {
-    "name": "Naoise (Fire)",
-    "aliases": [
-      "ノイシュ"
-    ]
-  },
-  {
-    "name": "Shiva (Summer)",
-    "aliases": [
-      "シヴァ"
-    ]
-  },
-  {
-    "name": "Helel ben Shalem (Summer)",
-    "aliases": [
-      "ヘレル・ベン・シャレム"
-    ]
-  },
-  {
-    "name": "Tabina (Summer)",
-    "aliases": [
-      "タヴィーナ"
-    ]
-  },
-  {
-    "name": "Zahlhamelina (Yukata)",
-    "aliases": [
-      "ザルハメリナ"
-    ]
-  },
-  {
-    "name": "Poseidon",
-    "aliases": [
-      "ポセイドン"
-    ]
-  },
-  {
-    "name": "Metera (Summer)",
-    "aliases": [
-      "メーテラ"
-    ]
-  },
-  {
-    "name": "Meg (Summer)",
-    "aliases": [
-      "メグ"
-    ]
-  },
-  {
-    "name": "Illnott (Summer)",
-    "aliases": [
-      "イルノート"
-    ]
-  },
-  {
-    "name": "Siegfried (Summer)",
-    "aliases": [
-      "ジークフリート"
-    ]
-  },
-  {
-    "name": "Izmir (Yukata)",
-    "aliases": [
-      "イシュミール"
-    ]
-  },
-  {
-    "name": "Yngwie (Yukata)",
-    "aliases": [
-      "イングヴェイ"
-    ]
-  },
-  {
-    "name": "Nehan",
-    "aliases": [
-      "ネハン"
-    ]
-  },
-  {
-    "name": "Lennah (Earth)",
-    "aliases": [
-      "レナ"
-    ]
-  },
-  {
-    "name": "Ms. Miranda",
-    "aliases": [
-      "ミランダ"
-    ]
-  },
-  {
-    "name": "Sho",
-    "aliases": [
-      "ショウ"
-    ]
-  },
-  {
-    "name": "Tikoh",
-    "aliases": [
-      "ティコ"
-    ]
-  },
-  {
-    "name": "Troue",
-    "aliases": [
-      "トルー"
-    ]
-  },
-  {
-    "name": "Narmaya (Grand)",
-    "aliases": [
-      "ナルメア"
-    ]
-  },
-  {
-    "name": "Albert (Dark)",
-    "aliases": [
-      "アルベール"
-    ]
-  },
-  {
-    "name": "Shion",
-    "aliases": [
-      "シオン"
-    ]
-  },
-  {
-    "name": "Nezha",
-    "aliases": [
-      "ナタク"
-    ]
-  },
-  {
-    "name": "Bobobo-bo Bo-bobo",
-    "aliases": [
-      "ボボボーボ・ボーボボ"
-    ]
-  },
-  {
-    "name": "Andira (Summer)",
-    "aliases": [
-      "アンチラ"
-    ]
-  },
-  {
-    "name": "Kumbhira (Summer)",
-    "aliases": [
-      "クビラ"
-    ]
-  },
-  {
-    "name": "Beatrix (Earth)",
-    "aliases": [
-      "ベアトリクス"
-    ]
-  },
-  {
-    "name": "Isaac",
-    "aliases": [
-      "アイザック"
-    ]
-  },
-  {
-    "name": "Cassius (Event SSR)",
-    "aliases": [
-      "カシウス"
-    ]
-  },
-  {
-    "name": "Farrah and Juri",
-    "aliases": [
-      "同期組 ファラ＆ユーリ"
-    ]
-  },
-  {
-    "name": "Vaseraga (Fire)",
-    "aliases": [
-      "バザラガ"
-    ]
-  },
-  {
-    "name": "Zeta (Water)",
-    "aliases": [
-      "ゼタ"
-    ]
-  },
-  {
-    "name": "Aglovale (Valentine)",
-    "aliases": [
-      "アグロヴァル"
-    ]
-  },
-  {
-    "name": "Monika (Valentine)",
-    "aliases": [
-      "モニカ"
-    ]
-  },
-  {
-    "name": "Cagliostro (Grand)",
-    "aliases": [
-      "カリオストロ"
-    ]
-  },
-  {
-    "name": "Lamretta (SSR)",
-    "aliases": [
-      "ラムレッダ"
-    ]
-  },
-  {
-    "name": "Nectar",
-    "aliases": [
-      "ネクタル"
-    ]
-  },
-  {
-    "name": "Mishra (SSR)",
-    "aliases": [
-      "マイシェラ"
-    ]
-  },
-  {
-    "name": "Zehek (SSR)",
-    "aliases": [
-      "ゼヘク"
-    ]
-  },
-  {
-    "name": "Nicholas (Light)",
-    "aliases": [
-      "シロウ"
-    ]
-  },
-  {
-    "name": "Filene",
-    "aliases": [
-      "フィルレイン"
-    ]
-  },
-  {
-    "name": "Catura",
-    "aliases": [
-      "シャトラ"
-    ]
-  },
-  {
-    "name": "Sandalphon (Earth Grand)",
-    "aliases": [
-      "サンダルフォン"
-    ]
-  },
-  {
-    "name": "Vikala (Event)",
-    "aliases": [
-      "ビカラ"
-    ]
-  },
-  {
-    "name": "Lily (Holiday)",
-    "aliases": [
-      "リリィ"
-    ]
-  },
-  {
-    "name": "Spinnah (Holiday)",
-    "aliases": [
-      "スピナー"
-    ]
-  },
-  {
-    "name": "Shinobu Kocho",
-    "aliases": [
-      "胡蝶しのぶ"
-    ]
-  },
-  {
-    "name": "Kyojuro Rengoku",
-    "aliases": [
-      "煉獄杏寿郎"
-    ]
-  },
-  {
-    "name": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
-    "aliases": [
-      "竈門炭治郎＆竈門禰豆子＆我妻善逸＆嘴平伊之助"
-    ]
-  },
-  {
-    "name": "Mirin (Holiday)",
-    "aliases": [
-      "ミリン"
-    ]
-  },
-  {
-    "name": "Nemone (Holiday)",
-    "aliases": [
-      "ネモネ"
-    ]
-  },
-  {
-    "name": "Fiorito",
-    "aliases": [
-      "フィオリト"
-    ]
-  },
-  {
-    "name": "Feather (SSR)",
-    "aliases": [
-      "フェザー"
-    ]
-  },
-  {
-    "name": "Sutera (SSR)",
-    "aliases": [
-      "スーテラ"
-    ]
-  },
-  {
-    "name": "Mireille and Risette",
-    "aliases": [
-      "ミレイユ＆リゼット"
-    ]
-  },
-  {
-    "name": "Rosetta (Halloween)",
-    "aliases": [
-      "ロゼッタ"
-    ]
-  },
-  {
-    "name": "Azazel (Halloween)",
-    "aliases": [
-      "アザゼル"
-    ]
-  },
-  {
-    "name": "Wulf and Renie (Halloween)",
-    "aliases": [
-      "ウーフとレニー"
-    ]
-  },
-  {
-    "name": "Florence",
-    "aliases": [
-      "フロレンス"
-    ]
-  },
-  {
-    "name": "Gawain (Light)",
-    "aliases": [
-      "ガウェイン"
-    ]
-  },
-  {
-    "name": "Golden Knight",
-    "aliases": [
-      "黄金の騎士"
-    ]
-  },
-  {
-    "name": "Diantha",
-    "aliases": [
-      "ディアンサ"
-    ]
-  },
-  {
-    "name": "Mimori Amamiya",
-    "aliases": [
-      "天宮ミモリ"
-    ]
-  },
-  {
-    "name": "Hiro Ryugasaki",
-    "aliases": [
-      "竜ヶ崎ヒイロ"
-    ]
-  },
-  {
-    "name": "Juliet (Water)",
-    "aliases": [
-      "ジュリエット"
-    ]
-  },
-  {
-    "name": "Joel (SR)",
-    "aliases": [
-      "ジョエル"
-    ]
-  },
-  {
-    "name": "Mimlemel (Summer)",
-    "aliases": [
-      "ミムルメモル"
-    ]
-  },
-  {
-    "name": "Silva (Summer)",
-    "aliases": [
-      "シルヴァ"
-    ]
-  },
-  {
-    "name": "Albert (Summer)",
-    "aliases": [
-      "アルベール"
-    ]
-  },
-  {
-    "name": "Ferry (Summer)",
-    "aliases": [
-      "フェリ"
-    ]
-  },
-  {
-    "name": "Rosamia (Yukata)",
-    "aliases": [
-      "ロザミア"
-    ]
-  },
-  {
-    "name": "Anila (Summer)",
-    "aliases": [
-      "アニラ"
-    ]
-  },
-  {
-    "name": "Tyre (Yukata)",
-    "aliases": [
-      "タイアー"
-    ]
-  },
-  {
-    "name": "Meg (Event)",
-    "aliases": [
-      "メグ"
-    ]
-  },
-  {
-    "name": "Amira (Summer)",
-    "aliases": [
-      "アーミラ"
-    ]
-  },
-  {
-    "name": "Lucio (Summer)",
-    "aliases": [
-      "ルシオ"
-    ]
-  },
-  {
-    "name": "Leona (Grand)",
-    "aliases": [
-      "レオナ"
-    ]
-  },
-  {
-    "name": "Abby",
-    "aliases": [
-      "アビー"
-    ]
-  },
-  {
-    "name": "Kolulu (Summer)",
-    "aliases": [
-      "コルル"
-    ]
-  },
-  {
-    "name": "Black Knight and Orchis",
-    "aliases": [
-      "エルステの要 黒騎士&オルキス"
-    ]
-  },
-  {
-    "name": "Pengy (SSR)",
-    "aliases": [
-      "ペンギー"
-    ]
-  },
-  {
-    "name": "Naoise",
-    "aliases": [
-      "ノイシュ"
-    ]
-  },
-  {
-    "name": "Satyr",
-    "aliases": [
-      "サテュロス"
-    ]
-  },
-  {
-    "name": "Percival (Light)",
-    "aliases": [
-      "パーシヴァル"
-    ]
-  },
-  {
-    "name": "Kaede Takagaki",
-    "aliases": [
-      "高垣楓"
-    ]
-  },
-  {
-    "name": "Predator (SSR)",
-    "aliases": [
-      "プレデター"
-    ]
-  },
-  {
-    "name": "Illnott",
-    "aliases": [
-      "イルノート"
-    ]
-  },
-  {
-    "name": "New Generations",
-    "aliases": [
-      "渋谷凛＆島村卯月＆本田未央"
-    ]
-  },
-  {
-    "name": "Reinhardtzar (Grand)",
-    "aliases": [
-      "ラインハルザ"
-    ]
-  },
-  {
-    "name": "Shura",
-    "aliases": [
-      "シュラ"
-    ]
-  },
-  {
-    "name": "Milleore and Sahli Lao",
-    "aliases": [
-      "阿吽の破弓 ミラオル＆ザーリリャオー"
-    ]
-  },
-  {
-    "name": "Herja (SSR)",
-    "aliases": [
-      "ヘリヤ"
-    ]
-  },
-  {
-    "name": "Drang",
-    "aliases": [
-      "ドランク"
-    ]
-  },
-  {
-    "name": "Sturm",
-    "aliases": [
-      "スツルム"
-    ]
-  },
-  {
-    "name": "Mugen",
-    "aliases": [
-      "ムゲン"
-    ]
-  },
-  {
-    "name": "Teena (Summer)",
-    "aliases": [
-      "ティナ"
-    ]
-  },
-  {
-    "name": "Seox (Event)",
-    "aliases": [
-      "シス"
-    ]
-  },
-  {
-    "name": "Rei",
-    "aliases": [
-      "レイ"
-    ]
-  },
-  {
-    "name": "Vania and Malinda",
-    "aliases": [
-      "飛竜と吸血姫 ヴァンピィ＆ベス"
-    ]
-  },
-  {
-    "name": "Lecia (Water)",
-    "aliases": [
-      "リーシャ"
-    ]
-  },
-  {
-    "name": "Grimnir (Valentine)",
-    "aliases": [
-      "グリームニル"
-    ]
-  },
-  {
-    "name": "Scathacha (Valentine)",
-    "aliases": [
-      "スカーサハ"
-    ]
-  },
-  {
-    "name": "Yodarha (Wind)",
-    "aliases": [
-      "ヨダルラーハ"
-    ]
-  },
-  {
-    "name": "Ilsa (Light)",
-    "aliases": [
-      "イルザ"
-    ]
-  },
-  {
-    "name": "Jin",
-    "aliases": [
-      "ジン"
-    ]
-  },
-  {
-    "name": "Danua (Light)",
-    "aliases": [
-      "ダヌア"
-    ]
-  },
-  {
-    "name": "Noa (Grand)",
-    "aliases": [
-      "ノア"
-    ]
-  },
-  {
-    "name": "Lucius (SSR)",
-    "aliases": [
-      "ルシウス"
-    ]
-  },
-  {
-    "name": "Yuisis (Fire)",
-    "aliases": [
-      "ユイシス"
-    ]
-  },
-  {
-    "name": "Vikala",
-    "aliases": [
-      "ビカラ"
-    ]
-  },
-  {
-    "name": "Helel ben Shalem",
-    "aliases": [
-      "ヘレル・ベン・シャレム"
-    ]
-  },
-  {
-    "name": "Joy (Event)",
-    "aliases": [
-      "ジョイ"
-    ]
-  },
-  {
-    "name": "Kumbhira (Event)",
-    "aliases": [
-      "クビラ"
-    ]
-  },
-  {
-    "name": "Seruel (Holiday)",
-    "aliases": [
-      "セルエル"
-    ]
-  },
-  {
-    "name": "Narmaya (Holiday)",
-    "aliases": [
-      "ナルメア"
-    ]
-  },
-  {
-    "name": "Vira (Promo)",
-    "aliases": [
-      "ヴィーラ"
-    ]
-  },
-  {
-    "name": "Gachapin",
+    "name": {
+      "en_us": "Cocopio",
+      "ja_jp": "ココピオ"
+    },
     "aliases": []
   },
   {
-    "name": "Magisa (Holiday)",
-    "aliases": [
-      "マギサ"
-    ]
-  },
-  {
-    "name": "Meteon (Holiday)",
-    "aliases": [
-      "ミュオン"
-    ]
-  },
-  {
-    "name": "Jeanne d'Arc (Grand)",
-    "aliases": [
-      "ジャンヌダルク"
-    ]
-  },
-  {
-    "name": "Shitori",
-    "aliases": [
-      "シトリ"
-    ]
-  },
-  {
-    "name": "Krugne (SR)",
-    "aliases": [
-      "クルーニ"
-    ]
-  },
-  {
-    "name": "Kou",
-    "aliases": [
-      "コウ"
-    ]
-  },
-  {
-    "name": "Societte (Wind)",
-    "aliases": [
-      "ソシエ"
-    ]
-  },
-  {
-    "name": "You (Event)",
-    "aliases": [
-      "ヨウ"
-    ]
-  },
-  {
-    "name": "Hallessena (Halloween)",
-    "aliases": [
-      "ハレゼナ"
-    ]
-  },
-  {
-    "name": "Zeta and Vaseraga (Halloween)",
-    "aliases": [
-      "真紅と冥闇 ゼタ＆バザラガ"
-    ]
-  },
-  {
-    "name": "Zaja (Halloween)",
-    "aliases": [
-      "ザザ"
-    ]
-  },
-  {
-    "name": "Monika (Grand)",
-    "aliases": [
-      "モニカ"
-    ]
-  },
-  {
-    "name": "Siegfried (Fire)",
-    "aliases": [
-      "ジークフリート"
-    ]
-  },
-  {
-    "name": "La Coiffe (SR)",
-    "aliases": [
-      "コワフュール"
-    ]
-  },
-  {
-    "name": "Sara (Light)",
-    "aliases": [
-      "サラ"
-    ]
-  },
-  {
-    "name": "Colossus",
+    "name": {
+      "en_us": "Uruki (Wind)",
+      "ja_jp": "ウルキ"
+    },
     "aliases": []
   },
   {
-    "name": "Tabina",
-    "aliases": [
-      "タヴィーナ"
-    ]
+    "name": {
+      "en_us": "Mordred",
+      "ja_jp": "モルドレッド"
+    },
+    "aliases": []
   },
   {
-    "name": "Stan and Aliza",
-    "aliases": [
-      "勇者と姫君 スタン＆アリーザ"
-    ]
+    "name": {
+      "en_us": "Bhadra",
+      "ja_jp": "バドラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Alexiel (Summer)",
-    "aliases": [
-      "ブローディア"
-    ]
+    "name": {
+      "en_us": "Seox (Summer)",
+      "ja_jp": "シス"
+    },
+    "aliases": []
   },
   {
-    "name": "Leona (Yukata)",
-    "aliases": [
-      "レオナ"
-    ]
+    "name": {
+      "en_us": "Payila (Summer)",
+      "ja_jp": "ハイラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Μ's Third-Years",
-    "aliases": [
-      "絢瀬絵里＆矢澤にこ＆東條 希"
-    ]
+    "name": {
+      "en_us": "You (Summer)",
+      "ja_jp": "ヨウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Μ's Second-Years",
-    "aliases": [
-      "園田海未＆高坂穂乃果＆南ことり"
-    ]
+    "name": {
+      "en_us": "Gwynne (Yukata)",
+      "ja_jp": "グウィン"
+    },
+    "aliases": []
   },
   {
-    "name": "Μ's First-Years",
-    "aliases": [
-      "星空 凛＆小泉花陽＆西木野真姫"
-    ]
+    "name": {
+      "en_us": "Yoruichi Shihoin",
+      "ja_jp": "四楓院夜一"
+    },
+    "aliases": []
   },
   {
-    "name": "Anthuria (Yukata)",
-    "aliases": [
-      "アンスリア"
-    ]
+    "name": {
+      "en_us": "Toshiro Hitsugaya and Rangiku Matsumoto",
+      "ja_jp": "日番谷冬獅郎＆松本乱菊"
+    },
+    "aliases": []
   },
   {
-    "name": "Cassius (Yukata)",
-    "aliases": [
-      "カシウス"
-    ]
+    "name": {
+      "en_us": "Nelliel Tu Odelschwanck",
+      "ja_jp": "ネリエル・トゥ・オーデルシュヴァンク"
+    },
+    "aliases": []
   },
   {
-    "name": "Jessica (Yukata)",
-    "aliases": [
-      "ジェシカ"
-    ]
+    "name": {
+      "en_us": "Ichigo Kurosaki",
+      "ja_jp": "黒崎一護"
+    },
+    "aliases": []
   },
   {
-    "name": "Europa (Summer)",
-    "aliases": [
-      "エウロペ"
-    ]
+    "name": {
+      "en_us": "Atman (Summer)",
+      "ja_jp": "アートマン"
+    },
+    "aliases": []
   },
   {
-    "name": "Lancelot and Vane (Summer)",
-    "aliases": [
-      "白竜の双騎士 ランスロット＆ヴェイン"
-    ]
+    "name": {
+      "en_us": "Osiris (Yukata)",
+      "ja_jp": "オシリス"
+    },
+    "aliases": []
   },
   {
-    "name": "Cagliostro (Summer)",
-    "aliases": [
-      "カリオストロ"
-    ]
+    "name": {
+      "en_us": "Europa (Formal)",
+      "ja_jp": "エウロペ"
+    },
+    "aliases": []
   },
   {
-    "name": "Friday (Summer)",
-    "aliases": [
-      "フライデー"
-    ]
+    "name": {
+      "en_us": "Meg and Mari (Formal)",
+      "ja_jp": "メグ＆まりっぺ"
+    },
+    "aliases": []
   },
   {
-    "name": "Sandalphon (Summer)",
-    "aliases": [
-      "サンダルフォン"
-    ]
+    "name": {
+      "en_us": "Notus",
+      "ja_jp": "ノトス"
+    },
+    "aliases": []
   },
   {
-    "name": "Halluel and Malluel (Summer)",
-    "aliases": [
-      "ハールート・マールート"
-    ]
+    "name": {
+      "en_us": "Shao (SSR)",
+      "ja_jp": "シャオ"
+    },
+    "aliases": []
   },
   {
-    "name": "Kolulu",
-    "aliases": [
-      "コルル"
-    ]
+    "name": {
+      "en_us": "Io (SSR)",
+      "ja_jp": "イオ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lelouch Lamperouge",
-    "aliases": [
-      "ルルーシュ・ランペルージ"
-    ]
+    "name": {
+      "en_us": "Mikaboshi",
+      "ja_jp": "ミカボシ"
+    },
+    "aliases": []
   },
   {
-    "name": "Philosophia (SR)",
-    "aliases": [
-      "フィラソピラ"
-    ]
+    "name": {
+      "en_us": "Greed and Ling Yao",
+      "ja_jp": "グリード＆リン・ヤオ"
+    },
+    "aliases": []
   },
   {
-    "name": "Kallen Kouzuki",
-    "aliases": [
-      "紅月カレン"
-    ]
+    "name": {
+      "en_us": "Olivier Mira Armstrong",
+      "ja_jp": "オリヴィエ・ミラ・アームストロング"
+    },
+    "aliases": []
   },
   {
-    "name": "Suzaku Kururugi",
-    "aliases": [
-      "枢木スザク"
-    ]
+    "name": {
+      "en_us": "Roy Mustang",
+      "ja_jp": "ロイ・マスタング"
+    },
+    "aliases": []
   },
   {
-    "name": "Morrigna",
-    "aliases": [
-      "バイヴカハ"
-    ]
+    "name": {
+      "en_us": "Edward Elric",
+      "ja_jp": "エドワード・エルリック"
+    },
+    "aliases": []
   },
   {
-    "name": "Ladiva (SSR)",
-    "aliases": [
-      "ファスティバ"
-    ]
+    "name": {
+      "en_us": "Manu Ponumau",
+      "ja_jp": "マヌ＝ポヌマウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Bridgette and Cordelia",
-    "aliases": [
-      "ノーブルナイツ ブリジール＆コーデリア"
-    ]
+    "name": {
+      "en_us": "Felluca",
+      "ja_jp": "フェルルカ"
+    },
+    "aliases": []
   },
   {
-    "name": "Karyl",
-    "aliases": [
-      "キャル"
-    ]
+    "name": {
+      "en_us": "Fylkis",
+      "ja_jp": "フィルキス"
+    },
+    "aliases": []
   },
   {
-    "name": "Baal",
-    "aliases": [
-      "バアル"
-    ]
+    "name": {
+      "en_us": "Parashurama",
+      "ja_jp": "パラシュラーマ"
+    },
+    "aliases": []
   },
   {
-    "name": "Aster",
-    "aliases": [
-      "アステール"
-    ]
+    "name": {
+      "en_us": "Echidna",
+      "ja_jp": "エキドナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Medusa",
-    "aliases": [
-      "メドゥーサ"
-    ]
+    "name": {
+      "en_us": "Alliah (Yukata)",
+      "ja_jp": "アリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Richard (SR)",
-    "aliases": [
-      "リチャード"
-    ]
+    "name": {
+      "en_us": "Anthuria (Summer)",
+      "ja_jp": "アンスリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Macula Marius",
-    "aliases": [
-      "マキュラ・マリウス"
-    ]
+    "name": {
+      "en_us": "Eustace (Yukata)",
+      "ja_jp": "ユーステス"
+    },
+    "aliases": []
   },
   {
-    "name": "Grimnir",
-    "aliases": [
-      "グリームニル"
-    ]
+    "name": {
+      "en_us": "Apollonia (Summer)",
+      "ja_jp": "アポロニア"
+    },
+    "aliases": []
   },
   {
-    "name": "Vira (Wind)",
-    "aliases": [
-      "ヴィーラ"
-    ]
+    "name": {
+      "en_us": "Octavia",
+      "ja_jp": "オクタヴィア"
+    },
+    "aliases": []
   },
   {
-    "name": "Korwa (SR)",
-    "aliases": [
-      "コルワ"
-    ]
+    "name": {
+      "en_us": "Lyria (Event SSR)",
+      "ja_jp": "ルリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Yuel (Summer)",
-    "aliases": [
-      "ユエル"
-    ]
+    "name": {
+      "en_us": "Ange (SSR)",
+      "ja_jp": "アンジェ"
+    },
+    "aliases": []
   },
   {
-    "name": "Nier",
-    "aliases": [
-      "ニーア"
-    ]
+    "name": {
+      "en_us": "Walfrid",
+      "ja_jp": "ヴァルフリート"
+    },
+    "aliases": []
   },
   {
-    "name": "Haaselia",
-    "aliases": [
-      "ハーゼリーラ"
-    ]
+    "name": {
+      "en_us": "Gawain (Valentine)",
+      "ja_jp": "ガウェイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Alanaan",
-    "aliases": [
-      "アラナン"
-    ]
+    "name": {
+      "en_us": "Wamdus (Valentine)",
+      "ja_jp": "ワムデュス"
+    },
+    "aliases": []
   },
   {
-    "name": "Katzelia",
-    "aliases": [
-      "カッツェリーラ"
-    ]
+    "name": {
+      "en_us": "Arriet (Light)",
+      "ja_jp": "アンリエット"
+    },
+    "aliases": []
   },
   {
-    "name": "Lobelia",
-    "aliases": [
-      "ロベリア"
-    ]
+    "name": {
+      "en_us": "McCoy",
+      "ja_jp": "マッコイ"
+    },
+    "aliases": []
   },
   {
-    "name": "Caim",
-    "aliases": [
-      "カイム"
-    ]
+    "name": {
+      "en_us": "Constance",
+      "ja_jp": "コンスタンツィア"
+    },
+    "aliases": []
   },
   {
-    "name": "Estarriola",
-    "aliases": [
-      "エスタリオラ"
-    ]
+    "name": {
+      "en_us": "Lulou Holou",
+      "ja_jp": "ルロウホロウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Geisenborger",
-    "aliases": [
-      "ガイゼンボーガ"
-    ]
+    "name": {
+      "en_us": "Sandira",
+      "ja_jp": "サンチラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Fraux",
-    "aliases": [
-      "フラウ"
-    ]
+    "name": {
+      "en_us": "Caesar",
+      "ja_jp": "シーザー"
+    },
+    "aliases": []
   },
   {
-    "name": "Maria Theresa",
-    "aliases": [
-      "マリア・テレサ"
-    ]
+    "name": {
+      "en_us": "Amaterasu",
+      "ja_jp": "アマテラス"
+    },
+    "aliases": []
   },
   {
-    "name": "Ferry (Grand)",
-    "aliases": [
-      "フェリ"
-    ]
+    "name": {
+      "en_us": "Bhaisa",
+      "ja_jp": "バイシュラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Heles (Wind)",
-    "aliases": [
-      "ヘルエス"
-    ]
+    "name": {
+      "en_us": "Darydara",
+      "ja_jp": "ダリダラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Mirin (Light)",
-    "aliases": [
-      "ミリン"
-    ]
+    "name": {
+      "en_us": "Maria Theresa (Holiday)",
+      "ja_jp": "マリア・テレサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Melissabelle (Valentine)",
-    "aliases": [
-      "メリッサベル"
-    ]
+    "name": {
+      "en_us": "Zeta (Holiday)",
+      "ja_jp": "ゼタ"
+    },
+    "aliases": []
   },
   {
-    "name": "Clarisse (Valentine)",
-    "aliases": [
-      "クラリス"
-    ]
+    "name": {
+      "en_us": "Bennu (Holiday)",
+      "ja_jp": "ベンヌ"
+    },
+    "aliases": []
   },
   {
-    "name": "Dante and Freiheit",
-    "aliases": [
-      "ダーント&フライハイト"
-    ]
+    "name": {
+      "en_us": "Reinhardtzar (Holiday)",
+      "ja_jp": "ラインハルザ"
+    },
+    "aliases": []
   },
   {
-    "name": "Sen (SSR)",
-    "aliases": [
-      "セン"
-    ]
+    "name": {
+      "en_us": "Rei & Unit 00",
+      "ja_jp": "レイ＆零号機"
+    },
+    "aliases": []
   },
   {
-    "name": "Catherine (SR)",
-    "aliases": [
-      "キャサリン"
-    ]
+    "name": {
+      "en_us": "Kaworu & Mark.06",
+      "ja_jp": "カヲル&mark.06"
+    },
+    "aliases": []
   },
   {
-    "name": "Young Cat (Event)",
-    "aliases": [
-      "猫"
-    ]
+    "name": {
+      "en_us": "Asuka & Unit 02",
+      "ja_jp": "アスカ&2号機"
+    },
+    "aliases": []
   },
   {
-    "name": "Tanya (SSR)",
-    "aliases": [
-      "ターニャ"
-    ]
+    "name": {
+      "en_us": "Shinji & Unit 01",
+      "ja_jp": "シンジ＆初号機"
+    },
+    "aliases": []
   },
   {
-    "name": "Skull",
-    "aliases": [
-      "スカル"
-    ]
+    "name": {
+      "en_us": "Chichiri (Water)",
+      "ja_jp": "チチリ"
+    },
+    "aliases": []
   },
   {
-    "name": "Athena",
-    "aliases": [
-      "アテナ"
-    ]
+    "name": {
+      "en_us": "Metera (Grand)",
+      "ja_jp": "メーテラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Eustace (Dark)",
-    "aliases": [
-      "ユーステス"
-    ]
+    "name": {
+      "en_us": "Tien (Halloween)",
+      "ja_jp": "エッセル"
+    },
+    "aliases": []
   },
   {
-    "name": "Kumbhira",
-    "aliases": [
-      "クビラ"
-    ]
+    "name": {
+      "en_us": "Lancelot (Halloween)",
+      "ja_jp": "ランスロット"
+    },
+    "aliases": []
   },
   {
-    "name": "Cassius (Event)",
-    "aliases": [
-      "カシウス"
-    ]
+    "name": {
+      "en_us": "Vajra (Halloween)",
+      "ja_jp": "ヴァジラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Beatrix (SR)",
-    "aliases": [
-      "ベアトリクス"
-    ]
+    "name": {
+      "en_us": "Danua (SSR)",
+      "ja_jp": "ダヌア"
+    },
+    "aliases": []
   },
   {
-    "name": "Shiva",
-    "aliases": [
-      "シヴァ"
-    ]
+    "name": {
+      "en_us": "Lamorak",
+      "ja_jp": "ラモラック"
+    },
+    "aliases": []
   },
   {
-    "name": "Metera (Holiday)",
-    "aliases": [
-      "メーテラ"
-    ]
+    "name": {
+      "en_us": "Joel (SSR)",
+      "ja_jp": "ジョエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Yaia (Holiday)",
-    "aliases": [
-      "ヤイア"
-    ]
+    "name": {
+      "en_us": "Sylvia",
+      "ja_jp": "シルヴィア"
+    },
+    "aliases": []
   },
   {
-    "name": "Kokkoro",
-    "aliases": [
-      "コッコロ"
-    ]
+    "name": {
+      "en_us": "Berceau",
+      "ja_jp": "ベルソー"
+    },
+    "aliases": []
   },
   {
-    "name": "Pecorine",
-    "aliases": [
-      "ペコリーヌ"
-    ]
+    "name": {
+      "en_us": "Sariel",
+      "ja_jp": "サリエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Charlotta (Light)",
-    "aliases": [
-      "シャルロッテ"
-    ]
+    "name": {
+      "en_us": "Catura (Summer)",
+      "ja_jp": "シャトラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Sevilbarra (Event)",
-    "aliases": [
-      "サビルバラ"
-    ]
+    "name": {
+      "en_us": "Haaselia (Summer)",
+      "ja_jp": "ハーゼリーラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Razia (SR)",
-    "aliases": [
-      "ラスティナ"
-    ]
+    "name": {
+      "en_us": "Killua",
+      "ja_jp": "キルア"
+    },
+    "aliases": []
   },
   {
-    "name": "Yurius",
-    "aliases": [
-      "ユリウス"
-    ]
+    "name": {
+      "en_us": "Chrollo",
+      "ja_jp": "クロロ"
+    },
+    "aliases": []
   },
   {
-    "name": "Levin Sisters",
-    "aliases": [
-      "レヴィオン姉妹 マイム＆ミイム＆メイム"
-    ]
+    "name": {
+      "en_us": "Kurapika",
+      "ja_jp": "クラピカ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rosine (SR)",
-    "aliases": [
-      "ロジーヌ"
-    ]
+    "name": {
+      "en_us": "Gon",
+      "ja_jp": "ゴン"
+    },
+    "aliases": []
   },
   {
-    "name": "Aglovale",
-    "aliases": [
-      "アグロヴァル"
-    ]
+    "name": {
+      "en_us": "Cassius (Summer)",
+      "ja_jp": "カシウス"
+    },
+    "aliases": []
   },
   {
-    "name": "Lancelot and Vane",
-    "aliases": [
-      "白竜の双騎士 ランスロット＆ヴェイン"
-    ]
+    "name": {
+      "en_us": "Lich (Summer)",
+      "ja_jp": "リッチ"
+    },
+    "aliases": []
   },
   {
-    "name": "Arthur and Mordred",
-    "aliases": [
-      "ひよこ班 アーサー&モルドレッド"
-    ]
+    "name": {
+      "en_us": "Korwa (Yukata)",
+      "ja_jp": "コルワ"
+    },
+    "aliases": []
   },
   {
-    "name": "Monika",
-    "aliases": [
-      "モニカ"
-    ]
+    "name": {
+      "en_us": "Atum (Summer)",
+      "ja_jp": "アトゥム"
+    },
+    "aliases": []
   },
   {
-    "name": "Europa",
-    "aliases": [
-      "エウロペ"
-    ]
+    "name": {
+      "en_us": "Fraux (Formal)",
+      "ja_jp": "フラウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lady Grey (Halloween)",
-    "aliases": [
-      "レディ・グレイ"
-    ]
+    "name": {
+      "en_us": "Ilsa (Formal)",
+      "ja_jp": "イルザ"
+    },
+    "aliases": []
   },
   {
-    "name": "Feather (Halloween)",
-    "aliases": [
-      "フェザー"
-    ]
+    "name": {
+      "en_us": "Grimnir (Dark)",
+      "ja_jp": "グリームニル"
+    },
+    "aliases": []
   },
   {
-    "name": "Cure Black and Cure White",
-    "aliases": [
-      "プリキュア キュアブラック＆キュアホワイト"
-    ]
+    "name": {
+      "en_us": "Hauhet",
+      "ja_jp": "ハウヘト"
+    },
+    "aliases": []
   },
   {
-    "name": "Silva (Light)",
-    "aliases": [
-      "シルヴァ"
-    ]
+    "name": {
+      "en_us": "Skuld",
+      "ja_jp": "スクルド"
+    },
+    "aliases": []
   },
   {
-    "name": "Juri",
-    "aliases": [
-      "ユーリ"
-    ]
+    "name": {
+      "en_us": "Siegfried (Grand)",
+      "ja_jp": "ジークフリート"
+    },
+    "aliases": []
   },
   {
-    "name": "Freezie",
-    "aliases": [
-      "フーちゃん"
-    ]
+    "name": {
+      "en_us": "Kou (Light)",
+      "ja_jp": "コウ"
+    },
+    "aliases": []
   },
   {
-    "name": "The Lowain Bros",
-    "aliases": [
-      "チーム・ローアイン"
-    ]
+    "name": {
+      "en_us": "Cagliostro and Clarisse",
+      "ja_jp": "可憐なる師弟 カリオストロ＆クラリス"
+    },
+    "aliases": []
   },
   {
-    "name": "Pholia",
-    "aliases": [
-      "フォリア"
-    ]
+    "name": {
+      "en_us": "Mars",
+      "ja_jp": "マーズ"
+    },
+    "aliases": []
   },
   {
-    "name": "Tsubasa",
-    "aliases": [
-      "ツバサ"
-    ]
+    "name": {
+      "en_us": "Lavirita",
+      "ja_jp": "ラヴィリタ"
+    },
+    "aliases": []
   },
   {
-    "name": "Cailana (SR)",
-    "aliases": [
-      "カイラナ"
-    ]
+    "name": {
+      "en_us": "Pijiu",
+      "ja_jp": "ピィジウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Grea (Summer)",
-    "aliases": [
-      "グレア"
-    ]
+    "name": {
+      "en_us": "Cherine",
+      "ja_jp": "シェリーネ"
+    },
+    "aliases": []
   },
   {
-    "name": "Almeida (Summer)",
-    "aliases": [
-      "アルメイダ"
-    ]
+    "name": {
+      "en_us": "Shukra",
+      "ja_jp": "シュクラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Aqours Third-Years",
-    "aliases": [
-      "松浦果南＆黒澤ダイヤ＆小原鞠莉"
-    ]
+    "name": {
+      "en_us": "Seofon (Yukata)",
+      "ja_jp": "シエテ"
+    },
+    "aliases": []
   },
   {
-    "name": "Aqours First-Years",
-    "aliases": [
-      "津島善子＆国木田花丸＆黒澤ルビィ"
-    ]
+    "name": {
+      "en_us": "Vikala (Yukata)",
+      "ja_jp": "ビカラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Aqours Second-Years",
-    "aliases": [
-      "桜内梨子＆高海千歌＆渡辺 曜"
-    ]
+    "name": {
+      "en_us": "Mahira (Summer)",
+      "ja_jp": "マキラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Arulumaya (Yukata)",
-    "aliases": [
-      "アルルメイヤ"
-    ]
+    "name": {
+      "en_us": "Lu Woh (Summer)",
+      "ja_jp": "ル・オー"
+    },
+    "aliases": []
   },
   {
-    "name": "Farrah (Summer)",
-    "aliases": [
-      "ファラ"
-    ]
+    "name": {
+      "en_us": "Basara",
+      "ja_jp": "バサラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Naoise (Summer)",
-    "aliases": [
-      "ノイシュ"
-    ]
+    "name": {
+      "en_us": "Joy (Event SSR)",
+      "ja_jp": "ジョイ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ilsa (Summer)",
-    "aliases": [
-      "イルザ"
-    ]
+    "name": {
+      "en_us": "Tsukuyomi",
+      "ja_jp": "ツクヨミ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lilele (Summer)",
-    "aliases": [
-      "リルル"
-    ]
+    "name": {
+      "en_us": "Yuel (Grand)",
+      "ja_jp": "ユエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Olivia (Event)",
-    "aliases": [
-      "オリヴィエ"
-    ]
+    "name": {
+      "en_us": "Makura (Valentine)",
+      "ja_jp": "マコラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rosetta (Summer)",
-    "aliases": [
-      "ロゼッタ"
-    ]
+    "name": {
+      "en_us": "Lobelia (Valentine)",
+      "ja_jp": "ロベリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Yuisis (Yukata)",
-    "aliases": [
-      "ユイシス"
-    ]
+    "name": {
+      "en_us": "Evangeline A.K. McDowell",
+      "ja_jp": "エヴァンジェリン・ａ・ｋ・マクダウェル"
+    },
+    "aliases": []
   },
   {
-    "name": "Selfira",
-    "aliases": [
-      "セレフィラ"
-    ]
+    "name": {
+      "en_us": "Negi Springfield",
+      "ja_jp": "ネギ・スプリングフィールド"
+    },
+    "aliases": []
   },
   {
-    "name": "Elta (Light)",
-    "aliases": [
-      "エルタ"
-    ]
+    "name": {
+      "en_us": "Jack Rakan",
+      "ja_jp": "ジャック・ラカン"
+    },
+    "aliases": []
   },
   {
-    "name": "Wulf and Renie",
-    "aliases": [
-      "ウーフとレニー"
-    ]
+    "name": {
+      "en_us": "Setsuna Sakurazaki",
+      "ja_jp": "桜咲刹那"
+    },
+    "aliases": []
   },
   {
-    "name": "Joker",
-    "aliases": [
-      "ジョーカー"
-    ]
+    "name": {
+      "en_us": "Feena (Light)",
+      "ja_jp": "フィーナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Vanzza (SR)",
-    "aliases": [
-      "ヴァンツァ"
-    ]
+    "name": {
+      "en_us": "Maleagant",
+      "ja_jp": "メレアガンス"
+    },
+    "aliases": []
   },
   {
-    "name": "Lunalu (SSR)",
-    "aliases": [
-      "ルナール"
-    ]
+    "name": {
+      "en_us": "Koku",
+      "ja_jp": "コク"
+    },
+    "aliases": []
   },
   {
-    "name": "Cain (Grand)",
-    "aliases": [
-      "カイン"
-    ]
+    "name": {
+      "en_us": "Goblin Mage (SSR)",
+      "ja_jp": "ミニゴブ"
+    },
+    "aliases": []
   },
   {
-    "name": "Spinnah",
-    "aliases": [
-      "スピナー"
-    ]
+    "name": {
+      "en_us": "Indala",
+      "ja_jp": "インダラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Soriz (SSR)",
-    "aliases": [
-      "ソリッズ"
-    ]
+    "name": {
+      "en_us": "Raphael",
+      "ja_jp": "ラファエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Leona",
-    "aliases": [
-      "レオナ"
-    ]
+    "name": {
+      "en_us": "Aletheia (Dark)",
+      "ja_jp": "アレーティア"
+    },
+    "aliases": []
   },
   {
-    "name": "Cucouroux (SSR)",
-    "aliases": [
-      "ククル"
-    ]
+    "name": {
+      "en_us": "Yatima",
+      "ja_jp": "ヤチマ"
+    },
+    "aliases": []
   },
   {
-    "name": "Aliza (Water)",
-    "aliases": [
-      "アリーザ"
-    ]
+    "name": {
+      "en_us": "Payila (Event)",
+      "ja_jp": "ハイラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Carmelina (SR)",
-    "aliases": [
-      "カルメリーナ"
-    ]
+    "name": {
+      "en_us": "Feower (Holiday)",
+      "ja_jp": "カトル"
+    },
+    "aliases": []
   },
   {
-    "name": "Alexiel",
-    "aliases": [
-      "ブローディア"
-    ]
+    "name": {
+      "en_us": "Zooey (Holiday)",
+      "ja_jp": "ゾーイ"
+    },
+    "aliases": []
   },
   {
-    "name": "Barawa (SR)",
-    "aliases": [
-      "バロワ"
-    ]
+    "name": {
+      "en_us": "Yggdrasil (Holiday)",
+      "ja_jp": "ユグドラシル"
+    },
+    "aliases": []
   },
   {
-    "name": "Tōru Amuro",
-    "aliases": [
-      "安室透"
-    ]
+    "name": {
+      "en_us": "Wamdus (Holiday)",
+      "ja_jp": "ワムデュス"
+    },
+    "aliases": []
   },
   {
-    "name": "Conan Edogawa",
-    "aliases": [
-      "江戸川コナン"
-    ]
+    "name": {
+      "en_us": "Veldora Tempest",
+      "ja_jp": "ヴェルドラ＝テンペスト"
+    },
+    "aliases": []
   },
   {
-    "name": "Nicholas",
-    "aliases": [
-      "シロウ"
-    ]
+    "name": {
+      "en_us": "Diablo (Collab)",
+      "ja_jp": "ディアブロ"
+    },
+    "aliases": []
   },
   {
-    "name": "Robomi",
-    "aliases": [
-      "ロボミ"
-    ]
+    "name": {
+      "en_us": "Shion (Collab)",
+      "ja_jp": "シオン"
+    },
+    "aliases": []
   },
   {
-    "name": "Jeanne d'Arc (Summer)",
-    "aliases": [
-      "ジャンヌダルク"
-    ]
+    "name": {
+      "en_us": "Rimuru Tempest",
+      "ja_jp": "リムル＝テンペスト"
+    },
+    "aliases": []
   },
   {
-    "name": "Sandalphon (Event)",
-    "aliases": [
-      "サンダルフォン"
-    ]
+    "name": {
+      "en_us": "Will (SSR)",
+      "ja_jp": "ウィル"
+    },
+    "aliases": []
   },
   {
-    "name": "Tiamat",
-    "aliases": [
-      "ティアマト"
-    ]
+    "name": {
+      "en_us": "Lecia (SSR)",
+      "ja_jp": "リーシャ"
+    },
+    "aliases": []
   },
   {
-    "name": "Nezahualpilli (SR)",
-    "aliases": [
-      "ネツァワルピリ"
-    ]
+    "name": {
+      "en_us": "Manamel (Halloween)",
+      "ja_jp": "マナマル"
+    },
+    "aliases": []
   },
   {
-    "name": "Medusa (Valentine)",
-    "aliases": [
-      "メドゥーサ"
-    ]
+    "name": {
+      "en_us": "Satyr (Halloween)",
+      "ja_jp": "サテュロス"
+    },
+    "aliases": []
   },
   {
-    "name": "Teena (Valentine)",
-    "aliases": [
-      "ティナ"
-    ]
+    "name": {
+      "en_us": "Wilnas (Halloween)",
+      "ja_jp": "ウィルナス"
+    },
+    "aliases": []
   },
   {
-    "name": "Narmaya (Valentine)",
-    "aliases": [
-      "ナルメア"
-    ]
+    "name": {
+      "en_us": "Uruki",
+      "ja_jp": "ウルキ"
+    },
+    "aliases": []
   },
   {
-    "name": "Zooey",
-    "aliases": [
-      "ゾーイ"
-    ]
+    "name": {
+      "en_us": "Florence (Dark)",
+      "ja_jp": "フロレンス"
+    },
+    "aliases": []
   },
   {
-    "name": "Randall (SR)",
-    "aliases": [
-      "ランドル"
-    ]
+    "name": {
+      "en_us": "Vane (Grand)",
+      "ja_jp": "ヴェイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Zooey (Event)",
-    "aliases": [
-      "ゾーイ"
-    ]
+    "name": {
+      "en_us": "Novei",
+      "ja_jp": "ナーヴェ"
+    },
+    "aliases": []
   },
   {
-    "name": "Therese (SSR)",
-    "aliases": [
-      "テレーズ"
-    ]
+    "name": {
+      "en_us": "Noire",
+      "ja_jp": "ノワール"
+    },
+    "aliases": []
   },
   {
-    "name": "Ippatsu (SR)",
-    "aliases": [
-      "イッパツ"
-    ]
+    "name": {
+      "en_us": "Sevastien (SSR)",
+      "ja_jp": "セワスチアン"
+    },
+    "aliases": []
   },
   {
-    "name": "Ilsa",
-    "aliases": [
-      "イルザ"
-    ]
+    "name": {
+      "en_us": "Medusa (Grand)",
+      "ja_jp": "メドゥーサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Vajra",
-    "aliases": [
-      "ヴァジラ"
-    ]
+    "name": {
+      "en_us": "Nier (Yukata)",
+      "ja_jp": "ニーア"
+    },
+    "aliases": []
   },
   {
-    "name": "Vaseraga (Earth)",
-    "aliases": [
-      "バザラガ"
-    ]
+    "name": {
+      "en_us": "Aglovale (Yukata)",
+      "ja_jp": "アグロヴァル"
+    },
+    "aliases": []
   },
   {
-    "name": "Zeta (Event)",
-    "aliases": [
-      "ゼタ"
-    ]
+    "name": {
+      "en_us": "Galleon (Summer)",
+      "ja_jp": "ガレヲン"
+    },
+    "aliases": []
   },
   {
-    "name": "Karva (SR)",
-    "aliases": [
-      "カルバ"
-    ]
+    "name": {
+      "en_us": "Shushuku",
+      "ja_jp": "シュシュク"
+    },
+    "aliases": []
   },
   {
-    "name": "Olivia (Grand)",
-    "aliases": [
-      "オリヴィエ"
-    ]
+    "name": {
+      "en_us": "Hekate (Summer)",
+      "ja_jp": "ヘカテー"
+    },
+    "aliases": []
   },
   {
-    "name": "Charioce XVII",
-    "aliases": [
-      "シャリオス17世"
-    ]
+    "name": {
+      "en_us": "Ragazzo (Summer)",
+      "ja_jp": "ラガッツォ"
+    },
+    "aliases": []
   },
   {
-    "name": "Mahira (Event)",
-    "aliases": [
-      "マキラ"
-    ]
+    "name": {
+      "en_us": "Tweyen (Yukata)",
+      "ja_jp": "ソーン"
+    },
+    "aliases": []
   },
   {
-    "name": "Mary (Holiday)",
-    "aliases": [
-      "マリー"
-    ]
+    "name": {
+      "en_us": "Hallessena (Summer)",
+      "ja_jp": "ハレゼナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Feena (Holiday)",
-    "aliases": [
-      "フィーナ"
-    ]
+    "name": {
+      "en_us": "Cucouroux (Summer)",
+      "ja_jp": "ククル"
+    },
+    "aliases": []
   },
   {
-    "name": "Levi",
-    "aliases": [
-      "リヴァイ"
-    ]
+    "name": {
+      "en_us": "Raziel (Summer)",
+      "ja_jp": "ラジエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Mikasa",
-    "aliases": [
-      "ミカサ"
-    ]
+    "name": {
+      "en_us": "Tefnut (Summer)",
+      "ja_jp": "テフヌト"
+    },
+    "aliases": []
   },
   {
-    "name": "Lancelot (Wind)",
-    "aliases": [
-      "ランスロット"
-    ]
+    "name": {
+      "en_us": "Orologia",
+      "ja_jp": "オロロジャイア"
+    },
+    "aliases": []
   },
   {
-    "name": "Arthur (Event)",
-    "aliases": [
-      "アーサー"
-    ]
+    "name": {
+      "en_us": "Nectar (Water)",
+      "ja_jp": "ネクタル"
+    },
+    "aliases": []
   },
   {
-    "name": "Sophia (SR)",
-    "aliases": [
-      "ソフィア"
-    ]
+    "name": {
+      "en_us": "Ami",
+      "ja_jp": "アミ"
+    },
+    "aliases": []
   },
   {
-    "name": "Reinhardtzar",
-    "aliases": [
-      "ラインハルザ"
-    ]
+    "name": {
+      "en_us": "Mirin (SSR)",
+      "ja_jp": "ミリン"
+    },
+    "aliases": []
   },
   {
-    "name": "Vira (Grand)",
-    "aliases": [
-      "ヴィーラ"
-    ]
+    "name": {
+      "en_us": "Sato",
+      "ja_jp": "さと"
+    },
+    "aliases": []
   },
   {
-    "name": "Mirin",
-    "aliases": [
-      "ミリン"
-    ]
+    "name": {
+      "en_us": "Veight (Wind)",
+      "ja_jp": "ヴァイト"
+    },
+    "aliases": []
   },
   {
-    "name": "Yuel (Water)",
-    "aliases": [
-      "ユエル"
-    ]
+    "name": {
+      "en_us": "Sui",
+      "ja_jp": "スイ"
+    },
+    "aliases": []
   },
   {
-    "name": "Yuel (Event)",
-    "aliases": [
-      "ユエル"
-    ]
+    "name": {
+      "en_us": "Chloe (SSR)",
+      "ja_jp": "クロエ"
+    },
+    "aliases": []
   },
   {
-    "name": "Karteira (SR)",
-    "aliases": [
-      "カルテイラ"
-    ]
+    "name": {
+      "en_us": "Kolulu (Earth)",
+      "ja_jp": "コルル"
+    },
+    "aliases": []
   },
   {
-    "name": "Danua (Halloween)",
-    "aliases": [
-      "ダヌア"
-    ]
+    "name": {
+      "en_us": "Chichiri",
+      "ja_jp": "チチリ"
+    },
+    "aliases": []
   },
   {
-    "name": "Mimlemel and Pun-Kin (Halloween)",
-    "aliases": [
-      "ミムルメモル＆パンプキン"
-    ]
+    "name": {
+      "en_us": "Anne (Light)",
+      "ja_jp": "アン"
+    },
+    "aliases": []
   },
   {
-    "name": "Azazel",
-    "aliases": [
-      "アザゼル"
-    ]
+    "name": {
+      "en_us": "Spinnah (SSR)",
+      "ja_jp": "スピナー"
+    },
+    "aliases": []
   },
   {
-    "name": "Vania (SR)",
-    "aliases": [
-      "ヴァンピィ"
-    ]
+    "name": {
+      "en_us": "Pochacco"
+    },
+    "aliases": []
   },
   {
-    "name": "Sakura Kinomoto",
-    "aliases": [
-      "木之本桜"
-    ]
+    "name": {
+      "en_us": "Elmott (Yukata)",
+      "ja_jp": "エルモート"
+    },
+    "aliases": []
   },
   {
-    "name": "Dorothy and Claudia",
-    "aliases": [
-      "サーヴァンツ ドロシー＆クラウディア"
-    ]
+    "name": {
+      "en_us": "De La Fille (Yukata)",
+      "ja_jp": "レ・フィーエ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ezecrain (Event)",
-    "aliases": [
-      "エゼクレイン"
-    ]
+    "name": {
+      "en_us": "Fenie",
+      "ja_jp": "フェニー"
+    },
+    "aliases": []
   },
   {
-    "name": "Sarya",
-    "aliases": [
-      "サーヤ"
-    ]
+    "name": {
+      "en_us": "Horus (Summer)",
+      "ja_jp": "ホルス"
+    },
+    "aliases": []
   },
   {
-    "name": "Nina Drango",
-    "aliases": [
-      "ニーナ・ドランゴ"
-    ]
+    "name": {
+      "en_us": "Magus (Summer)",
+      "ja_jp": "メイガス"
+    },
+    "aliases": []
   },
   {
-    "name": "Anne",
-    "aliases": [
-      "アン"
-    ]
+    "name": {
+      "en_us": "Raziel (Event)",
+      "ja_jp": "ラジエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Owen",
-    "aliases": [
-      "オーウェン"
-    ]
+    "name": {
+      "en_us": "Sandalphon",
+      "ja_jp": "サンダルフォン"
+    },
+    "aliases": []
   },
   {
-    "name": "Mikazuki Munechika",
-    "aliases": [
-      "三日月宗近"
-    ]
+    "name": {
+      "en_us": "Sabrina",
+      "ja_jp": "サブリナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Yamanbagiri Kunihiro",
-    "aliases": [
-      "山姥切国広"
-    ]
+    "name": {
+      "en_us": "Richard (SSR)",
+      "ja_jp": "リチャード"
+    },
+    "aliases": []
   },
   {
-    "name": "Izuminokami Kanesada",
-    "aliases": [
-      "和泉守兼定"
-    ]
+    "name": {
+      "en_us": "Cidala (Valentine)",
+      "ja_jp": "シンダラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Grea",
-    "aliases": [
-      "グレア"
-    ]
+    "name": {
+      "en_us": "Nehan (Valentine)",
+      "ja_jp": "ネハン"
+    },
+    "aliases": []
   },
   {
-    "name": "Grea (Event)",
-    "aliases": [
-      "グレア"
-    ]
+    "name": {
+      "en_us": "Robertina",
+      "ja_jp": "ロベルティナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Blazing Teacher Elmott",
-    "aliases": [
-      "炎獄先生エルモート"
-    ]
+    "name": {
+      "en_us": "Juri (SSR)",
+      "ja_jp": "ユーリ"
+    },
+    "aliases": []
   },
   {
-    "name": "Diantha (Summer)",
-    "aliases": [
-      "ディアンサ"
-    ]
+    "name": {
+      "en_us": "Himiko Toga",
+      "ja_jp": "トガヒミコ"
+    },
+    "aliases": []
   },
   {
-    "name": "Chloe (Summer)",
-    "aliases": [
-      "クロエ"
-    ]
+    "name": {
+      "en_us": "Olivia",
+      "ja_jp": "オリヴィエ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ghandagoza (Summer)",
-    "aliases": [
-      "ガンダゴウザ"
-    ]
+    "name": {
+      "en_us": "Deliford (SSR)",
+      "ja_jp": "デリフォード"
+    },
+    "aliases": []
   },
   {
-    "name": "Siegfried (Yukata)",
-    "aliases": [
-      "ジークフリート"
-    ]
+    "name": {
+      "en_us": "Katsuki Bakugo",
+      "ja_jp": "爆豪勝己"
+    },
+    "aliases": []
   },
   {
-    "name": "Izmir (Summer)",
-    "aliases": [
-      "イシュミール"
-    ]
+    "name": {
+      "en_us": "Izuku Midoriya",
+      "ja_jp": "緑谷出久"
+    },
+    "aliases": []
   },
   {
-    "name": "Carren (Event)",
-    "aliases": [
-      "カレン"
-    ]
+    "name": {
+      "en_us": "Tyra",
+      "ja_jp": "ティラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ayer (Summer)",
-    "aliases": [
-      "アイル"
-    ]
+    "name": {
+      "en_us": "Payila",
+      "ja_jp": "ハイラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Charlotta (Summer)",
-    "aliases": [
-      "シャルロッテ"
-    ]
+    "name": {
+      "en_us": "Uriel",
+      "ja_jp": "ウリエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Korwa (Summer)",
-    "aliases": [
-      "コルワ"
-    ]
+    "name": {
+      "en_us": "Lowain (SSR)",
+      "ja_jp": "ローアイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Yggdrasil",
-    "aliases": [
-      "ユグドラシル"
-    ]
+    "name": {
+      "en_us": "Zeta (Grand)",
+      "ja_jp": "ゼタ"
+    },
+    "aliases": []
   },
   {
-    "name": "Walder (Event)",
-    "aliases": [
-      "ウェルダー"
-    ]
+    "name": {
+      "en_us": "Noa (Holiday)",
+      "ja_jp": "ノア"
+    },
+    "aliases": []
   },
   {
-    "name": "Jamil (Dark)",
-    "aliases": [
-      "ジャミル"
-    ]
+    "name": {
+      "en_us": "Helel ben Shalem (Holiday)",
+      "ja_jp": "ヘレル・ベン・シャレム"
+    },
+    "aliases": []
   },
   {
-    "name": "Baotorda (SSR)",
-    "aliases": [
-      "バウタオーダ"
-    ]
+    "name": {
+      "en_us": "Illnott (Holiday)",
+      "ja_jp": "イルノート"
+    },
+    "aliases": []
   },
   {
-    "name": "Medusa (Promo)",
-    "aliases": [
-      "メドゥーサ"
-    ]
+    "name": {
+      "en_us": "Yuni (Holiday)",
+      "ja_jp": "ユニ"
+    },
+    "aliases": []
   },
   {
-    "name": "Jeanne d'Arc (SR)",
-    "aliases": [
-      "ジャンヌダルク"
-    ]
+    "name": {
+      "en_us": "Volenna (SSR)",
+      "ja_jp": "ボレミア"
+    },
+    "aliases": []
   },
   {
-    "name": "Shiki Ichinose",
-    "aliases": [
-      "一ノ瀬志希"
-    ]
+    "name": {
+      "en_us": "Barawa and Sarya",
+      "ja_jp": "バロワ＆サーヤ"
+    },
+    "aliases": []
   },
   {
-    "name": "Minami Nitta",
-    "aliases": [
-      "新田美波"
-    ]
+    "name": {
+      "en_us": "Gabriel",
+      "ja_jp": "ガブリエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Scathacha",
-    "aliases": [
-      "スカーサハ"
-    ]
+    "name": {
+      "en_us": "Utsusemi",
+      "ja_jp": "ウツセミ"
+    },
+    "aliases": []
   },
   {
-    "name": "Charlotta (Event)",
-    "aliases": [
-      "シャルロッテ"
-    ]
+    "name": {
+      "en_us": "Sevilbarra (SSR)",
+      "ja_jp": "サビルバラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Sevastien",
-    "aliases": [
-      "セワスチアン"
-    ]
+    "name": {
+      "en_us": "Dante (Halloween)",
+      "ja_jp": "ダーント"
+    },
+    "aliases": []
   },
   {
-    "name": "Cain",
-    "aliases": [
-      "カイン"
-    ]
+    "name": {
+      "en_us": "Vikala (Halloween)",
+      "ja_jp": "ビカラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Clarisse (Light)",
-    "aliases": [
-      "クラリス"
-    ]
+    "name": {
+      "en_us": "Tikoh (Halloween)",
+      "ja_jp": "ティコ"
+    },
+    "aliases": []
   },
   {
-    "name": "Predator",
-    "aliases": [
-      "プレデター"
-    ]
+    "name": {
+      "en_us": "Siegfried (Light)",
+      "ja_jp": "ジークフリート"
+    },
+    "aliases": []
   },
   {
-    "name": "Cagliostro (Dark)",
-    "aliases": [
-      "カリオストロ"
-    ]
+    "name": {
+      "en_us": "Catherine (Wind)",
+      "ja_jp": "キャサリン"
+    },
+    "aliases": []
   },
   {
-    "name": "Drang (Grand)",
-    "aliases": [
-      "ドランク"
-    ]
+    "name": {
+      "en_us": "Kaguya",
+      "ja_jp": "カグヤ"
+    },
+    "aliases": []
   },
   {
-    "name": "Katalina (Promo)",
-    "aliases": [
-      "カタリナ"
-    ]
+    "name": {
+      "en_us": "Paris",
+      "ja_jp": "パリス"
+    },
+    "aliases": []
   },
   {
-    "name": "Cagliostro (Event)",
-    "aliases": [
-      "カリオストロ"
-    ]
+    "name": {
+      "en_us": "Meg and Mari",
+      "ja_jp": "メグ＆まりっぺ"
+    },
+    "aliases": []
   },
   {
-    "name": "Deliford (SR)",
-    "aliases": [
-      "デリフォード"
-    ]
+    "name": {
+      "en_us": "Ragazzo",
+      "ja_jp": "ラガッツォ"
+    },
+    "aliases": []
   },
   {
-    "name": "Vane (SSR)",
-    "aliases": [
-      "ヴェイン"
-    ]
+    "name": {
+      "en_us": "Seruel (Summer)",
+      "ja_jp": "セルエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Lamretta (Water)",
-    "aliases": [
-      "ラムレッダ"
-    ]
+    "name": {
+      "en_us": "Anila (Yukata)",
+      "ja_jp": "アニラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Sutera (Event)",
-    "aliases": [
-      "スーテラ"
-    ]
+    "name": {
+      "en_us": "Vania (Yukata)",
+      "ja_jp": "ヴァンピィ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lady Katapillar and Vira",
-    "aliases": [
-      "キャタピラとヴィーラ"
-    ]
+    "name": {
+      "en_us": "Nobara Kugisaki and Maki Zen'in",
+      "ja_jp": "釘崎野薔薇＆禪院真希"
+    },
+    "aliases": []
   },
   {
-    "name": "Sturm (Grand)",
-    "aliases": [
-      "スツルム"
-    ]
+    "name": {
+      "en_us": "Yuji Itadori and Megumi Fushiguro",
+      "ja_jp": "虎杖悠仁＆伏黒 恵"
+    },
+    "aliases": []
   },
   {
-    "name": "Ludmila",
-    "aliases": [
-      "ルドミリア"
-    ]
+    "name": {
+      "en_us": "Dorothy and Claudia (Summer)",
+      "ja_jp": "サーヴァンツ ドロシー＆クラウディア"
+    },
+    "aliases": []
   },
   {
-    "name": "De La Fille (Earth)",
-    "aliases": [
-      "レ・フィーエ"
-    ]
+    "name": {
+      "en_us": "Aliza (Summer)",
+      "ja_jp": "アリーザ"
+    },
+    "aliases": []
   },
   {
-    "name": "Vermeil (SR)",
-    "aliases": [
-      "ヴェリトール"
-    ]
+    "name": {
+      "en_us": "Yurius (Summer)",
+      "ja_jp": "ユリウス"
+    },
+    "aliases": []
   },
   {
-    "name": "Lyria (Event)",
-    "aliases": [
-      "ルリア"
-    ]
+    "name": {
+      "en_us": "Fediel (Summer)",
+      "ja_jp": "フェディエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Zeta (Dark)",
-    "aliases": [
-      "ゼタ"
-    ]
+    "name": {
+      "en_us": "Vaseraga (Summer)",
+      "ja_jp": "バザラガ"
+    },
+    "aliases": []
   },
   {
-    "name": "Orchid (Grand)",
-    "aliases": [
-      "オーキス"
-    ]
+    "name": {
+      "en_us": "Enyo (Summer)",
+      "ja_jp": "エニュオ"
+    },
+    "aliases": []
   },
   {
-    "name": "Tyre",
-    "aliases": [
-      "タイアー"
-    ]
+    "name": {
+      "en_us": "Pholia (Yukata)",
+      "ja_jp": "フォリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Luna",
-    "aliases": [
-      "ルナ"
-    ]
+    "name": {
+      "en_us": "Cupitan (Summer)",
+      "ja_jp": "クピタン"
+    },
+    "aliases": []
   },
   {
-    "name": "Arisa",
-    "aliases": [
-      "アリサ"
-    ]
+    "name": {
+      "en_us": "Cosmos",
+      "ja_jp": "コスモス"
+    },
+    "aliases": []
   },
   {
-    "name": "Beatrix (Summer)",
-    "aliases": [
-      "ベアトリクス"
-    ]
+    "name": {
+      "en_us": "Baal (Fire)",
+      "ja_jp": "バアル"
+    },
+    "aliases": []
   },
   {
-    "name": "Jin (Summer)",
-    "aliases": [
-      "ジン"
-    ]
+    "name": {
+      "en_us": "Korwa (Water)",
+      "ja_jp": "コルワ"
+    },
+    "aliases": []
   },
   {
-    "name": "Razia",
-    "aliases": [
-      "ラスティナ"
-    ]
+    "name": {
+      "en_us": "Drusilla (SSR)",
+      "ja_jp": "ドロッセル"
+    },
+    "aliases": []
   },
   {
-    "name": "Albert (Event)",
-    "aliases": [
-      "アルベール"
-    ]
+    "name": {
+      "en_us": "Lily (Wind)",
+      "ja_jp": "リリィ"
+    },
+    "aliases": []
   },
   {
-    "name": "Mina",
-    "aliases": [
-      "マイム"
-    ]
+    "name": {
+      "en_us": "Icarus",
+      "ja_jp": "イカロス"
+    },
+    "aliases": []
   },
   {
-    "name": "Marquiares",
-    "aliases": [
-      "マルキアレス"
-    ]
+    "name": {
+      "en_us": "Cantate",
+      "ja_jp": "カンターテ"
+    },
+    "aliases": []
   },
   {
-    "name": "Herja (SR)",
-    "aliases": [
-      "ヘリヤ"
-    ]
+    "name": {
+      "en_us": "Caro",
+      "ja_jp": "カロ"
+    },
+    "aliases": []
   },
   {
-    "name": "Nakoruru",
-    "aliases": [
-      "ナコルル"
-    ]
+    "name": {
+      "en_us": "Jasmine (SSR)",
+      "ja_jp": "ジャスミン"
+    },
+    "aliases": []
   },
   {
-    "name": "Haohmaru",
-    "aliases": [
-      "覇王丸"
-    ]
+    "name": {
+      "en_us": "Yaia (SSR)",
+      "ja_jp": "ヤイア"
+    },
+    "aliases": []
   },
   {
-    "name": "Cecile (Promo)",
-    "aliases": [
-      "セシール"
-    ]
+    "name": {
+      "en_us": "Cinnamoroll and Pompompurin"
+    },
+    "aliases": []
   },
   {
-    "name": "Mahira",
-    "aliases": [
-      "マキラ"
-    ]
+    "name": {
+      "en_us": "Ilsa (Yukata)",
+      "ja_jp": "イルザ"
+    },
+    "aliases": []
   },
   {
-    "name": "Yuisis",
-    "aliases": [
-      "ユイシス"
-    ]
+    "name": {
+      "en_us": "Nezha (Yukata)",
+      "ja_jp": "ナタク"
+    },
+    "aliases": []
   },
   {
-    "name": "Meteon (Event)",
-    "aliases": [
-      "ミュオン"
-    ]
+    "name": {
+      "en_us": "Monika (Summer)",
+      "ja_jp": "モニカ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lucius (Fire)",
-    "aliases": [
-      "ルシウス"
-    ]
+    "name": {
+      "en_us": "Azusa (Summer)",
+      "ja_jp": "アズサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lucio",
-    "aliases": [
-      "ルシオ"
-    ]
+    "name": {
+      "en_us": "Ewiyar (Grand)",
+      "ja_jp": "イーウィヤ"
+    },
+    "aliases": []
   },
   {
-    "name": "Andira (Event)",
-    "aliases": [
-      "アンチラ"
-    ]
+    "name": {
+      "en_us": "Seofon (Event)",
+      "ja_jp": "シエテ"
+    },
+    "aliases": []
   },
   {
-    "name": "Pamela (Promo)",
-    "aliases": [
-      "パメラ"
-    ]
+    "name": {
+      "en_us": "Hekate",
+      "ja_jp": "ヘカテー"
+    },
+    "aliases": []
   },
   {
-    "name": "Arulumaya (Holiday)",
-    "aliases": [
-      "アルルメイヤ"
-    ]
+    "name": {
+      "en_us": "Lu Woh",
+      "ja_jp": "ル・オー"
+    },
+    "aliases": []
   },
   {
-    "name": "Sen (Holiday)",
-    "aliases": [
-      "セン"
-    ]
+    "name": {
+      "en_us": "Sen (Valentine)",
+      "ja_jp": "セン"
+    },
+    "aliases": []
   },
   {
-    "name": "Anthuria",
-    "aliases": [
-      "アンスリア"
-    ]
+    "name": {
+      "en_us": "Sandalphon (Valentine)",
+      "ja_jp": "サンダルフォン"
+    },
+    "aliases": []
   },
   {
-    "name": "Percival (Event)",
-    "aliases": [
-      "パーシヴァル"
-    ]
+    "name": {
+      "en_us": "Orchid",
+      "ja_jp": "オーキス"
+    },
+    "aliases": []
   },
   {
-    "name": "Tanya (SR)",
-    "aliases": [
-      "ターニャ"
-    ]
+    "name": {
+      "en_us": "Cendrillon",
+      "ja_jp": "サンドリヨン"
+    },
+    "aliases": []
   },
   {
-    "name": "Randall",
-    "aliases": [
-      "ランドル"
-    ]
+    "name": {
+      "en_us": "Amelia",
+      "ja_jp": "エミリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Melissabelle",
-    "aliases": [
-      "メリッサベル"
-    ]
+    "name": {
+      "en_us": "Halluel and Malluel",
+      "ja_jp": "ハールート・マールート"
+    },
+    "aliases": []
   },
   {
-    "name": "Mimlemel and Stumpeye",
-    "aliases": [
-      "ミムルメモル＆切り株"
-    ]
+    "name": {
+      "en_us": "Ultimate Friday",
+      "ja_jp": "ｕ・フライデー"
+    },
+    "aliases": []
   },
   {
-    "name": "Lily (Event)",
-    "aliases": [
-      "リリィ"
-    ]
+    "name": {
+      "en_us": "Makura",
+      "ja_jp": "マコラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lecia (Grand)",
-    "aliases": [
-      "リーシャ"
-    ]
+    "name": {
+      "en_us": "Michael",
+      "ja_jp": "ミカエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Izmir",
-    "aliases": [
-      "イシュミール"
-    ]
+    "name": {
+      "en_us": "Erin (SSR)",
+      "ja_jp": "エリン"
+    },
+    "aliases": []
   },
   {
-    "name": "Erin",
-    "aliases": [
-      "エリン"
-    ]
+    "name": {
+      "en_us": "Charlotta (Grand)",
+      "ja_jp": "シャルロッテ"
+    },
+    "aliases": []
   },
   {
-    "name": "Eustace (Halloween)",
-    "aliases": [
-      "ユーステス"
-    ]
+    "name": {
+      "en_us": "Catura (Holiday)",
+      "ja_jp": "シャトラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Beatrix (Halloween)",
-    "aliases": [
-      "ベアトリクス"
-    ]
+    "name": {
+      "en_us": "Cain (Holiday)",
+      "ja_jp": "カイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Romeo",
-    "aliases": [
-      "ロミオ"
-    ]
+    "name": {
+      "en_us": "Fiorito (Holiday)",
+      "ja_jp": "フィオリト"
+    },
+    "aliases": []
   },
   {
-    "name": "Ranko Kanzaki",
-    "aliases": [
-      "神崎蘭子"
-    ]
+    "name": {
+      "en_us": "Europa (Holiday)",
+      "ja_jp": "エウロペ"
+    },
+    "aliases": []
   },
   {
-    "name": "Miria Akagi",
-    "aliases": [
-      "赤城みりあ"
-    ]
+    "name": {
+      "en_us": "Therese (Wind)",
+      "ja_jp": "テレーズ"
+    },
+    "aliases": []
   },
   {
-    "name": "Anastasia",
-    "aliases": [
-      "アナスタシア"
-    ]
+    "name": {
+      "en_us": "Adam",
+      "ja_jp": "アダム"
+    },
+    "aliases": []
   },
   {
-    "name": "Jessica",
-    "aliases": [
-      "ジェシカ"
-    ]
+    "name": {
+      "en_us": "Alliah",
+      "ja_jp": "アリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Bakura",
-    "aliases": [
-      "バクラ"
-    ]
+    "name": {
+      "en_us": "Yuel and Societte",
+      "ja_jp": "永遠の親愛 ユエル＆ソシエ"
+    },
+    "aliases": []
   },
   {
-    "name": "Robertina (Promo)",
-    "aliases": [
-      "ロベルティナ"
-    ]
+    "name": {
+      "en_us": "Florence (Halloween)",
+      "ja_jp": "フロレンス"
+    },
+    "aliases": []
   },
   {
-    "name": "Juliet",
-    "aliases": [
-      "ジュリエット"
-    ]
+    "name": {
+      "en_us": "Mugen (Halloween)",
+      "ja_jp": "ムゲン"
+    },
+    "aliases": []
   },
   {
-    "name": "Paris (Event)",
-    "aliases": [
-      "パリス"
-    ]
+    "name": {
+      "en_us": "Lich (Halloween)",
+      "ja_jp": "リッチ"
+    },
+    "aliases": []
   },
   {
-    "name": "Dante (SR)",
-    "aliases": [
-      "ダーント"
-    ]
+    "name": {
+      "en_us": "Aglovale and Tor",
+      "ja_jp": "覇道を征く主従 アグロヴァル＆トー"
+    },
+    "aliases": []
   },
   {
-    "name": "Cordelia",
-    "aliases": [
-      "コーデリア"
-    ]
+    "name": {
+      "en_us": "Percival (Grand)",
+      "ja_jp": "パーシヴァル"
+    },
+    "aliases": []
   },
   {
-    "name": "Augusta (Promo)",
-    "aliases": [
-      "アウフスタ"
-    ]
+    "name": {
+      "en_us": "Zoro and Sanji",
+      "ja_jp": "ゾロ＆サンジ"
+    },
+    "aliases": []
   },
   {
-    "name": "Societte (Fire)",
-    "aliases": [
-      "ソシエ"
-    ]
+    "name": {
+      "en_us": "Bowman",
+      "ja_jp": "ボーマン"
+    },
+    "aliases": []
   },
   {
-    "name": "Veight",
-    "aliases": [
-      "ヴァイト"
-    ]
+    "name": {
+      "en_us": "Jessica (SSR)",
+      "ja_jp": "ジェシカ"
+    },
+    "aliases": []
   },
   {
-    "name": "Cucouroux",
-    "aliases": [
-      "ククル"
-    ]
+    "name": {
+      "en_us": "Nami and Robin",
+      "ja_jp": "ナミ&ロビン"
+    },
+    "aliases": []
   },
   {
-    "name": "Drusilla",
-    "aliases": [
-      "ドロッセル"
-    ]
+    "name": {
+      "en_us": "Luffy",
+      "ja_jp": "ルフィ"
+    },
+    "aliases": []
   },
   {
-    "name": "Chat Noir",
-    "aliases": [
-      "シャノワール"
-    ]
+    "name": {
+      "en_us": "Anderson",
+      "ja_jp": "アンダーソン"
+    },
+    "aliases": []
   },
   {
-    "name": "Barawa (Event)",
-    "aliases": [
-      "バロワ"
-    ]
+    "name": {
+      "en_us": "Erika",
+      "ja_jp": "エリカ"
+    },
+    "aliases": []
   },
   {
-    "name": "Pengy",
-    "aliases": [
-      "ペンギー"
-    ]
+    "name": {
+      "en_us": "Jeanne d'Arc (Water Summer)",
+      "ja_jp": "ジャンヌ"
+    },
+    "aliases": []
   },
   {
-    "name": "Cailana",
-    "aliases": [
-      "カイラナ"
-    ]
+    "name": {
+      "en_us": "Wamdus",
+      "ja_jp": "ワムデュス"
+    },
+    "aliases": []
   },
   {
-    "name": "Zooey (Grand)",
-    "aliases": [
-      "ゾーイ"
-    ]
+    "name": {
+      "en_us": "Sturm (Summer)",
+      "ja_jp": "スツルム"
+    },
+    "aliases": []
   },
   {
-    "name": "Heles (Summer)",
-    "aliases": [
-      "ヘルエス"
-    ]
+    "name": {
+      "en_us": "Tikoh (Summer)",
+      "ja_jp": "ティコ"
+    },
+    "aliases": []
   },
   {
-    "name": "Novei (Promo)",
-    "aliases": [
-      "ナーヴェ"
-    ]
+    "name": {
+      "en_us": "Clarisse (Summer)",
+      "ja_jp": "クラリス"
+    },
+    "aliases": []
   },
   {
-    "name": "Percival (Summer)",
-    "aliases": [
-      "パーシヴァル"
-    ]
+    "name": {
+      "en_us": "Magisa (Summer)",
+      "ja_jp": "マギサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Camieux (Summer)",
-    "aliases": [
-      "クムユ"
-    ]
+    "name": {
+      "en_us": "Eustace (Summer)",
+      "ja_jp": "ユーステス"
+    },
+    "aliases": []
   },
   {
-    "name": "Narmaya (Summer)",
-    "aliases": [
-      "ナルメア"
-    ]
+    "name": {
+      "en_us": "Shion (Summer)",
+      "ja_jp": "シオン"
+    },
+    "aliases": []
   },
   {
-    "name": "Jin (Wind)",
-    "aliases": [
-      "ジン"
-    ]
+    "name": {
+      "en_us": "Mirin (Summer)",
+      "ja_jp": "ミリン"
+    },
+    "aliases": []
   },
   {
-    "name": "Diantha (Promo)",
-    "aliases": [
-      "ディアンサ"
-    ]
+    "name": {
+      "en_us": "Vikala (Summer)",
+      "ja_jp": "ビカラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lunalu (Summer)",
-    "aliases": [
-      "ルナール"
-    ]
+    "name": {
+      "en_us": "Vajra (Summer)",
+      "ja_jp": "ヴァジラ"
+    },
+    "aliases": []
   },
   {
-    "name": "J.J. (Summer)",
-    "aliases": [
-      "ｊ・ｊ"
-    ]
+    "name": {
+      "en_us": "Gwynne",
+      "ja_jp": "グウィン"
+    },
+    "aliases": []
   },
   {
-    "name": "Yngwie",
-    "aliases": [
-      "イングヴェイ"
-    ]
+    "name": {
+      "en_us": "Galleon",
+      "ja_jp": "ガレヲン"
+    },
+    "aliases": []
   },
   {
-    "name": "Sara (Summer)",
-    "aliases": [
-      "サラ"
-    ]
+    "name": {
+      "en_us": "Jamil (SSR)",
+      "ja_jp": "ジャミル"
+    },
+    "aliases": []
   },
   {
-    "name": "Ippatsu (Summer)",
-    "aliases": [
-      "イッパツ"
-    ]
+    "name": {
+      "en_us": "Elea",
+      "ja_jp": "エイレア"
+    },
+    "aliases": []
   },
   {
-    "name": "Rosamia (SSR)",
-    "aliases": [
-      "ロザミア"
-    ]
+    "name": {
+      "en_us": "Anna (SSR)",
+      "ja_jp": "アンナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Nicholas (Event)",
-    "aliases": [
-      "シロウ"
-    ]
+    "name": {
+      "en_us": "Manamel",
+      "ja_jp": "マナマル"
+    },
+    "aliases": []
   },
   {
-    "name": "Johann",
-    "aliases": [
-      "ヨハン"
-    ]
+    "name": {
+      "en_us": "Iroha",
+      "ja_jp": "イロハ"
+    },
+    "aliases": []
   },
   {
-    "name": "Chloe",
-    "aliases": [
-      "クロエ"
-    ]
+    "name": {
+      "en_us": "Prishe",
+      "ja_jp": "プリッシュ"
+    },
+    "aliases": []
   },
   {
-    "name": "Forte",
-    "aliases": [
-      "フォルテ"
-    ]
+    "name": {
+      "en_us": "Lilisette",
+      "ja_jp": "リリゼット"
+    },
+    "aliases": []
   },
   {
-    "name": "Almeida",
-    "aliases": [
-      "アルメイダ"
-    ]
+    "name": {
+      "en_us": "Sophia (Water)",
+      "ja_jp": "ソフィア"
+    },
+    "aliases": []
   },
   {
-    "name": "La Coiffe",
-    "aliases": [
-      "コワフュール"
-    ]
+    "name": {
+      "en_us": "Skull and Balurga",
+      "ja_jp": "自由を謳う漢達 スカル＆バルルガン"
+    },
+    "aliases": []
   },
   {
-    "name": "Elize Lutus",
-    "aliases": [
-      "エリーゼ・ルタス"
-    ]
+    "name": {
+      "en_us": "Laguna (SSR)",
+      "ja_jp": "ラグナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Tear Grants",
-    "aliases": [
-      "ティア・グランツ"
-    ]
+    "name": {
+      "en_us": "You",
+      "ja_jp": "ヨウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Stahn Aileron",
-    "aliases": [
-      "スタン・エルロン"
-    ]
+    "name": {
+      "en_us": "Narmaya (Yukata)",
+      "ja_jp": "ナルメア"
+    },
+    "aliases": []
   },
   {
-    "name": "Nemone",
-    "aliases": [
-      "ネモネ"
-    ]
+    "name": {
+      "en_us": "Silva (Yukata)",
+      "ja_jp": "シルヴァ"
+    },
+    "aliases": []
   },
   {
-    "name": "Morphe and Phoebe (Event)",
-    "aliases": [
-      "モルフェとヴェトル"
-    ]
+    "name": {
+      "en_us": "Yuni",
+      "ja_jp": "ユニ"
+    },
+    "aliases": []
   },
   {
-    "name": "Jamil",
-    "aliases": [
-      "ジャミル"
-    ]
+    "name": {
+      "en_us": "Medusa (Summer)",
+      "ja_jp": "メドゥーサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rosine",
-    "aliases": [
-      "ロジーヌ"
-    ]
+    "name": {
+      "en_us": "Sylph",
+      "ja_jp": "シルフ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ayer",
-    "aliases": [
-      "アイル"
-    ]
+    "name": {
+      "en_us": "Freyr",
+      "ja_jp": "フレイ"
+    },
+    "aliases": []
   },
   {
-    "name": "Laguna",
-    "aliases": [
-      "ラグナ"
-    ]
+    "name": {
+      "en_us": "Ladiva (Valentine)",
+      "ja_jp": "ファスティバ"
+    },
+    "aliases": []
   },
   {
-    "name": "Thelonim",
-    "aliases": [
-      "セロニム"
-    ]
+    "name": {
+      "en_us": "Vira (Valentine)",
+      "ja_jp": "ヴィーラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Gemini Sunrise",
-    "aliases": [
-      "ジェミニ・サンライズ"
-    ]
+    "name": {
+      "en_us": "Cassius (Valentine)",
+      "ja_jp": "カシウス"
+    },
+    "aliases": []
   },
   {
-    "name": "Erica Fontaine",
-    "aliases": [
-      "エリカ・フォンティーヌ"
-    ]
+    "name": {
+      "en_us": "Special Week, Silence Suzuka, and Tokai Teio",
+      "ja_jp": "スペシャルウィーク＆サイレンススズカ＆トウカイテイオー"
+    },
+    "aliases": []
   },
   {
-    "name": "Sakura Shinguji",
-    "aliases": [
-      "真宮寺さくら"
-    ]
+    "name": {
+      "en_us": "Lilele (Fire)",
+      "ja_jp": "リルル"
+    },
+    "aliases": []
   },
   {
-    "name": "Aliza",
-    "aliases": [
-      "アリーザ"
-    ]
+    "name": {
+      "en_us": "Ippatsu (SSR)",
+      "ja_jp": "イッパツ"
+    },
+    "aliases": []
   },
   {
-    "name": "Stan (Event)",
-    "aliases": [
-      "スタン"
-    ]
+    "name": {
+      "en_us": "Wilnas",
+      "ja_jp": "ウィルナス"
+    },
+    "aliases": []
   },
   {
-    "name": "Eso (SR)",
-    "aliases": [
-      "エシオ"
-    ]
+    "name": {
+      "en_us": "Yggdrasil (Wind)",
+      "ja_jp": "ユグドラシル"
+    },
+    "aliases": []
   },
   {
-    "name": "Balurga",
-    "aliases": [
-      "バルルガン"
-    ]
+    "name": {
+      "en_us": "Cupitan",
+      "ja_jp": "クピタン"
+    },
+    "aliases": []
   },
   {
-    "name": "Black Knight",
-    "aliases": [
-      "黒騎士"
-    ]
+    "name": {
+      "en_us": "Ewiyar",
+      "ja_jp": "イーウィヤ"
+    },
+    "aliases": []
   },
   {
-    "name": "Korwa",
-    "aliases": [
-      "コルワ"
-    ]
+    "name": {
+      "en_us": "Cidala",
+      "ja_jp": "シンダラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Sen",
-    "aliases": [
-      "セン"
-    ]
+    "name": {
+      "en_us": "Fediel",
+      "ja_jp": "フェディエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Vermeil",
-    "aliases": [
-      "ヴェリトール"
-    ]
+    "name": {
+      "en_us": "Satyr (Earth)",
+      "ja_jp": "サテュロス"
+    },
+    "aliases": []
   },
   {
-    "name": "Rashid",
-    "aliases": [
-      "ラシード"
-    ]
+    "name": {
+      "en_us": "Lancelot (Grand)",
+      "ja_jp": "ランスロット"
+    },
+    "aliases": []
   },
   {
-    "name": "Karin",
-    "aliases": [
-      "神月かりん"
-    ]
+    "name": {
+      "en_us": "Catura (Event)",
+      "ja_jp": "シャトラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Zooey (Promo)",
-    "aliases": [
-      "ゾーイ"
-    ]
+    "name": {
+      "en_us": "Altair (Holiday)",
+      "ja_jp": "アルタイル"
+    },
+    "aliases": []
   },
   {
-    "name": "Jeanne d'Arc (Dark)",
-    "aliases": [
-      "ジャンヌダルク"
-    ]
+    "name": {
+      "en_us": "Mahira (Holiday)",
+      "ja_jp": "マキラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Shao",
-    "aliases": [
-      "シャオ"
-    ]
+    "name": {
+      "en_us": "Nobita",
+      "ja_jp": "のび太"
+    },
+    "aliases": []
   },
   {
-    "name": "Alistair",
-    "aliases": [
-      "アリステラ"
-    ]
+    "name": {
+      "en_us": "Doraemon",
+      "ja_jp": "ドラえもん"
+    },
+    "aliases": []
   },
   {
-    "name": "Lowain (Event)",
-    "aliases": [
-      "ローアイン"
-    ]
+    "name": {
+      "en_us": "Anthuria (Holiday)",
+      "ja_jp": "アンスリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Hallessena",
-    "aliases": [
-      "ハレゼナ"
-    ]
+    "name": {
+      "en_us": "Randall (SSR)",
+      "ja_jp": "ランドル"
+    },
+    "aliases": []
   },
   {
-    "name": "Redluck",
-    "aliases": [
-      "レッドラック"
-    ]
+    "name": {
+      "en_us": "Arulumaya (Light)",
+      "ja_jp": "アルルメイヤ"
+    },
+    "aliases": []
   },
   {
-    "name": "Airi Totoki",
-    "aliases": [
-      "十時愛梨"
-    ]
+    "name": {
+      "en_us": "Benjamin",
+      "ja_jp": "ベンジャミン"
+    },
+    "aliases": []
   },
   {
-    "name": "Sachiko Koshimizu",
-    "aliases": [
-      "輿水幸子"
-    ]
+    "name": {
+      "en_us": "Enyo",
+      "ja_jp": "エニュオ"
+    },
+    "aliases": []
   },
   {
-    "name": "Aoidos",
-    "aliases": [
-      "アオイドス"
-    ]
+    "name": {
+      "en_us": "Lunalu (Light)",
+      "ja_jp": "ルナール"
+    },
+    "aliases": []
   },
   {
-    "name": "Zahlhamelina",
-    "aliases": [
-      "ザルハメリナ"
-    ]
+    "name": {
+      "en_us": "Yorozuya",
+      "ja_jp": "万事屋銀ちゃん 坂田銀時&志村新八&神楽"
+    },
+    "aliases": []
   },
   {
-    "name": "Ryan (SR)",
-    "aliases": [
-      "ライアン"
-    ]
+    "name": {
+      "en_us": "Cucouroux (Halloween)",
+      "ja_jp": "ククル"
+    },
+    "aliases": []
   },
   {
-    "name": "Lamretta (R)",
-    "aliases": [
-      "ラムレッダ"
-    ]
+    "name": {
+      "en_us": "Vane (Halloween)",
+      "ja_jp": "ヴェイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Eugen (Grand)",
-    "aliases": [
-      "オイゲン"
-    ]
+    "name": {
+      "en_us": "Shinsengumi",
+      "ja_jp": "真選組 土方十四郎&沖田総悟"
+    },
+    "aliases": []
   },
   {
-    "name": "Catherine",
-    "aliases": [
-      "キャサリン"
-    ]
+    "name": {
+      "en_us": "Azusa",
+      "ja_jp": "アズサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Sevilbarra",
-    "aliases": [
-      "サビルバラ"
-    ]
+    "name": {
+      "en_us": "Arthur",
+      "ja_jp": "アーサー"
+    },
+    "aliases": []
   },
   {
-    "name": "Nene",
-    "aliases": [
-      "ネネ"
-    ]
+    "name": {
+      "en_us": "Lich",
+      "ja_jp": "リッチ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ferry (SSR)",
-    "aliases": [
-      "フェリ"
-    ]
+    "name": {
+      "en_us": "Elmott (SSR)",
+      "ja_jp": "エルモート"
+    },
+    "aliases": []
   },
   {
-    "name": "Soriz (Event)",
-    "aliases": [
-      "ソリッズ"
-    ]
+    "name": {
+      "en_us": "Grea (Light)",
+      "ja_jp": "グレア"
+    },
+    "aliases": []
   },
   {
-    "name": "Daetta (SR)",
-    "aliases": [
-      "ダエッタ"
-    ]
+    "name": {
+      "en_us": "Naoise (Fire)",
+      "ja_jp": "ノイシュ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lunalu",
-    "aliases": [
-      "ルナール"
-    ]
+    "name": {
+      "en_us": "Shiva (Summer)",
+      "ja_jp": "シヴァ"
+    },
+    "aliases": []
   },
   {
-    "name": "Naga",
-    "aliases": [
-      "白蛇のナーガ"
-    ]
+    "name": {
+      "en_us": "Helel ben Shalem (Summer)",
+      "ja_jp": "ヘレル・ベン・シャレム"
+    },
+    "aliases": []
   },
   {
-    "name": "Lina",
-    "aliases": [
-      "リナ＝インバース"
-    ]
+    "name": {
+      "en_us": "Tabina (Summer)",
+      "ja_jp": "タヴィーナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Metera (Fire)",
-    "aliases": [
-      "メーテラ"
-    ]
+    "name": {
+      "en_us": "Zahlhamelina (Yukata)",
+      "ja_jp": "ザルハメリナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Sutera (Fire)",
-    "aliases": [
-      "スーテラ"
-    ]
+    "name": {
+      "en_us": "Poseidon",
+      "ja_jp": "ポセイドン"
+    },
+    "aliases": []
   },
   {
-    "name": "Flesselles",
-    "aliases": [
-      "フレッセル"
-    ]
+    "name": {
+      "en_us": "Metera (Summer)",
+      "ja_jp": "メーテラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Andira",
-    "aliases": [
-      "アンチラ"
-    ]
+    "name": {
+      "en_us": "Meg (Summer)",
+      "ja_jp": "メグ"
+    },
+    "aliases": []
   },
   {
-    "name": "Beatrix",
-    "aliases": [
-      "ベアトリクス"
-    ]
+    "name": {
+      "en_us": "Illnott (Summer)",
+      "ja_jp": "イルノート"
+    },
+    "aliases": []
   },
   {
-    "name": "Eustace",
-    "aliases": [
-      "ユーステス"
-    ]
+    "name": {
+      "en_us": "Siegfried (Summer)",
+      "ja_jp": "ジークフリート"
+    },
+    "aliases": []
   },
   {
-    "name": "Skull (Event)",
-    "aliases": [
-      "スカル"
-    ]
+    "name": {
+      "en_us": "Izmir (Yukata)",
+      "ja_jp": "イシュミール"
+    },
+    "aliases": []
   },
   {
-    "name": "Yaia",
-    "aliases": [
-      "ヤイア"
-    ]
+    "name": {
+      "en_us": "Yngwie (Yukata)",
+      "ja_jp": "イングヴェイ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rosetta (Grand)",
-    "aliases": [
-      "ロゼッタ"
-    ]
+    "name": {
+      "en_us": "Nehan",
+      "ja_jp": "ネハン"
+    },
+    "aliases": []
   },
   {
-    "name": "Anila (Event)",
-    "aliases": [
-      "アニラ"
-    ]
+    "name": {
+      "en_us": "Lennah (Earth)",
+      "ja_jp": "レナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Clarisse (Holiday)",
-    "aliases": [
-      "クラリス"
-    ]
+    "name": {
+      "en_us": "Ms. Miranda",
+      "ja_jp": "ミランダ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ladiva (Holiday)",
-    "aliases": [
-      "ファスティバ"
-    ]
+    "name": {
+      "en_us": "Sho",
+      "ja_jp": "ショウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lilele",
-    "aliases": [
-      "リルル"
-    ]
+    "name": {
+      "en_us": "Tikoh",
+      "ja_jp": "ティコ"
+    },
+    "aliases": []
   },
   {
-    "name": "Vane",
-    "aliases": [
-      "ヴェイン"
-    ]
+    "name": {
+      "en_us": "Troue",
+      "ja_jp": "トルー"
+    },
+    "aliases": []
   },
   {
-    "name": "Bridgette",
-    "aliases": [
-      "ブリジール"
-    ]
+    "name": {
+      "en_us": "Narmaya (Grand)",
+      "ja_jp": "ナルメア"
+    },
+    "aliases": []
   },
   {
-    "name": "Io (Grand)",
-    "aliases": [
-      "イオ"
-    ]
+    "name": {
+      "en_us": "Albert (Dark)",
+      "ja_jp": "アルベール"
+    },
+    "aliases": []
   },
   {
-    "name": "Lancelot (Event)",
-    "aliases": [
-      "ランスロット"
-    ]
+    "name": {
+      "en_us": "Shion",
+      "ja_jp": "シオン"
+    },
+    "aliases": []
   },
   {
-    "name": "Yodarha (SSR)",
-    "aliases": [
-      "ヨダルラーハ"
-    ]
+    "name": {
+      "en_us": "Nezha",
+      "ja_jp": "ナタク"
+    },
+    "aliases": []
   },
   {
-    "name": "Sig",
-    "aliases": [
-      "シグ"
-    ]
+    "name": {
+      "en_us": "Bobobo-bo Bo-bobo",
+      "ja_jp": "ボボボーボ・ボーボボ"
+    },
+    "aliases": []
   },
   {
-    "name": "Camieux (Earth)",
-    "aliases": [
-      "クムユ"
-    ]
+    "name": {
+      "en_us": "Andira (Summer)",
+      "ja_jp": "アンチラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Chun-Li",
-    "aliases": [
-      "春麗"
-    ]
+    "name": {
+      "en_us": "Kumbhira (Summer)",
+      "ja_jp": "クビラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ryu",
-    "aliases": [
-      "リュウ"
-    ]
+    "name": {
+      "en_us": "Beatrix (Earth)",
+      "ja_jp": "ベアトリクス"
+    },
+    "aliases": []
   },
   {
-    "name": "Narmaya",
-    "aliases": [
-      "ナルメア"
-    ]
+    "name": {
+      "en_us": "Isaac",
+      "ja_jp": "アイザック"
+    },
+    "aliases": []
   },
   {
-    "name": "Farrah (Event)",
-    "aliases": [
-      "ファラ"
-    ]
+    "name": {
+      "en_us": "Cassius (Event SSR)",
+      "ja_jp": "カシウス"
+    },
+    "aliases": []
   },
   {
-    "name": "Jasmine (SR)",
-    "aliases": [
-      "ジャスミン"
-    ]
+    "name": {
+      "en_us": "Farrah and Juri",
+      "ja_jp": "同期組 ファラ＆ユーリ"
+    },
+    "aliases": []
   },
   {
-    "name": "Viceroy",
-    "aliases": [
-      "エアロバイス"
-    ]
+    "name": {
+      "en_us": "Vaseraga (Fire)",
+      "ja_jp": "バザラガ"
+    },
+    "aliases": []
   },
   {
-    "name": "Cagliostro (Halloween)",
-    "aliases": [
-      "カリオストロ"
-    ]
+    "name": {
+      "en_us": "Zeta (Water)",
+      "ja_jp": "ゼタ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ferry (Halloween)",
-    "aliases": [
-      "フェリ"
-    ]
+    "name": {
+      "en_us": "Aglovale (Valentine)",
+      "ja_jp": "アグロヴァル"
+    },
+    "aliases": []
   },
   {
-    "name": "Feena",
-    "aliases": [
-      "フィーナ"
-    ]
+    "name": {
+      "en_us": "Monika (Valentine)",
+      "ja_jp": "モニカ"
+    },
+    "aliases": []
   },
   {
-    "name": "Goblin Mage",
-    "aliases": [
-      "ミニゴブ"
-    ]
+    "name": {
+      "en_us": "Cagliostro (Grand)",
+      "ja_jp": "カリオストロ"
+    },
+    "aliases": []
   },
   {
-    "name": "Tsubasa Kashiwagi",
-    "aliases": [
-      "柏木翼"
-    ]
+    "name": {
+      "en_us": "Lamretta (SSR)",
+      "ja_jp": "ラムレッダ"
+    },
+    "aliases": []
   },
   {
-    "name": "Kaoru Sakuraba",
-    "aliases": [
-      "桜庭薫"
-    ]
+    "name": {
+      "en_us": "Nectar",
+      "ja_jp": "ネクタル"
+    },
+    "aliases": []
   },
   {
-    "name": "Teru Tendo",
-    "aliases": [
-      "天道輝"
-    ]
+    "name": {
+      "en_us": "Mishra (SSR)",
+      "ja_jp": "マイシェラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Heles",
-    "aliases": [
-      "ヘルエス"
-    ]
+    "name": {
+      "en_us": "Zehek (SSR)",
+      "ja_jp": "ゼヘク"
+    },
+    "aliases": []
   },
   {
-    "name": "Naoise (Event)",
-    "aliases": [
-      "ノイシュ"
-    ]
+    "name": {
+      "en_us": "Nicholas (Light)",
+      "ja_jp": "シロウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Anna (SR)",
-    "aliases": [
-      "アンナ"
-    ]
+    "name": {
+      "en_us": "Filene",
+      "ja_jp": "フィルレイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Pavidus",
-    "aliases": [
-      "パヴィーダ"
-    ]
+    "name": {
+      "en_us": "Catura",
+      "ja_jp": "シャトラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rackam (Grand)",
-    "aliases": [
-      "ラカム"
-    ]
+    "name": {
+      "en_us": "Sandalphon (Earth Grand)",
+      "ja_jp": "サンダルフォン"
+    },
+    "aliases": []
   },
   {
-    "name": "Arriet",
-    "aliases": [
-      "アンリエット"
-    ]
+    "name": {
+      "en_us": "Vikala (Event)",
+      "ja_jp": "ビカラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Galadar (SR)",
-    "aliases": [
-      "ガラドア"
-    ]
+    "name": {
+      "en_us": "Lily (Holiday)",
+      "ja_jp": "リリィ"
+    },
+    "aliases": []
   },
   {
-    "name": "Dante",
-    "aliases": [
-      "ダーント"
-    ]
+    "name": {
+      "en_us": "Spinnah (Holiday)",
+      "ja_jp": "スピナー"
+    },
+    "aliases": []
   },
   {
-    "name": "Ceylan (Event)",
-    "aliases": [
-      "セイラン"
-    ]
+    "name": {
+      "en_us": "Shinobu Kocho",
+      "ja_jp": "胡蝶しのぶ"
+    },
+    "aliases": []
   },
   {
-    "name": "Pengy (Event)",
-    "aliases": [
-      "ペンギー"
-    ]
+    "name": {
+      "en_us": "Kyojuro Rengoku",
+      "ja_jp": "煉獄杏寿郎"
+    },
+    "aliases": []
   },
   {
-    "name": "Vania",
-    "aliases": [
-      "ヴァンピィ"
-    ]
+    "name": {
+      "en_us": "Tanjiro, Nezuko, Zenitsu, and Inosuke",
+      "ja_jp": "竈門炭治郎＆竈門禰豆子＆我妻善逸＆嘴平伊之助"
+    },
+    "aliases": []
   },
   {
-    "name": "Malinda (Event)",
-    "aliases": [
-      "ベス"
-    ]
+    "name": {
+      "en_us": "Mirin (Holiday)",
+      "ja_jp": "ミリン"
+    },
+    "aliases": []
   },
   {
-    "name": "Will (SR)",
-    "aliases": [
-      "ウィル"
-    ]
+    "name": {
+      "en_us": "Nemone (Holiday)",
+      "ja_jp": "ネモネ"
+    },
+    "aliases": []
   },
   {
-    "name": "Karteira",
-    "aliases": [
-      "カルテイラ"
-    ]
+    "name": {
+      "en_us": "Fiorito",
+      "ja_jp": "フィオリト"
+    },
+    "aliases": []
   },
   {
-    "name": "Koume Shirasaka",
-    "aliases": [
-      "白坂小梅"
-    ]
+    "name": {
+      "en_us": "Feather (SSR)",
+      "ja_jp": "フェザー"
+    },
+    "aliases": []
   },
   {
-    "name": "Kanako Mimura",
-    "aliases": [
-      "三村かな子"
-    ]
+    "name": {
+      "en_us": "Sutera (SSR)",
+      "ja_jp": "スーテラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rika Jougasaki",
-    "aliases": [
-      "城ヶ崎莉嘉"
-    ]
+    "name": {
+      "en_us": "Mireille and Risette",
+      "ja_jp": "ミレイユ＆リゼット"
+    },
+    "aliases": []
   },
   {
-    "name": "Zeta (Summer)",
-    "aliases": [
-      "ゼタ"
-    ]
+    "name": {
+      "en_us": "Rosetta (Halloween)",
+      "ja_jp": "ロゼッタ"
+    },
+    "aliases": []
   },
   {
-    "name": "Suframare (Summer)",
-    "aliases": [
-      "スフラマール"
-    ]
+    "name": {
+      "en_us": "Azazel (Halloween)",
+      "ja_jp": "アザゼル"
+    },
+    "aliases": []
   },
   {
-    "name": "Danua (Summer)",
-    "aliases": [
-      "ダヌア"
-    ]
+    "name": {
+      "en_us": "Wulf and Renie (Halloween)",
+      "ja_jp": "ウーフとレニー"
+    },
+    "aliases": []
   },
   {
-    "name": "Lecia (Summer)",
-    "aliases": [
-      "リーシャ"
-    ]
+    "name": {
+      "en_us": "Florence",
+      "ja_jp": "フロレンス"
+    },
+    "aliases": []
   },
   {
-    "name": "Katalina (Grand)",
-    "aliases": [
-      "カタリナ"
-    ]
+    "name": {
+      "en_us": "Gawain (Light)",
+      "ja_jp": "ガウェイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Vira (Summer)",
-    "aliases": [
-      "ヴィーラ"
-    ]
+    "name": {
+      "en_us": "Golden Knight",
+      "ja_jp": "黄金の騎士"
+    },
+    "aliases": []
   },
   {
-    "name": "Jin (Ronin)",
-    "aliases": [
-      "ジン"
-    ]
+    "name": {
+      "en_us": "Diantha",
+      "ja_jp": "ディアンサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Eugen (Summer)",
-    "aliases": [
-      "オイゲン"
-    ]
+    "name": {
+      "en_us": "Mimori Amamiya",
+      "ja_jp": "天宮ミモリ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lowain (Summer)",
-    "aliases": [
-      "ローアイン"
-    ]
+    "name": {
+      "en_us": "Hiro Ryugasaki",
+      "ja_jp": "竜ヶ崎ヒイロ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ghandagoza",
-    "aliases": [
-      "ガンダゴウザ"
-    ]
+    "name": {
+      "en_us": "Juliet (Water)",
+      "ja_jp": "ジュリエット"
+    },
+    "aliases": []
   },
   {
-    "name": "Tanya (Summer)",
-    "aliases": [
-      "ターニャ"
-    ]
+    "name": {
+      "en_us": "Joel (SR)",
+      "ja_jp": "ジョエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Elmott (Summer)",
-    "aliases": [
-      "エルモート"
-    ]
+    "name": {
+      "en_us": "Mimlemel (Summer)",
+      "ja_jp": "ミムルメモル"
+    },
+    "aliases": []
   },
   {
-    "name": "Sophie",
-    "aliases": [
-      "ソフィ"
-    ]
+    "name": {
+      "en_us": "Silva (Summer)",
+      "ja_jp": "シルヴァ"
+    },
+    "aliases": []
   },
   {
-    "name": "Yuri Lowell",
-    "aliases": [
-      "ユーリ・ローウェル"
-    ]
+    "name": {
+      "en_us": "Albert (Summer)",
+      "ja_jp": "アルベール"
+    },
+    "aliases": []
   },
   {
-    "name": "Milla Maxwell",
-    "aliases": [
-      "ミラ＝マクスウェル"
-    ]
+    "name": {
+      "en_us": "Ferry (Summer)",
+      "ja_jp": "フェリ"
+    },
+    "aliases": []
   },
   {
-    "name": "Amira",
-    "aliases": [
-      "アーミラ"
-    ]
+    "name": {
+      "en_us": "Rosamia (Yukata)",
+      "ja_jp": "ロザミア"
+    },
+    "aliases": []
   },
   {
-    "name": "Robomi (Event)",
-    "aliases": [
-      "ロボミ"
-    ]
+    "name": {
+      "en_us": "Anila (Summer)",
+      "ja_jp": "アニラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Feather (SR)",
-    "aliases": [
-      "フェザー"
-    ]
+    "name": {
+      "en_us": "Tyre (Yukata)",
+      "ja_jp": "タイアー"
+    },
+    "aliases": []
   },
   {
-    "name": "Joel",
-    "aliases": [
-      "ジョエル"
-    ]
+    "name": {
+      "en_us": "Meg (Event)",
+      "ja_jp": "メグ"
+    },
+    "aliases": []
   },
   {
-    "name": "Percival",
-    "aliases": [
-      "パーシヴァル"
-    ]
+    "name": {
+      "en_us": "Amira (Summer)",
+      "ja_jp": "アーミラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Mary (SR)",
-    "aliases": [
-      "マリー"
-    ]
+    "name": {
+      "en_us": "Lucio (Summer)",
+      "ja_jp": "ルシオ"
+    },
+    "aliases": []
   },
   {
-    "name": "Philosophia",
-    "aliases": [
-      "フィラソピラ"
-    ]
+    "name": {
+      "en_us": "Leona (Grand)",
+      "ja_jp": "レオナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lecia",
-    "aliases": [
-      "リーシャ"
-    ]
+    "name": {
+      "en_us": "Abby",
+      "ja_jp": "アビー"
+    },
+    "aliases": []
   },
   {
-    "name": "Silva",
-    "aliases": [
-      "シルヴァ"
-    ]
+    "name": {
+      "en_us": "Kolulu (Summer)",
+      "ja_jp": "コルル"
+    },
+    "aliases": []
   },
   {
-    "name": "Romeo (Event)",
-    "aliases": [
-      "ロミオ"
-    ]
+    "name": {
+      "en_us": "Black Knight and Orchis",
+      "ja_jp": "エルステの要 黒騎士&オルキス"
+    },
+    "aliases": []
   },
   {
-    "name": "Sahli Lao",
-    "aliases": [
-      "ザーリリャオー"
-    ]
+    "name": {
+      "en_us": "Pengy (SSR)",
+      "ja_jp": "ペンギー"
+    },
+    "aliases": []
   },
   {
-    "name": "Ippatsu",
-    "aliases": [
-      "イッパツ"
-    ]
+    "name": {
+      "en_us": "Naoise",
+      "ja_jp": "ノイシュ"
+    },
+    "aliases": []
   },
   {
-    "name": "Amira (Promo)",
-    "aliases": [
-      "アーミラ"
-    ]
+    "name": {
+      "en_us": "Satyr",
+      "ja_jp": "サテュロス"
+    },
+    "aliases": []
   },
   {
-    "name": "Sarunan (Dark)",
-    "aliases": [
-      "サルナーン"
-    ]
+    "name": {
+      "en_us": "Percival (Light)",
+      "ja_jp": "パーシヴァル"
+    },
+    "aliases": []
   },
   {
-    "name": "J.J.",
-    "aliases": [
-      "ｊ・ｊ"
-    ]
+    "name": {
+      "en_us": "Kaede Takagaki",
+      "ja_jp": "高垣楓"
+    },
+    "aliases": []
   },
   {
-    "name": "Vanzza",
-    "aliases": [
-      "ヴァンツァ"
-    ]
+    "name": {
+      "en_us": "Predator (SSR)",
+      "ja_jp": "プレデター"
+    },
+    "aliases": []
   },
   {
-    "name": "Anzu Futaba",
-    "aliases": [
-      "双葉杏"
-    ]
+    "name": {
+      "en_us": "Illnott",
+      "ja_jp": "イルノート"
+    },
+    "aliases": []
   },
   {
-    "name": "Miku Maekawa",
-    "aliases": [
-      "前川みく"
-    ]
+    "name": {
+      "en_us": "New Generations",
+      "ja_jp": "渋谷凛＆島村卯月＆本田未央"
+    },
+    "aliases": []
   },
   {
-    "name": "Mizuki Kawashima",
-    "aliases": [
-      "川島瑞樹"
-    ]
+    "name": {
+      "en_us": "Reinhardtzar (Grand)",
+      "ja_jp": "ラインハルザ"
+    },
+    "aliases": []
   },
   {
-    "name": "Petra (SSR)",
-    "aliases": [
-      "ペトラ"
-    ]
+    "name": {
+      "en_us": "Shura",
+      "ja_jp": "シュラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Syr (Event)",
-    "aliases": [
-      "スィール"
-    ]
+    "name": {
+      "en_us": "Milleore and Sahli Lao",
+      "ja_jp": "阿吽の破弓 ミラオル＆ザーリリャオー"
+    },
+    "aliases": []
   },
   {
-    "name": "Hazen (SR)",
-    "aliases": [
-      "ヘイゼン"
-    ]
+    "name": {
+      "en_us": "Herja (SSR)",
+      "ja_jp": "ヘリヤ"
+    },
+    "aliases": []
   },
   {
-    "name": "Karva",
-    "aliases": [
-      "カルバ"
-    ]
+    "name": {
+      "en_us": "Drang",
+      "ja_jp": "ドランク"
+    },
+    "aliases": []
   },
   {
-    "name": "Clarisse",
-    "aliases": [
-      "クラリス"
-    ]
+    "name": {
+      "en_us": "Sturm",
+      "ja_jp": "スツルム"
+    },
+    "aliases": []
   },
   {
-    "name": "Tien",
-    "aliases": [
-      "エッセル"
-    ]
+    "name": {
+      "en_us": "Mugen",
+      "ja_jp": "ムゲン"
+    },
+    "aliases": []
   },
   {
-    "name": "Niyon",
-    "aliases": [
-      "ニオ"
-    ]
+    "name": {
+      "en_us": "Teena (Summer)",
+      "ja_jp": "ティナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Eahta",
-    "aliases": [
-      "オクトー"
-    ]
+    "name": {
+      "en_us": "Seox (Event)",
+      "ja_jp": "シス"
+    },
+    "aliases": []
   },
   {
-    "name": "Seofon",
-    "aliases": [
-      "シエテ"
-    ]
+    "name": {
+      "en_us": "Rei",
+      "ja_jp": "レイ"
+    },
+    "aliases": []
   },
   {
-    "name": "Seox",
-    "aliases": [
-      "シス"
-    ]
+    "name": {
+      "en_us": "Vania and Malinda",
+      "ja_jp": "飛竜と吸血姫 ヴァンピィ＆ベス"
+    },
+    "aliases": []
   },
   {
-    "name": "Fif",
-    "aliases": [
-      "フュンフ"
-    ]
+    "name": {
+      "en_us": "Lecia (Water)",
+      "ja_jp": "リーシャ"
+    },
+    "aliases": []
   },
   {
-    "name": "Feower",
-    "aliases": [
-      "カトル"
-    ]
+    "name": {
+      "en_us": "Grimnir (Valentine)",
+      "ja_jp": "グリームニル"
+    },
+    "aliases": []
   },
   {
-    "name": "Threo",
-    "aliases": [
-      "サラーサ"
-    ]
+    "name": {
+      "en_us": "Scathacha (Valentine)",
+      "ja_jp": "スカーサハ"
+    },
+    "aliases": []
   },
   {
-    "name": "Tweyen",
-    "aliases": [
-      "ソーン"
-    ]
+    "name": {
+      "en_us": "Yodarha (Wind)",
+      "ja_jp": "ヨダルラーハ"
+    },
+    "aliases": []
   },
   {
-    "name": "Anre",
-    "aliases": [
-      "ウーノ"
-    ]
+    "name": {
+      "en_us": "Ilsa (Light)",
+      "ja_jp": "イルザ"
+    },
+    "aliases": []
   },
   {
-    "name": "Milleore",
-    "aliases": [
-      "ミラオル"
-    ]
+    "name": {
+      "en_us": "Jin",
+      "ja_jp": "ジン"
+    },
+    "aliases": []
   },
   {
-    "name": "Krugne",
-    "aliases": [
-      "クルーニ"
-    ]
+    "name": {
+      "en_us": "Danua (Light)",
+      "ja_jp": "ダヌア"
+    },
+    "aliases": []
   },
   {
-    "name": "Albert",
-    "aliases": [
-      "アルベール"
-    ]
+    "name": {
+      "en_us": "Noa (Grand)",
+      "ja_jp": "ノア"
+    },
+    "aliases": []
   },
   {
-    "name": "Sarya (Event)",
-    "aliases": [
-      "サーヤ"
-    ]
+    "name": {
+      "en_us": "Lucius (SSR)",
+      "ja_jp": "ルシウス"
+    },
+    "aliases": []
   },
   {
-    "name": "Therese",
-    "aliases": [
-      "テレーズ"
-    ]
+    "name": {
+      "en_us": "Yuisis (Fire)",
+      "ja_jp": "ユイシス"
+    },
+    "aliases": []
   },
   {
-    "name": "Barawa",
-    "aliases": [
-      "バロワ"
-    ]
+    "name": {
+      "en_us": "Vikala",
+      "ja_jp": "ビカラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Societte",
-    "aliases": [
-      "ソシエ"
-    ]
+    "name": {
+      "en_us": "Helel ben Shalem",
+      "ja_jp": "ヘレル・ベン・シャレム"
+    },
+    "aliases": []
   },
   {
-    "name": "Ejaeli",
-    "aliases": [
-      "エジェリー"
-    ]
+    "name": {
+      "en_us": "Joy (Event)",
+      "ja_jp": "ジョイ"
+    },
+    "aliases": []
   },
   {
-    "name": "Norcel",
-    "aliases": [
-      "ノルセル"
-    ]
+    "name": {
+      "en_us": "Kumbhira (Event)",
+      "ja_jp": "クビラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Vira (SSR)",
-    "aliases": [
-      "ヴィーラ"
-    ]
+    "name": {
+      "en_us": "Seruel (Holiday)",
+      "ja_jp": "セルエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Zehek (Event)",
-    "aliases": [
-      "ゼヘク"
-    ]
+    "name": {
+      "en_us": "Narmaya (Holiday)",
+      "ja_jp": "ナルメア"
+    },
+    "aliases": []
   },
   {
-    "name": "Zaja",
-    "aliases": [
-      "ザザ"
-    ]
+    "name": {
+      "en_us": "Vira (Promo)",
+      "ja_jp": "ヴィーラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Camieux",
-    "aliases": [
-      "クムユ"
-    ]
+    "name": {
+      "en_us": "Gachapin"
+    },
+    "aliases": []
   },
   {
-    "name": "Carmelina",
-    "aliases": [
-      "カルメリーナ"
-    ]
+    "name": {
+      "en_us": "Magisa (Holiday)",
+      "ja_jp": "マギサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Dorothy",
-    "aliases": [
-      "ドロシー"
-    ]
+    "name": {
+      "en_us": "Meteon (Holiday)",
+      "ja_jp": "ミュオン"
+    },
+    "aliases": []
   },
   {
-    "name": "Claudia",
-    "aliases": [
-      "クラウディア"
-    ]
+    "name": {
+      "en_us": "Jeanne d'Arc (Grand)",
+      "ja_jp": "ジャンヌダルク"
+    },
+    "aliases": []
   },
   {
-    "name": "Sara",
-    "aliases": [
-      "サラ"
-    ]
+    "name": {
+      "en_us": "Shitori",
+      "ja_jp": "シトリ"
+    },
+    "aliases": []
   },
   {
-    "name": "Siegfried",
-    "aliases": [
-      "ジークフリート"
-    ]
+    "name": {
+      "en_us": "Krugne (SR)",
+      "ja_jp": "クルーニ"
+    },
+    "aliases": []
   },
   {
-    "name": "Volenna (Event)",
-    "aliases": [
-      "ボレミア"
-    ]
+    "name": {
+      "en_us": "Kou",
+      "ja_jp": "コウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ladiva",
-    "aliases": [
-      "ファスティバ"
-    ]
+    "name": {
+      "en_us": "Societte (Wind)",
+      "ja_jp": "ソシエ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lowain",
-    "aliases": [
-      "ローアイン"
-    ]
+    "name": {
+      "en_us": "You (Event)",
+      "ja_jp": "ヨウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rita",
-    "aliases": [
-      "リタ"
-    ]
+    "name": {
+      "en_us": "Hallessena (Halloween)",
+      "ja_jp": "ハレゼナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Jeanne d'Arc",
-    "aliases": [
-      "ジャンヌダルク"
-    ]
+    "name": {
+      "en_us": "Zeta and Vaseraga (Halloween)",
+      "ja_jp": "真紅と冥闇 ゼタ＆バザラガ"
+    },
+    "aliases": []
   },
   {
-    "name": "Baotorda",
-    "aliases": [
-      "バウタオーダ"
-    ]
+    "name": {
+      "en_us": "Zaja (Halloween)",
+      "ja_jp": "ザザ"
+    },
+    "aliases": []
   },
   {
-    "name": "Yodarha",
-    "aliases": [
-      "ヨダルラーハ"
-    ]
+    "name": {
+      "en_us": "Monika (Grand)",
+      "ja_jp": "モニカ"
+    },
+    "aliases": []
   },
   {
-    "name": "Mio Honda",
-    "aliases": [
-      "本田未央"
-    ]
+    "name": {
+      "en_us": "Siegfried (Fire)",
+      "ja_jp": "ジークフリート"
+    },
+    "aliases": []
   },
   {
-    "name": "Mika Jougasaki",
-    "aliases": [
-      "城ヶ崎美嘉"
-    ]
+    "name": {
+      "en_us": "La Coiffe (SR)",
+      "ja_jp": "コワフュール"
+    },
+    "aliases": []
   },
   {
-    "name": "Vaseraga",
-    "aliases": [
-      "バザラガ"
-    ]
+    "name": {
+      "en_us": "Sara (Light)",
+      "ja_jp": "サラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Zeta",
-    "aliases": [
-      "ゼタ"
-    ]
+    "name": {
+      "en_us": "Colossus"
+    },
+    "aliases": []
   },
   {
-    "name": "Anila",
-    "aliases": [
-      "アニラ"
-    ]
+    "name": {
+      "en_us": "Tabina",
+      "ja_jp": "タヴィーナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Johann (Event)",
-    "aliases": [
-      "ヨハン"
-    ]
+    "name": {
+      "en_us": "Stan and Aliza",
+      "ja_jp": "勇者と姫君 スタン＆アリーザ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rosamia (SR)",
-    "aliases": [
-      "ロザミア"
-    ]
+    "name": {
+      "en_us": "Alexiel (Summer)",
+      "ja_jp": "ブローディア"
+    },
+    "aliases": []
   },
   {
-    "name": "Suframare",
-    "aliases": [
-      "スフラマール"
-    ]
+    "name": {
+      "en_us": "Leona (Yukata)",
+      "ja_jp": "レオナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rosetta (Holiday)",
-    "aliases": [
-      "ロゼッタ"
-    ]
+    "name": {
+      "en_us": "Μ's Third-Years",
+      "ja_jp": "絢瀬絵里＆矢澤にこ＆東條 希"
+    },
+    "aliases": []
   },
   {
-    "name": "Rackam (Holiday)",
-    "aliases": [
-      "ラカム"
-    ]
+    "name": {
+      "en_us": "Μ's Second-Years",
+      "ja_jp": "園田海未＆高坂穂乃果＆南ことり"
+    },
+    "aliases": []
   },
   {
-    "name": "Walder (Holiday)",
-    "aliases": [
-      "ウェルダー"
-    ]
+    "name": {
+      "en_us": "Μ's First-Years",
+      "ja_jp": "星空 凛＆小泉花陽＆西木野真姫"
+    },
+    "aliases": []
   },
   {
-    "name": "Sophia",
-    "aliases": [
-      "ソフィア"
-    ]
+    "name": {
+      "en_us": "Anthuria (Yukata)",
+      "ja_jp": "アンスリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Lancelot",
-    "aliases": [
-      "ランスロット"
-    ]
+    "name": {
+      "en_us": "Cassius (Yukata)",
+      "ja_jp": "カシウス"
+    },
+    "aliases": []
   },
   {
-    "name": "Vane (Event)",
-    "aliases": [
-      "ヴェイン"
-    ]
+    "name": {
+      "en_us": "Jessica (Yukata)",
+      "ja_jp": "ジェシカ"
+    },
+    "aliases": []
   },
   {
-    "name": "Carren",
-    "aliases": [
-      "カレン"
-    ]
+    "name": {
+      "en_us": "Europa (Summer)",
+      "ja_jp": "エウロペ"
+    },
+    "aliases": []
   },
   {
-    "name": "Garma",
-    "aliases": [
-      "ガルマ"
-    ]
+    "name": {
+      "en_us": "Lancelot and Vane (Summer)",
+      "ja_jp": "白竜の双騎士 ランスロット＆ヴェイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Melleau",
-    "aliases": [
-      "メルゥ"
-    ]
+    "name": {
+      "en_us": "Cagliostro (Summer)",
+      "ja_jp": "カリオストロ"
+    },
+    "aliases": []
   },
   {
-    "name": "Mariah",
-    "aliases": [
-      "マライア"
-    ]
+    "name": {
+      "en_us": "Friday (Summer)",
+      "ja_jp": "フライデー"
+    },
+    "aliases": []
   },
   {
-    "name": "Noa",
-    "aliases": [
-      "ノア"
-    ]
+    "name": {
+      "en_us": "Sandalphon (Summer)",
+      "ja_jp": "サンダルフォン"
+    },
+    "aliases": []
   },
   {
-    "name": "Leonora",
-    "aliases": [
-      "レオノーラ"
-    ]
+    "name": {
+      "en_us": "Halluel and Malluel (Summer)",
+      "ja_jp": "ハールート・マールート"
+    },
+    "aliases": []
   },
   {
-    "name": "Lennah",
-    "aliases": [
-      "レナ"
-    ]
+    "name": {
+      "en_us": "Kolulu",
+      "ja_jp": "コルル"
+    },
+    "aliases": []
   },
   {
-    "name": "Aster (Event)",
-    "aliases": [
-      "アステール"
-    ]
+    "name": {
+      "en_us": "Lelouch Lamperouge",
+      "ja_jp": "ルルーシュ・ランペルージ"
+    },
+    "aliases": []
   },
   {
-    "name": "Mimlemel",
-    "aliases": [
-      "ミムルメモル"
-    ]
+    "name": {
+      "en_us": "Philosophia (SR)",
+      "ja_jp": "フィラソピラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Elmelaura",
-    "aliases": [
-      "エルメラウラ"
-    ]
+    "name": {
+      "en_us": "Kallen Kouzuki",
+      "ja_jp": "紅月カレン"
+    },
+    "aliases": []
   },
   {
-    "name": "Charlotta (Halloween)",
-    "aliases": [
-      "シャルロッテ"
-    ]
+    "name": {
+      "en_us": "Suzaku Kururugi",
+      "ja_jp": "枢木スザク"
+    },
+    "aliases": []
   },
   {
-    "name": "Ange (Halloween)",
-    "aliases": [
-      "アンジェ"
-    ]
+    "name": {
+      "en_us": "Morrigna",
+      "ja_jp": "バイヴカハ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rin Shibuya",
-    "aliases": [
-      "渋谷凛"
-    ]
+    "name": {
+      "en_us": "Ladiva (SSR)",
+      "ja_jp": "ファスティバ"
+    },
+    "aliases": []
   },
   {
-    "name": "Uzuki Shimamura",
-    "aliases": [
-      "島村卯月"
-    ]
+    "name": {
+      "en_us": "Bridgette and Cordelia",
+      "ja_jp": "ノーブルナイツ ブリジール＆コーデリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Arulumaya",
-    "aliases": [
-      "アルルメイヤ"
-    ]
+    "name": {
+      "en_us": "Karyl",
+      "ja_jp": "キャル"
+    },
+    "aliases": []
   },
   {
-    "name": "Juri (Event)",
-    "aliases": [
-      "ユーリ"
-    ]
+    "name": {
+      "en_us": "Baal",
+      "ja_jp": "バアル"
+    },
+    "aliases": []
   },
   {
-    "name": "Farrah (SR)",
-    "aliases": [
-      "ファラ"
-    ]
+    "name": {
+      "en_us": "Aster",
+      "ja_jp": "アステール"
+    },
+    "aliases": []
   },
   {
-    "name": "Deliford",
-    "aliases": [
-      "デリフォード"
-    ]
+    "name": {
+      "en_us": "Medusa",
+      "ja_jp": "メドゥーサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Christina",
-    "aliases": [
-      "クリスティーナ"
-    ]
+    "name": {
+      "en_us": "Richard (SR)",
+      "ja_jp": "リチャード"
+    },
+    "aliases": []
   },
   {
-    "name": "Agielba",
-    "aliases": [
-      "アギエルバ"
-    ]
+    "name": {
+      "en_us": "Macula Marius",
+      "ja_jp": "マキュラ・マリウス"
+    },
+    "aliases": []
   },
   {
-    "name": "Arusha",
-    "aliases": [
-      "アルシャ"
-    ]
+    "name": {
+      "en_us": "Grimnir",
+      "ja_jp": "グリームニル"
+    },
+    "aliases": []
   },
   {
-    "name": "Daetta",
-    "aliases": [
-      "ダエッタ"
-    ]
+    "name": {
+      "en_us": "Vira (Wind)",
+      "ja_jp": "ヴィーラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Cerberus",
-    "aliases": [
-      "ケルベロス"
-    ]
+    "name": {
+      "en_us": "Korwa (SR)",
+      "ja_jp": "コルワ"
+    },
+    "aliases": []
   },
   {
-    "name": "Feena (Event)",
-    "aliases": [
-      "フィーナ"
-    ]
+    "name": {
+      "en_us": "Yuel (Summer)",
+      "ja_jp": "ユエル"
+    },
+    "aliases": []
   },
   {
-    "name": "Teena",
-    "aliases": [
-      "ティナ"
-    ]
+    "name": {
+      "en_us": "Nier",
+      "ja_jp": "ニーア"
+    },
+    "aliases": []
   },
   {
-    "name": "Lucius",
-    "aliases": [
-      "ルシウス"
-    ]
+    "name": {
+      "en_us": "Haaselia",
+      "ja_jp": "ハーゼリーラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Tanya",
-    "aliases": [
-      "ターニャ"
-    ]
+    "name": {
+      "en_us": "Alanaan",
+      "ja_jp": "アラナン"
+    },
+    "aliases": []
   },
   {
-    "name": "Io (Summer)",
-    "aliases": [
-      "イオ"
-    ]
+    "name": {
+      "en_us": "Katzelia",
+      "ja_jp": "カッツェリーラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ferry",
-    "aliases": [
-      "フェリ"
-    ]
+    "name": {
+      "en_us": "Lobelia",
+      "ja_jp": "ロベリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Helnar (Summer)",
-    "aliases": [
-      "ヘルナル"
-    ]
+    "name": {
+      "en_us": "Caim",
+      "ja_jp": "カイム"
+    },
+    "aliases": []
   },
   {
-    "name": "Mary (Summer)",
-    "aliases": [
-      "マリー"
-    ]
+    "name": {
+      "en_us": "Estarriola",
+      "ja_jp": "エスタリオラ"
+    },
+    "aliases": []
   },
   {
-    "name": "De La Fille (Summer)",
-    "aliases": [
-      "レ・フィーエ"
-    ]
+    "name": {
+      "en_us": "Geisenborger",
+      "ja_jp": "ガイゼンボーガ"
+    },
+    "aliases": []
   },
   {
-    "name": "Jessica (Summer)",
-    "aliases": [
-      "ジェシカ"
-    ]
+    "name": {
+      "en_us": "Fraux",
+      "ja_jp": "フラウ"
+    },
+    "aliases": []
   },
   {
-    "name": "Katalina (Summer)",
-    "aliases": [
-      "カタリナ"
-    ]
+    "name": {
+      "en_us": "Maria Theresa",
+      "ja_jp": "マリア・テレサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Sig (Event)",
-    "aliases": [
-      "シグ"
-    ]
+    "name": {
+      "en_us": "Ferry (Grand)",
+      "ja_jp": "フェリ"
+    },
+    "aliases": []
   },
   {
-    "name": "Walder (Summer)",
-    "aliases": [
-      "ウェルダー"
-    ]
+    "name": {
+      "en_us": "Heles (Wind)",
+      "ja_jp": "ヘルエス"
+    },
+    "aliases": []
   },
   {
-    "name": "Seruel",
-    "aliases": [
-      "セルエル"
-    ]
+    "name": {
+      "en_us": "Mirin (Light)",
+      "ja_jp": "ミリン"
+    },
+    "aliases": []
   },
   {
-    "name": "Ezecrain",
-    "aliases": [
-      "エゼクレイン"
-    ]
+    "name": {
+      "en_us": "Melissabelle (Valentine)",
+      "ja_jp": "メリッサベル"
+    },
+    "aliases": []
   },
   {
-    "name": "Anna (Summer)",
-    "aliases": [
-      "アンナ"
-    ]
+    "name": {
+      "en_us": "Clarisse (Valentine)",
+      "ja_jp": "クラリス"
+    },
+    "aliases": []
   },
   {
-    "name": "Metera",
-    "aliases": [
-      "メーテラ"
-    ]
+    "name": {
+      "en_us": "Dante and Freiheit",
+      "ja_jp": "ダーント&フライハイト"
+    },
+    "aliases": []
   },
   {
-    "name": "Selfira (Event)",
-    "aliases": [
-      "セレフィラ"
-    ]
+    "name": {
+      "en_us": "Sen (SSR)",
+      "ja_jp": "セン"
+    },
+    "aliases": []
   },
   {
-    "name": "Elta",
-    "aliases": [
-      "エルタ"
-    ]
+    "name": {
+      "en_us": "Catherine (SR)",
+      "ja_jp": "キャサリン"
+    },
+    "aliases": []
   },
   {
-    "name": "Herja",
-    "aliases": [
-      "ヘリヤ"
-    ]
+    "name": {
+      "en_us": "Young Cat (Event)",
+      "ja_jp": "猫"
+    },
+    "aliases": []
   },
   {
-    "name": "Magisa",
-    "aliases": [
-      "マギサ"
-    ]
+    "name": {
+      "en_us": "Tanya (SSR)",
+      "ja_jp": "ターニャ"
+    },
+    "aliases": []
   },
   {
-    "name": "Vira",
-    "aliases": [
-      "ヴィーラ"
-    ]
+    "name": {
+      "en_us": "Skull",
+      "ja_jp": "スカル"
+    },
+    "aliases": []
   },
   {
-    "name": "Feather",
-    "aliases": [
-      "フェザー"
-    ]
+    "name": {
+      "en_us": "Athena",
+      "ja_jp": "アテナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Charlotta",
-    "aliases": [
-      "シャルロッテ"
-    ]
+    "name": {
+      "en_us": "Eustace (Dark)",
+      "ja_jp": "ユーステス"
+    },
+    "aliases": []
   },
   {
-    "name": "Petra",
-    "aliases": [
-      "ペトラ"
-    ]
+    "name": {
+      "en_us": "Kumbhira",
+      "ja_jp": "クビラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Jin (Event)",
-    "aliases": [
-      "ジン"
-    ]
+    "name": {
+      "en_us": "Cassius (Event)",
+      "ja_jp": "カシウス"
+    },
+    "aliases": []
   },
   {
-    "name": "Cagliostro",
-    "aliases": [
-      "カリオストロ"
-    ]
+    "name": {
+      "en_us": "Beatrix (SR)",
+      "ja_jp": "ベアトリクス"
+    },
+    "aliases": []
   },
   {
-    "name": "Sara (Event)",
-    "aliases": [
-      "サラ"
-    ]
+    "name": {
+      "en_us": "Shiva",
+      "ja_jp": "シヴァ"
+    },
+    "aliases": []
   },
   {
-    "name": "Soriz",
-    "aliases": [
-      "ソリッズ"
-    ]
+    "name": {
+      "en_us": "Metera (Holiday)",
+      "ja_jp": "メーテラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Volenna",
-    "aliases": [
-      "ボレミア"
-    ]
+    "name": {
+      "en_us": "Yaia (Holiday)",
+      "ja_jp": "ヤイア"
+    },
+    "aliases": []
   },
   {
-    "name": "Sarunan",
-    "aliases": [
-      "サルナーン"
-    ]
+    "name": {
+      "en_us": "Kokkoro",
+      "ja_jp": "コッコロ"
+    },
+    "aliases": []
   },
   {
-    "name": "Sutera",
-    "aliases": [
-      "スーテラ"
-    ]
+    "name": {
+      "en_us": "Pecorine",
+      "ja_jp": "ペコリーヌ"
+    },
+    "aliases": []
   },
   {
-    "name": "Ryan",
-    "aliases": [
-      "ライアン"
-    ]
+    "name": {
+      "en_us": "Charlotta (Light)",
+      "ja_jp": "シャルロッテ"
+    },
+    "aliases": []
   },
   {
-    "name": "Altair",
-    "aliases": [
-      "アルタイル"
-    ]
+    "name": {
+      "en_us": "Sevilbarra (Event)",
+      "ja_jp": "サビルバラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Danua",
-    "aliases": [
-      "ダヌア"
-    ]
+    "name": {
+      "en_us": "Razia (SR)",
+      "ja_jp": "ラスティナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Jessica (Event)",
-    "aliases": [
-      "ジェシカ"
-    ]
+    "name": {
+      "en_us": "Yurius",
+      "ja_jp": "ユリウス"
+    },
+    "aliases": []
   },
   {
-    "name": "Galadar",
-    "aliases": [
-      "ガラドア"
-    ]
+    "name": {
+      "en_us": "Levin Sisters",
+      "ja_jp": "レヴィオン姉妹 マイム＆ミイム＆メイム"
+    },
+    "aliases": []
   },
   {
-    "name": "Yuel",
-    "aliases": [
-      "ユエル"
-    ]
+    "name": {
+      "en_us": "Rosine (SR)",
+      "ja_jp": "ロジーヌ"
+    },
+    "aliases": []
   },
   {
-    "name": "Aliza (Event)",
-    "aliases": [
-      "アリーザ"
-    ]
+    "name": {
+      "en_us": "Aglovale",
+      "ja_jp": "アグロヴァル"
+    },
+    "aliases": []
   },
   {
-    "name": "Ulamnuran",
-    "aliases": [
-      "ウラムヌラン"
-    ]
+    "name": {
+      "en_us": "Lancelot and Vane",
+      "ja_jp": "白竜の双騎士 ランスロット＆ヴェイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Stan",
-    "aliases": [
-      "スタン"
-    ]
+    "name": {
+      "en_us": "Arthur and Mordred",
+      "ja_jp": "ひよこ班 アーサー&モルドレッド"
+    },
+    "aliases": []
   },
   {
-    "name": "Gawain",
-    "aliases": [
-      "ガウェイン"
-    ]
+    "name": {
+      "en_us": "Monika",
+      "ja_jp": "モニカ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lamretta",
-    "aliases": [
-      "ラムレッダ"
-    ]
+    "name": {
+      "en_us": "Europa",
+      "ja_jp": "エウロペ"
+    },
+    "aliases": []
   },
   {
-    "name": "Will",
-    "aliases": [
-      "ウィル"
-    ]
+    "name": {
+      "en_us": "Lady Grey (Halloween)",
+      "ja_jp": "レディ・グレイ"
+    },
+    "aliases": []
   },
   {
-    "name": "Aletheia",
-    "aliases": [
-      "アレーティア"
-    ]
+    "name": {
+      "en_us": "Feather (Halloween)",
+      "ja_jp": "フェザー"
+    },
+    "aliases": []
   },
   {
-    "name": "Ange",
-    "aliases": [
-      "アンジェ"
-    ]
+    "name": {
+      "en_us": "Cure Black and Cure White",
+      "ja_jp": "プリキュア キュアブラック＆キュアホワイト"
+    },
+    "aliases": []
   },
   {
-    "name": "Eso",
-    "aliases": [
-      "エシオ"
-    ]
+    "name": {
+      "en_us": "Silva (Light)",
+      "ja_jp": "シルヴァ"
+    },
+    "aliases": []
   },
   {
-    "name": "Lily",
-    "aliases": [
-      "リリィ"
-    ]
+    "name": {
+      "en_us": "Juri",
+      "ja_jp": "ユーリ"
+    },
+    "aliases": []
   },
   {
-    "name": "Mishra",
-    "aliases": [
-      "マイシェラ"
-    ]
+    "name": {
+      "en_us": "Freezie",
+      "ja_jp": "フーちゃん"
+    },
+    "aliases": []
   },
   {
-    "name": "Therese (Event)",
-    "aliases": [
-      "テレーズ"
-    ]
+    "name": {
+      "en_us": "The Lowain Bros",
+      "ja_jp": "チーム・ローアイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Richard",
-    "aliases": [
-      "リチャード"
-    ]
+    "name": {
+      "en_us": "Pholia",
+      "ja_jp": "フォリア"
+    },
+    "aliases": []
   },
   {
-    "name": "Rosetta",
-    "aliases": [
-      "ロゼッタ"
-    ]
+    "name": {
+      "en_us": "Tsubasa",
+      "ja_jp": "ツバサ"
+    },
+    "aliases": []
   },
   {
-    "name": "Abby (Promo)",
-    "aliases": [
-      "アビー"
-    ]
+    "name": {
+      "en_us": "Cailana (SR)",
+      "ja_jp": "カイラナ"
+    },
+    "aliases": []
   },
   {
-    "name": "Naoise (Promo)",
-    "aliases": [
-      "ノイシュ"
-    ]
+    "name": {
+      "en_us": "Grea (Summer)",
+      "ja_jp": "グレア"
+    },
+    "aliases": []
   },
   {
-    "name": "Lady Grey",
-    "aliases": [
-      "レディ・グレイ"
-    ]
+    "name": {
+      "en_us": "Almeida (Summer)",
+      "ja_jp": "アルメイダ"
+    },
+    "aliases": []
   },
   {
-    "name": "De La Fille",
-    "aliases": [
-      "レ・フィーエ"
-    ]
+    "name": {
+      "en_us": "Aqours Third-Years",
+      "ja_jp": "松浦果南＆黒澤ダイヤ＆小原鞠莉"
+    },
+    "aliases": []
   },
   {
-    "name": "Nezahualpilli",
-    "aliases": [
-      "ネツァワルピリ"
-    ]
+    "name": {
+      "en_us": "Aqours First-Years",
+      "ja_jp": "津島善子＆国木田花丸＆黒澤ルビィ"
+    },
+    "aliases": []
   },
   {
-    "name": "Keehar",
-    "aliases": [
-      "キハール"
-    ]
+    "name": {
+      "en_us": "Aqours Second-Years",
+      "ja_jp": "桜内梨子＆高海千歌＆渡辺 曜"
+    },
+    "aliases": []
   },
   {
-    "name": "Elmott",
-    "aliases": [
-      "エルモート"
-    ]
+    "name": {
+      "en_us": "Arulumaya (Yukata)",
+      "ja_jp": "アルルメイヤ"
+    },
+    "aliases": []
   },
   {
-    "name": "Gayne",
-    "aliases": [
-      "ガイーヌ"
-    ]
+    "name": {
+      "en_us": "Farrah (Summer)",
+      "ja_jp": "ファラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Rackam",
-    "aliases": [
-      "ラカム"
-    ]
+    "name": {
+      "en_us": "Naoise (Summer)",
+      "ja_jp": "ノイシュ"
+    },
+    "aliases": []
   },
   {
-    "name": "Eugen",
-    "aliases": [
-      "オイゲン"
-    ]
+    "name": {
+      "en_us": "Ilsa (Summer)",
+      "ja_jp": "イルザ"
+    },
+    "aliases": []
   },
   {
-    "name": "Io",
-    "aliases": [
-      "イオ"
-    ]
+    "name": {
+      "en_us": "Lilele (Summer)",
+      "ja_jp": "リルル"
+    },
+    "aliases": []
   },
   {
-    "name": "Katalina",
-    "aliases": [
-      "カタリナ"
-    ]
+    "name": {
+      "en_us": "Olivia (Event)",
+      "ja_jp": "オリヴィエ"
+    },
+    "aliases": []
   },
   {
-    "name": "Helnar",
-    "aliases": [
-      "ヘルナル"
-    ]
+    "name": {
+      "en_us": "Rosetta (Summer)",
+      "ja_jp": "ロゼッタ"
+    },
+    "aliases": []
   },
   {
-    "name": "Alec",
-    "aliases": [
-      "アレク"
-    ]
+    "name": {
+      "en_us": "Yuisis (Yukata)",
+      "ja_jp": "ユイシス"
+    },
+    "aliases": []
   },
   {
-    "name": "Rosamia",
-    "aliases": [
-      "ロザミア"
-    ]
+    "name": {
+      "en_us": "Selfira",
+      "ja_jp": "セレフィラ"
+    },
+    "aliases": []
   },
   {
-    "name": "Zehek",
-    "aliases": [
-      "ゼヘク"
-    ]
+    "name": {
+      "en_us": "Elta (Light)",
+      "ja_jp": "エルタ"
+    },
+    "aliases": []
   },
   {
-    "name": "Mary",
-    "aliases": [
-      "マリー"
-    ]
+    "name": {
+      "en_us": "Wulf and Renie",
+      "ja_jp": "ウーフとレニー"
+    },
+    "aliases": []
   },
   {
-    "name": "Walder",
-    "aliases": [
-      "ウェルダー"
-    ]
+    "name": {
+      "en_us": "Joker",
+      "ja_jp": "ジョーカー"
+    },
+    "aliases": []
   },
   {
-    "name": "Jasmine",
-    "aliases": [
-      "ジャスミン"
-    ]
+    "name": {
+      "en_us": "Vanzza (SR)",
+      "ja_jp": "ヴァンツァ"
+    },
+    "aliases": []
   },
   {
-    "name": "Hazen",
-    "aliases": [
-      "ヘイゼン"
-    ]
+    "name": {
+      "en_us": "Lunalu (SSR)",
+      "ja_jp": "ルナール"
+    },
+    "aliases": []
   },
   {
-    "name": "Anna",
-    "aliases": [
-      "アンナ"
-    ]
+    "name": {
+      "en_us": "Cain (Grand)",
+      "ja_jp": "カイン"
+    },
+    "aliases": []
   },
   {
-    "name": "Farrah",
-    "aliases": [
-      "ファラ"
-    ]
+    "name": {
+      "en_us": "Spinnah",
+      "ja_jp": "スピナー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Soriz (SSR)",
+      "ja_jp": "ソリッズ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Leona",
+      "ja_jp": "レオナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cucouroux (SSR)",
+      "ja_jp": "ククル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aliza (Water)",
+      "ja_jp": "アリーザ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Carmelina (SR)",
+      "ja_jp": "カルメリーナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Alexiel",
+      "ja_jp": "ブローディア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Barawa (SR)",
+      "ja_jp": "バロワ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tōru Amuro",
+      "ja_jp": "安室透"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Conan Edogawa",
+      "ja_jp": "江戸川コナン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nicholas",
+      "ja_jp": "シロウ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Robomi",
+      "ja_jp": "ロボミ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jeanne d'Arc (Summer)",
+      "ja_jp": "ジャンヌダルク"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sandalphon (Event)",
+      "ja_jp": "サンダルフォン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tiamat",
+      "ja_jp": "ティアマト"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nezahualpilli (SR)",
+      "ja_jp": "ネツァワルピリ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Medusa (Valentine)",
+      "ja_jp": "メドゥーサ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Teena (Valentine)",
+      "ja_jp": "ティナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Narmaya (Valentine)",
+      "ja_jp": "ナルメア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zooey",
+      "ja_jp": "ゾーイ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Randall (SR)",
+      "ja_jp": "ランドル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zooey (Event)",
+      "ja_jp": "ゾーイ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Therese (SSR)",
+      "ja_jp": "テレーズ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ippatsu (SR)",
+      "ja_jp": "イッパツ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ilsa",
+      "ja_jp": "イルザ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vajra",
+      "ja_jp": "ヴァジラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vaseraga (Earth)",
+      "ja_jp": "バザラガ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zeta (Event)",
+      "ja_jp": "ゼタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Karva (SR)",
+      "ja_jp": "カルバ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Olivia (Grand)",
+      "ja_jp": "オリヴィエ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Charioce XVII",
+      "ja_jp": "シャリオス17世"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mahira (Event)",
+      "ja_jp": "マキラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mary (Holiday)",
+      "ja_jp": "マリー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Feena (Holiday)",
+      "ja_jp": "フィーナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Levi",
+      "ja_jp": "リヴァイ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mikasa",
+      "ja_jp": "ミカサ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lancelot (Wind)",
+      "ja_jp": "ランスロット"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Arthur (Event)",
+      "ja_jp": "アーサー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sophia (SR)",
+      "ja_jp": "ソフィア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Reinhardtzar",
+      "ja_jp": "ラインハルザ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vira (Grand)",
+      "ja_jp": "ヴィーラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mirin",
+      "ja_jp": "ミリン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yuel (Water)",
+      "ja_jp": "ユエル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yuel (Event)",
+      "ja_jp": "ユエル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Karteira (SR)",
+      "ja_jp": "カルテイラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Danua (Halloween)",
+      "ja_jp": "ダヌア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mimlemel and Pun-Kin (Halloween)",
+      "ja_jp": "ミムルメモル＆パンプキン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Azazel",
+      "ja_jp": "アザゼル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vania (SR)",
+      "ja_jp": "ヴァンピィ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sakura Kinomoto",
+      "ja_jp": "木之本桜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dorothy and Claudia",
+      "ja_jp": "サーヴァンツ ドロシー＆クラウディア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ezecrain (Event)",
+      "ja_jp": "エゼクレイン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sarya",
+      "ja_jp": "サーヤ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nina Drango",
+      "ja_jp": "ニーナ・ドランゴ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anne",
+      "ja_jp": "アン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Owen",
+      "ja_jp": "オーウェン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mikazuki Munechika",
+      "ja_jp": "三日月宗近"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yamanbagiri Kunihiro",
+      "ja_jp": "山姥切国広"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Izuminokami Kanesada",
+      "ja_jp": "和泉守兼定"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Grea",
+      "ja_jp": "グレア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Grea (Event)",
+      "ja_jp": "グレア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Blazing Teacher Elmott",
+      "ja_jp": "炎獄先生エルモート"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Diantha (Summer)",
+      "ja_jp": "ディアンサ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Chloe (Summer)",
+      "ja_jp": "クロエ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ghandagoza (Summer)",
+      "ja_jp": "ガンダゴウザ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Siegfried (Yukata)",
+      "ja_jp": "ジークフリート"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Izmir (Summer)",
+      "ja_jp": "イシュミール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Carren (Event)",
+      "ja_jp": "カレン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ayer (Summer)",
+      "ja_jp": "アイル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Charlotta (Summer)",
+      "ja_jp": "シャルロッテ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Korwa (Summer)",
+      "ja_jp": "コルワ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yggdrasil",
+      "ja_jp": "ユグドラシル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Walder (Event)",
+      "ja_jp": "ウェルダー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jamil (Dark)",
+      "ja_jp": "ジャミル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Baotorda (SSR)",
+      "ja_jp": "バウタオーダ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Medusa (Promo)",
+      "ja_jp": "メドゥーサ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jeanne d'Arc (SR)",
+      "ja_jp": "ジャンヌダルク"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shiki Ichinose",
+      "ja_jp": "一ノ瀬志希"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Minami Nitta",
+      "ja_jp": "新田美波"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Scathacha",
+      "ja_jp": "スカーサハ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Charlotta (Event)",
+      "ja_jp": "シャルロッテ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sevastien",
+      "ja_jp": "セワスチアン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cain",
+      "ja_jp": "カイン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Clarisse (Light)",
+      "ja_jp": "クラリス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Predator",
+      "ja_jp": "プレデター"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cagliostro (Dark)",
+      "ja_jp": "カリオストロ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Drang (Grand)",
+      "ja_jp": "ドランク"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Katalina (Promo)",
+      "ja_jp": "カタリナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cagliostro (Event)",
+      "ja_jp": "カリオストロ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Deliford (SR)",
+      "ja_jp": "デリフォード"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vane (SSR)",
+      "ja_jp": "ヴェイン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lamretta (Water)",
+      "ja_jp": "ラムレッダ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sutera (Event)",
+      "ja_jp": "スーテラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lady Katapillar and Vira",
+      "ja_jp": "キャタピラとヴィーラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sturm (Grand)",
+      "ja_jp": "スツルム"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ludmila",
+      "ja_jp": "ルドミリア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "De La Fille (Earth)",
+      "ja_jp": "レ・フィーエ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vermeil (SR)",
+      "ja_jp": "ヴェリトール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lyria (Event)",
+      "ja_jp": "ルリア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zeta (Dark)",
+      "ja_jp": "ゼタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Orchid (Grand)",
+      "ja_jp": "オーキス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tyre",
+      "ja_jp": "タイアー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Luna",
+      "ja_jp": "ルナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Arisa",
+      "ja_jp": "アリサ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Beatrix (Summer)",
+      "ja_jp": "ベアトリクス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jin (Summer)",
+      "ja_jp": "ジン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Razia",
+      "ja_jp": "ラスティナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Albert (Event)",
+      "ja_jp": "アルベール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mina",
+      "ja_jp": "マイム"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Marquiares",
+      "ja_jp": "マルキアレス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Herja (SR)",
+      "ja_jp": "ヘリヤ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nakoruru",
+      "ja_jp": "ナコルル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Haohmaru",
+      "ja_jp": "覇王丸"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cecile (Promo)",
+      "ja_jp": "セシール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mahira",
+      "ja_jp": "マキラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yuisis",
+      "ja_jp": "ユイシス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Meteon (Event)",
+      "ja_jp": "ミュオン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lucius (Fire)",
+      "ja_jp": "ルシウス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lucio",
+      "ja_jp": "ルシオ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Andira (Event)",
+      "ja_jp": "アンチラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Pamela (Promo)",
+      "ja_jp": "パメラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Arulumaya (Holiday)",
+      "ja_jp": "アルルメイヤ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sen (Holiday)",
+      "ja_jp": "セン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anthuria",
+      "ja_jp": "アンスリア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Percival (Event)",
+      "ja_jp": "パーシヴァル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tanya (SR)",
+      "ja_jp": "ターニャ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Randall",
+      "ja_jp": "ランドル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Melissabelle",
+      "ja_jp": "メリッサベル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mimlemel and Stumpeye",
+      "ja_jp": "ミムルメモル＆切り株"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lily (Event)",
+      "ja_jp": "リリィ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lecia (Grand)",
+      "ja_jp": "リーシャ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Izmir",
+      "ja_jp": "イシュミール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Erin",
+      "ja_jp": "エリン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eustace (Halloween)",
+      "ja_jp": "ユーステス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Beatrix (Halloween)",
+      "ja_jp": "ベアトリクス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Romeo",
+      "ja_jp": "ロミオ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ranko Kanzaki",
+      "ja_jp": "神崎蘭子"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Miria Akagi",
+      "ja_jp": "赤城みりあ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anastasia",
+      "ja_jp": "アナスタシア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jessica",
+      "ja_jp": "ジェシカ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Bakura",
+      "ja_jp": "バクラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Robertina (Promo)",
+      "ja_jp": "ロベルティナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Juliet",
+      "ja_jp": "ジュリエット"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Paris (Event)",
+      "ja_jp": "パリス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dante (SR)",
+      "ja_jp": "ダーント"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cordelia",
+      "ja_jp": "コーデリア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Augusta (Promo)",
+      "ja_jp": "アウフスタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Societte (Fire)",
+      "ja_jp": "ソシエ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Veight",
+      "ja_jp": "ヴァイト"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cucouroux",
+      "ja_jp": "ククル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Drusilla",
+      "ja_jp": "ドロッセル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Chat Noir",
+      "ja_jp": "シャノワール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Barawa (Event)",
+      "ja_jp": "バロワ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Pengy",
+      "ja_jp": "ペンギー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cailana",
+      "ja_jp": "カイラナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zooey (Grand)",
+      "ja_jp": "ゾーイ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Heles (Summer)",
+      "ja_jp": "ヘルエス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Novei (Promo)",
+      "ja_jp": "ナーヴェ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Percival (Summer)",
+      "ja_jp": "パーシヴァル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Camieux (Summer)",
+      "ja_jp": "クムユ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Narmaya (Summer)",
+      "ja_jp": "ナルメア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jin (Wind)",
+      "ja_jp": "ジン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Diantha (Promo)",
+      "ja_jp": "ディアンサ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lunalu (Summer)",
+      "ja_jp": "ルナール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "J.J. (Summer)",
+      "ja_jp": "ｊ・ｊ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yngwie",
+      "ja_jp": "イングヴェイ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sara (Summer)",
+      "ja_jp": "サラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ippatsu (Summer)",
+      "ja_jp": "イッパツ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rosamia (SSR)",
+      "ja_jp": "ロザミア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nicholas (Event)",
+      "ja_jp": "シロウ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Johann",
+      "ja_jp": "ヨハン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Chloe",
+      "ja_jp": "クロエ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Forte",
+      "ja_jp": "フォルテ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Almeida",
+      "ja_jp": "アルメイダ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "La Coiffe",
+      "ja_jp": "コワフュール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Elize Lutus",
+      "ja_jp": "エリーゼ・ルタス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tear Grants",
+      "ja_jp": "ティア・グランツ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Stahn Aileron",
+      "ja_jp": "スタン・エルロン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nemone",
+      "ja_jp": "ネモネ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Morphe and Phoebe (Event)",
+      "ja_jp": "モルフェとヴェトル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jamil",
+      "ja_jp": "ジャミル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rosine",
+      "ja_jp": "ロジーヌ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ayer",
+      "ja_jp": "アイル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Laguna",
+      "ja_jp": "ラグナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Thelonim",
+      "ja_jp": "セロニム"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Gemini Sunrise",
+      "ja_jp": "ジェミニ・サンライズ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Erica Fontaine",
+      "ja_jp": "エリカ・フォンティーヌ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sakura Shinguji",
+      "ja_jp": "真宮寺さくら"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aliza",
+      "ja_jp": "アリーザ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Stan (Event)",
+      "ja_jp": "スタン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eso (SR)",
+      "ja_jp": "エシオ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Balurga",
+      "ja_jp": "バルルガン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Black Knight",
+      "ja_jp": "黒騎士"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Korwa",
+      "ja_jp": "コルワ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sen",
+      "ja_jp": "セン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vermeil",
+      "ja_jp": "ヴェリトール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rashid",
+      "ja_jp": "ラシード"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Karin",
+      "ja_jp": "神月かりん"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zooey (Promo)",
+      "ja_jp": "ゾーイ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jeanne d'Arc (Dark)",
+      "ja_jp": "ジャンヌダルク"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shao",
+      "ja_jp": "シャオ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Alistair",
+      "ja_jp": "アリステラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lowain (Event)",
+      "ja_jp": "ローアイン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hallessena",
+      "ja_jp": "ハレゼナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Redluck",
+      "ja_jp": "レッドラック"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Airi Totoki",
+      "ja_jp": "十時愛梨"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sachiko Koshimizu",
+      "ja_jp": "輿水幸子"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aoidos",
+      "ja_jp": "アオイドス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zahlhamelina",
+      "ja_jp": "ザルハメリナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ryan (SR)",
+      "ja_jp": "ライアン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lamretta (R)",
+      "ja_jp": "ラムレッダ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eugen (Grand)",
+      "ja_jp": "オイゲン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Catherine",
+      "ja_jp": "キャサリン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sevilbarra",
+      "ja_jp": "サビルバラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nene",
+      "ja_jp": "ネネ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ferry (SSR)",
+      "ja_jp": "フェリ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Soriz (Event)",
+      "ja_jp": "ソリッズ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Daetta (SR)",
+      "ja_jp": "ダエッタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lunalu",
+      "ja_jp": "ルナール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Naga",
+      "ja_jp": "白蛇のナーガ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lina",
+      "ja_jp": "リナ＝インバース"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Metera (Fire)",
+      "ja_jp": "メーテラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sutera (Fire)",
+      "ja_jp": "スーテラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Flesselles",
+      "ja_jp": "フレッセル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Andira",
+      "ja_jp": "アンチラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Beatrix",
+      "ja_jp": "ベアトリクス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eustace",
+      "ja_jp": "ユーステス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Skull (Event)",
+      "ja_jp": "スカル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yaia",
+      "ja_jp": "ヤイア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rosetta (Grand)",
+      "ja_jp": "ロゼッタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anila (Event)",
+      "ja_jp": "アニラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Clarisse (Holiday)",
+      "ja_jp": "クラリス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ladiva (Holiday)",
+      "ja_jp": "ファスティバ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lilele",
+      "ja_jp": "リルル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vane",
+      "ja_jp": "ヴェイン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Bridgette",
+      "ja_jp": "ブリジール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Io (Grand)",
+      "ja_jp": "イオ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lancelot (Event)",
+      "ja_jp": "ランスロット"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yodarha (SSR)",
+      "ja_jp": "ヨダルラーハ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sig",
+      "ja_jp": "シグ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Camieux (Earth)",
+      "ja_jp": "クムユ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Chun-Li",
+      "ja_jp": "春麗"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ryu",
+      "ja_jp": "リュウ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Narmaya",
+      "ja_jp": "ナルメア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Farrah (Event)",
+      "ja_jp": "ファラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jasmine (SR)",
+      "ja_jp": "ジャスミン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Viceroy",
+      "ja_jp": "エアロバイス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cagliostro (Halloween)",
+      "ja_jp": "カリオストロ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ferry (Halloween)",
+      "ja_jp": "フェリ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Feena",
+      "ja_jp": "フィーナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Goblin Mage",
+      "ja_jp": "ミニゴブ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tsubasa Kashiwagi",
+      "ja_jp": "柏木翼"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kaoru Sakuraba",
+      "ja_jp": "桜庭薫"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Teru Tendo",
+      "ja_jp": "天道輝"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Heles",
+      "ja_jp": "ヘルエス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Naoise (Event)",
+      "ja_jp": "ノイシュ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anna (SR)",
+      "ja_jp": "アンナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Pavidus",
+      "ja_jp": "パヴィーダ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rackam (Grand)",
+      "ja_jp": "ラカム"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Arriet",
+      "ja_jp": "アンリエット"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Galadar (SR)",
+      "ja_jp": "ガラドア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dante",
+      "ja_jp": "ダーント"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ceylan (Event)",
+      "ja_jp": "セイラン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Pengy (Event)",
+      "ja_jp": "ペンギー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vania",
+      "ja_jp": "ヴァンピィ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Malinda (Event)",
+      "ja_jp": "ベス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Will (SR)",
+      "ja_jp": "ウィル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Karteira",
+      "ja_jp": "カルテイラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Koume Shirasaka",
+      "ja_jp": "白坂小梅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kanako Mimura",
+      "ja_jp": "三村かな子"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rika Jougasaki",
+      "ja_jp": "城ヶ崎莉嘉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zeta (Summer)",
+      "ja_jp": "ゼタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Suframare (Summer)",
+      "ja_jp": "スフラマール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Danua (Summer)",
+      "ja_jp": "ダヌア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lecia (Summer)",
+      "ja_jp": "リーシャ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Katalina (Grand)",
+      "ja_jp": "カタリナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vira (Summer)",
+      "ja_jp": "ヴィーラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jin (Ronin)",
+      "ja_jp": "ジン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eugen (Summer)",
+      "ja_jp": "オイゲン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lowain (Summer)",
+      "ja_jp": "ローアイン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ghandagoza",
+      "ja_jp": "ガンダゴウザ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tanya (Summer)",
+      "ja_jp": "ターニャ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Elmott (Summer)",
+      "ja_jp": "エルモート"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sophie",
+      "ja_jp": "ソフィ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yuri Lowell",
+      "ja_jp": "ユーリ・ローウェル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Milla Maxwell",
+      "ja_jp": "ミラ＝マクスウェル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Amira",
+      "ja_jp": "アーミラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Robomi (Event)",
+      "ja_jp": "ロボミ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Feather (SR)",
+      "ja_jp": "フェザー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Joel",
+      "ja_jp": "ジョエル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Percival",
+      "ja_jp": "パーシヴァル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mary (SR)",
+      "ja_jp": "マリー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Philosophia",
+      "ja_jp": "フィラソピラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lecia",
+      "ja_jp": "リーシャ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Silva",
+      "ja_jp": "シルヴァ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Romeo (Event)",
+      "ja_jp": "ロミオ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sahli Lao",
+      "ja_jp": "ザーリリャオー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ippatsu",
+      "ja_jp": "イッパツ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Amira (Promo)",
+      "ja_jp": "アーミラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sarunan (Dark)",
+      "ja_jp": "サルナーン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "J.J.",
+      "ja_jp": "ｊ・ｊ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vanzza",
+      "ja_jp": "ヴァンツァ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anzu Futaba",
+      "ja_jp": "双葉杏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Miku Maekawa",
+      "ja_jp": "前川みく"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mizuki Kawashima",
+      "ja_jp": "川島瑞樹"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Petra (SSR)",
+      "ja_jp": "ペトラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Syr (Event)",
+      "ja_jp": "スィール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hazen (SR)",
+      "ja_jp": "ヘイゼン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Karva",
+      "ja_jp": "カルバ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Clarisse",
+      "ja_jp": "クラリス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tien",
+      "ja_jp": "エッセル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Niyon",
+      "ja_jp": "ニオ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eahta",
+      "ja_jp": "オクトー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Seofon",
+      "ja_jp": "シエテ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Seox",
+      "ja_jp": "シス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Fif",
+      "ja_jp": "フュンフ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Feower",
+      "ja_jp": "カトル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Threo",
+      "ja_jp": "サラーサ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tweyen",
+      "ja_jp": "ソーン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anre",
+      "ja_jp": "ウーノ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Milleore",
+      "ja_jp": "ミラオル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Krugne",
+      "ja_jp": "クルーニ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Albert",
+      "ja_jp": "アルベール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sarya (Event)",
+      "ja_jp": "サーヤ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Therese",
+      "ja_jp": "テレーズ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Barawa",
+      "ja_jp": "バロワ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Societte",
+      "ja_jp": "ソシエ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ejaeli",
+      "ja_jp": "エジェリー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Norcel",
+      "ja_jp": "ノルセル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vira (SSR)",
+      "ja_jp": "ヴィーラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zehek (Event)",
+      "ja_jp": "ゼヘク"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zaja",
+      "ja_jp": "ザザ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Camieux",
+      "ja_jp": "クムユ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Carmelina",
+      "ja_jp": "カルメリーナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dorothy",
+      "ja_jp": "ドロシー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Claudia",
+      "ja_jp": "クラウディア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sara",
+      "ja_jp": "サラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Siegfried",
+      "ja_jp": "ジークフリート"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Volenna (Event)",
+      "ja_jp": "ボレミア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ladiva",
+      "ja_jp": "ファスティバ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lowain",
+      "ja_jp": "ローアイン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rita",
+      "ja_jp": "リタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jeanne d'Arc",
+      "ja_jp": "ジャンヌダルク"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Baotorda",
+      "ja_jp": "バウタオーダ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yodarha",
+      "ja_jp": "ヨダルラーハ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mio Honda",
+      "ja_jp": "本田未央"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mika Jougasaki",
+      "ja_jp": "城ヶ崎美嘉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vaseraga",
+      "ja_jp": "バザラガ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zeta",
+      "ja_jp": "ゼタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anila",
+      "ja_jp": "アニラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Johann (Event)",
+      "ja_jp": "ヨハン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rosamia (SR)",
+      "ja_jp": "ロザミア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Suframare",
+      "ja_jp": "スフラマール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rosetta (Holiday)",
+      "ja_jp": "ロゼッタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rackam (Holiday)",
+      "ja_jp": "ラカム"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Walder (Holiday)",
+      "ja_jp": "ウェルダー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sophia",
+      "ja_jp": "ソフィア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lancelot",
+      "ja_jp": "ランスロット"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vane (Event)",
+      "ja_jp": "ヴェイン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Carren",
+      "ja_jp": "カレン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Garma",
+      "ja_jp": "ガルマ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Melleau",
+      "ja_jp": "メルゥ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mariah",
+      "ja_jp": "マライア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Noa",
+      "ja_jp": "ノア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Leonora",
+      "ja_jp": "レオノーラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lennah",
+      "ja_jp": "レナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aster (Event)",
+      "ja_jp": "アステール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mimlemel",
+      "ja_jp": "ミムルメモル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Elmelaura",
+      "ja_jp": "エルメラウラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Charlotta (Halloween)",
+      "ja_jp": "シャルロッテ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ange (Halloween)",
+      "ja_jp": "アンジェ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rin Shibuya",
+      "ja_jp": "渋谷凛"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Uzuki Shimamura",
+      "ja_jp": "島村卯月"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Arulumaya",
+      "ja_jp": "アルルメイヤ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Juri (Event)",
+      "ja_jp": "ユーリ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Farrah (SR)",
+      "ja_jp": "ファラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Deliford",
+      "ja_jp": "デリフォード"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Christina",
+      "ja_jp": "クリスティーナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Agielba",
+      "ja_jp": "アギエルバ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Arusha",
+      "ja_jp": "アルシャ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Daetta",
+      "ja_jp": "ダエッタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cerberus",
+      "ja_jp": "ケルベロス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Feena (Event)",
+      "ja_jp": "フィーナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Teena",
+      "ja_jp": "ティナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lucius",
+      "ja_jp": "ルシウス"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tanya",
+      "ja_jp": "ターニャ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Io (Summer)",
+      "ja_jp": "イオ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ferry",
+      "ja_jp": "フェリ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Helnar (Summer)",
+      "ja_jp": "ヘルナル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mary (Summer)",
+      "ja_jp": "マリー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "De La Fille (Summer)",
+      "ja_jp": "レ・フィーエ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jessica (Summer)",
+      "ja_jp": "ジェシカ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Katalina (Summer)",
+      "ja_jp": "カタリナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sig (Event)",
+      "ja_jp": "シグ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Walder (Summer)",
+      "ja_jp": "ウェルダー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Seruel",
+      "ja_jp": "セルエル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ezecrain",
+      "ja_jp": "エゼクレイン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anna (Summer)",
+      "ja_jp": "アンナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Metera",
+      "ja_jp": "メーテラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Selfira (Event)",
+      "ja_jp": "セレフィラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Elta",
+      "ja_jp": "エルタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Herja",
+      "ja_jp": "ヘリヤ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Magisa",
+      "ja_jp": "マギサ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vira",
+      "ja_jp": "ヴィーラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Feather",
+      "ja_jp": "フェザー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Charlotta",
+      "ja_jp": "シャルロッテ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Petra",
+      "ja_jp": "ペトラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jin (Event)",
+      "ja_jp": "ジン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cagliostro",
+      "ja_jp": "カリオストロ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sara (Event)",
+      "ja_jp": "サラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Soriz",
+      "ja_jp": "ソリッズ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Volenna",
+      "ja_jp": "ボレミア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sarunan",
+      "ja_jp": "サルナーン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sutera",
+      "ja_jp": "スーテラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ryan",
+      "ja_jp": "ライアン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Altair",
+      "ja_jp": "アルタイル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Danua",
+      "ja_jp": "ダヌア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jessica (Event)",
+      "ja_jp": "ジェシカ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Galadar",
+      "ja_jp": "ガラドア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yuel",
+      "ja_jp": "ユエル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aliza (Event)",
+      "ja_jp": "アリーザ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ulamnuran",
+      "ja_jp": "ウラムヌラン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Stan",
+      "ja_jp": "スタン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Gawain",
+      "ja_jp": "ガウェイン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lamretta",
+      "ja_jp": "ラムレッダ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Will",
+      "ja_jp": "ウィル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aletheia",
+      "ja_jp": "アレーティア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ange",
+      "ja_jp": "アンジェ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eso",
+      "ja_jp": "エシオ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lily",
+      "ja_jp": "リリィ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mishra",
+      "ja_jp": "マイシェラ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Therese (Event)",
+      "ja_jp": "テレーズ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Richard",
+      "ja_jp": "リチャード"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rosetta",
+      "ja_jp": "ロゼッタ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Abby (Promo)",
+      "ja_jp": "アビー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Naoise (Promo)",
+      "ja_jp": "ノイシュ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lady Grey",
+      "ja_jp": "レディ・グレイ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "De La Fille",
+      "ja_jp": "レ・フィーエ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nezahualpilli",
+      "ja_jp": "ネツァワルピリ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Keehar",
+      "ja_jp": "キハール"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Elmott",
+      "ja_jp": "エルモート"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Gayne",
+      "ja_jp": "ガイーヌ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rackam",
+      "ja_jp": "ラカム"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eugen",
+      "ja_jp": "オイゲン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Io",
+      "ja_jp": "イオ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Katalina",
+      "ja_jp": "カタリナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Helnar",
+      "ja_jp": "ヘルナル"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Alec",
+      "ja_jp": "アレク"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rosamia",
+      "ja_jp": "ロザミア"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zehek",
+      "ja_jp": "ゼヘク"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mary",
+      "ja_jp": "マリー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Walder",
+      "ja_jp": "ウェルダー"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jasmine",
+      "ja_jp": "ジャスミン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hazen",
+      "ja_jp": "ヘイゼン"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anna",
+      "ja_jp": "アンナ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Farrah",
+      "ja_jp": "ファラ"
+    },
+    "aliases": []
   }
 ]

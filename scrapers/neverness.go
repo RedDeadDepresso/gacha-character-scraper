@@ -18,8 +18,9 @@ const (
 	ntePlayerURL = "https://raw.githubusercontent.com/Waifus-Grace/NTE_Assets/refs/heads/main/Text/ST_Player.json"
 )
 
-// Languages fetched besides "en", in alias order. A language whose game.json
-// does not exist (404) is skipped.
+// Languages fetched besides "en" (converted with LangCode); when several map to
+// the same language the first one that has the name gives it and the others
+// become aliases. A language whose game.json does not exist (404) is skipped.
 var nteLangs = []string{"ja", "ko", "ru", "zh-CN", "zh-Hans", "zh-Hant"}
 
 var nteRoleKey = regexp.MustCompile(`^Role_Name_(\d+)$`)
@@ -38,7 +39,7 @@ func (n NevernessToEverness) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(n.Name()) {
+	if upToDate(n.Name(), sha, existing) {
 		log.Printf("[Neverness to Everness] NTE_Assets unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -67,7 +68,7 @@ func (n NevernessToEverness) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	names["zh"] = zh
+	names["zh"] = zh // Chinese string table of the datamine (Simplified)
 	order := append(append([]string{}, nteLangs...), "zh")
 
 	// Group role numbers that share an English name (e.g. several forms of one character).
@@ -98,18 +99,13 @@ func (n NevernessToEverness) Scrape(existing []Character) ([]Character, error) {
 
 	chars := make([]Character, 0, len(list))
 	for _, g := range list {
-		c := Character{Name: g.name, Aliases: []string{}}
-		seen := map[string]bool{strings.ToLower(g.name): true}
+		b := newNameBuilder().Name(LangEN, g.name)
 		for _, lang := range order {
 			for _, id := range g.ids {
-				a := names[lang][id]
-				if a != "" && !seen[strings.ToLower(a)] {
-					seen[strings.ToLower(a)] = true
-					c.Aliases = append(c.Aliases, a)
-				}
+				b.Name(lang, names[lang][id])
 			}
 		}
-		chars = append(chars, c)
+		chars = append(chars, b.Character())
 	}
 
 	if err := SaveCommit(n.Name(), sha); err != nil {

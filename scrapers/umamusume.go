@@ -89,8 +89,8 @@ func fetchUmaCards() ([]umaCard, error) {
 
 // buildUmaCharacters turns outfit cards into one entry per character
 // (char_id), newest first: a lower char_id is an older character. The name is
-// the English name (Japanese if there is none) and the aliases are the
-// Japanese, Korean and Traditional Chinese names.
+// the English name (Japanese if there is none), plus the Japanese, Korean and
+// Traditional Chinese names.
 func buildUmaCharacters(cards []umaCard) []Character {
 	type entry struct {
 		id               int
@@ -133,14 +133,19 @@ func buildUmaCharacters(cards []umaCard) []Character {
 	chars := make([]Character, 0, len(list))
 	pos := map[string]int{}
 	for _, e := range list {
-		aliases := []string{e.jp, e.ko, e.tw}
-		key := strings.ToLower(e.name)
+		c := newNameBuilder().
+			Name(LangEN, e.name).
+			Name(LangJA, e.jp).
+			Name(LangKO, e.ko).
+			Name(LangTW, e.tw).
+			Character()
+		key := strings.ToLower(c.Name[LangEN])
 		if p, ok := pos[key]; ok { // same name under another id: fold into the newer one
-			chars[p].Aliases = cleanAliases(chars[p].Name, append(chars[p].Aliases, aliases...))
+			chars[p] = builderOf(chars[p]).Merge(c).Character()
 			continue
 		}
 		pos[key] = len(chars)
-		chars = append(chars, Character{Name: e.name, Aliases: cleanAliases(e.name, aliases)})
+		chars = append(chars, c)
 	}
 	return chars
 }
@@ -154,7 +159,7 @@ func (u UmaMusume) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(u.Name()) {
+	if upToDate(u.Name(), sha, existing) {
 		log.Printf("[Uma Musume] UmaTools unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}

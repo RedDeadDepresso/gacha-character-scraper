@@ -16,7 +16,7 @@ const (
 	endfieldLocale = "https://raw.githubusercontent.com/ivaqis/arknights-tracker/refs/heads/main/arknights-tracker/src/lib/locales/%s.json"
 )
 
-// Locale files used for aliases, in alias order.
+// Locale files used for the other languages (converted with LangCode).
 var endfieldLangs = []string{"zhcn", "zhtw", "ja", "ko", "ru"}
 
 // ArknightsEndfield reads characters from the arknights-tracker repo. The name
@@ -33,7 +33,7 @@ func (e ArknightsEndfield) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(e.Name()) {
+	if upToDate(e.Name(), sha, existing) {
 		log.Printf("[Arknights Endfield] arknights-tracker unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -73,17 +73,18 @@ func (e ArknightsEndfield) Scrape(existing []Character) ([]Character, error) {
 		if id == "" {
 			id = en.Key
 		}
-		var aliases []string
+		b := newNameBuilder().Name(LangEN, name)
 		for _, lang := range endfieldLangs {
-			aliases = append(aliases, locales[lang][id])
+			b.Name(lang, locales[lang][id])
 		}
-		key := strings.ToLower(name)
+		c := b.Character()
+		key := strings.ToLower(c.Name[LangEN])
 		if p, ok := pos[key]; ok {
-			oldest[p].Aliases = cleanAliases(oldest[p].Name, append(oldest[p].Aliases, aliases...))
+			oldest[p] = builderOf(oldest[p]).Merge(c).Character()
 			continue
 		}
 		pos[key] = len(oldest)
-		oldest = append(oldest, Character{Name: name, Aliases: cleanAliases(name, aliases)})
+		oldest = append(oldest, c)
 	}
 	if len(oldest) == 0 {
 		return nil, fmt.Errorf("arknights endfield: no characters found")
@@ -115,20 +116,6 @@ func fetchEndfieldLocale(lang string) (map[string]string, error) {
 		return nil, fmt.Errorf("parse %s: %w", lang, err)
 	}
 	return loc.Characters, nil
-}
-
-// cleanAliases trims, drops empties and duplicates, and drops the main name.
-func cleanAliases(name string, in []string) []string {
-	out := []string{}
-	seen := map[string]bool{strings.ToLower(name): true}
-	for _, a := range in {
-		a = strings.TrimSpace(a)
-		if a != "" && !seen[strings.ToLower(a)] {
-			seen[strings.ToLower(a)] = true
-			out = append(out, a)
-		}
-	}
-	return out
 }
 
 // stripCharactersJS removes the header comment, "export const characters =" and

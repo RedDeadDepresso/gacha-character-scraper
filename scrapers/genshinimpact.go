@@ -15,8 +15,8 @@ const (
 
 const genshinURL = "https://raw.githubusercontent.com/frzyc/genshin-optimizer/refs/heads/master/libs/gi/dm-localization/assets/locales/%s/charNames_gen.json"
 
-// Languages fetched besides "en", in alias order. All share the same keys. A
-// language whose file does not exist (404) is skipped.
+// Languages fetched besides "en" (converted with LangCode). All share the same
+// keys. A language whose file does not exist (404) is skipped.
 var genshinLangs = []string{"ja", "ko", "ru", "chs", "cht"}
 
 // GenshinImpact reads character names from the genshin-optimizer localization
@@ -34,7 +34,7 @@ func (g GenshinImpact) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(g.Name()) {
+	if upToDate(g.Name(), sha, existing) {
 		log.Printf("[Genshin Impact] genshin-optimizer unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -65,18 +65,18 @@ func (g GenshinImpact) Scrape(existing []Character) ([]Character, error) {
 		if strings.HasPrefix(key, "Traveler") && key != "TravelerM" && key != "TravelerF" {
 			continue
 		}
-		name := en[key]
-		var aliases []string
+		b := newNameBuilder().Name(LangEN, en[key])
 		for _, lang := range genshinLangs {
-			aliases = append(aliases, names[lang][key])
+			b.Name(lang, names[lang][key])
 		}
-		k := strings.ToLower(name)
+		c := b.Character()
+		k := strings.ToLower(c.Name[LangEN])
 		if p, ok := pos[k]; ok {
-			oldest[p].Aliases = cleanAliases(oldest[p].Name, append(oldest[p].Aliases, aliases...))
+			oldest[p] = builderOf(oldest[p]).Merge(c).Character()
 			continue
 		}
 		pos[k] = len(oldest)
-		oldest = append(oldest, Character{Name: name, Aliases: cleanAliases(name, aliases)})
+		oldest = append(oldest, c)
 	}
 	if len(oldest) == 0 {
 		return nil, fmt.Errorf("genshin impact: no characters found")

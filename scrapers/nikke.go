@@ -14,9 +14,6 @@ const (
 	nikkeChars  = "https://raw.githubusercontent.com/williamchong/nikke-arena-planner/refs/heads/master/app/data/characters.json"
 )
 
-// Languages used for aliases, in alias order.
-var nikkeLangs = []string{"zh-TW", "zh-CN", "ja"}
-
 // Nikke reads characters from the nikke-arena-planner repo.
 type Nikke struct{}
 
@@ -30,7 +27,7 @@ func (n Nikke) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(n.Name()) {
+	if upToDate(n.Name(), sha, existing) {
 		log.Printf("[Nikke] nikke-arena-planner unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -70,18 +67,26 @@ func (n Nikke) Scrape(existing []Character) ([]Character, error) {
 	pos := map[string]int{}
 	for _, i := range idx {
 		e := entries[i]
-		name := strings.Join(strings.Fields(e.Name["en"]), " ")
-		var aliases []string
-		for _, lang := range nikkeLangs {
-			aliases = append(aliases, e.Name[lang])
+		// Every language the file has (en, zh-TW, zh-CN, ja, ...) is a name;
+		// codes the index does not use are ignored. Sorted so the result is
+		// stable when two codes map to one language.
+		b := newNameBuilder()
+		codes := make([]string, 0, len(e.Name))
+		for code := range e.Name {
+			codes = append(codes, code)
 		}
-		key := strings.ToLower(name)
+		sort.Strings(codes)
+		for _, code := range codes {
+			b.Name(code, e.Name[code])
+		}
+		c := b.Character()
+		key := strings.ToLower(c.Name[LangEN])
 		if p, ok := pos[key]; ok { // same name: fold into the newer entry
-			chars[p].Aliases = cleanAliases(chars[p].Name, append(chars[p].Aliases, aliases...))
+			chars[p] = builderOf(chars[p]).Merge(c).Character()
 			continue
 		}
 		pos[key] = len(chars)
-		chars = append(chars, Character{Name: name, Aliases: cleanAliases(name, aliases)})
+		chars = append(chars, c)
 	}
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("nikke: no characters found")

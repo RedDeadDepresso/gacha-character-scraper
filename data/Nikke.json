@@ -1,1574 +1,1864 @@
 [
   {
-    "name": "Belorta: Pumpkin Witch",
-    "aliases": [
-      "貝洛塔:南瓜女巫",
-      "贝洛塔:南瓜女巫",
-      "ベロータ：パンプキンウィッチ"
-    ]
-  },
-  {
-    "name": "Sin: Swift Bunny",
-    "aliases": [
-      "森:疾速兔女郎",
-      "シン：スウィフトバニー"
-    ]
-  },
-  {
-    "name": "Guilty: Mighty Bunny",
-    "aliases": [
-      "吉爾提:神力兔女郎",
-      "吉尔提:神力兔女郎",
-      "ギルティ：マイティバニー"
-    ]
-  },
-  {
-    "name": "Drake: Great Villain",
-    "aliases": [
-      "德雷克:終極反派",
-      "德雷克:终极反派",
-      "ドレイク：グレイトヴィラン"
-    ]
-  },
-  {
-    "name": "Yukiko",
-    "aliases": [
-      "雪子",
-      "天城雪子"
-    ]
-  },
-  {
-    "name": "Queen",
-    "aliases": [
-      "QUEEN（真）",
-      "クイーン（新島真）"
-    ]
-  },
-  {
-    "name": "Maxwell: Ordinary Mechanic",
-    "aliases": [
-      "麥斯威爾:平凡技師",
-      "麦斯威尔:平凡技师",
-      "マクスウェル：オーディナリーメカニック"
-    ]
-  },
-  {
-    "name": "Laplace: Ultimate Hero",
-    "aliases": [
-      "拉普拉斯:究極英雄",
-      "拉普拉斯:究极英雄",
-      "ラプラス：アルティメットヒーロー"
-    ]
-  },
-  {
-    "name": "Rosanna: Treasure",
-    "aliases": [
-      "羅珊娜 珍藏",
-      "罗珊娜 珍藏",
-      "ロザンナ：宝物"
-    ]
-  },
-  {
-    "name": "Flora: Treasure",
-    "aliases": [
-      "芙蘿拉 珍藏",
-      "芙萝拉 珍藏",
-      "フローラ：宝物"
-    ]
-  },
-  {
-    "name": "Phantom: Treasure",
-    "aliases": [
-      "潘託姆 珍藏",
-      "潘托姆 珍藏",
-      "ファントム：宝物"
-    ]
-  },
-  {
-    "name": "Sugar: Treasure",
-    "aliases": [
-      "舒格 珍藏",
-      "シュガー：宝物"
-    ]
-  },
-  {
-    "name": "Marciana: Marine Study",
-    "aliases": [
-      "瑪律恰那:海洋進修",
-      "玛律恰那:海洋进修",
-      "マルチャーナ：マリンスタディ"
-    ]
-  },
-  {
-    "name": "Cinderella: Crystal Wave",
-    "aliases": [
-      "灰姑娘:琉璃波光",
-      "シンデレラ：クリスタルウェーブ"
-    ]
-  },
-  {
-    "name": "Ark Ranger Black",
-    "aliases": [
-      "方舟黑色遊俠",
-      "方舟黑色游侠",
-      "アークレンジャー・ブラック"
-    ]
-  },
-  {
-    "name": "Prika",
-    "aliases": [
-      "普莉卡",
-      "プリカ"
-    ]
-  },
-  {
-    "name": "Mint",
-    "aliases": [
-      "敏特",
-      "ミント"
-    ]
-  },
-  {
-    "name": "Neon: Vision Eye",
-    "aliases": [
-      "尼恩:透視之眼",
-      "尼恩:透视之眼",
-      "ネオン：ビジョン・アイ"
-    ]
-  },
-  {
-    "name": "Avistar",
-    "aliases": [
-      "阿維斯塔",
-      "阿维斯塔",
-      "アビスタ"
-    ]
-  },
-  {
-    "name": "Anis: Star",
-    "aliases": [
-      "阿妮斯:超級巨星",
-      "阿妮斯:超级巨星",
-      "アニス：スター"
-    ]
-  },
-  {
-    "name": "Snow Crane",
-    "aliases": [
-      "白鶴",
-      "白鹤",
-      "シラツル"
-    ]
-  },
-  {
-    "name": "Arcana: Fortune Mate",
-    "aliases": [
-      "阿爾卡娜:命運伴侶",
-      "阿尔卡娜:命运伴侣",
-      "アルカナ：フォーチュンメイト"
-    ]
-  },
-  {
-    "name": "E.H.",
+    "name": {
+      "en_us": "Belorta: Pumpkin Witch",
+      "ja_jp": "ベロータ：パンプキンウィッチ",
+      "zh_cn": "贝洛塔:南瓜女巫",
+      "zh_tw": "貝洛塔:南瓜女巫"
+    },
     "aliases": []
   },
   {
-    "name": "Takina",
-    "aliases": [
-      "瀧奈",
-      "泷奈",
-      "井ノ上たきな"
-    ]
-  },
-  {
-    "name": "Chisato",
-    "aliases": [
-      "千束",
-      "錦木千束"
-    ]
-  },
-  {
-    "name": "Velvet",
-    "aliases": [
-      "薇爾維特",
-      "薇尔维特",
-      "ベルベット"
-    ]
-  },
-  {
-    "name": "Label",
-    "aliases": [
-      "蕾貝兒",
-      "蕾贝儿",
-      "レーベル"
-    ]
-  },
-  {
-    "name": "Snow White: Heavy Arms",
-    "aliases": [
-      "白雪公主:重型武裝",
-      "白雪公主:重型武装",
-      "スノーホワイト：ヘビーアームズ"
-    ]
-  },
-  {
-    "name": "Brid: Silent Track",
-    "aliases": [
-      "布麗德:靜默軌道",
-      "布丽德:静默轨道",
-      "ブリッド：サイレントトラック"
-    ]
-  },
-  {
-    "name": "Diesel: Winter Sweets",
-    "aliases": [
-      "迪塞爾:冬日甜心",
-      "迪塞尔:冬日甜心",
-      "ディーゼル：ウィンタースイーツ"
-    ]
-  },
-  {
-    "name": "Soline: Frost Ticket",
-    "aliases": [
-      "索林:霜雪車票",
-      "索林:霜雪车票",
-      "ソリン：フロストチケット"
-    ]
-  },
-  {
-    "name": "Liberalio",
-    "aliases": [
-      "莉貝雷利奧(水母)",
-      "莉贝雷利奥(水母)",
-      "リバーレリオ"
-    ]
-  },
-  {
-    "name": "Nayuta",
-    "aliases": [
-      "娜由塔",
-      "ナユタ"
-    ]
-  },
-  {
-    "name": "Delta: Ninja Thief",
-    "aliases": [
-      "德爾塔:怪盜忍者",
-      "德尔塔:怪盗忍者",
-      "デルタ：ニンジャシーフ"
-    ]
-  },
-  {
-    "name": "Helm: Treasure",
-    "aliases": [
-      "海倫 珍藏",
-      "海伦 珍藏",
-      "ヘルム：宝物"
-    ]
-  },
-  {
-    "name": "Miranda: Treasure",
-    "aliases": [
-      "米蘭達 珍藏",
-      "米兰达 珍藏",
-      "ミランダ：宝物"
-    ]
-  },
-  {
-    "name": "Milk: Blooming Bunny",
-    "aliases": [
-      "米爾克:花漾兔女郎",
-      "米尔克:花漾兔女郎",
-      "ミルク：ブルーミングバニー"
-    ]
-  },
-  {
-    "name": "Ade: Agent Bunny",
-    "aliases": [
-      "愛德:特務兔女郎",
-      "爱德:特务兔女郎",
-      "エード：エージェントバニー"
-    ]
-  },
-  {
-    "name": "Drake: Treasure",
-    "aliases": [
-      "德雷克 珍藏",
-      "ドレイク：宝物"
-    ]
-  },
-  {
-    "name": "Vesti: Tactical Upgrade",
-    "aliases": [
-      "貝斯蒂:戰術升級",
-      "贝斯蒂:战术升级",
-      "ベスティー：タクティカル・アップ"
-    ]
-  },
-  {
-    "name": "Eunhwa: Tactical Upgrade",
-    "aliases": [
-      "銀華:戰術升級",
-      "银华:战术升级",
-      "ウンファ：タクティカル・アップ"
-    ]
-  },
-  {
-    "name": "Emma: Tactical Upgrade",
-    "aliases": [
-      "艾瑪:戰術升級",
-      "艾玛:战术升级",
-      "エマ：タクティカル・アップ"
-    ]
-  },
-  {
-    "name": "Elegg: Boom and Shock",
-    "aliases": [
-      "伊萊格:BOOM與驚嚇",
-      "伊莱格:BOOM与惊吓",
-      "エレグ：ブーム・アンド・ショック"
-    ]
-  },
-  {
-    "name": "Dorothy: Serendipity",
-    "aliases": [
-      "桃樂絲:機緣巧遇",
-      "桃乐丝:机缘巧遇",
-      "ドロシー：セレンディピティ"
-    ]
-  },
-  {
-    "name": "Sora",
-    "aliases": [
-      "索拉",
-      "ソラ"
-    ]
-  },
-  {
-    "name": "Raven",
-    "aliases": [
-      "渡鴉",
-      "渡鸦",
-      "レイヴン"
-    ]
-  },
-  {
-    "name": "EVE",
-    "aliases": [
-      "伊芙",
-      "イヴ"
-    ]
-  },
-  {
-    "name": "Laplace: Treasure",
-    "aliases": [
-      "拉普拉斯 珍藏",
-      "ラプラス：宝物"
-    ]
-  },
-  {
-    "name": "K",
+    "name": {
+      "en_us": "Sin: Swift Bunny",
+      "ja_jp": "シン：スウィフトバニー",
+      "zh_cn": "森:疾速兔女郎",
+      "zh_tw": "森:疾速兔女郎"
+    },
     "aliases": []
   },
   {
-    "name": "Arcana",
-    "aliases": [
-      "阿爾卡娜",
-      "阿尔卡娜",
-      "アルカナ"
-    ]
-  },
-  {
-    "name": "Mihara: Bonding Chain",
-    "aliases": [
-      "米哈拉:靈魂鎖鏈",
-      "米哈拉:灵魂锁链",
-      "ミハラ：ボンディングチェーン"
-    ]
-  },
-  {
-    "name": "Little Mermaid",
-    "aliases": [
-      "小美人魚",
-      "小美人鱼",
-      "リトルマーメイド"
-    ]
-  },
-  {
-    "name": "Mori",
-    "aliases": [
-      "莫莉",
-      "モリー"
-    ]
-  },
-  {
-    "name": "Crust",
-    "aliases": [
-      "克拉斯特",
-      "クラスト"
-    ]
-  },
-  {
-    "name": "Bready",
-    "aliases": [
-      "布蕾德",
-      "ブレッディ"
-    ]
-  },
-  {
-    "name": "Trina",
-    "aliases": [
-      "特蕾娜",
-      "トリナ"
-    ]
-  },
-  {
-    "name": "Rei Ayanami (Tentative Name)",
-    "aliases": [
-      "零（二期）",
-      "アヤナミレイ(仮称)"
-    ]
-  },
-  {
-    "name": "Asuka: WILLE",
-    "aliases": [
-      "明日香:WILLE",
-      "式波・アスカ・ラングレー：WILLE"
-    ]
-  },
-  {
-    "name": "Sakura Suzuhara",
-    "aliases": [
-      "櫻",
-      "樱",
-      "鈴原サクラ"
-    ]
-  },
-  {
-    "name": "Anchor: Innocent Maid",
-    "aliases": [
-      "安克:天真的女僕",
-      "安克:天真的女仆",
-      "アンカー：イノセントメイド"
-    ]
-  },
-  {
-    "name": "Mast: Romantic Maid",
-    "aliases": [
-      "馬斯特:浪漫的女僕",
-      "马斯特:浪漫的女仆",
-      "マスト：ロマンチックメイド"
-    ]
-  },
-  {
-    "name": "Mana",
-    "aliases": [
-      "瑪娜",
-      "玛娜",
-      "マナ"
-    ]
-  },
-  {
-    "name": "Rapi: Red Hood",
-    "aliases": [
-      "拉毗:小紅帽",
-      "拉毗:小红帽",
-      "ラピ：レッドフード"
-    ]
-  },
-  {
-    "name": "Guillotine: Winter Slayer",
-    "aliases": [
-      "吉蘿婷:寒冬殺手",
-      "吉萝婷:寒冬杀手",
-      "ギロチン：ウィンタースレイヤー"
-    ]
-  },
-  {
-    "name": "Maiden: Ice Rose",
-    "aliases": [
-      "梅登:冰玫瑰",
-      "メイデン：アイスローズ"
-    ]
-  },
-  {
-    "name": "Flora",
-    "aliases": [
-      "芙蘿拉",
-      "芙萝拉",
-      "フローラ"
-    ]
-  },
-  {
-    "name": "Grave",
-    "aliases": [
-      "格拉維",
-      "格拉维",
-      "グレイブ"
-    ]
-  },
-  {
-    "name": "Cinderella",
-    "aliases": [
-      "灰姑娘",
-      "シンデレラ"
-    ]
-  },
-  {
-    "name": "Rapunzel: Pure Grace",
-    "aliases": [
-      "長髮公主:純潔恩典",
-      "长发公主:纯洁恩典",
-      "ラプンツェル：ピュアグレイス"
-    ]
-  },
-  {
-    "name": "Rumani",
-    "aliases": [
-      "魯瑪妮",
-      "鲁玛妮",
-      "ルマニ"
-    ]
-  },
-  {
-    "name": "Phantom",
-    "aliases": [
-      "潘託姆",
-      "潘托姆",
-      "ファントム"
-    ]
-  },
-  {
-    "name": "Quency: Escape Queen",
-    "aliases": [
-      "坎西:逃生女王",
-      "クエンシー：エスケープクイーン"
-    ]
-  },
-  {
-    "name": "Rouge",
-    "aliases": [
-      "露姬",
-      "ルージュ"
-    ]
-  },
-  {
-    "name": "Jill",
-    "aliases": [
-      "吉兒·華倫泰",
-      "吉儿·华伦泰",
-      "ジル・バレンタイン"
-    ]
-  },
-  {
-    "name": "Ada",
-    "aliases": [
-      "艾達·王",
-      "艾达·王",
-      "エイダ・ウォン"
-    ]
-  },
-  {
-    "name": "Rei Ayanami",
-    "aliases": [
-      "零（一期）",
-      "綾波レイ"
-    ]
-  },
-  {
-    "name": "Mari",
-    "aliases": [
-      "真理",
-      "真希波・マリ・イラストリアス"
-    ]
-  },
-  {
-    "name": "Misato",
-    "aliases": [
-      "美里",
-      "葛城ミサト"
-    ]
-  },
-  {
-    "name": "Asuka",
-    "aliases": [
-      "明日香",
-      "式波・アスカ・ラングレー"
-    ]
-  },
-  {
-    "name": "Zwei: Treasure",
-    "aliases": [
-      "茨瓦伊 珍藏",
-      "ツバイ：宝物"
-    ]
-  },
-  {
-    "name": "Zwei",
-    "aliases": [
-      "茨瓦伊",
-      "ツバイ"
-    ]
-  },
-  {
-    "name": "Ein",
-    "aliases": [
-      "愛因",
-      "爱因",
-      "アイン"
-    ]
-  },
-  {
-    "name": "Rosanna: Chic Ocean",
-    "aliases": [
-      "羅珊娜:高雅海洋",
-      "罗珊娜:高雅海洋",
-      "ロザンナ：シックオーシャン"
-    ]
-  },
-  {
-    "name": "Sakura: Bloom in Summer",
-    "aliases": [
-      "櫻花:夏日綻放",
-      "樱花:夏日绽放",
-      "サクラ：ブルーム・イン・サマー"
-    ]
-  },
-  {
-    "name": "Clay",
-    "aliases": [
-      "克雷伊",
-      "クレイ"
-    ]
-  },
-  {
-    "name": "Alice: Wonderland Bunny",
-    "aliases": [
-      "愛麗絲:仙境兔女郎",
-      "爱丽丝:仙境兔女郎",
-      "アリス：ワンダーランドバニー"
-    ]
-  },
-  {
-    "name": "Soda: Twinkling Bunny",
-    "aliases": [
-      "索達:閃亮兔女郎",
-      "索达:闪亮兔女郎",
-      "ソーダ：トゥインクルバニー"
-    ]
-  },
-  {
-    "name": "Trony",
-    "aliases": [
-      "特羅尼",
-      "特罗尼",
-      "トロニー"
-    ]
-  },
-  {
-    "name": "Kilo",
-    "aliases": [
-      "吉洛",
-      "キロ"
-    ]
-  },
-  {
-    "name": "Crown",
-    "aliases": [
-      "皇冠",
-      "クラウン"
-    ]
-  },
-  {
-    "name": "Bay: Treasure",
-    "aliases": [
-      "貝伊 珍藏",
-      "贝伊 珍藏",
-      "ベイ：宝物"
-    ]
-  },
-  {
-    "name": "Bay",
-    "aliases": [
-      "貝伊",
-      "贝伊",
-      "ベイ"
-    ]
-  },
-  {
-    "name": "Rem",
-    "aliases": [
-      "雷姆",
-      "レム"
-    ]
-  },
-  {
-    "name": "Ram",
-    "aliases": [
-      "拉姆",
-      "ラム"
-    ]
-  },
-  {
-    "name": "Emilia",
-    "aliases": [
-      "愛蜜莉雅",
-      "爱蜜莉雅",
-      "エミリア"
-    ]
-  },
-  {
-    "name": "D: Killer Wife",
-    "aliases": [
-      "D:殺手妻子",
-      "D:杀手妻子",
-      "D：キラーワイフ"
-    ]
-  },
-  {
-    "name": "Elegg",
-    "aliases": [
-      "伊萊格",
-      "伊莱格",
-      "エレグ"
-    ]
-  },
-  {
-    "name": "Ade",
-    "aliases": [
-      "愛德",
-      "爱德",
-      "エード"
-    ]
-  },
-  {
-    "name": "Privaty: Unkind Maid",
-    "aliases": [
-      "普麗瓦蒂:不友善的女僕",
-      "普丽瓦蒂:不友善的女仆",
-      "プリバティ：アンカインド・メイド"
-    ]
-  },
-  {
-    "name": "Moran: Treasure",
-    "aliases": [
-      "牡丹 珍藏",
-      "モラン：宝物"
-    ]
-  },
-  {
-    "name": "Moran",
-    "aliases": [
-      "牡丹",
-      "モラン"
-    ]
-  },
-  {
-    "name": "Leona",
-    "aliases": [
-      "萊昂納",
-      "莱昂纳",
-      "レオナ"
-    ]
-  },
-  {
-    "name": "Scarlet: Black Shadow",
-    "aliases": [
-      "紅蓮:暗影",
-      "红莲:暗影",
-      "紅蓮：ブラックシャドウ"
-    ]
-  },
-  {
-    "name": "Mica: Snow Buddy",
-    "aliases": [
-      "米卡:雪地夥伴",
-      "米卡:雪地伙伴",
-      "ミカ：スノーバディ"
-    ]
-  },
-  {
-    "name": "Ludmilla: Winter Owner",
-    "aliases": [
-      "魯德米拉:冬日之主",
-      "鲁德米拉:冬日之主",
-      "ルドミラ：ウィンターオーナー"
-    ]
-  },
-  {
-    "name": "Tove: Treasure",
-    "aliases": [
-      "託比 珍藏",
-      "托比 珍藏",
-      "トーブ：宝物"
-    ]
-  },
-  {
-    "name": "Tove",
-    "aliases": [
-      "託比",
-      "托比",
-      "トーブ"
-    ]
-  },
-  {
-    "name": "Snow White: Innocent Days",
-    "aliases": [
-      "白雪公主:純真年代",
-      "白雪公主:纯真年代",
-      "スノーホワイト：イノセントデイズ"
-    ]
-  },
-  {
-    "name": "Red Hood",
-    "aliases": [
-      "小紅帽",
-      "小红帽",
-      "レッドフード"
-    ]
-  },
-  {
-    "name": "Quiry",
-    "aliases": [
-      "基裏",
-      "基里",
-      "キリ"
-    ]
-  },
-  {
-    "name": "Tia",
-    "aliases": [
-      "蒂亞",
-      "蒂亚",
-      "ティア"
-    ]
-  },
-  {
-    "name": "Naga",
-    "aliases": [
-      "娜嘉",
-      "ナガ"
-    ]
-  },
-  {
-    "name": "Marciana",
-    "aliases": [
-      "瑪律恰那",
-      "玛律恰那",
-      "マルチャーナ"
-    ]
-  },
-  {
-    "name": "A2",
+    "name": {
+      "en_us": "Guilty: Mighty Bunny",
+      "ja_jp": "ギルティ：マイティバニー",
+      "zh_cn": "吉尔提:神力兔女郎",
+      "zh_tw": "吉爾提:神力兔女郎"
+    },
     "aliases": []
   },
   {
-    "name": "2B",
+    "name": {
+      "en_us": "Drake: Great Villain",
+      "ja_jp": "ドレイク：グレイトヴィラン",
+      "zh_cn": "德雷克:终极反派",
+      "zh_tw": "德雷克:終極反派"
+    },
     "aliases": []
   },
   {
-    "name": "Pascal",
-    "aliases": [
-      "帕斯卡",
-      "パスカル"
-    ]
-  },
-  {
-    "name": "Helm: Aquamarine",
-    "aliases": [
-      "海倫:海藍寶石",
-      "海伦:海蓝宝石",
-      "ヘルム：アクアマリン"
-    ]
-  },
-  {
-    "name": "Anis: Sparkling Summer",
-    "aliases": [
-      "阿妮斯:閃耀夏日",
-      "阿妮斯:闪耀夏日",
-      "アニス：スパークリングサマー"
-    ]
-  },
-  {
-    "name": "Anchor",
-    "aliases": [
-      "安克",
-      "アンカー"
-    ]
-  },
-  {
-    "name": "Mast",
-    "aliases": [
-      "馬斯特",
-      "马斯特",
-      "マスト"
-    ]
-  },
-  {
-    "name": "Nero",
-    "aliases": [
-      "尼羅",
-      "尼罗",
-      "ネロ"
-    ]
-  },
-  {
-    "name": "Neon: Blue Ocean",
-    "aliases": [
-      "尼恩:藍色海洋",
-      "尼恩:蓝色海洋",
-      "ネオン：ブルーオーシャン"
-    ]
-  },
-  {
-    "name": "Mary: Bay Goddess",
-    "aliases": [
-      "梅里:海灣女神",
-      "梅里:海湾女神",
-      "メアリー：ベイゴッデス"
-    ]
-  },
-  {
-    "name": "Rosanna",
-    "aliases": [
-      "羅珊娜",
-      "罗珊娜",
-      "ロザンナ"
-    ]
-  },
-  {
-    "name": "Noir",
-    "aliases": [
-      "諾亞爾",
-      "诺亚尔",
-      "ノワール"
-    ]
-  },
-  {
-    "name": "Blanc",
-    "aliases": [
-      "布蘭兒",
-      "布兰儿",
-      "ブラン"
-    ]
-  },
-  {
-    "name": "Rei",
-    "aliases": [
-      "萊伊",
-      "莱伊",
-      "ライ"
-    ]
-  },
-  {
-    "name": "Dorothy",
-    "aliases": [
-      "桃樂絲",
-      "桃乐丝",
-      "ドロシー"
-    ]
-  },
-  {
-    "name": "D",
+    "name": {
+      "en_us": "Yukiko",
+      "ja_jp": "天城雪子",
+      "zh_cn": "雪子",
+      "zh_tw": "雪子"
+    },
     "aliases": []
   },
   {
-    "name": "Sakura",
-    "aliases": [
-      "櫻花",
-      "樱花",
-      "サクラ"
-    ]
-  },
-  {
-    "name": "Nihilister",
-    "aliases": [
-      "尼希利斯塔",
-      "ニヒリスター"
-    ]
-  },
-  {
-    "name": "Biscuit",
-    "aliases": [
-      "餅乾",
-      "饼干",
-      "ビスケット"
-    ]
-  },
-  {
-    "name": "Makima",
-    "aliases": [
-      "瑪奇瑪",
-      "玛奇玛",
-      "マキマ"
-    ]
-  },
-  {
-    "name": "Himeno",
-    "aliases": [
-      "姬野",
-      "姫野"
-    ]
-  },
-  {
-    "name": "Power",
-    "aliases": [
-      "帕瓦",
-      "パワー"
-    ]
-  },
-  {
-    "name": "Soda",
-    "aliases": [
-      "索達",
-      "索达",
-      "ソーダ"
-    ]
-  },
-  {
-    "name": "Cocoa",
-    "aliases": [
-      "可可",
-      "ココア"
-    ]
-  },
-  {
-    "name": "Viper: Treasure",
-    "aliases": [
-      "毒蛇 珍藏",
-      "バイパー：宝物"
-    ]
-  },
-  {
-    "name": "Viper",
-    "aliases": [
-      "毒蛇",
-      "バイパー"
-    ]
-  },
-  {
-    "name": "Sin",
-    "aliases": [
-      "森",
-      "シン"
-    ]
-  },
-  {
-    "name": "Quency",
-    "aliases": [
-      "坎西",
-      "クエンシー"
-    ]
-  },
-  {
-    "name": "Guilty",
-    "aliases": [
-      "吉爾提",
-      "吉尔提",
-      "ギルティ"
-    ]
-  },
-  {
-    "name": "Jackal",
-    "aliases": [
-      "豺狼",
-      "ジャッカル"
-    ]
-  },
-  {
-    "name": "Modernia",
-    "aliases": [
-      "神罰",
-      "神罚",
-      "モダニア"
-    ]
-  },
-  {
-    "name": "Anne: Miracle Fairy",
-    "aliases": [
-      "安妮:奇蹟仙女",
-      "安妮:奇迹仙女",
-      "エヌ：ミラクルフェアリー"
-    ]
-  },
-  {
-    "name": "Rupee: Winter Shopper",
-    "aliases": [
-      "露菲:冬日購物狂",
-      "露菲:冬日购物狂",
-      "ルピー：ウィンターショッパー"
-    ]
-  },
-  {
-    "name": "Neve",
-    "aliases": [
-      "尼夫",
-      "ネヴェ"
-    ]
-  },
-  {
-    "name": "Laplace",
-    "aliases": [
-      "拉普拉斯",
-      "ラプラス"
-    ]
-  },
-  {
-    "name": "Helm",
-    "aliases": [
-      "海倫",
-      "海伦",
-      "ヘルム"
-    ]
-  },
-  {
-    "name": "Centi: Treasure",
-    "aliases": [
-      "桑迪 珍藏",
-      "センチ：宝物"
-    ]
-  },
-  {
-    "name": "Privaty: Treasure",
-    "aliases": [
-      "普麗瓦蒂 珍藏",
-      "普丽瓦蒂 珍藏",
-      "プリバティ：宝物"
-    ]
-  },
-  {
-    "name": "Guillotine",
-    "aliases": [
-      "吉蘿婷",
-      "吉萝婷",
-      "ギロチン"
-    ]
-  },
-  {
-    "name": "Diesel: Treasure",
-    "aliases": [
-      "迪塞爾 珍藏",
-      "迪塞尔 珍藏",
-      "ディーゼル：宝物"
-    ]
-  },
-  {
-    "name": "Diesel",
-    "aliases": [
-      "迪塞爾",
-      "迪塞尔",
-      "ディーゼル"
-    ]
-  },
-  {
-    "name": "Emma",
-    "aliases": [
-      "艾瑪",
-      "艾玛",
-      "エマ"
-    ]
-  },
-  {
-    "name": "Aria",
-    "aliases": [
-      "阿莉亞",
-      "阿莉亚",
-      "アリア"
-    ]
-  },
-  {
-    "name": "Alice",
-    "aliases": [
-      "愛麗絲",
-      "爱丽丝",
-      "アリス"
-    ]
-  },
-  {
-    "name": "Signal",
-    "aliases": [
-      "西格娜",
-      "シグナル"
-    ]
-  },
-  {
-    "name": "Volume",
-    "aliases": [
-      "沃綸姆",
-      "沃纶姆",
-      "ボリューム"
-    ]
-  },
-  {
-    "name": "Novel",
-    "aliases": [
-      "諾薇爾",
-      "诺薇尔",
-      "ノベル"
-    ]
-  },
-  {
-    "name": "Miranda",
-    "aliases": [
-      "米蘭達",
-      "米兰达",
-      "ミランダ"
-    ]
-  },
-  {
-    "name": "Liter",
-    "aliases": [
-      "麗塔",
-      "丽塔",
-      "リター"
-    ]
-  },
-  {
-    "name": "Epinel",
-    "aliases": [
-      "艾菲涅爾",
-      "艾菲涅尔",
-      "エピネル"
-    ]
-  },
-  {
-    "name": "Julia: Treasure",
-    "aliases": [
-      "尤莉亞 珍藏",
-      "尤莉亚 珍藏",
-      "ジュリア：宝物"
-    ]
-  },
-  {
-    "name": "Julia",
-    "aliases": [
-      "尤莉亞",
-      "尤莉亚",
-      "ジュリア"
-    ]
-  },
-  {
-    "name": "Privaty",
-    "aliases": [
-      "普麗瓦蒂",
-      "普丽瓦蒂",
-      "プリバティ"
-    ]
-  },
-  {
-    "name": "Rupee",
-    "aliases": [
-      "露菲",
-      "ルピー"
-    ]
-  },
-  {
-    "name": "Rapi",
-    "aliases": [
-      "拉毗",
-      "ラピ"
-    ]
-  },
-  {
-    "name": "Folkwang",
-    "aliases": [
-      "富克旺",
-      "フォルクヴァン"
-    ]
-  },
-  {
-    "name": "Brid",
-    "aliases": [
-      "布麗德",
-      "布丽德",
-      "ブリッド"
-    ]
-  },
-  {
-    "name": "Frima: Treasure",
-    "aliases": [
-      "普琳瑪 珍藏",
-      "普琳玛 珍藏",
-      "プリム：宝物"
-    ]
-  },
-  {
-    "name": "Frima",
-    "aliases": [
-      "普琳瑪",
-      "普琳玛",
-      "プリム"
-    ]
-  },
-  {
-    "name": "Admi",
-    "aliases": [
-      "艾德米",
-      "アドミ"
-    ]
-  },
-  {
-    "name": "Yulha",
-    "aliases": [
-      "尤爾夏",
-      "尤尔夏",
-      "ユルハ"
-    ]
-  },
-  {
-    "name": "Milk: Treasure",
-    "aliases": [
-      "米爾克 珍藏",
-      "米尔克 珍藏",
-      "ミルク：宝物"
-    ]
-  },
-  {
-    "name": "Milk",
-    "aliases": [
-      "米爾克",
-      "米尔克",
-      "ミルク"
-    ]
-  },
-  {
-    "name": "Maxwell",
-    "aliases": [
-      "麥斯威爾",
-      "麦斯威尔",
-      "マクスウェル"
-    ]
-  },
-  {
-    "name": "Dolla",
-    "aliases": [
-      "朵拉",
-      "ドラー"
-    ]
-  },
-  {
-    "name": "Exia: Treasure",
-    "aliases": [
-      "艾可希雅 珍藏",
-      "エクシア：宝物"
-    ]
-  },
-  {
-    "name": "Exia",
-    "aliases": [
-      "艾可希雅",
-      "エクシア"
-    ]
-  },
-  {
-    "name": "Yuni",
-    "aliases": [
-      "尤妮",
-      "ユニ"
-    ]
-  },
-  {
-    "name": "Yan",
-    "aliases": [
-      "楊",
-      "杨",
-      "ヤン"
-    ]
-  },
-  {
-    "name": "Belorta",
-    "aliases": [
-      "貝洛塔",
-      "贝洛塔"
-    ]
-  },
-  {
-    "name": "N102",
+    "name": {
+      "en_us": "Queen",
+      "ja_jp": "クイーン（新島真）",
+      "zh_cn": "QUEEN（真）",
+      "zh_tw": "QUEEN（真）"
+    },
     "aliases": []
   },
   {
-    "name": "Ludmilla",
-    "aliases": [
-      "魯德米拉",
-      "鲁德米拉",
-      "ルドミラ"
-    ]
+    "name": {
+      "en_us": "Maxwell: Ordinary Mechanic",
+      "ja_jp": "マクスウェル：オーディナリーメカニック",
+      "zh_cn": "麦斯威尔:平凡技师",
+      "zh_tw": "麥斯威爾:平凡技師"
+    },
+    "aliases": []
   },
   {
-    "name": "Eunhwa",
-    "aliases": [
-      "銀華",
-      "银华",
-      "ウンファ"
-    ]
+    "name": {
+      "en_us": "Laplace: Ultimate Hero",
+      "ja_jp": "ラプラス：アルティメットヒーロー",
+      "zh_cn": "拉普拉斯:究极英雄",
+      "zh_tw": "拉普拉斯:究極英雄"
+    },
+    "aliases": []
   },
   {
-    "name": "Mihara",
-    "aliases": [
-      "米哈拉",
-      "ミハラ"
-    ]
+    "name": {
+      "en_us": "Rosanna: Treasure",
+      "ja_jp": "ロザンナ：宝物",
+      "zh_cn": "罗珊娜 珍藏",
+      "zh_tw": "羅珊娜 珍藏"
+    },
+    "aliases": []
   },
   {
-    "name": "Snow White",
-    "aliases": [
-      "白雪公主",
-      "スノーホワイト"
-    ]
+    "name": {
+      "en_us": "Flora: Treasure",
+      "ja_jp": "フローラ：宝物",
+      "zh_cn": "芙萝拉 珍藏",
+      "zh_tw": "芙蘿拉 珍藏"
+    },
+    "aliases": []
   },
   {
-    "name": "Soline",
-    "aliases": [
-      "索林",
-      "ソリン"
-    ]
+    "name": {
+      "en_us": "Phantom: Treasure",
+      "ja_jp": "ファントム：宝物",
+      "zh_cn": "潘托姆 珍藏",
+      "zh_tw": "潘託姆 珍藏"
+    },
+    "aliases": []
   },
   {
-    "name": "Crow",
-    "aliases": [
-      "克拉烏",
-      "克拉乌",
-      "クロウ"
-    ]
+    "name": {
+      "en_us": "Sugar: Treasure",
+      "ja_jp": "シュガー：宝物",
+      "zh_cn": "舒格 珍藏",
+      "zh_tw": "舒格 珍藏"
+    },
+    "aliases": []
   },
   {
-    "name": "Isabel",
-    "aliases": [
-      "伊莎貝爾",
-      "伊莎贝尔",
-      "イサベル"
-    ]
+    "name": {
+      "en_us": "Marciana: Marine Study",
+      "ja_jp": "マルチャーナ：マリンスタディ",
+      "zh_cn": "玛律恰那:海洋进修",
+      "zh_tw": "瑪律恰那:海洋進修"
+    },
+    "aliases": []
   },
   {
-    "name": "Mary",
-    "aliases": [
-      "梅里",
-      "メアリー"
-    ]
+    "name": {
+      "en_us": "Cinderella: Crystal Wave",
+      "ja_jp": "シンデレラ：クリスタルウェーブ",
+      "zh_cn": "灰姑娘:琉璃波光",
+      "zh_tw": "灰姑娘:琉璃波光"
+    },
+    "aliases": []
   },
   {
-    "name": "Poli: Treasure",
-    "aliases": [
-      "波莉 珍藏",
-      "ポリ：宝物"
-    ]
+    "name": {
+      "en_us": "Ark Ranger Black",
+      "ja_jp": "アークレンジャー・ブラック",
+      "zh_cn": "方舟黑色游侠",
+      "zh_tw": "方舟黑色遊俠"
+    },
+    "aliases": []
   },
   {
-    "name": "Poli",
-    "aliases": [
-      "波莉",
-      "ポリ"
-    ]
+    "name": {
+      "en_us": "Prika",
+      "ja_jp": "プリカ",
+      "zh_cn": "普莉卡",
+      "zh_tw": "普莉卡"
+    },
+    "aliases": []
   },
   {
-    "name": "Ether",
-    "aliases": [
-      "艾瑟兒",
-      "艾瑟儿",
-      "エーテル"
-    ]
+    "name": {
+      "en_us": "Mint",
+      "ja_jp": "ミント",
+      "zh_cn": "敏特",
+      "zh_tw": "敏特"
+    },
+    "aliases": []
   },
   {
-    "name": "Harran",
-    "aliases": [
-      "哈蘭",
-      "哈兰",
-      "ハラン"
-    ]
+    "name": {
+      "en_us": "Neon: Vision Eye",
+      "ja_jp": "ネオン：ビジョン・アイ",
+      "zh_cn": "尼恩:透视之眼",
+      "zh_tw": "尼恩:透視之眼"
+    },
+    "aliases": []
   },
   {
-    "name": "Noise",
-    "aliases": [
-      "諾伊斯",
-      "诺伊斯",
-      "ノイズ"
-    ]
+    "name": {
+      "en_us": "Avistar",
+      "ja_jp": "アビスタ",
+      "zh_cn": "阿维斯塔",
+      "zh_tw": "阿維斯塔"
+    },
+    "aliases": []
   },
   {
-    "name": "Mica",
-    "aliases": [
-      "米卡",
-      "ミカ"
-    ]
+    "name": {
+      "en_us": "Anis: Star",
+      "ja_jp": "アニス：スター",
+      "zh_cn": "阿妮斯:超级巨星",
+      "zh_tw": "阿妮斯:超級巨星"
+    },
+    "aliases": []
   },
   {
-    "name": "Vesti",
-    "aliases": [
-      "貝斯蒂",
-      "贝斯蒂",
-      "ベスティー"
-    ]
+    "name": {
+      "en_us": "Snow Crane",
+      "ja_jp": "シラツル",
+      "zh_cn": "白鹤",
+      "zh_tw": "白鶴"
+    },
+    "aliases": []
   },
   {
-    "name": "Scarlet",
-    "aliases": [
-      "紅蓮",
-      "红莲"
-    ]
+    "name": {
+      "en_us": "Arcana: Fortune Mate",
+      "ja_jp": "アルカナ：フォーチュンメイト",
+      "zh_cn": "阿尔卡娜:命运伴侣",
+      "zh_tw": "阿爾卡娜:命運伴侶"
+    },
+    "aliases": []
   },
   {
-    "name": "Rapunzel",
-    "aliases": [
-      "長髮公主",
-      "长发公主",
-      "ラプンツェル"
-    ]
+    "name": {
+      "en_us": "E.H."
+    },
+    "aliases": []
   },
   {
-    "name": "Sugar",
-    "aliases": [
-      "舒格",
-      "シュガー"
-    ]
+    "name": {
+      "en_us": "Takina",
+      "ja_jp": "井ノ上たきな",
+      "zh_cn": "泷奈",
+      "zh_tw": "瀧奈"
+    },
+    "aliases": []
   },
   {
-    "name": "Pepper",
-    "aliases": [
-      "佩珀",
-      "ペッパー"
-    ]
+    "name": {
+      "en_us": "Chisato",
+      "ja_jp": "錦木千束",
+      "zh_cn": "千束",
+      "zh_tw": "千束"
+    },
+    "aliases": []
   },
   {
-    "name": "Neon",
-    "aliases": [
-      "尼恩",
-      "ネオン"
-    ]
+    "name": {
+      "en_us": "Velvet",
+      "ja_jp": "ベルベット",
+      "zh_cn": "薇尔维特",
+      "zh_tw": "薇爾維特"
+    },
+    "aliases": []
   },
   {
-    "name": "Maiden",
-    "aliases": [
-      "梅登",
-      "メイデン"
-    ]
+    "name": {
+      "en_us": "Label",
+      "ja_jp": "レーベル",
+      "zh_cn": "蕾贝儿",
+      "zh_tw": "蕾貝兒"
+    },
+    "aliases": []
   },
   {
-    "name": "Drake",
-    "aliases": [
-      "德雷克",
-      "ドレイク"
-    ]
+    "name": {
+      "en_us": "Snow White: Heavy Arms",
+      "ja_jp": "スノーホワイト：ヘビーアームズ",
+      "zh_cn": "白雪公主:重型武装",
+      "zh_tw": "白雪公主:重型武裝"
+    },
+    "aliases": []
   },
   {
-    "name": "Noah",
-    "aliases": [
-      "諾雅",
-      "诺雅",
-      "ノア"
-    ]
+    "name": {
+      "en_us": "Brid: Silent Track",
+      "ja_jp": "ブリッド：サイレントトラック",
+      "zh_cn": "布丽德:静默轨道",
+      "zh_tw": "布麗德:靜默軌道"
+    },
+    "aliases": []
   },
   {
-    "name": "Centi",
-    "aliases": [
-      "桑迪",
-      "センチ"
-    ]
+    "name": {
+      "en_us": "Diesel: Winter Sweets",
+      "ja_jp": "ディーゼル：ウィンタースイーツ",
+      "zh_cn": "迪塞尔:冬日甜心",
+      "zh_tw": "迪塞爾:冬日甜心"
+    },
+    "aliases": []
   },
   {
-    "name": "Anis",
-    "aliases": [
-      "阿妮斯",
-      "アニス"
-    ]
+    "name": {
+      "en_us": "Soline: Frost Ticket",
+      "ja_jp": "ソリン：フロストチケット",
+      "zh_cn": "索林:霜雪车票",
+      "zh_tw": "索林:霜雪車票"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Liberalio",
+      "ja_jp": "リバーレリオ",
+      "zh_cn": "莉贝雷利奥(水母)",
+      "zh_tw": "莉貝雷利奧(水母)"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nayuta",
+      "ja_jp": "ナユタ",
+      "zh_cn": "娜由塔",
+      "zh_tw": "娜由塔"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Delta: Ninja Thief",
+      "ja_jp": "デルタ：ニンジャシーフ",
+      "zh_cn": "德尔塔:怪盗忍者",
+      "zh_tw": "德爾塔:怪盜忍者"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Helm: Treasure",
+      "ja_jp": "ヘルム：宝物",
+      "zh_cn": "海伦 珍藏",
+      "zh_tw": "海倫 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Miranda: Treasure",
+      "ja_jp": "ミランダ：宝物",
+      "zh_cn": "米兰达 珍藏",
+      "zh_tw": "米蘭達 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Milk: Blooming Bunny",
+      "ja_jp": "ミルク：ブルーミングバニー",
+      "zh_cn": "米尔克:花漾兔女郎",
+      "zh_tw": "米爾克:花漾兔女郎"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ade: Agent Bunny",
+      "ja_jp": "エード：エージェントバニー",
+      "zh_cn": "爱德:特务兔女郎",
+      "zh_tw": "愛德:特務兔女郎"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Drake: Treasure",
+      "ja_jp": "ドレイク：宝物",
+      "zh_cn": "德雷克 珍藏",
+      "zh_tw": "德雷克 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vesti: Tactical Upgrade",
+      "ja_jp": "ベスティー：タクティカル・アップ",
+      "zh_cn": "贝斯蒂:战术升级",
+      "zh_tw": "貝斯蒂:戰術升級"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eunhwa: Tactical Upgrade",
+      "ja_jp": "ウンファ：タクティカル・アップ",
+      "zh_cn": "银华:战术升级",
+      "zh_tw": "銀華:戰術升級"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Emma: Tactical Upgrade",
+      "ja_jp": "エマ：タクティカル・アップ",
+      "zh_cn": "艾玛:战术升级",
+      "zh_tw": "艾瑪:戰術升級"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Elegg: Boom and Shock",
+      "ja_jp": "エレグ：ブーム・アンド・ショック",
+      "zh_cn": "伊莱格:BOOM与惊吓",
+      "zh_tw": "伊萊格:BOOM與驚嚇"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dorothy: Serendipity",
+      "ja_jp": "ドロシー：セレンディピティ",
+      "zh_cn": "桃乐丝:机缘巧遇",
+      "zh_tw": "桃樂絲:機緣巧遇"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sora",
+      "ja_jp": "ソラ",
+      "zh_cn": "索拉",
+      "zh_tw": "索拉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Raven",
+      "ja_jp": "レイヴン",
+      "zh_cn": "渡鸦",
+      "zh_tw": "渡鴉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "EVE",
+      "ja_jp": "イヴ",
+      "zh_cn": "伊芙",
+      "zh_tw": "伊芙"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Laplace: Treasure",
+      "ja_jp": "ラプラス：宝物",
+      "zh_cn": "拉普拉斯 珍藏",
+      "zh_tw": "拉普拉斯 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "K"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Arcana",
+      "ja_jp": "アルカナ",
+      "zh_cn": "阿尔卡娜",
+      "zh_tw": "阿爾卡娜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mihara: Bonding Chain",
+      "ja_jp": "ミハラ：ボンディングチェーン",
+      "zh_cn": "米哈拉:灵魂锁链",
+      "zh_tw": "米哈拉:靈魂鎖鏈"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Little Mermaid",
+      "ja_jp": "リトルマーメイド",
+      "zh_cn": "小美人鱼",
+      "zh_tw": "小美人魚"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mori",
+      "ja_jp": "モリー",
+      "zh_cn": "莫莉",
+      "zh_tw": "莫莉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Crust",
+      "ja_jp": "クラスト",
+      "zh_cn": "克拉斯特",
+      "zh_tw": "克拉斯特"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Bready",
+      "ja_jp": "ブレッディ",
+      "zh_cn": "布蕾德",
+      "zh_tw": "布蕾德"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Trina",
+      "ja_jp": "トリナ",
+      "zh_cn": "特蕾娜",
+      "zh_tw": "特蕾娜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rei Ayanami (Tentative Name)",
+      "ja_jp": "アヤナミレイ(仮称)",
+      "zh_cn": "零（二期）",
+      "zh_tw": "零（二期）"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Asuka: WILLE",
+      "ja_jp": "式波・アスカ・ラングレー：WILLE",
+      "zh_cn": "明日香:WILLE",
+      "zh_tw": "明日香:WILLE"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sakura Suzuhara",
+      "ja_jp": "鈴原サクラ",
+      "zh_cn": "樱",
+      "zh_tw": "櫻"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anchor: Innocent Maid",
+      "ja_jp": "アンカー：イノセントメイド",
+      "zh_cn": "安克:天真的女仆",
+      "zh_tw": "安克:天真的女僕"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mast: Romantic Maid",
+      "ja_jp": "マスト：ロマンチックメイド",
+      "zh_cn": "马斯特:浪漫的女仆",
+      "zh_tw": "馬斯特:浪漫的女僕"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mana",
+      "ja_jp": "マナ",
+      "zh_cn": "玛娜",
+      "zh_tw": "瑪娜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rapi: Red Hood",
+      "ja_jp": "ラピ：レッドフード",
+      "zh_cn": "拉毗:小红帽",
+      "zh_tw": "拉毗:小紅帽"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Guillotine: Winter Slayer",
+      "ja_jp": "ギロチン：ウィンタースレイヤー",
+      "zh_cn": "吉萝婷:寒冬杀手",
+      "zh_tw": "吉蘿婷:寒冬殺手"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Maiden: Ice Rose",
+      "ja_jp": "メイデン：アイスローズ",
+      "zh_cn": "梅登:冰玫瑰",
+      "zh_tw": "梅登:冰玫瑰"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Flora",
+      "ja_jp": "フローラ",
+      "zh_cn": "芙萝拉",
+      "zh_tw": "芙蘿拉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Grave",
+      "ja_jp": "グレイブ",
+      "zh_cn": "格拉维",
+      "zh_tw": "格拉維"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cinderella",
+      "ja_jp": "シンデレラ",
+      "zh_cn": "灰姑娘",
+      "zh_tw": "灰姑娘"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rapunzel: Pure Grace",
+      "ja_jp": "ラプンツェル：ピュアグレイス",
+      "zh_cn": "长发公主:纯洁恩典",
+      "zh_tw": "長髮公主:純潔恩典"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rumani",
+      "ja_jp": "ルマニ",
+      "zh_cn": "鲁玛妮",
+      "zh_tw": "魯瑪妮"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Phantom",
+      "ja_jp": "ファントム",
+      "zh_cn": "潘托姆",
+      "zh_tw": "潘託姆"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Quency: Escape Queen",
+      "ja_jp": "クエンシー：エスケープクイーン",
+      "zh_cn": "坎西:逃生女王",
+      "zh_tw": "坎西:逃生女王"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rouge",
+      "ja_jp": "ルージュ",
+      "zh_cn": "露姬",
+      "zh_tw": "露姬"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jill",
+      "ja_jp": "ジル・バレンタイン",
+      "zh_cn": "吉儿·华伦泰",
+      "zh_tw": "吉兒·華倫泰"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ada",
+      "ja_jp": "エイダ・ウォン",
+      "zh_cn": "艾达·王",
+      "zh_tw": "艾達·王"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rei Ayanami",
+      "ja_jp": "綾波レイ",
+      "zh_cn": "零（一期）",
+      "zh_tw": "零（一期）"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mari",
+      "ja_jp": "真希波・マリ・イラストリアス",
+      "zh_cn": "真理",
+      "zh_tw": "真理"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Misato",
+      "ja_jp": "葛城ミサト",
+      "zh_cn": "美里",
+      "zh_tw": "美里"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Asuka",
+      "ja_jp": "式波・アスカ・ラングレー",
+      "zh_cn": "明日香",
+      "zh_tw": "明日香"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zwei: Treasure",
+      "ja_jp": "ツバイ：宝物",
+      "zh_cn": "茨瓦伊 珍藏",
+      "zh_tw": "茨瓦伊 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zwei",
+      "ja_jp": "ツバイ",
+      "zh_cn": "茨瓦伊",
+      "zh_tw": "茨瓦伊"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ein",
+      "ja_jp": "アイン",
+      "zh_cn": "爱因",
+      "zh_tw": "愛因"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rosanna: Chic Ocean",
+      "ja_jp": "ロザンナ：シックオーシャン",
+      "zh_cn": "罗珊娜:高雅海洋",
+      "zh_tw": "羅珊娜:高雅海洋"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sakura: Bloom in Summer",
+      "ja_jp": "サクラ：ブルーム・イン・サマー",
+      "zh_cn": "樱花:夏日绽放",
+      "zh_tw": "櫻花:夏日綻放"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Clay",
+      "ja_jp": "クレイ",
+      "zh_cn": "克雷伊",
+      "zh_tw": "克雷伊"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Alice: Wonderland Bunny",
+      "ja_jp": "アリス：ワンダーランドバニー",
+      "zh_cn": "爱丽丝:仙境兔女郎",
+      "zh_tw": "愛麗絲:仙境兔女郎"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Soda: Twinkling Bunny",
+      "ja_jp": "ソーダ：トゥインクルバニー",
+      "zh_cn": "索达:闪亮兔女郎",
+      "zh_tw": "索達:閃亮兔女郎"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Trony",
+      "ja_jp": "トロニー",
+      "zh_cn": "特罗尼",
+      "zh_tw": "特羅尼"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kilo",
+      "ja_jp": "キロ",
+      "zh_cn": "吉洛",
+      "zh_tw": "吉洛"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Crown",
+      "ja_jp": "クラウン",
+      "zh_cn": "皇冠",
+      "zh_tw": "皇冠"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Bay: Treasure",
+      "ja_jp": "ベイ：宝物",
+      "zh_cn": "贝伊 珍藏",
+      "zh_tw": "貝伊 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Bay",
+      "ja_jp": "ベイ",
+      "zh_cn": "贝伊",
+      "zh_tw": "貝伊"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rem",
+      "ja_jp": "レム",
+      "zh_cn": "雷姆",
+      "zh_tw": "雷姆"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ram",
+      "ja_jp": "ラム",
+      "zh_cn": "拉姆",
+      "zh_tw": "拉姆"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Emilia",
+      "ja_jp": "エミリア",
+      "zh_cn": "爱蜜莉雅",
+      "zh_tw": "愛蜜莉雅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "D: Killer Wife",
+      "ja_jp": "D：キラーワイフ",
+      "zh_cn": "D:杀手妻子",
+      "zh_tw": "D:殺手妻子"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Elegg",
+      "ja_jp": "エレグ",
+      "zh_cn": "伊莱格",
+      "zh_tw": "伊萊格"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ade",
+      "ja_jp": "エード",
+      "zh_cn": "爱德",
+      "zh_tw": "愛德"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Privaty: Unkind Maid",
+      "ja_jp": "プリバティ：アンカインド・メイド",
+      "zh_cn": "普丽瓦蒂:不友善的女仆",
+      "zh_tw": "普麗瓦蒂:不友善的女僕"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Moran: Treasure",
+      "ja_jp": "モラン：宝物",
+      "zh_cn": "牡丹 珍藏",
+      "zh_tw": "牡丹 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Moran",
+      "ja_jp": "モラン",
+      "zh_cn": "牡丹",
+      "zh_tw": "牡丹"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Leona",
+      "ja_jp": "レオナ",
+      "zh_cn": "莱昂纳",
+      "zh_tw": "萊昂納"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Scarlet: Black Shadow",
+      "ja_jp": "紅蓮：ブラックシャドウ",
+      "zh_cn": "红莲:暗影",
+      "zh_tw": "紅蓮:暗影"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mica: Snow Buddy",
+      "ja_jp": "ミカ：スノーバディ",
+      "zh_cn": "米卡:雪地伙伴",
+      "zh_tw": "米卡:雪地夥伴"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ludmilla: Winter Owner",
+      "ja_jp": "ルドミラ：ウィンターオーナー",
+      "zh_cn": "鲁德米拉:冬日之主",
+      "zh_tw": "魯德米拉:冬日之主"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tove: Treasure",
+      "ja_jp": "トーブ：宝物",
+      "zh_cn": "托比 珍藏",
+      "zh_tw": "託比 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tove",
+      "ja_jp": "トーブ",
+      "zh_cn": "托比",
+      "zh_tw": "託比"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Snow White: Innocent Days",
+      "ja_jp": "スノーホワイト：イノセントデイズ",
+      "zh_cn": "白雪公主:纯真年代",
+      "zh_tw": "白雪公主:純真年代"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Red Hood",
+      "ja_jp": "レッドフード",
+      "zh_cn": "小红帽",
+      "zh_tw": "小紅帽"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Quiry",
+      "ja_jp": "キリ",
+      "zh_cn": "基里",
+      "zh_tw": "基裏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tia",
+      "ja_jp": "ティア",
+      "zh_cn": "蒂亚",
+      "zh_tw": "蒂亞"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Naga",
+      "ja_jp": "ナガ",
+      "zh_cn": "娜嘉",
+      "zh_tw": "娜嘉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Marciana",
+      "ja_jp": "マルチャーナ",
+      "zh_cn": "玛律恰那",
+      "zh_tw": "瑪律恰那"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "A2"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "2B"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Pascal",
+      "ja_jp": "パスカル",
+      "zh_cn": "帕斯卡",
+      "zh_tw": "帕斯卡"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Helm: Aquamarine",
+      "ja_jp": "ヘルム：アクアマリン",
+      "zh_cn": "海伦:海蓝宝石",
+      "zh_tw": "海倫:海藍寶石"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anis: Sparkling Summer",
+      "ja_jp": "アニス：スパークリングサマー",
+      "zh_cn": "阿妮斯:闪耀夏日",
+      "zh_tw": "阿妮斯:閃耀夏日"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anchor",
+      "ja_jp": "アンカー",
+      "zh_cn": "安克",
+      "zh_tw": "安克"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mast",
+      "ja_jp": "マスト",
+      "zh_cn": "马斯特",
+      "zh_tw": "馬斯特"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nero",
+      "ja_jp": "ネロ",
+      "zh_cn": "尼罗",
+      "zh_tw": "尼羅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Neon: Blue Ocean",
+      "ja_jp": "ネオン：ブルーオーシャン",
+      "zh_cn": "尼恩:蓝色海洋",
+      "zh_tw": "尼恩:藍色海洋"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mary: Bay Goddess",
+      "ja_jp": "メアリー：ベイゴッデス",
+      "zh_cn": "梅里:海湾女神",
+      "zh_tw": "梅里:海灣女神"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rosanna",
+      "ja_jp": "ロザンナ",
+      "zh_cn": "罗珊娜",
+      "zh_tw": "羅珊娜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Noir",
+      "ja_jp": "ノワール",
+      "zh_cn": "诺亚尔",
+      "zh_tw": "諾亞爾"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Blanc",
+      "ja_jp": "ブラン",
+      "zh_cn": "布兰儿",
+      "zh_tw": "布蘭兒"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rei",
+      "ja_jp": "ライ",
+      "zh_cn": "莱伊",
+      "zh_tw": "萊伊"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dorothy",
+      "ja_jp": "ドロシー",
+      "zh_cn": "桃乐丝",
+      "zh_tw": "桃樂絲"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "D"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sakura",
+      "ja_jp": "サクラ",
+      "zh_cn": "樱花",
+      "zh_tw": "櫻花"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nihilister",
+      "ja_jp": "ニヒリスター",
+      "zh_cn": "尼希利斯塔",
+      "zh_tw": "尼希利斯塔"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Biscuit",
+      "ja_jp": "ビスケット",
+      "zh_cn": "饼干",
+      "zh_tw": "餅乾"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Makima",
+      "ja_jp": "マキマ",
+      "zh_cn": "玛奇玛",
+      "zh_tw": "瑪奇瑪"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Himeno",
+      "ja_jp": "姫野",
+      "zh_cn": "姬野",
+      "zh_tw": "姬野"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Power",
+      "ja_jp": "パワー",
+      "zh_cn": "帕瓦",
+      "zh_tw": "帕瓦"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Soda",
+      "ja_jp": "ソーダ",
+      "zh_cn": "索达",
+      "zh_tw": "索達"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cocoa",
+      "ja_jp": "ココア",
+      "zh_cn": "可可",
+      "zh_tw": "可可"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Viper: Treasure",
+      "ja_jp": "バイパー：宝物",
+      "zh_cn": "毒蛇 珍藏",
+      "zh_tw": "毒蛇 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Viper",
+      "ja_jp": "バイパー",
+      "zh_cn": "毒蛇",
+      "zh_tw": "毒蛇"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sin",
+      "ja_jp": "シン",
+      "zh_cn": "森",
+      "zh_tw": "森"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Quency",
+      "ja_jp": "クエンシー",
+      "zh_cn": "坎西",
+      "zh_tw": "坎西"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Guilty",
+      "ja_jp": "ギルティ",
+      "zh_cn": "吉尔提",
+      "zh_tw": "吉爾提"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jackal",
+      "ja_jp": "ジャッカル",
+      "zh_cn": "豺狼",
+      "zh_tw": "豺狼"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Modernia",
+      "ja_jp": "モダニア",
+      "zh_cn": "神罚",
+      "zh_tw": "神罰"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anne: Miracle Fairy",
+      "ja_jp": "エヌ：ミラクルフェアリー",
+      "zh_cn": "安妮:奇迹仙女",
+      "zh_tw": "安妮:奇蹟仙女"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rupee: Winter Shopper",
+      "ja_jp": "ルピー：ウィンターショッパー",
+      "zh_cn": "露菲:冬日购物狂",
+      "zh_tw": "露菲:冬日購物狂"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Neve",
+      "ja_jp": "ネヴェ",
+      "zh_cn": "尼夫",
+      "zh_tw": "尼夫"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Laplace",
+      "ja_jp": "ラプラス",
+      "zh_cn": "拉普拉斯",
+      "zh_tw": "拉普拉斯"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Helm",
+      "ja_jp": "ヘルム",
+      "zh_cn": "海伦",
+      "zh_tw": "海倫"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Centi: Treasure",
+      "ja_jp": "センチ：宝物",
+      "zh_cn": "桑迪 珍藏",
+      "zh_tw": "桑迪 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Privaty: Treasure",
+      "ja_jp": "プリバティ：宝物",
+      "zh_cn": "普丽瓦蒂 珍藏",
+      "zh_tw": "普麗瓦蒂 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Guillotine",
+      "ja_jp": "ギロチン",
+      "zh_cn": "吉萝婷",
+      "zh_tw": "吉蘿婷"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Diesel: Treasure",
+      "ja_jp": "ディーゼル：宝物",
+      "zh_cn": "迪塞尔 珍藏",
+      "zh_tw": "迪塞爾 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Diesel",
+      "ja_jp": "ディーゼル",
+      "zh_cn": "迪塞尔",
+      "zh_tw": "迪塞爾"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Emma",
+      "ja_jp": "エマ",
+      "zh_cn": "艾玛",
+      "zh_tw": "艾瑪"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aria",
+      "ja_jp": "アリア",
+      "zh_cn": "阿莉亚",
+      "zh_tw": "阿莉亞"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Alice",
+      "ja_jp": "アリス",
+      "zh_cn": "爱丽丝",
+      "zh_tw": "愛麗絲"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Signal",
+      "ja_jp": "シグナル",
+      "zh_cn": "西格娜",
+      "zh_tw": "西格娜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Volume",
+      "ja_jp": "ボリューム",
+      "zh_cn": "沃纶姆",
+      "zh_tw": "沃綸姆"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Novel",
+      "ja_jp": "ノベル",
+      "zh_cn": "诺薇尔",
+      "zh_tw": "諾薇爾"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Miranda",
+      "ja_jp": "ミランダ",
+      "zh_cn": "米兰达",
+      "zh_tw": "米蘭達"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Liter",
+      "ja_jp": "リター",
+      "zh_cn": "丽塔",
+      "zh_tw": "麗塔"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Epinel",
+      "ja_jp": "エピネル",
+      "zh_cn": "艾菲涅尔",
+      "zh_tw": "艾菲涅爾"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Julia: Treasure",
+      "ja_jp": "ジュリア：宝物",
+      "zh_cn": "尤莉亚 珍藏",
+      "zh_tw": "尤莉亞 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Julia",
+      "ja_jp": "ジュリア",
+      "zh_cn": "尤莉亚",
+      "zh_tw": "尤莉亞"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Privaty",
+      "ja_jp": "プリバティ",
+      "zh_cn": "普丽瓦蒂",
+      "zh_tw": "普麗瓦蒂"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rupee",
+      "ja_jp": "ルピー",
+      "zh_cn": "露菲",
+      "zh_tw": "露菲"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rapi",
+      "ja_jp": "ラピ",
+      "zh_cn": "拉毗",
+      "zh_tw": "拉毗"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Folkwang",
+      "ja_jp": "フォルクヴァン",
+      "zh_cn": "富克旺",
+      "zh_tw": "富克旺"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Brid",
+      "ja_jp": "ブリッド",
+      "zh_cn": "布丽德",
+      "zh_tw": "布麗德"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Frima: Treasure",
+      "ja_jp": "プリム：宝物",
+      "zh_cn": "普琳玛 珍藏",
+      "zh_tw": "普琳瑪 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Frima",
+      "ja_jp": "プリム",
+      "zh_cn": "普琳玛",
+      "zh_tw": "普琳瑪"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Admi",
+      "ja_jp": "アドミ",
+      "zh_cn": "艾德米",
+      "zh_tw": "艾德米"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yulha",
+      "ja_jp": "ユルハ",
+      "zh_cn": "尤尔夏",
+      "zh_tw": "尤爾夏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Milk: Treasure",
+      "ja_jp": "ミルク：宝物",
+      "zh_cn": "米尔克 珍藏",
+      "zh_tw": "米爾克 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Milk",
+      "ja_jp": "ミルク",
+      "zh_cn": "米尔克",
+      "zh_tw": "米爾克"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Maxwell",
+      "ja_jp": "マクスウェル",
+      "zh_cn": "麦斯威尔",
+      "zh_tw": "麥斯威爾"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dolla",
+      "ja_jp": "ドラー",
+      "zh_cn": "朵拉",
+      "zh_tw": "朵拉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Exia: Treasure",
+      "ja_jp": "エクシア：宝物",
+      "zh_cn": "艾可希雅 珍藏",
+      "zh_tw": "艾可希雅 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Exia",
+      "ja_jp": "エクシア",
+      "zh_cn": "艾可希雅",
+      "zh_tw": "艾可希雅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yuni",
+      "ja_jp": "ユニ",
+      "zh_cn": "尤妮",
+      "zh_tw": "尤妮"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yan",
+      "ja_jp": "ヤン",
+      "zh_cn": "杨",
+      "zh_tw": "楊"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Belorta",
+      "zh_cn": "贝洛塔",
+      "zh_tw": "貝洛塔"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "N102"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ludmilla",
+      "ja_jp": "ルドミラ",
+      "zh_cn": "鲁德米拉",
+      "zh_tw": "魯德米拉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eunhwa",
+      "ja_jp": "ウンファ",
+      "zh_cn": "银华",
+      "zh_tw": "銀華"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mihara",
+      "ja_jp": "ミハラ",
+      "zh_cn": "米哈拉",
+      "zh_tw": "米哈拉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Snow White",
+      "ja_jp": "スノーホワイト",
+      "zh_cn": "白雪公主",
+      "zh_tw": "白雪公主"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Soline",
+      "ja_jp": "ソリン",
+      "zh_cn": "索林",
+      "zh_tw": "索林"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Crow",
+      "ja_jp": "クロウ",
+      "zh_cn": "克拉乌",
+      "zh_tw": "克拉烏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Isabel",
+      "ja_jp": "イサベル",
+      "zh_cn": "伊莎贝尔",
+      "zh_tw": "伊莎貝爾"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mary",
+      "ja_jp": "メアリー",
+      "zh_cn": "梅里",
+      "zh_tw": "梅里"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Poli: Treasure",
+      "ja_jp": "ポリ：宝物",
+      "zh_cn": "波莉 珍藏",
+      "zh_tw": "波莉 珍藏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Poli",
+      "ja_jp": "ポリ",
+      "zh_cn": "波莉",
+      "zh_tw": "波莉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ether",
+      "ja_jp": "エーテル",
+      "zh_cn": "艾瑟儿",
+      "zh_tw": "艾瑟兒"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Harran",
+      "ja_jp": "ハラン",
+      "zh_cn": "哈兰",
+      "zh_tw": "哈蘭"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Noise",
+      "ja_jp": "ノイズ",
+      "zh_cn": "诺伊斯",
+      "zh_tw": "諾伊斯"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mica",
+      "ja_jp": "ミカ",
+      "zh_cn": "米卡",
+      "zh_tw": "米卡"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vesti",
+      "ja_jp": "ベスティー",
+      "zh_cn": "贝斯蒂",
+      "zh_tw": "貝斯蒂"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Scarlet",
+      "ja_jp": "紅蓮",
+      "zh_cn": "红莲",
+      "zh_tw": "紅蓮"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rapunzel",
+      "ja_jp": "ラプンツェル",
+      "zh_cn": "长发公主",
+      "zh_tw": "長髮公主"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sugar",
+      "ja_jp": "シュガー",
+      "zh_cn": "舒格",
+      "zh_tw": "舒格"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Pepper",
+      "ja_jp": "ペッパー",
+      "zh_cn": "佩珀",
+      "zh_tw": "佩珀"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Neon",
+      "ja_jp": "ネオン",
+      "zh_cn": "尼恩",
+      "zh_tw": "尼恩"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Maiden",
+      "ja_jp": "メイデン",
+      "zh_cn": "梅登",
+      "zh_tw": "梅登"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Drake",
+      "ja_jp": "ドレイク",
+      "zh_cn": "德雷克",
+      "zh_tw": "德雷克"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Noah",
+      "ja_jp": "ノア",
+      "zh_cn": "诺雅",
+      "zh_tw": "諾雅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Centi",
+      "ja_jp": "センチ",
+      "zh_cn": "桑迪",
+      "zh_tw": "桑迪"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anis",
+      "ja_jp": "アニス",
+      "zh_cn": "阿妮斯",
+      "zh_tw": "阿妮斯"
+    },
+    "aliases": []
   }
 ]

@@ -41,9 +41,9 @@ func fetchPGR(lang string) ([]pgrCharacter, error) {
 
 // Scrape skips everything when the PGR_Data commit hasn't changed since the
 // last run (cached in config/commits.json). Every Id is one entry (a construct
-// or outfit), named after its English LogName (e.g. "Lee: Palefire"). Aliases
-// are the English Name and EnName, then the Chinese Name, LogName and EnName of
-// the same Id. TradeName is not used.
+// or outfit), named after its English LogName (e.g. "Lee: Palefire") and its
+// Simplified Chinese LogName. Aliases are the English Name and EnName, then the
+// Chinese Name and EnName of the same Id. TradeName is not used.
 //
 // Ids are not a reliable release order (e.g. Lucia: Inverse Crown is 1021007
 // but is one of the newest), while the file itself is in release order, so the
@@ -53,7 +53,7 @@ func (p PunishingGrayRaven) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(p.Name()) {
+	if upToDate(p.Name(), sha, existing) {
 		log.Printf("[Punishing Gray Raven] PGR_Data unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -83,14 +83,22 @@ func (p PunishingGrayRaven) Scrape(existing []Character) ([]Character, error) {
 			continue
 		}
 		z := zh[c.ID] // zero value when the id is missing in ZH
-		aliases := []string{c.Name, c.EnName, z.Name, z.LogName, z.EnName}
-		key := strings.ToLower(name)
+		zhName := z.LogName
+		if strings.TrimSpace(zhName) == "" {
+			zhName = z.Name
+		}
+		built := newNameBuilder().
+			Name(LangEN, name).
+			Name(LangZH, zhName).
+			Alias(c.Name, c.EnName, z.Name, z.EnName).
+			Character()
+		key := strings.ToLower(built.Name[LangEN])
 		if j, ok := pos[key]; ok {
-			chars[j].Aliases = cleanAliases(chars[j].Name, append(chars[j].Aliases, aliases...))
+			chars[j] = builderOf(chars[j]).Merge(built).Character()
 			continue
 		}
 		pos[key] = len(chars)
-		chars = append(chars, Character{Name: name, Aliases: cleanAliases(name, aliases)})
+		chars = append(chars, built)
 	}
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("punishing gray raven: no characters found")

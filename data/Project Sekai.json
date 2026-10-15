@@ -1,133 +1,405 @@
 [
   {
-    "name": "Amaya, Tsubame",
+    "name": {
+      "en_us": "Akiyama, Mizuki",
+      "ja_jp": "暁山, 瑞希",
+      "zh_cn": "晓山, 瑞希",
+      "zh_tw": "曉山, 瑞希",
+      "ko_kr": "아키야마, 미즈키"
+    },
     "aliases": [
-      "雨夜 燕",
-      "雨夜燕",
-      "雨夜燕子",
-      "아마야 츠바메",
-      "아마야츠바메"
+      "暁山瑞希",
+      "晓山瑞希",
+      "曉山瑞希",
+      "아키야마미즈키",
+      "아키야마 미즈키",
+      "Mizuki Akiyama"
     ]
   },
   {
-    "name": "Hataya, Misuzu",
+    "name": {
+      "en_us": "Shinonome, Ena",
+      "ja_jp": "東雲, 絵名",
+      "zh_cn": "东云, 绘名",
+      "zh_tw": "東雲, 繪名",
+      "ko_kr": "시노노메, 에나"
+    },
     "aliases": [
-      "秦谷 美鈴",
-      "秦谷美鈴",
-      "秦谷美铃",
-      "하타야 미스즈",
-      "하타야미스즈"
+      "東雲絵名",
+      "东云绘名",
+      "東雲繪名",
+      "시노노메에나",
+      "시노노메 에나",
+      "Ena Shinonome"
     ]
   },
   {
-    "name": "Juo, Sena",
+    "name": {
+      "en_us": "Asahina, Mafuyu",
+      "ja_jp": "朝比奈, まふゆ",
+      "zh_cn": "朝比奈, 真冬",
+      "zh_tw": "朝比奈, 真冬",
+      "ko_kr": "아사히나, 마후유"
+    },
     "aliases": [
-      "十王 星南",
-      "十王星南",
-      "주오 세나",
-      "주오세나"
+      "朝比奈まふゆ",
+      "朝比奈真冬",
+      "아사히나마후유",
+      "아사히나 마후유",
+      "Mafuyu Asahina"
     ]
   },
   {
-    "name": "Hanami, Ume",
+    "name": {
+      "en_us": "Yoisaki, Kanade",
+      "ja_jp": "宵崎, 奏",
+      "zh_cn": "宵崎, 奏",
+      "zh_tw": "宵崎, 奏",
+      "ko_kr": "요이사키, 카나데"
+    },
     "aliases": [
-      "花海 佑芽",
-      "花海佑芽",
-      "하나미 우메",
-      "하나미우메"
+      "宵崎奏",
+      "요이사키카나데",
+      "요이사키 카나데",
+      "Kanade Yoisaki"
     ]
   },
   {
-    "name": "Himesaki, Rinami",
+    "name": {
+      "en_us": "Kamishiro, Rui",
+      "ja_jp": "神代, 類",
+      "zh_cn": "神代, 类",
+      "zh_tw": "神代, 類",
+      "ko_kr": "카미시로, 루이"
+    },
     "aliases": [
-      "姫崎 莉波",
-      "姫崎莉波",
-      "姬崎莉波",
-      "히메사키 리나미",
-      "히메사키리나미"
+      "神代類",
+      "神代类",
+      "카미시로루이",
+      "카미시로 루이",
+      "Rui Kamishiro"
     ]
   },
   {
-    "name": "Shinosawa, Hiro",
+    "name": {
+      "en_us": "Kusanagi, Nene",
+      "ja_jp": "草薙, 寧々",
+      "zh_cn": "草薙, 宁宁",
+      "zh_tw": "草薙, 寧寧",
+      "ko_kr": "쿠사나기, 네네"
+    },
     "aliases": [
-      "篠澤 広",
-      "篠澤広",
-      "筱泽广",
-      "篠泽广",
-      "筱澤廣",
-      "篠澤廣",
-      "시노사와 히로",
-      "시노사와히로"
+      "草薙寧々",
+      "草薙宁宁",
+      "草薙寧寧",
+      "쿠사나기네네",
+      "쿠사나기 네네",
+      "Nene Kusanagi"
     ]
   },
   {
-    "name": "Shiun, Sumika",
+    "name": {
+      "en_us": "Otori, Emu",
+      "ja_jp": "鳳, えむ",
+      "zh_cn": "凤, 笑梦",
+      "zh_tw": "鳳, 笑夢",
+      "ko_kr": "오토리, 에무"
+    },
     "aliases": [
-      "紫雲 清夏",
-      "紫雲清夏",
-      "紫云清夏",
-      "시운 스미카",
-      "시운스미카"
+      "鳳えむ",
+      "凤笑梦",
+      "鳳笑夢",
+      "오토리에무",
+      "오토리 에무",
+      "Emu Otori"
     ]
   },
   {
-    "name": "Kuramoto, China",
+    "name": {
+      "en_us": "Tenma, Tsukasa",
+      "ja_jp": "天馬, 司",
+      "zh_cn": "天马, 司",
+      "zh_tw": "天馬, 司",
+      "ko_kr": "텐마, 츠카사"
+    },
     "aliases": [
-      "倉本 千奈",
-      "倉本千奈",
-      "仓本千奈",
-      "쿠라모토 치나",
-      "쿠라모토치나"
+      "天馬司",
+      "天马司",
+      "텐마츠카사",
+      "텐마 츠카사",
+      "Tsukasa Tenma"
     ]
   },
   {
-    "name": "Katsuragi, Lilja",
+    "name": {
+      "en_us": "Aoyagi, Toya",
+      "ja_jp": "青柳, 冬弥",
+      "zh_cn": "青柳, 冬弥",
+      "zh_tw": "青柳, 冬彌",
+      "ko_kr": "아오야기, 토야"
+    },
     "aliases": [
-      "葛城 リーリヤ",
-      "葛城リーリヤ",
-      "葛城莉莉亚",
-      "葛城莉莉娅",
-      "葛城莉莉亞",
-      "葛城莉莉婭",
-      "카츠라기 릴리야",
-      "카츠라기릴리야"
+      "青柳冬弥",
+      "青柳冬彌",
+      "아오야기토야",
+      "아오야기 토야",
+      "Toya Aoyagi"
     ]
   },
   {
-    "name": "Arimura, Mao",
+    "name": {
+      "en_us": "Shinonome, Akito",
+      "ja_jp": "東雲, 彰人",
+      "zh_cn": "东云, 彰人",
+      "zh_tw": "東雲, 彰人",
+      "ko_kr": "시노노메, 아키토"
+    },
     "aliases": [
-      "有村 麻央",
-      "有村麻央",
-      "아리무라 마오",
-      "아리무라마오"
+      "東雲彰人",
+      "东云彰人",
+      "시노노메아키토",
+      "시노노메 아키토",
+      "Akito Shinonome"
     ]
   },
   {
-    "name": "Fujita, Kotone",
+    "name": {
+      "en_us": "Shiraishi, An",
+      "ja_jp": "白石, 杏",
+      "zh_cn": "白石, 杏",
+      "zh_tw": "白石, 杏",
+      "ko_kr": "시라이시, 안"
+    },
     "aliases": [
-      "藤田 ことね",
-      "藤田ことね",
-      "藤田琴音",
-      "후지타 코토네",
-      "후지타코토네"
+      "白石杏",
+      "시라이시안",
+      "시라이시 안",
+      "An Shiraishi"
     ]
   },
   {
-    "name": "Tsukimura, Temari",
+    "name": {
+      "en_us": "Azusawa, Kohane",
+      "ja_jp": "小豆沢, こはね",
+      "zh_cn": "小豆泽, 心羽",
+      "zh_tw": "小豆澤, 心羽",
+      "ko_kr": "아즈사와, 코하네"
+    },
     "aliases": [
-      "月村 手毬",
-      "月村手毬",
-      "츠키무라 테마리",
-      "츠키무라테마리"
+      "小豆沢こはね",
+      "小豆泽心羽",
+      "小豆澤心羽",
+      "아즈사와코하네",
+      "아즈사와 코하네",
+      "Kohane Azusawa"
     ]
   },
   {
-    "name": "Hanami, Saki",
+    "name": {
+      "en_us": "Hinomori, Shizuku",
+      "ja_jp": "日野森, 雫",
+      "zh_cn": "日野森, 雫",
+      "zh_tw": "日野森, 雫",
+      "ko_kr": "히노모리, 시즈쿠"
+    },
     "aliases": [
-      "花海 咲季",
-      "花海咲季",
-      "하나미 사키",
-      "하나미사키"
+      "日野森雫",
+      "히노모리시즈쿠",
+      "히노모리 시즈쿠",
+      "Shizuku Hinomori"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Momoi, Airi",
+      "ja_jp": "桃井, 愛莉",
+      "zh_cn": "桃井, 爱莉",
+      "zh_tw": "桃井, 愛莉",
+      "ko_kr": "모모이, 아이리"
+    },
+    "aliases": [
+      "桃井愛莉",
+      "桃井爱莉",
+      "모모이아이리",
+      "모모이 아이리",
+      "Airi Momoi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kiritani, Haruka",
+      "ja_jp": "桐谷, 遥",
+      "zh_cn": "桐谷, 遥",
+      "zh_tw": "桐谷, 遙",
+      "ko_kr": "키리타니, 하루카"
+    },
+    "aliases": [
+      "桐谷遥",
+      "桐谷遙",
+      "키리타니하루카",
+      "키리타니 하루카",
+      "Haruka Kiritani"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hanasato, Minori",
+      "ja_jp": "花里, みのり",
+      "zh_cn": "花里, 实乃理",
+      "zh_tw": "花里, 實乃理",
+      "ko_kr": "하나사토, 미노리"
+    },
+    "aliases": [
+      "花里みのり",
+      "花里实乃理",
+      "花里實乃理",
+      "하나사토미노리",
+      "하나사토 미노리",
+      "Minori Hanasato"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hinomori, Shiho",
+      "ja_jp": "日野森, 志歩",
+      "zh_cn": "日野森, 志步",
+      "zh_tw": "日野森, 志步",
+      "ko_kr": "히노모리, 시호"
+    },
+    "aliases": [
+      "日野森志歩",
+      "日野森志步",
+      "히노모리시호",
+      "히노모리 시호",
+      "Shiho Hinomori"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Mochizuki, Honami",
+      "ja_jp": "望月, 穂波",
+      "zh_cn": "望月, 穗波",
+      "zh_tw": "望月, 穗波",
+      "ko_kr": "모치즈키, 호나미"
+    },
+    "aliases": [
+      "望月穂波",
+      "望月穗波",
+      "모치즈키호나미",
+      "모치즈키 호나미",
+      "Honami Mochizuki"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Tenma, Saki",
+      "ja_jp": "天馬, 咲希",
+      "zh_cn": "天马, 咲希",
+      "zh_tw": "天馬, 咲希",
+      "ko_kr": "텐마, 사키"
+    },
+    "aliases": [
+      "天馬咲希",
+      "天马咲希",
+      "텐마사키",
+      "텐마 사키",
+      "Saki Tenma"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hoshino, Ichika",
+      "ja_jp": "星乃, 一歌",
+      "zh_cn": "星乃, 一歌",
+      "zh_tw": "星乃, 一歌",
+      "ko_kr": "호시노, 이치카"
+    },
+    "aliases": [
+      "星乃一歌",
+      "호시노이치카",
+      "호시노 이치카",
+      "Ichika Hoshino"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "KAITO",
+      "ko_kr": "카이토"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "MEIKO",
+      "ko_kr": "메이코"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Megurine, Luka",
+      "ja_jp": "巡音, ルカ",
+      "zh_cn": "巡音, 流歌",
+      "zh_tw": "巡音, 流歌",
+      "ko_kr": "메구리네, 루카"
+    },
+    "aliases": [
+      "巡音ルカ",
+      "巡音流歌",
+      "메구리네루카",
+      "메구리네 루카",
+      "Luka Megurine"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kagamine, Len",
+      "ja_jp": "鏡音, レン",
+      "zh_cn": "镜音, 连",
+      "zh_tw": "鏡音, 連",
+      "ko_kr": "카가미네, 렌"
+    },
+    "aliases": [
+      "鏡音レン",
+      "镜音连",
+      "鏡音連",
+      "카가미네렌",
+      "카가미네 렌",
+      "Len Kagamine"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kagamine, Rin",
+      "ja_jp": "鏡音, リン",
+      "zh_cn": "镜音, 铃",
+      "zh_tw": "鏡音, 鈴",
+      "ko_kr": "카가미네, 린"
+    },
+    "aliases": [
+      "鏡音リン",
+      "镜音铃",
+      "鏡音鈴",
+      "카가미네린",
+      "카가미네 린",
+      "Rin Kagamine"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hatsune, Miku",
+      "ja_jp": "初音, ミク",
+      "zh_cn": "初音, 未来",
+      "zh_tw": "初音, 未來",
+      "ko_kr": "하츠네, 미쿠"
+    },
+    "aliases": [
+      "初音ミク",
+      "初音未来",
+      "初音未來",
+      "하츠네미쿠",
+      "하츠네 미쿠",
+      "Miku Hatsune"
     ]
   }
 ]

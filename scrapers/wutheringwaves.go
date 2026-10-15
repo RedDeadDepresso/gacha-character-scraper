@@ -15,7 +15,7 @@ const (
 	wuwaURL = "https://api-v2.encore.moe/api/%s/character"
 )
 
-// Languages for the encore.moe API; "en" is the primary one, the rest become aliases.
+// Languages for the encore.moe API (converted with LangCode).
 var wuwaLangs = []string{"en", "zh-Hans", "zh-Hant", "ja", "ko"}
 
 // WutheringWaves reads the character list from the encore.moe API.
@@ -38,7 +38,7 @@ func (w WutheringWaves) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(w.Name()) {
+	if upToDate(w.Name(), sha, existing) {
 		log.Printf("[Wuthering Waves] wuwa-companion unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -86,26 +86,21 @@ func (w WutheringWaves) Scrape(existing []Character) ([]Character, error) {
 
 	chars := make([]Character, 0, len(list))
 	for _, e := range list {
-		c := Character{Name: e.name, Aliases: []string{}}
-		seen := map[string]bool{strings.ToLower(e.name): true}
-		add := func(a string) {
-			a = strings.TrimSpace(a)
-			if a != "" && !seen[strings.ToLower(a)] {
-				seen[strings.ToLower(a)] = true
-				c.Aliases = append(c.Aliases, a)
-			}
+		b := newNameBuilder()
+		if strings.EqualFold(e.name, "Rover") {
+			// The variants (Rover: Spectro, ...) are aliases, not names.
+			b.Name(LangEN, e.name).
+				Name(LangZH, "漂泊者").Name(LangTW, "漂泊者").Name(LangJA, "漂泊者").
+				Name(LangKO, "방랑자")
 		}
-		// Aliases from every merged id (for Rover this includes the variant names).
+		// The oldest id gives the names; the others (for Rover, the variants)
+		// only give aliases.
 		for _, lang := range wuwaLangs {
 			for _, id := range e.ids {
-				add(names[lang][id])
+				b.Name(lang, names[lang][id])
 			}
 		}
-		if strings.EqualFold(e.name, "Rover") {
-			add("漂泊者") // Chinese / Japanese name of Rover
-			add("방랑자") // Korean name of Rover
-		}
-		chars = append(chars, c)
+		chars = append(chars, b.Character())
 	}
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("wuthering waves: no characters found")

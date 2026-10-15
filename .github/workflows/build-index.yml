@@ -6,7 +6,7 @@ on:
     branches: [main]
     paths:
       [
-        "config/games.json",
+        "config/series.json",
         "data/**",
         "cmd/**",
         ".github/workflows/build-index.yml",

@@ -26,13 +26,13 @@ type fgoEntry struct {
 // Scrape skips everything when the fgo-game-data-api commit hasn't changed
 // since the last run (cached in config/commits.json). servant_names.json maps
 // Japanese names to English names, oldest servant first; the result is stored
-// newest-first with the Japanese name as an alias.
+// newest-first with English and Japanese names.
 func (f FateGrandOrder) Scrape(existing []Character) ([]Character, error) {
 	sha, err := LatestCommit(fgoRepo, fgoBranch)
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(f.Name()) {
+	if upToDate(f.Name(), sha, existing) {
 		log.Printf("[Fate Grand Order] fgo-game-data-api unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -75,7 +75,7 @@ func (f FateGrandOrder) Scrape(existing []Character) ([]Character, error) {
 	var oldest []Character
 	pos := map[string]int{}
 	add := func(p int, aliases ...string) {
-		oldest[p].Aliases = cleanAliases(oldest[p].Name, append(oldest[p].Aliases, aliases...))
+		oldest[p] = builderOf(oldest[p]).Alias(aliases...).Character()
 	}
 	slot := make([]int, len(entries)) // entry index -> index in oldest
 	for i, e := range entries {
@@ -85,12 +85,12 @@ func (f FateGrandOrder) Scrape(existing []Character) ([]Character, error) {
 		key := strings.ToLower(e.en)
 		if p, ok := pos[key]; ok {
 			slot[i] = p
-			add(p, e.jp)
+			oldest[p] = builderOf(oldest[p]).Name(LangJA, e.jp).Character()
 			continue
 		}
 		pos[key] = len(oldest)
 		slot[i] = len(oldest)
-		oldest = append(oldest, Character{Name: e.en, Aliases: cleanAliases(e.en, []string{e.jp})})
+		oldest = append(oldest, newNameBuilder().Name(LangEN, e.en).Name(LangJA, e.jp).Character())
 	}
 	for i, e := range entries {
 		if root[i] != i {

@@ -1,229 +1,292 @@
 [
   {
-    "name": "Yangyang: Xuanling",
-    "aliases": [
-      "秧秧·玄翎",
-      "秧秧・玄翎",
-      "양양 · 현령"
-    ]
+    "name": {
+      "en_us": "Yangyang: Xuanling",
+      "ja_jp": "秧秧・玄翎",
+      "ko_kr": "양양 · 현령",
+      "zh_cn": "秧秧·玄翎",
+      "zh_tw": "秧秧·玄翎"
+    },
+    "aliases": []
   },
   {
-    "name": "Phrolova",
-    "aliases": [
-      "弗洛洛",
-      "フローヴァ",
-      "플로로"
-    ]
+    "name": {
+      "en_us": "Phrolova",
+      "ja_jp": "フローヴァ",
+      "ko_kr": "플로로",
+      "zh_cn": "弗洛洛",
+      "zh_tw": "弗洛洛"
+    },
+    "aliases": []
   },
   {
-    "name": "Cantarella",
-    "aliases": [
-      "坎特蕾拉",
-      "カンタレラ",
-      "칸타렐라"
-    ]
+    "name": {
+      "en_us": "Cantarella",
+      "ja_jp": "カンタレラ",
+      "ko_kr": "칸타렐라",
+      "zh_cn": "坎特蕾拉",
+      "zh_tw": "坎特蕾拉"
+    },
+    "aliases": []
   },
   {
-    "name": "Roccia",
-    "aliases": [
-      "洛可可",
-      "ロココ",
-      "로코코"
-    ]
+    "name": {
+      "en_us": "Roccia",
+      "ja_jp": "ロココ",
+      "ko_kr": "로코코",
+      "zh_cn": "洛可可",
+      "zh_tw": "洛可可"
+    },
+    "aliases": []
   },
   {
-    "name": "Camellya",
-    "aliases": [
-      "椿",
-      "ツバキ",
-      "카멜리아"
-    ]
+    "name": {
+      "en_us": "Camellya",
+      "ja_jp": "ツバキ",
+      "ko_kr": "카멜리아",
+      "zh_cn": "椿",
+      "zh_tw": "椿"
+    },
+    "aliases": []
   },
   {
-    "name": "Danjin",
-    "aliases": [
-      "丹瑾",
-      "단근"
-    ]
+    "name": {
+      "en_us": "Danjin",
+      "ja_jp": "丹瑾",
+      "ko_kr": "단근",
+      "zh_cn": "丹瑾",
+      "zh_tw": "丹瑾"
+    },
+    "aliases": []
   },
   {
-    "name": "Taoqi",
-    "aliases": [
-      "桃祈",
-      "도기"
-    ]
+    "name": {
+      "en_us": "Taoqi",
+      "ja_jp": "桃祈",
+      "ko_kr": "도기",
+      "zh_cn": "桃祈",
+      "zh_tw": "桃祈"
+    },
+    "aliases": []
   },
   {
-    "name": "Lucy",
-    "aliases": [
-      "露西",
-      "ルーシー",
-      "루시"
-    ]
+    "name": {
+      "en_us": "Lucy",
+      "ja_jp": "ルーシー",
+      "ko_kr": "루시",
+      "zh_cn": "露西",
+      "zh_tw": "露西"
+    },
+    "aliases": []
   },
   {
-    "name": "Luuk Herssen",
-    "aliases": [
-      "陆·赫斯",
-      "陸·赫斯",
-      "リューク・ヘルセン",
-      "루크 · 헤르센"
-    ]
+    "name": {
+      "en_us": "Luuk Herssen",
+      "ja_jp": "リューク・ヘルセン",
+      "ko_kr": "루크 · 헤르센",
+      "zh_cn": "陆·赫斯",
+      "zh_tw": "陸·赫斯"
+    },
+    "aliases": []
   },
   {
-    "name": "Lynae",
-    "aliases": [
-      "琳奈",
-      "リンネー",
-      "린네"
-    ]
+    "name": {
+      "en_us": "Lynae",
+      "ja_jp": "リンネー",
+      "ko_kr": "린네",
+      "zh_cn": "琳奈",
+      "zh_tw": "琳奈"
+    },
+    "aliases": []
   },
   {
-    "name": "Chisa",
-    "aliases": [
-      "千咲",
-      "치사"
-    ]
+    "name": {
+      "en_us": "Chisa",
+      "ja_jp": "千咲",
+      "ko_kr": "치사",
+      "zh_cn": "千咲",
+      "zh_tw": "千咲"
+    },
+    "aliases": []
   },
   {
-    "name": "Zani",
-    "aliases": [
-      "赞妮",
-      "贊妮",
-      "ザンニー",
-      "젠니"
-    ]
+    "name": {
+      "en_us": "Zani",
+      "ja_jp": "ザンニー",
+      "ko_kr": "젠니",
+      "zh_cn": "赞妮",
+      "zh_tw": "贊妮"
+    },
+    "aliases": []
   },
   {
-    "name": "Phoebe",
-    "aliases": [
-      "菲比",
-      "フィービー",
-      "페비"
-    ]
+    "name": {
+      "en_us": "Phoebe",
+      "ja_jp": "フィービー",
+      "ko_kr": "페비",
+      "zh_cn": "菲比",
+      "zh_tw": "菲比"
+    },
+    "aliases": []
   },
   {
-    "name": "Shorekeeper",
-    "aliases": [
-      "守岸人",
-      "ショアキーパー",
-      "파수인"
-    ]
+    "name": {
+      "en_us": "Shorekeeper",
+      "ja_jp": "ショアキーパー",
+      "ko_kr": "파수인",
+      "zh_cn": "守岸人",
+      "zh_tw": "守岸人"
+    },
+    "aliases": []
   },
   {
-    "name": "Lumi",
-    "aliases": [
-      "灯灯",
-      "燈燈",
-      "루미"
-    ]
+    "name": {
+      "en_us": "Lumi",
+      "ja_jp": "灯灯",
+      "ko_kr": "루미",
+      "zh_cn": "灯灯",
+      "zh_tw": "燈燈"
+    },
+    "aliases": []
   },
   {
-    "name": "Verina",
-    "aliases": [
-      "维里奈",
-      "維里奈",
-      "ヴェリーナ",
-      "벨리나"
-    ]
+    "name": {
+      "en_us": "Verina",
+      "ja_jp": "ヴェリーナ",
+      "ko_kr": "벨리나",
+      "zh_cn": "维里奈",
+      "zh_tw": "維里奈"
+    },
+    "aliases": []
   },
   {
-    "name": "Qingxiao",
-    "aliases": [
-      "清宵",
-      "청초"
-    ]
+    "name": {
+      "en_us": "Qingxiao",
+      "ja_jp": "清宵",
+      "ko_kr": "청초",
+      "zh_cn": "清宵",
+      "zh_tw": "清宵"
+    },
+    "aliases": []
   },
   {
-    "name": "Sigrika",
-    "aliases": [
-      "西格莉卡",
-      "シグリカ",
-      "시그리카"
-    ]
+    "name": {
+      "en_us": "Sigrika",
+      "ja_jp": "シグリカ",
+      "ko_kr": "시그리카",
+      "zh_cn": "西格莉卡",
+      "zh_tw": "西格莉卡"
+    },
+    "aliases": []
   },
   {
-    "name": "Qiuyuan",
-    "aliases": [
-      "仇远",
-      "仇遠",
-      "구원"
-    ]
+    "name": {
+      "en_us": "Qiuyuan",
+      "ja_jp": "仇遠",
+      "ko_kr": "구원",
+      "zh_cn": "仇远",
+      "zh_tw": "仇遠"
+    },
+    "aliases": []
   },
   {
-    "name": "Iuno",
-    "aliases": [
-      "尤诺",
-      "尤諾",
-      "ユーノ",
-      "유노"
-    ]
+    "name": {
+      "en_us": "Iuno",
+      "ja_jp": "ユーノ",
+      "ko_kr": "유노",
+      "zh_cn": "尤诺",
+      "zh_tw": "尤諾"
+    },
+    "aliases": []
   },
   {
-    "name": "Cartethyia",
-    "aliases": [
-      "卡提希娅",
-      "卡提希婭",
-      "カルテジア",
-      "카르티시아"
-    ]
+    "name": {
+      "en_us": "Cartethyia",
+      "ja_jp": "カルテジア",
+      "ko_kr": "카르티시아",
+      "zh_cn": "卡提希娅",
+      "zh_tw": "卡提希婭"
+    },
+    "aliases": []
   },
   {
-    "name": "Ciaccona",
-    "aliases": [
-      "夏空",
-      "シャコンヌ",
-      "샤콘"
-    ]
+    "name": {
+      "en_us": "Ciaccona",
+      "ja_jp": "シャコンヌ",
+      "ko_kr": "샤콘",
+      "zh_cn": "夏空",
+      "zh_tw": "夏空"
+    },
+    "aliases": []
   },
   {
-    "name": "Jianxin",
-    "aliases": [
-      "鉴心",
-      "鑒心",
-      "鑑心",
-      "감심"
-    ]
+    "name": {
+      "en_us": "Jianxin",
+      "ja_jp": "鑑心",
+      "ko_kr": "감심",
+      "zh_cn": "鉴心",
+      "zh_tw": "鑒心"
+    },
+    "aliases": []
   },
   {
-    "name": "Jiyan",
-    "aliases": [
-      "忌炎",
-      "기염"
-    ]
+    "name": {
+      "en_us": "Jiyan",
+      "ja_jp": "忌炎",
+      "ko_kr": "기염",
+      "zh_cn": "忌炎",
+      "zh_tw": "忌炎"
+    },
+    "aliases": []
   },
   {
-    "name": "Aalto",
-    "aliases": [
-      "秋水",
-      "アールト",
-      "알토"
-    ]
+    "name": {
+      "en_us": "Aalto",
+      "ja_jp": "アールト",
+      "ko_kr": "알토",
+      "zh_cn": "秋水",
+      "zh_tw": "秋水"
+    },
+    "aliases": []
   },
   {
-    "name": "Yangyang",
-    "aliases": [
-      "秧秧",
-      "양양"
-    ]
+    "name": {
+      "en_us": "Yangyang",
+      "ja_jp": "秧秧",
+      "ko_kr": "양양",
+      "zh_cn": "秧秧",
+      "zh_tw": "秧秧"
+    },
+    "aliases": []
   },
   {
-    "name": "Suoming",
-    "aliases": [
-      "锁暝",
-      "鎖暝",
-      "쇄명"
-    ]
+    "name": {
+      "en_us": "Suoming",
+      "ja_jp": "鎖暝",
+      "ko_kr": "쇄명",
+      "zh_cn": "锁暝",
+      "zh_tw": "鎖暝"
+    },
+    "aliases": []
   },
   {
-    "name": "Hsin",
-    "aliases": [
-      "心",
-      "여우의 별자리"
-    ]
+    "name": {
+      "en_us": "Hsin",
+      "ja_jp": "心",
+      "ko_kr": "여우의 별자리",
+      "zh_cn": "心",
+      "zh_tw": "心"
+    },
+    "aliases": []
   },
   {
-    "name": "Rover",
+    "name": {
+      "en_us": "Rover",
+      "ja_jp": "漂泊者",
+      "ko_kr": "방랑자",
+      "zh_cn": "漂泊者",
+      "zh_tw": "漂泊者"
+    },
     "aliases": [
       "Rover: Electro",
       "Rover: Aero",
@@ -243,236 +306,287 @@
       "방랑자 · 전도",
       "방랑자 · 기류",
       "방랑자 · 회절",
-      "방랑자",
-      "방랑자 · 인멸",
-      "漂泊者"
+      "방랑자 · 인멸"
     ]
   },
   {
-    "name": "Rebecca",
-    "aliases": [
-      "丽贝卡",
-      "蕾貝卡",
-      "レベッカ",
-      "레베카"
-    ]
+    "name": {
+      "en_us": "Rebecca",
+      "ja_jp": "レベッカ",
+      "ko_kr": "레베카",
+      "zh_cn": "丽贝卡",
+      "zh_tw": "蕾貝卡"
+    },
+    "aliases": []
   },
   {
-    "name": "Buling",
-    "aliases": [
-      "卜灵",
-      "卜靈",
-      "卜霊",
-      "복링"
-    ]
+    "name": {
+      "en_us": "Buling",
+      "ja_jp": "卜霊",
+      "ko_kr": "복링",
+      "zh_cn": "卜灵",
+      "zh_tw": "卜靈"
+    },
+    "aliases": []
   },
   {
-    "name": "Augusta",
-    "aliases": [
-      "奥古斯塔",
-      "奧古斯塔",
-      "オーガスタ",
-      "아우구스타"
-    ]
+    "name": {
+      "en_us": "Augusta",
+      "ja_jp": "オーガスタ",
+      "ko_kr": "아우구스타",
+      "zh_cn": "奥古斯塔",
+      "zh_tw": "奧古斯塔"
+    },
+    "aliases": []
   },
   {
-    "name": "Xiangli Yao",
-    "aliases": [
-      "相里要",
-      "상리요"
-    ]
+    "name": {
+      "en_us": "Xiangli Yao",
+      "ja_jp": "相里要",
+      "ko_kr": "상리요",
+      "zh_cn": "相里要",
+      "zh_tw": "相里要"
+    },
+    "aliases": []
   },
   {
-    "name": "Jinhsi",
-    "aliases": [
-      "今汐",
-      "금희"
-    ]
+    "name": {
+      "en_us": "Jinhsi",
+      "ja_jp": "今汐",
+      "ko_kr": "금희",
+      "zh_cn": "今汐",
+      "zh_tw": "今汐"
+    },
+    "aliases": []
   },
   {
-    "name": "Yuanwu",
-    "aliases": [
-      "渊武",
-      "淵武",
-      "연무"
-    ]
+    "name": {
+      "en_us": "Yuanwu",
+      "ja_jp": "淵武",
+      "ko_kr": "연무",
+      "zh_cn": "渊武",
+      "zh_tw": "淵武"
+    },
+    "aliases": []
   },
   {
-    "name": "Yinlin",
-    "aliases": [
-      "吟霖",
-      "음림"
-    ]
+    "name": {
+      "en_us": "Yinlin",
+      "ja_jp": "吟霖",
+      "ko_kr": "음림",
+      "zh_cn": "吟霖",
+      "zh_tw": "吟霖"
+    },
+    "aliases": []
   },
   {
-    "name": "Calcharo",
-    "aliases": [
-      "卡卡罗",
-      "卡卡羅",
-      "カカロ",
-      "카카루"
-    ]
+    "name": {
+      "en_us": "Calcharo",
+      "ja_jp": "カカロ",
+      "ko_kr": "카카루",
+      "zh_cn": "卡卡罗",
+      "zh_tw": "卡卡羅"
+    },
+    "aliases": []
   },
   {
-    "name": "Jingran",
-    "aliases": [
-      "景燃",
-      "경연"
-    ]
+    "name": {
+      "en_us": "Jingran",
+      "ja_jp": "景燃",
+      "ko_kr": "경연",
+      "zh_cn": "景燃",
+      "zh_tw": "景燃"
+    },
+    "aliases": []
   },
   {
-    "name": "Denia",
-    "aliases": [
-      "达妮娅",
-      "達妮婭",
-      "ダーニャ",
-      "데니아"
-    ]
+    "name": {
+      "en_us": "Denia",
+      "ja_jp": "ダーニャ",
+      "ko_kr": "데니아",
+      "zh_cn": "达妮娅",
+      "zh_tw": "達妮婭"
+    },
+    "aliases": []
   },
   {
-    "name": "Aemeath",
-    "aliases": [
-      "爱弥斯",
-      "愛彌斯",
-      "エイメス",
-      "에이메스"
-    ]
+    "name": {
+      "en_us": "Aemeath",
+      "ja_jp": "エイメス",
+      "ko_kr": "에이메스",
+      "zh_cn": "爱弥斯",
+      "zh_tw": "愛彌斯"
+    },
+    "aliases": []
   },
   {
-    "name": "Mornye",
-    "aliases": [
-      "莫宁",
-      "莫寧",
-      "モーニエ",
-      "모니에"
-    ]
+    "name": {
+      "en_us": "Mornye",
+      "ja_jp": "モーニエ",
+      "ko_kr": "모니에",
+      "zh_cn": "莫宁",
+      "zh_tw": "莫寧"
+    },
+    "aliases": []
   },
   {
-    "name": "Galbrena",
-    "aliases": [
-      "嘉贝莉娜",
-      "嘉貝莉娜",
-      "ガルブレーナ",
-      "갈브레나"
-    ]
+    "name": {
+      "en_us": "Galbrena",
+      "ja_jp": "ガルブレーナ",
+      "ko_kr": "갈브레나",
+      "zh_cn": "嘉贝莉娜",
+      "zh_tw": "嘉貝莉娜"
+    },
+    "aliases": []
   },
   {
-    "name": "Lupa",
-    "aliases": [
-      "露帕",
-      "ルパ",
-      "루파"
-    ]
+    "name": {
+      "en_us": "Lupa",
+      "ja_jp": "ルパ",
+      "ko_kr": "루파",
+      "zh_cn": "露帕",
+      "zh_tw": "露帕"
+    },
+    "aliases": []
   },
   {
-    "name": "Brant",
-    "aliases": [
-      "布兰特",
-      "布蘭特",
-      "ブラント",
-      "브렌트"
-    ]
+    "name": {
+      "en_us": "Brant",
+      "ja_jp": "ブラント",
+      "ko_kr": "브렌트",
+      "zh_cn": "布兰特",
+      "zh_tw": "布蘭特"
+    },
+    "aliases": []
   },
   {
-    "name": "Changli",
-    "aliases": [
-      "长离",
-      "長離",
-      "장리"
-    ]
+    "name": {
+      "en_us": "Changli",
+      "ja_jp": "長離",
+      "ko_kr": "장리",
+      "zh_cn": "长离",
+      "zh_tw": "長離"
+    },
+    "aliases": []
   },
   {
-    "name": "Mortefi",
-    "aliases": [
-      "莫特斐",
-      "モルトフィー",
-      "모르테피"
-    ]
+    "name": {
+      "en_us": "Mortefi",
+      "ja_jp": "モルトフィー",
+      "ko_kr": "모르테피",
+      "zh_cn": "莫特斐",
+      "zh_tw": "莫特斐"
+    },
+    "aliases": []
   },
   {
-    "name": "Encore",
-    "aliases": [
-      "安可",
-      "アンコ",
-      "앙코"
-    ]
+    "name": {
+      "en_us": "Encore",
+      "ja_jp": "アンコ",
+      "ko_kr": "앙코",
+      "zh_cn": "安可",
+      "zh_tw": "安可"
+    },
+    "aliases": []
   },
   {
-    "name": "Chixia",
-    "aliases": [
-      "炽霞",
-      "熾霞",
-      "치샤"
-    ]
+    "name": {
+      "en_us": "Chixia",
+      "ja_jp": "熾霞",
+      "ko_kr": "치샤",
+      "zh_cn": "炽霞",
+      "zh_tw": "熾霞"
+    },
+    "aliases": []
   },
   {
-    "name": "Suisui",
-    "aliases": [
-      "穗穗",
-      "穂穂",
-      "수수"
-    ]
+    "name": {
+      "en_us": "Suisui",
+      "ja_jp": "穂穂",
+      "ko_kr": "수수",
+      "zh_cn": "穗穗",
+      "zh_tw": "穗穗"
+    },
+    "aliases": []
   },
   {
-    "name": "Lucilla",
-    "aliases": [
-      "洛瑟菈",
-      "ルシラー",
-      "루실라"
-    ]
+    "name": {
+      "en_us": "Lucilla",
+      "ja_jp": "ルシラー",
+      "ko_kr": "루실라",
+      "zh_cn": "洛瑟菈",
+      "zh_tw": "洛瑟菈"
+    },
+    "aliases": []
   },
   {
-    "name": "Hiyuki",
-    "aliases": [
-      "绯雪",
-      "緋雪",
-      "히유키"
-    ]
+    "name": {
+      "en_us": "Hiyuki",
+      "ja_jp": "緋雪",
+      "ko_kr": "히유키",
+      "zh_cn": "绯雪",
+      "zh_tw": "緋雪"
+    },
+    "aliases": []
   },
   {
-    "name": "Carlotta",
-    "aliases": [
-      "珂莱塔",
-      "珂萊塔",
-      "カルロッタ",
-      "카를로타"
-    ]
+    "name": {
+      "en_us": "Carlotta",
+      "ja_jp": "カルロッタ",
+      "ko_kr": "카를로타",
+      "zh_cn": "珂莱塔",
+      "zh_tw": "珂萊塔"
+    },
+    "aliases": []
   },
   {
-    "name": "Youhu",
-    "aliases": [
-      "釉瑚",
-      "유호"
-    ]
+    "name": {
+      "en_us": "Youhu",
+      "ja_jp": "釉瑚",
+      "ko_kr": "유호",
+      "zh_cn": "釉瑚",
+      "zh_tw": "釉瑚"
+    },
+    "aliases": []
   },
   {
-    "name": "Zhezhi",
-    "aliases": [
-      "折枝",
-      "절지"
-    ]
+    "name": {
+      "en_us": "Zhezhi",
+      "ja_jp": "折枝",
+      "ko_kr": "절지",
+      "zh_cn": "折枝",
+      "zh_tw": "折枝"
+    },
+    "aliases": []
   },
   {
-    "name": "Lingyang",
-    "aliases": [
-      "凌阳",
-      "凌陽",
-      "능양"
-    ]
+    "name": {
+      "en_us": "Lingyang",
+      "ja_jp": "凌陽",
+      "ko_kr": "능양",
+      "zh_cn": "凌阳",
+      "zh_tw": "凌陽"
+    },
+    "aliases": []
   },
   {
-    "name": "Baizhi",
-    "aliases": [
-      "白芷",
-      "설지"
-    ]
+    "name": {
+      "en_us": "Baizhi",
+      "ja_jp": "白芷",
+      "ko_kr": "설지",
+      "zh_cn": "白芷",
+      "zh_tw": "白芷"
+    },
+    "aliases": []
   },
   {
-    "name": "Sanhua",
-    "aliases": [
-      "散华",
-      "散華",
-      "산화"
-    ]
+    "name": {
+      "en_us": "Sanhua",
+      "ja_jp": "散華",
+      "ko_kr": "산화",
+      "zh_cn": "散华",
+      "zh_tw": "散華"
+    },
+    "aliases": []
   }
 ]

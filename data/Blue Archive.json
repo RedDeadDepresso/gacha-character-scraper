@@ -1,6 +1,12 @@
 [
   {
-    "name": "Saten, Ruiko",
+    "name": {
+      "en_us": "Saten, Ruiko",
+      "ja_jp": "佐天, 涙子",
+      "ko_kr": "사텐, 루이코",
+      "zh_cn": "佐天, 泪子",
+      "zh_tw": "佐天, 淚子"
+    },
     "aliases": [
       "Ruiko Saten",
       "Saten Ruiko",
@@ -15,7 +21,13 @@
     ]
   },
   {
-    "name": "Endou, Shimiko",
+    "name": {
+      "en_us": "Endou, Shimiko",
+      "ja_jp": "円堂, シミコ",
+      "ko_kr": "엔도우, 시미코",
+      "zh_cn": "圆堂, 志美子",
+      "zh_tw": "円堂, 志美子"
+    },
     "aliases": [
       "Shimiko Endou",
       "Shimiko",
@@ -33,7 +45,13 @@
     ]
   },
   {
-    "name": "Kawawa, Shizuko",
+    "name": {
+      "en_us": "Kawawa, Shizuko",
+      "ja_jp": "河和, シズコ",
+      "ko_kr": "카와와, 시즈코",
+      "zh_cn": "河和, 静子",
+      "zh_tw": "河和, 靜子"
+    },
     "aliases": [
       "Shizuko Kawawa",
       "Shizuko",
@@ -52,7 +70,13 @@
     ]
   },
   {
-    "name": "Okusora, Ayane",
+    "name": {
+      "en_us": "Okusora, Ayane",
+      "ja_jp": "奥空, アヤネ",
+      "ko_kr": "오쿠소라, 아야네",
+      "zh_cn": "奥空, 绫音",
+      "zh_tw": "奥空, 綾音"
+    },
     "aliases": [
       "Ayane Okusora",
       "Ayane",
@@ -71,7 +95,13 @@
     ]
   },
   {
-    "name": "Hatami, Erika",
+    "name": {
+      "en_us": "Hatami, Erika",
+      "ja_jp": "旗見, エリカ",
+      "ko_kr": "하타미, 에리카",
+      "zh_cn": "旗见, 绘里香",
+      "zh_tw": "旗見, 繪里香"
+    },
     "aliases": [
       "Erika Hatami",
       "Erika",
@@ -90,7 +120,13 @@
     ]
   },
   {
-    "name": "Aramaki, Yakumo",
+    "name": {
+      "en_us": "Aramaki, Yakumo",
+      "ja_jp": "荒槇, ヤクモ",
+      "ko_kr": "아라마키, 야쿠모",
+      "zh_cn": "荒槙, 八云",
+      "zh_tw": "荒槇, 八雲"
+    },
     "aliases": [
       "Yakumo Aramaki",
       "Yakumo",
@@ -109,7 +145,13 @@
     ]
   },
   {
-    "name": "Usuba, Ritsu",
+    "name": {
+      "en_us": "Usuba, Ritsu",
+      "ja_jp": "薄葉, リツ",
+      "ko_kr": "우스바, 리츠",
+      "zh_cn": "薄叶, 律",
+      "zh_tw": "薄葉, 律"
+    },
     "aliases": [
       "Ritsu Usuba",
       "Ritsu",
@@ -127,7 +169,13 @@
     ]
   },
   {
-    "name": "Amachi, Niya",
+    "name": {
+      "en_us": "Amachi, Niya",
+      "ja_jp": "天地, ニヤ",
+      "ko_kr": "아마치, 니야",
+      "zh_cn": "天地, 尼娅",
+      "zh_tw": "天地, 仁耶"
+    },
     "aliases": [
       "Niya Amachi",
       "Niya",
@@ -146,7 +194,13 @@
     ]
   },
   {
-    "name": "Yasumori, Minori",
+    "name": {
+      "en_us": "Yasumori, Minori",
+      "ja_jp": "安守, ミノリ",
+      "ko_kr": "야스모리, 미노리",
+      "zh_cn": "安守, 实里",
+      "zh_tw": "安守, 實里"
+    },
     "aliases": [
       "Minori Yasumori",
       "Minori",
@@ -165,7 +219,13 @@
     ]
   },
   {
-    "name": "Kirifuji, Nagisa",
+    "name": {
+      "en_us": "Kirifuji, Nagisa",
+      "ja_jp": "桐藤, ナギサ",
+      "ko_kr": "키리후지, 나기사",
+      "zh_cn": "桐藤, 渚",
+      "zh_tw": "桐藤, 渚"
+    },
     "aliases": [
       "Nagisa Kirifuji",
       "Nagisa",
@@ -181,7 +241,13 @@
     ]
   },
   {
-    "name": "Aikiyo, Fuuka",
+    "name": {
+      "en_us": "Aikiyo, Fuuka",
+      "ja_jp": "愛清, フウカ",
+      "ko_kr": "아이키요, 후우카",
+      "zh_cn": "爱清, 枫香",
+      "zh_tw": "愛清, 風華"
+    },
     "aliases": [
       "Fuuka Aikiyo",
       "愛清フウカ",
@@ -195,7 +261,13 @@
     ]
   },
   {
-    "name": "Asagao, Hanae",
+    "name": {
+      "en_us": "Asagao, Hanae",
+      "ja_jp": "朝顔, ハナエ",
+      "ko_kr": "아사가오, 하나에",
+      "zh_cn": "朝颜, 花江",
+      "zh_tw": "朝顏, 花繪"
+    },
     "aliases": [
       "Hanae Asagao",
       "朝顔ハナエ",
@@ -209,7 +281,13 @@
     ]
   },
   {
-    "name": "Akeboshi, Himari",
+    "name": {
+      "en_us": "Akeboshi, Himari",
+      "ja_jp": "明星, ヒマリ",
+      "ko_kr": "아케보시, 히마리",
+      "zh_cn": "明星, 日鞠",
+      "zh_tw": "明星, 陽葵"
+    },
     "aliases": [
       "Himari Akeboshi",
       "Himari",
@@ -228,7 +306,13 @@
     ]
   },
   {
-    "name": "Isami, Kaede",
+    "name": {
+      "en_us": "Isami, Kaede",
+      "ja_jp": "勇美, カエデ",
+      "ko_kr": "이사미, 카에데",
+      "zh_cn": "勇美, 枫",
+      "zh_tw": "勇美, 楓"
+    },
     "aliases": [
       "Kaede Isami",
       "Kaede",
@@ -247,7 +331,13 @@
     ]
   },
   {
-    "name": "Kagami, Chihiro",
+    "name": {
+      "en_us": "Kagami, Chihiro",
+      "ja_jp": "各務, チヒロ",
+      "ko_kr": "카가미, 치히로",
+      "zh_cn": "各务, 千寻",
+      "zh_tw": "各務, 千尋"
+    },
     "aliases": [
       "Chihiro Kagami",
       "Chihiro",
@@ -266,7 +356,13 @@
     ]
   },
   {
-    "name": "Amami, Nodoka",
+    "name": {
+      "en_us": "Amami, Nodoka",
+      "ja_jp": "天見, ノドカ",
+      "ko_kr": "아마미, 노도카",
+      "zh_cn": "天见, 和香",
+      "zh_tw": "天見, 和香"
+    },
     "aliases": [
       "Nodoka Amami",
       "天見ノドカ",
@@ -280,7 +376,13 @@
     ]
   },
   {
-    "name": "Hatsune, Miku",
+    "name": {
+      "en_us": "Hatsune, Miku",
+      "ja_jp": "初音, ミク",
+      "ko_kr": "하츠네, 미쿠",
+      "zh_cn": "初音, 未来",
+      "zh_tw": "初音, 未來"
+    },
     "aliases": [
       "Miku Hatsune",
       "Hatsune Miku",
@@ -295,7 +397,13 @@
     ]
   },
   {
-    "name": "Shizuyama, Mashiro",
+    "name": {
+      "en_us": "Shizuyama, Mashiro",
+      "ja_jp": "静山, マシロ",
+      "ko_kr": "시즈야마, 마시로",
+      "zh_cn": "静山, 真白",
+      "zh_tw": "靜山, 麻白"
+    },
     "aliases": [
       "Mashiro Shizuyama",
       "Mashiro",
@@ -314,7 +422,13 @@
     ]
   },
   {
-    "name": "Yakushi, Saya",
+    "name": {
+      "en_us": "Yakushi, Saya",
+      "ja_jp": "薬子, サヤ",
+      "ko_kr": "야쿠시, 사야",
+      "zh_cn": "药子, 纱绫",
+      "zh_tw": "藥子, 沙耶"
+    },
     "aliases": [
       "Saya Yakushi",
       "Saya",
@@ -333,7 +447,13 @@
     ]
   },
   {
-    "name": "Tenjinyama, Otogi",
+    "name": {
+      "en_us": "Tenjinyama, Otogi",
+      "ja_jp": "天神山, オトギ",
+      "ko_kr": "텐진야마, 오토기",
+      "zh_cn": "天神山, 音葵",
+      "zh_tw": "天神山, 御伽"
+    },
     "aliases": [
       "Otogi Tenjinyama",
       "Otogi",
@@ -352,7 +472,13 @@
     ]
   },
   {
-    "name": "Komakaze, Rabu",
+    "name": {
+      "en_us": "Komakaze, Rabu",
+      "ja_jp": "河駒風, ラブ",
+      "ko_kr": "코마카제, 라브",
+      "zh_cn": "河驹风, 兰舞",
+      "zh_tw": "河駒風, 良舞"
+    },
     "aliases": [
       "Rabu Komakaze",
       "Rabu",
@@ -371,7 +497,13 @@
     ]
   },
   {
-    "name": "Utsumi, Aoba",
+    "name": {
+      "en_us": "Utsumi, Aoba",
+      "ja_jp": "内海, アオバ",
+      "ko_kr": "우츠미, 아오바",
+      "zh_cn": "内海, 青叶",
+      "zh_tw": "內海, 青葉"
+    },
     "aliases": [
       "Aoba Utsumi",
       "Aoba",
@@ -390,7 +522,13 @@
     ]
   },
   {
-    "name": "Kurimura, Airi",
+    "name": {
+      "en_us": "Kurimura, Airi",
+      "ja_jp": "栗村, アイリ",
+      "ko_kr": "쿠리무라, 아이리",
+      "zh_cn": "栗村, 爱莉",
+      "zh_tw": "栗村, 愛莉"
+    },
     "aliases": [
       "Airi Kurimura",
       "栗村アイリ",
@@ -404,7 +542,13 @@
     ]
   },
   {
-    "name": "Tanga, Ibuki",
+    "name": {
+      "en_us": "Tanga, Ibuki",
+      "ja_jp": "丹花, イブキ",
+      "ko_kr": "탄가, 이부키",
+      "zh_cn": "丹花, 伊吹",
+      "zh_tw": "丹花, 伊吹"
+    },
     "aliases": [
       "Ibuki Tanga",
       "Ibuki",
@@ -420,7 +564,13 @@
     ]
   },
   {
-    "name": "Nekozuka, Hibiki",
+    "name": {
+      "en_us": "Nekozuka, Hibiki",
+      "ja_jp": "猫塚, ヒビキ",
+      "ko_kr": "네코즈카, 히비키",
+      "zh_cn": "猫冢, 响",
+      "zh_tw": "猫塚, 響"
+    },
     "aliases": [
       "Hibiki Nekozuka",
       "猫塚ヒビキ",
@@ -434,7 +584,13 @@
     ]
   },
   {
-    "name": "Chidori, Michiru",
+    "name": {
+      "en_us": "Chidori, Michiru",
+      "ja_jp": "千鳥, ミチル",
+      "ko_kr": "치도리, 미치루",
+      "zh_cn": "千鸟, 满",
+      "zh_tw": "千鳥, 三千留"
+    },
     "aliases": [
       "Michiru Chidori",
       "Michiru",
@@ -453,7 +609,13 @@
     ]
   },
   {
-    "name": "Nemugaki, Fubuki",
+    "name": {
+      "en_us": "Nemugaki, Fubuki",
+      "ja_jp": "合歓垣, フブキ",
+      "ko_kr": "네무가키, 후부키",
+      "zh_cn": "合欢垣, 吹雪",
+      "zh_tw": "合歡垣, 吹雪"
+    },
     "aliases": [
       "Fubuki Nemugaki",
       "Fubuki",
@@ -471,7 +633,13 @@
     ]
   },
   {
-    "name": "Sashiro, Tomoe",
+    "name": {
+      "en_us": "Sashiro, Tomoe",
+      "ja_jp": "佐城, トモエ",
+      "ko_kr": "사시로, 토모에",
+      "zh_cn": "佐城, 智惠",
+      "zh_tw": "佐城, 智惠"
+    },
     "aliases": [
       "Tomoe Sashiro",
       "Tomoe",
@@ -487,7 +655,13 @@
     ]
   },
   {
-    "name": "Asahina, Pina",
+    "name": {
+      "en_us": "Asahina, Pina",
+      "ja_jp": "朝比奈, フィーナ",
+      "ko_kr": "아사히나, 피나",
+      "zh_cn": "朝比奈, 菲娜",
+      "zh_tw": "朝比奈, 菲娜"
+    },
     "aliases": [
       "Pina Asahina",
       "Pina",
@@ -503,7 +677,13 @@
     ]
   },
   {
-    "name": "Akiizumi, Momiji",
+    "name": {
+      "en_us": "Akiizumi, Momiji",
+      "ja_jp": "秋泉, モミジ",
+      "ko_kr": "아키이즈미, 모미지",
+      "zh_cn": "秋泉, 红叶",
+      "zh_tw": "秋泉, 紅葉"
+    },
     "aliases": [
       "Momiji Akiizumi",
       "Momiji",
@@ -522,7 +702,13 @@
     ]
   },
   {
-    "name": "Nakatsukasa, Kirino",
+    "name": {
+      "en_us": "Nakatsukasa, Kirino",
+      "ja_jp": "中務, キリノ",
+      "ko_kr": "나카츠카사, 키리노",
+      "zh_cn": "中务, 桐乃",
+      "zh_tw": "中務, 桐乃"
+    },
     "aliases": [
       "Kirino Nakatsukasa",
       "Kirino",
@@ -540,7 +726,13 @@
     ]
   },
   {
-    "name": "Kasuga, Tsubaki",
+    "name": {
+      "en_us": "Kasuga, Tsubaki",
+      "ja_jp": "春日, ツバキ",
+      "ko_kr": "카스가, 츠바키",
+      "zh_cn": "春日, 椿",
+      "zh_tw": "春日, 椿"
+    },
     "aliases": [
       "Tsubaki Kasuga",
       "Tsubaki",
@@ -556,7 +748,13 @@
     ]
   },
   {
-    "name": "Kuromi, Serika",
+    "name": {
+      "en_us": "Kuromi, Serika",
+      "ja_jp": "黒見, セリカ",
+      "ko_kr": "쿠로미, 세리카",
+      "zh_cn": "黑见, 芹香",
+      "zh_tw": "黑見, 茜香"
+    },
     "aliases": [
       "Serika Kuromi",
       "Serika",
@@ -575,7 +773,13 @@
     ]
   },
   {
-    "name": "Akashi, Junko",
+    "name": {
+      "en_us": "Akashi, Junko",
+      "ja_jp": "赤司, ジュンコ",
+      "ko_kr": "아카시, 준코",
+      "zh_cn": "赤司, 纯子",
+      "zh_tw": "赤司, 淳子"
+    },
     "aliases": [
       "Junko Akashi",
       "Junko",
@@ -594,7 +798,13 @@
     ]
   },
   {
-    "name": "Wanibuchi, Akari",
+    "name": {
+      "en_us": "Wanibuchi, Akari",
+      "ja_jp": "鰐渕, アカリ",
+      "ko_kr": "와니부치, 아카리",
+      "zh_cn": "鳄渕, 明里",
+      "zh_tw": "鰐渕, 亞伽里"
+    },
     "aliases": [
       "Akari Wanibuchi",
       "Akari",
@@ -613,7 +823,13 @@
     ]
   },
   {
-    "name": "Murokasa, Akane",
+    "name": {
+      "en_us": "Murokasa, Akane",
+      "ja_jp": "室笠, アカネ",
+      "ko_kr": "무로카사, 아카네",
+      "zh_cn": "室笠, 茜",
+      "zh_tw": "室笠, 朱音"
+    },
     "aliases": [
       "Akane Murokasa",
       "Akane",
@@ -632,7 +848,13 @@
     ]
   },
   {
-    "name": "Fuchigami, Kotone",
+    "name": {
+      "en_us": "Fuchigami, Kotone",
+      "ja_jp": "淵上, コトネ",
+      "ko_kr": "후치가미, 코토네",
+      "zh_cn": "渊上, 琴音",
+      "zh_tw": "淵上, 琴音"
+    },
     "aliases": [
       "Kotone Fuchigami",
       "Kotone",
@@ -650,7 +872,13 @@
     ]
   },
   {
-    "name": "Toumi, Kokoro",
+    "name": {
+      "en_us": "Toumi, Kokoro",
+      "ja_jp": "渡海, ココロ",
+      "ko_kr": "토미, 코코로",
+      "zh_cn": "渡海, 心",
+      "zh_tw": "渡海, 心"
+    },
     "aliases": [
       "Kokoro Toumi",
       "Kokoro",
@@ -666,7 +894,13 @@
     ]
   },
   {
-    "name": "Natsume, Iroha",
+    "name": {
+      "en_us": "Natsume, Iroha",
+      "ja_jp": "棗, イロハ",
+      "ko_kr": "나츠메, 이로하",
+      "zh_cn": "枣, 伊吕波",
+      "zh_tw": "棗, 伊呂波"
+    },
     "aliases": [
       "Iroha Natsume",
       "棗イロハ",
@@ -680,7 +914,13 @@
     ]
   },
   {
-    "name": "Kyougoku, Satsuki",
+    "name": {
+      "en_us": "Kyougoku, Satsuki",
+      "ja_jp": "京極, サツキ",
+      "ko_kr": "쿄고쿠, 사츠키",
+      "zh_cn": "京极, 皋月",
+      "zh_tw": "京極, 皋月"
+    },
     "aliases": [
       "Satsuki Kyougoku",
       "京極サツキ",
@@ -694,7 +934,13 @@
     ]
   },
   {
-    "name": "Hanuma, Makoto",
+    "name": {
+      "en_us": "Hanuma, Makoto",
+      "ja_jp": "羽沼, マコト",
+      "ko_kr": "하누마, 마코토",
+      "zh_cn": "羽沼, 真琴",
+      "zh_tw": "羽沼, 真琴"
+    },
     "aliases": [
       "Makoto Hanuma",
       "羽沼マコト",
@@ -706,7 +952,13 @@
     ]
   },
   {
-    "name": "Ryuuge, Kisaki",
+    "name": {
+      "en_us": "Ryuuge, Kisaki",
+      "ja_jp": "竜華, キサキ",
+      "ko_kr": "류우게, 키사키",
+      "zh_cn": "龙华, 妃咲",
+      "zh_tw": "龍華, 妃姬"
+    },
     "aliases": [
       "Kisaki Ryuuge",
       "竜華キサキ",
@@ -720,11 +972,23 @@
     ]
   },
   {
-    "name": "Shunling",
+    "name": {
+      "en_us": "Shunling",
+      "ja_jp": "シュエリン",
+      "ko_kr": "슈에링",
+      "zh_cn": "雪玲",
+      "zh_tw": "小旬"
+    },
     "aliases": []
   },
   {
-    "name": "Igusa, Haruka",
+    "name": {
+      "en_us": "Igusa, Haruka",
+      "ja_jp": "伊草, ハルカ",
+      "ko_kr": "이구사, 하루카",
+      "zh_cn": "伊草, 遥香",
+      "zh_tw": "伊草, 遙香"
+    },
     "aliases": [
       "Haruka Igusa",
       "伊草ハルカ",
@@ -738,7 +1002,13 @@
     ]
   },
   {
-    "name": "Takakura, Kurumi",
+    "name": {
+      "en_us": "Takakura, Kurumi",
+      "ja_jp": "高倉, クルミ",
+      "ko_kr": "타카쿠라, 쿠루미",
+      "zh_cn": "高仓, 胡桃",
+      "zh_tw": "高倉, 胡桃"
+    },
     "aliases": [
       "Kurumi Takakura",
       "Kurumi",
@@ -756,7 +1026,13 @@
     ]
   },
   {
-    "name": "Yoshino, Niko",
+    "name": {
+      "en_us": "Yoshino, Niko",
+      "ja_jp": "吉野, ニコ",
+      "ko_kr": "요시노, 니코",
+      "zh_cn": "吉野, 妮可",
+      "zh_tw": "吉野, 仁子"
+    },
     "aliases": [
       "Niko Yoshino",
       "Niko",
@@ -775,7 +1051,13 @@
     ]
   },
   {
-    "name": "Kinui, Rena",
+    "name": {
+      "en_us": "Kinui, Rena",
+      "ja_jp": "衣斐, レナ",
+      "ko_kr": "키누이, 레나",
+      "zh_cn": "衣斐, 丽奈",
+      "zh_tw": "衣斐, 玲奈"
+    },
     "aliases": [
       "Rena Kinui",
       "Rena",
@@ -794,7 +1076,13 @@
     ]
   },
   {
-    "name": "Shima, Konoka",
+    "name": {
+      "en_us": "Shima, Konoka",
+      "ja_jp": "志真, コノカ",
+      "ko_kr": "시마, 코노카",
+      "zh_cn": "志真, 木乃香",
+      "zh_tw": "志真, 木乃香"
+    },
     "aliases": [
       "Konoka Shima",
       "Konoka",
@@ -810,15 +1098,22 @@
     ]
   },
   {
-    "name": "Kei",
-    "aliases": [
-      "ケイ",
-      "케이",
-      "凯伊"
-    ]
+    "name": {
+      "en_us": "Kei",
+      "ja_jp": "ケイ",
+      "ko_kr": "케이",
+      "zh_cn": "凯伊"
+    },
+    "aliases": []
   },
   {
-    "name": "Tsukatsuki, Rio",
+    "name": {
+      "en_us": "Tsukatsuki, Rio",
+      "ja_jp": "調月, リオ",
+      "ko_kr": "츠카츠키, 리오",
+      "zh_cn": "调月, 莉音",
+      "zh_tw": "調月, 莉央"
+    },
     "aliases": [
       "Rio Tsukatsuki",
       "調月リオ",
@@ -832,7 +1127,13 @@
     ]
   },
   {
-    "name": "Miyoshi, Takane",
+    "name": {
+      "en_us": "Miyoshi, Takane",
+      "ja_jp": "三善, タカネ",
+      "ko_kr": "미요시, 타카네",
+      "zh_cn": "三善, 贵音",
+      "zh_tw": "三善, 貴音"
+    },
     "aliases": [
       "Takane Miyoshi",
       "Takane",
@@ -851,7 +1152,13 @@
     ]
   },
   {
-    "name": "Kakehashi, Subaru",
+    "name": {
+      "en_us": "Kakehashi, Subaru",
+      "ja_jp": "梯, スバル",
+      "ko_kr": "카케하시, 스바루",
+      "zh_cn": "梯, 昴",
+      "zh_tw": "梯, 昴"
+    },
     "aliases": [
       "Subaru Kakehashi",
       "Subaru",
@@ -867,7 +1174,13 @@
     ]
   },
   {
-    "name": "Morizuki, Suzumi",
+    "name": {
+      "en_us": "Morizuki, Suzumi",
+      "ja_jp": "守月, スズミ",
+      "ko_kr": "모리즈키, 스즈미",
+      "zh_cn": "守月, 铃美",
+      "zh_tw": "守月, 鈴美"
+    },
     "aliases": [
       "Suzumi Morizuki",
       "守月スズミ",
@@ -881,7 +1194,13 @@
     ]
   },
   {
-    "name": "Wakasa, Fuyu",
+    "name": {
+      "en_us": "Wakasa, Fuyu",
+      "ja_jp": "若狭, フユ",
+      "ko_kr": "와카사, 후유",
+      "zh_cn": "若狭, 冬",
+      "zh_tw": "若狹, 冬"
+    },
     "aliases": [
       "Fuyu Wakasa",
       "Fuyu",
@@ -899,7 +1218,13 @@
     ]
   },
   {
-    "name": "Sakurai, Miyo",
+    "name": {
+      "en_us": "Sakurai, Miyo",
+      "ja_jp": "桜井, ミヨ",
+      "ko_kr": "사쿠라이, 미요",
+      "zh_cn": "樱井, 美代",
+      "zh_tw": "櫻井, 美代"
+    },
     "aliases": [
       "Miyo Sakurai",
       "Miyo",
@@ -917,7 +1242,13 @@
     ]
   },
   {
-    "name": "Itagaki, Kanoe",
+    "name": {
+      "en_us": "Itagaki, Kanoe",
+      "ja_jp": "板垣, カノエ",
+      "ko_kr": "이타가키, 카노에",
+      "zh_cn": "板垣, 庚",
+      "zh_tw": "板垣, 鹿江"
+    },
     "aliases": [
       "Kanoe Itagaki",
       "Kanoe",
@@ -936,7 +1267,13 @@
     ]
   },
   {
-    "name": "Shirao, Eri",
+    "name": {
+      "en_us": "Shirao, Eri",
+      "ja_jp": "白尾, エリ",
+      "ko_kr": "시라오, 에리",
+      "zh_cn": "白尾, 绘里",
+      "zh_tw": "白尾, 繪梨"
+    },
     "aliases": [
       "Eri Shirao",
       "Eri",
@@ -955,7 +1292,13 @@
     ]
   },
   {
-    "name": "Hanekawa, Hasumi",
+    "name": {
+      "en_us": "Hanekawa, Hasumi",
+      "ja_jp": "羽川, ハスミ",
+      "ko_kr": "하네카와, 하스미",
+      "zh_cn": "羽川, 莲见",
+      "zh_tw": "羽川, 蓮實"
+    },
     "aliases": [
       "Hasumi Hanekawa",
       "羽川ハスミ",
@@ -969,7 +1312,13 @@
     ]
   },
   {
-    "name": "Goryou, Nagusa",
+    "name": {
+      "en_us": "Goryou, Nagusa",
+      "ja_jp": "御稜, ナグサ",
+      "ko_kr": "고료, 나구사",
+      "zh_cn": "御稜, 名草",
+      "zh_tw": "御稜, 名草"
+    },
     "aliases": [
       "Nagusa Goryou",
       "Nagusa",
@@ -985,7 +1334,13 @@
     ]
   },
   {
-    "name": "Tachibana, Nozomi",
+    "name": {
+      "en_us": "Tachibana, Nozomi",
+      "ja_jp": "橘, ノゾミ",
+      "ko_kr": "타치바나, 노조미",
+      "zh_cn": "橘, 望",
+      "zh_tw": "橘, 希望"
+    },
     "aliases": [
       "Nozomi Tachibana",
       "Nozomi",
@@ -1004,7 +1359,13 @@
     ]
   },
   {
-    "name": "Tachibana, Hikari",
+    "name": {
+      "en_us": "Tachibana, Hikari",
+      "ja_jp": "橘, ヒカリ",
+      "ko_kr": "타치바나, 히카리",
+      "zh_cn": "橘, 光",
+      "zh_tw": "橘, 光"
+    },
     "aliases": [
       "Hikari Tachibana",
       "Hikari",
@@ -1020,7 +1381,13 @@
     ]
   },
   {
-    "name": "Nomasa, Rei",
+    "name": {
+      "en_us": "Nomasa, Rei",
+      "ja_jp": "野正, レイ",
+      "ko_kr": "노마사, 레이",
+      "zh_cn": "野正, 丽",
+      "zh_tw": "野正, 莉"
+    },
     "aliases": [
       "Rei Nomasa",
       "Rei",
@@ -1039,7 +1406,13 @@
     ]
   },
   {
-    "name": "Ushimaki, Juri",
+    "name": {
+      "en_us": "Ushimaki, Juri",
+      "ja_jp": "牛牧, ジュリ",
+      "ko_kr": "우시마키, 주리",
+      "zh_cn": "牛牧, 茱莉",
+      "zh_tw": "牛牧, 茱莉"
+    },
     "aliases": [
       "Juri Ushimaki",
       "牛牧ジュリ",
@@ -1051,7 +1424,13 @@
     ]
   },
   {
-    "name": "Himuro, Sena",
+    "name": {
+      "en_us": "Himuro, Sena",
+      "ja_jp": "氷室, セナ",
+      "ko_kr": "히무로, 세나",
+      "zh_cn": "冰室, 濑名",
+      "zh_tw": "氷室, 瀬奈"
+    },
     "aliases": [
       "Sena Himuro",
       "氷室 セナ",
@@ -1065,7 +1444,13 @@
     ]
   },
   {
-    "name": "Yurizono, Seia",
+    "name": {
+      "en_us": "Yurizono, Seia",
+      "ja_jp": "百合園, セイア",
+      "ko_kr": "유리조노, 세이아",
+      "zh_cn": "百合园, 圣娅",
+      "zh_tw": "百合園, 聖亞"
+    },
     "aliases": [
       "Seia Yurizono",
       "Seia",
@@ -1084,7 +1469,13 @@
     ]
   },
   {
-    "name": "Motomiya, Chiaki",
+    "name": {
+      "en_us": "Motomiya, Chiaki",
+      "ja_jp": "元宮, チアキ",
+      "ko_kr": "모토미야, 치아키",
+      "zh_cn": "元宫, 千秋",
+      "zh_tw": "元宮, 千秋"
+    },
     "aliases": [
       "Chiaki Motomiya",
       "Chiaki",
@@ -1102,7 +1493,13 @@
     ]
   },
   {
-    "name": "Kayama, Reijo",
+    "name": {
+      "en_us": "Kayama, Reijo",
+      "ja_jp": "鹿山, レイジョ",
+      "ko_kr": "카야마, 레이죠",
+      "zh_cn": "鹿山, 丽情",
+      "zh_tw": "鹿山, 令女"
+    },
     "aliases": [
       "Reijo Kayama",
       "Reijo",
@@ -1121,7 +1518,13 @@
     ]
   },
   {
-    "name": "Tsuchinaga, Hiyori",
+    "name": {
+      "en_us": "Tsuchinaga, Hiyori",
+      "ja_jp": "槌永, ヒヨリ",
+      "ko_kr": "츠치나가, 히요리",
+      "zh_cn": "槌永, 日和",
+      "zh_tw": "槌永, 日和"
+    },
     "aliases": [
       "Hiyori Tsuchinaga",
       "槌永ヒヨリ",
@@ -1133,7 +1536,13 @@
     ]
   },
   {
-    "name": "Kazekura, Moe",
+    "name": {
+      "en_us": "Kazekura, Moe",
+      "ja_jp": "風倉, モエ",
+      "ko_kr": "카제쿠라, 모에",
+      "zh_cn": "风仓, 萌绘",
+      "zh_tw": "風倉, 萌"
+    },
     "aliases": [
       "Moe Kazekura",
       "風倉モエ",
@@ -1147,7 +1556,13 @@
     ]
   },
   {
-    "name": "Ogata, Kanna",
+    "name": {
+      "en_us": "Ogata, Kanna",
+      "ja_jp": "尾刃, カンナ",
+      "ko_kr": "오가타, 칸나",
+      "zh_cn": "尾刃, 环奈",
+      "zh_tw": "尾刃, 環奈"
+    },
     "aliases": [
       "Kanna Ogata",
       "尾刃カンナ",
@@ -1161,7 +1576,13 @@
     ]
   },
   {
-    "name": "Saiba, Momoi",
+    "name": {
+      "en_us": "Saiba, Momoi",
+      "ja_jp": "才羽, モモイ",
+      "ko_kr": "사이바, 모모이",
+      "zh_cn": "才羽, 桃井",
+      "zh_tw": "才羽, 桃井"
+    },
     "aliases": [
       "Momoi Saiba",
       "才羽モモイ",
@@ -1173,7 +1594,13 @@
     ]
   },
   {
-    "name": "Yozakura, Kirara",
+    "name": {
+      "en_us": "Yozakura, Kirara",
+      "ja_jp": "夜桜, キララ",
+      "ko_kr": "요자쿠라, 키라라",
+      "zh_cn": "夜樱, 绮罗罗",
+      "zh_tw": "夜櫻, 綺羅羅"
+    },
     "aliases": [
       "Kirara Yozakura",
       "Kirara",
@@ -1192,7 +1619,13 @@
     ]
   },
   {
-    "name": "Ibaragi, Yoshimi",
+    "name": {
+      "en_us": "Ibaragi, Yoshimi",
+      "ja_jp": "伊原木, ヨシミ",
+      "ko_kr": "이바라기, 요시미",
+      "zh_cn": "伊原木, 好美",
+      "zh_tw": "伊原木, 喜美"
+    },
     "aliases": [
       "Yoshimi Ibaragi",
       "伊原木ヨシミ",
@@ -1206,7 +1639,13 @@
     ]
   },
   {
-    "name": "Satohama, Umika",
+    "name": {
+      "en_us": "Satohama, Umika",
+      "ja_jp": "里浜, ウミカ",
+      "ko_kr": "사토하마, 우미카",
+      "zh_cn": "里浜, 海香",
+      "zh_tw": "里浜, 海花"
+    },
     "aliases": [
       "Umika Satohama",
       "Umika",
@@ -1225,7 +1664,13 @@
     ]
   },
   {
-    "name": "Amau, Ako",
+    "name": {
+      "en_us": "Amau, Ako",
+      "ja_jp": "天雨, アコ",
+      "ko_kr": "아마우, 아코",
+      "zh_cn": "天雨, 亚子",
+      "zh_tw": "天雨, 亞子"
+    },
     "aliases": [
       "Ako Amau",
       "天雨アコ",
@@ -1239,7 +1684,13 @@
     ]
   },
   {
-    "name": "Omagari, Hare",
+    "name": {
+      "en_us": "Omagari, Hare",
+      "ja_jp": "小鈎, ハレ",
+      "ko_kr": "오마가리, 하레",
+      "zh_cn": "小钩, 晴",
+      "zh_tw": "小鈎, 晴"
+    },
     "aliases": [
       "Hare Omagari",
       "小鈎ハレ",
@@ -1253,7 +1704,13 @@
     ]
   },
   {
-    "name": "Otose, Kotama",
+    "name": {
+      "en_us": "Otose, Kotama",
+      "ja_jp": "音瀬, コタマ",
+      "ko_kr": "오토세, 코타마",
+      "zh_cn": "音濑, 小玉",
+      "zh_tw": "音瀬, 小玉"
+    },
     "aliases": [
       "Kotama Otose",
       "音瀬コタマ",
@@ -1267,7 +1724,13 @@
     ]
   },
   {
-    "name": "Kiryuu, Kikyou",
+    "name": {
+      "en_us": "Kiryuu, Kikyou",
+      "ja_jp": "桐生, キキョウ",
+      "ko_kr": "키류, 키쿄",
+      "zh_cn": "桐生, 桔梗",
+      "zh_tw": "桐生, 桔梗"
+    },
     "aliases": [
       "Kikyou Kiryuu",
       "Kikyou",
@@ -1283,7 +1746,13 @@
     ]
   },
   {
-    "name": "Fuwa, Renge",
+    "name": {
+      "en_us": "Fuwa, Renge",
+      "ja_jp": "不破, レンゲ",
+      "ko_kr": "후와, 렌게",
+      "zh_cn": "不破, 莲华",
+      "zh_tw": "不破, 蓮華"
+    },
     "aliases": [
       "Renge Fuwa",
       "Renge",
@@ -1302,7 +1771,13 @@
     ]
   },
   {
-    "name": "Kadenokouji, Yukari",
+    "name": {
+      "en_us": "Kadenokouji, Yukari",
+      "ja_jp": "勘解由小路, ユカリ",
+      "ko_kr": "카데노코지, 유카리",
+      "zh_cn": "勘解由小路, 紫草",
+      "zh_tw": "勘解由小路, 紫"
+    },
     "aliases": [
       "Yukari Kadenokouji",
       "Yukari",
@@ -1321,7 +1796,13 @@
     ]
   },
   {
-    "name": "Shokuhou, Misaki",
+    "name": {
+      "en_us": "Shokuhou, Misaki",
+      "ja_jp": "食蜂, 操祈",
+      "ko_kr": "쇼쿠호, 미사키",
+      "zh_cn": "食蜂, 操祈",
+      "zh_tw": "食蜂, 操祈"
+    },
     "aliases": [
       "Misaki Shokuhou",
       "Shokuhou Misaki",
@@ -1332,7 +1813,13 @@
     ]
   },
   {
-    "name": "Misaka, Mikoto",
+    "name": {
+      "en_us": "Misaka, Mikoto",
+      "ja_jp": "御坂, 美琴",
+      "ko_kr": "미사카, 미코토",
+      "zh_cn": "御坂, 美琴",
+      "zh_tw": "御坂, 美琴"
+    },
     "aliases": [
       "Mikoto Misaka",
       "Misaka Mikoto",
@@ -1344,7 +1831,13 @@
     ]
   },
   {
-    "name": "Kinugawa, Kasumi",
+    "name": {
+      "en_us": "Kinugawa, Kasumi",
+      "ja_jp": "鬼怒川, カスミ",
+      "ko_kr": "키누가와, 카스미",
+      "zh_cn": "鬼怒川, 霞",
+      "zh_tw": "鬼怒川, 佳澄"
+    },
     "aliases": [
       "Kasumi Kinugawa",
       "Kasumi",
@@ -1363,7 +1856,13 @@
     ]
   },
   {
-    "name": "Nakamasa, Ichika",
+    "name": {
+      "en_us": "Nakamasa, Ichika",
+      "ja_jp": "仲正, イチカ",
+      "ko_kr": "나카마사, 이치카",
+      "zh_cn": "仲正, 一花",
+      "zh_tw": "仲正, 一花"
+    },
     "aliases": [
       "Ichika Nakamasa",
       "Ichika",
@@ -1379,7 +1878,13 @@
     ]
   },
   {
-    "name": "Toyomi, Kotori",
+    "name": {
+      "en_us": "Toyomi, Kotori",
+      "ja_jp": "豊見, コトリ",
+      "ko_kr": "토요미, 코토리",
+      "zh_cn": "丰见, 琴里",
+      "zh_tw": "豊見, 亞都梨"
+    },
     "aliases": [
       "Kotori Toyomi",
       "豊見 コトリ",
@@ -1393,7 +1898,13 @@
     ]
   },
   {
-    "name": "Himeki, Meru",
+    "name": {
+      "en_us": "Himeki, Meru",
+      "ja_jp": "姫木, メル",
+      "ko_kr": "히메키, 메루",
+      "zh_cn": "姬木, 芽瑠",
+      "zh_tw": "姬木, 愛瑠"
+    },
     "aliases": [
       "Meru Himeki",
       "Meru",
@@ -1412,7 +1923,13 @@
     ]
   },
   {
-    "name": "Urawa, Hanako",
+    "name": {
+      "en_us": "Urawa, Hanako",
+      "ja_jp": "浦和, ハナコ",
+      "ko_kr": "우라와, 하나코",
+      "zh_cn": "浦和, 花子",
+      "zh_tw": "浦和, 花子"
+    },
     "aliases": [
       "Hanako Urawa",
       "浦和ハナコ",
@@ -1424,7 +1941,13 @@
     ]
   },
   {
-    "name": "Sorai, Saki",
+    "name": {
+      "en_us": "Sorai, Saki",
+      "ja_jp": "空井, サキ",
+      "ko_kr": "소라이, 사키",
+      "zh_cn": "空井, 咲",
+      "zh_tw": "空井, 咲希"
+    },
     "aliases": [
       "Saki Sorai",
       "空井サキ",
@@ -1438,7 +1961,13 @@
     ]
   },
   {
-    "name": "Konoe, Mina",
+    "name": {
+      "en_us": "Konoe, Mina",
+      "ja_jp": "近衛, ミナ",
+      "ko_kr": "코노에, 미나",
+      "zh_cn": "近卫, 弥奈",
+      "zh_tw": "近衛, 美奈"
+    },
     "aliases": [
       "Mina Konoe",
       "Mina",
@@ -1457,7 +1986,13 @@
     ]
   },
   {
-    "name": "Akeshiro, Rumi",
+    "name": {
+      "en_us": "Akeshiro, Rumi",
+      "ja_jp": "朱城, ルミ",
+      "ko_kr": "아케시로, 루미",
+      "zh_cn": "朱城, 瑠美",
+      "zh_tw": "朱城, 瑠美"
+    },
     "aliases": [
       "Rumi Akeshiro",
       "Rumi",
@@ -1473,7 +2008,13 @@
     ]
   },
   {
-    "name": "Uzawa, Reisa",
+    "name": {
+      "en_us": "Uzawa, Reisa",
+      "ja_jp": "宇沢, レイサ",
+      "ko_kr": "우자와, 레이사",
+      "zh_cn": "宇泽, 玲纱",
+      "zh_tw": "宇沢, 澪紗"
+    },
     "aliases": [
       "Reisa Uzawa",
       "Reisa",
@@ -1492,7 +2033,13 @@
     ]
   },
   {
-    "name": "Kuwakami, Kaho",
+    "name": {
+      "en_us": "Kuwakami, Kaho",
+      "ja_jp": "桑上, カホ",
+      "ko_kr": "쿠와카미, 카호",
+      "zh_cn": "桑上, 果穗",
+      "zh_tw": "桑上, 佳穗"
+    },
     "aliases": [
       "Kaho Kuwakami",
       "Kaho",
@@ -1511,7 +2058,13 @@
     ]
   },
   {
-    "name": "Onikata, Kayoko",
+    "name": {
+      "en_us": "Onikata, Kayoko",
+      "ja_jp": "鬼方, カヨコ",
+      "ko_kr": "오니카타, 카요코",
+      "zh_cn": "鬼方, 佳代子",
+      "zh_tw": "鬼方, 佳世子"
+    },
     "aliases": [
       "Kayoko Onikata",
       "鬼方カヨコ",
@@ -1525,7 +2078,13 @@
     ]
   },
   {
-    "name": "Kurosaki, Koyuki",
+    "name": {
+      "en_us": "Kurosaki, Koyuki",
+      "ja_jp": "黒崎, コユキ",
+      "ko_kr": "쿠로사키, 코유키",
+      "zh_cn": "黑崎, 小雪",
+      "zh_tw": "黑崎, 小雪"
+    },
     "aliases": [
       "Koyuki Kurosaki",
       "Koyuki",
@@ -1541,7 +2100,13 @@
     ]
   },
   {
-    "name": "Asuma, Toki",
+    "name": {
+      "en_us": "Asuma, Toki",
+      "ja_jp": "飛鳥馬, トキ",
+      "ko_kr": "아스마, 토키",
+      "zh_cn": "飞鸟马, 时",
+      "zh_tw": "飛鳥馬, 季"
+    },
     "aliases": [
       "Toki Asuma",
       "Toki",
@@ -1560,7 +2125,13 @@
     ]
   },
   {
-    "name": "Utazumi, Sakurako",
+    "name": {
+      "en_us": "Utazumi, Sakurako",
+      "ja_jp": "歌住, サクラコ",
+      "ko_kr": "우타즈미, 사쿠라코",
+      "zh_cn": "歌住, 樱子",
+      "zh_tw": "歌住, 櫻子"
+    },
     "aliases": [
       "Sakurako Utazumi",
       "Sakurako",
@@ -1579,7 +2150,13 @@
     ]
   },
   {
-    "name": "Shimokura, Megu",
+    "name": {
+      "en_us": "Shimokura, Megu",
+      "ja_jp": "下倉, メグ",
+      "ko_kr": "시모쿠라, 메구",
+      "zh_cn": "下仓, 惠",
+      "zh_tw": "下倉, 惠"
+    },
     "aliases": [
       "Megu Shimokura",
       "Megu",
@@ -1597,7 +2174,13 @@
     ]
   },
   {
-    "name": "Misono, Mika",
+    "name": {
+      "en_us": "Misono, Mika",
+      "ja_jp": "聖園, ミカ",
+      "ko_kr": "미소노, 미카",
+      "zh_cn": "圣园, 未花",
+      "zh_tw": "聖園, 彌香"
+    },
     "aliases": [
       "Mika Misono",
       "Mika",
@@ -1616,7 +2199,13 @@
     ]
   },
   {
-    "name": "Aomori, Mine",
+    "name": {
+      "en_us": "Aomori, Mine",
+      "ja_jp": "蒼森, ミネ",
+      "ko_kr": "아오모리, 미네",
+      "zh_cn": "苍森, 美祢",
+      "zh_tw": "蒼森, 美禰"
+    },
     "aliases": [
       "Mine Aomori",
       "Mine",
@@ -1635,7 +2224,13 @@
     ]
   },
   {
-    "name": "Sumi, Serina",
+    "name": {
+      "en_us": "Sumi, Serina",
+      "ja_jp": "鷲見, セリナ",
+      "ko_kr": "스미, 세리나",
+      "zh_cn": "鹫见, 芹娜",
+      "zh_tw": "鷲見, 芹奈"
+    },
     "aliases": [
       "Serina Sumi",
       "鷲見セリナ",
@@ -1649,7 +2244,13 @@
     ]
   },
   {
-    "name": "Mayoi, Shigure",
+    "name": {
+      "en_us": "Mayoi, Shigure",
+      "ja_jp": "間宵, シグレ",
+      "ko_kr": "마요이, 시구레",
+      "zh_cn": "间宵, 时雨",
+      "zh_tw": "間宵, 時雨"
+    },
     "aliases": [
       "Shigure Mayoi",
       "Shigure",
@@ -1668,7 +2269,13 @@
     ]
   },
   {
-    "name": "Iochi, Mari",
+    "name": {
+      "en_us": "Iochi, Mari",
+      "ja_jp": "伊落, マリー",
+      "ko_kr": "이오치, 마리",
+      "zh_cn": "伊落, 玛丽",
+      "zh_tw": "伊落, 瑪麗"
+    },
     "aliases": [
       "Mari Iochi",
       "伊落マリー",
@@ -1682,7 +2289,13 @@
     ]
   },
   {
-    "name": "Hayase, Yuuka",
+    "name": {
+      "en_us": "Hayase, Yuuka",
+      "ja_jp": "早瀬, ユウカ",
+      "ko_kr": "하야세, 유우카",
+      "zh_cn": "早濑, 优香",
+      "zh_tw": "早瀬, 優香"
+    },
     "aliases": [
       "Yuuka Hayase",
       "早瀬ユウカ",
@@ -1696,7 +2309,13 @@
     ]
   },
   {
-    "name": "Ushio, Noa",
+    "name": {
+      "en_us": "Ushio, Noa",
+      "ja_jp": "生塩, ノア",
+      "ko_kr": "우시오, 노아",
+      "zh_cn": "生盐, 诺亚",
+      "zh_tw": "生塩, 乃愛"
+    },
     "aliases": [
       "Noa Ushio",
       "Noa",
@@ -1715,7 +2334,13 @@
     ]
   },
   {
-    "name": "Shiraishi, Utaha",
+    "name": {
+      "en_us": "Shiraishi, Utaha",
+      "ja_jp": "白石, ウタハ",
+      "ko_kr": "시라이시, 우타하",
+      "zh_cn": "白石, 歌原",
+      "zh_tw": "白石, 詠葉"
+    },
     "aliases": [
       "Utaha Shiraishi",
       "白石ウタハ",
@@ -1729,7 +2354,13 @@
     ]
   },
   {
-    "name": "Sunohara, Kokona",
+    "name": {
+      "en_us": "Sunohara, Kokona",
+      "ja_jp": "春原, ココナ",
+      "ko_kr": "스노하라, 코코나",
+      "zh_cn": "春原, 心奈",
+      "zh_tw": "春原, 心菜"
+    },
     "aliases": [
       "Kokona Sunohara",
       "Kokona",
@@ -1748,7 +2379,13 @@
     ]
   },
   {
-    "name": "Kyoyama, Kazusa",
+    "name": {
+      "en_us": "Kyoyama, Kazusa",
+      "ja_jp": "杏山, カズサ",
+      "ko_kr": "쿄야마, 카즈사",
+      "zh_cn": "杏山, 和纱",
+      "zh_tw": "杏山, 千紗"
+    },
     "aliases": [
       "Kazusa Kyoyama",
       "Kazusa",
@@ -1767,7 +2404,13 @@
     ]
   },
   {
-    "name": "Joumae, Saori",
+    "name": {
+      "en_us": "Joumae, Saori",
+      "ja_jp": "錠前, サオリ",
+      "ko_kr": "조마에, 사오리",
+      "zh_cn": "锭前, 纱织",
+      "zh_tw": "錠前, 沙織"
+    },
     "aliases": [
       "Saori Joumae",
       "Saori",
@@ -1786,7 +2429,13 @@
     ]
   },
   {
-    "name": "Waraku, Chise",
+    "name": {
+      "en_us": "Waraku, Chise",
+      "ja_jp": "和楽, チセ",
+      "ko_kr": "와라쿠, 치세",
+      "zh_cn": "和乐, 千世",
+      "zh_tw": "和樂, 知世"
+    },
     "aliases": [
       "Chise Waraku",
       "和楽チセ",
@@ -1800,7 +2449,13 @@
     ]
   },
   {
-    "name": "Izayoi, Nonomi",
+    "name": {
+      "en_us": "Izayoi, Nonomi",
+      "ja_jp": "十六夜, ノノミ",
+      "ko_kr": "이자요이, 노노미",
+      "zh_cn": "十六夜, 野宫",
+      "zh_tw": "十六夜, 野乃美"
+    },
     "aliases": [
       "Nonomi Izayoi",
       "十六夜ノノミ",
@@ -1814,7 +2469,13 @@
     ]
   },
   {
-    "name": "Hakari, Atsuko",
+    "name": {
+      "en_us": "Hakari, Atsuko",
+      "ja_jp": "秤, アツコ",
+      "ko_kr": "하카리, 아츠코",
+      "zh_cn": "秤, 亚津子",
+      "zh_tw": "秤, 敦子"
+    },
     "aliases": [
       "Atsuko Hakari",
       "Atsuko",
@@ -1833,7 +2494,13 @@
     ]
   },
   {
-    "name": "Imashino, Misaki",
+    "name": {
+      "en_us": "Imashino, Misaki",
+      "ja_jp": "戒野, ミサキ",
+      "ko_kr": "이마시노, 미사키",
+      "zh_cn": "戒野, 美咲",
+      "zh_tw": "戒野, 美咲"
+    },
     "aliases": [
       "Misaki Imashino",
       "Misaki",
@@ -1849,7 +2516,13 @@
     ]
   },
   {
-    "name": "Ono, Tsukuyo",
+    "name": {
+      "en_us": "Ono, Tsukuyo",
+      "ja_jp": "大野, ツクヨ",
+      "ko_kr": "오노, 츠쿠요",
+      "zh_cn": "大野, 月咏",
+      "zh_tw": "大野, 月夜"
+    },
     "aliases": [
       "Tsukuyo Ono",
       "Tsukuyo",
@@ -1868,7 +2541,13 @@
     ]
   },
   {
-    "name": "Kasumizawa, Miyu",
+    "name": {
+      "en_us": "Kasumizawa, Miyu",
+      "ja_jp": "霞沢, ミユ",
+      "ko_kr": "카스미자와, 미유",
+      "zh_cn": "霞泽, 美游",
+      "zh_tw": "霞沢, 美優"
+    },
     "aliases": [
       "Miyu Kasumizawa",
       "Miyu",
@@ -1887,7 +2566,13 @@
     ]
   },
   {
-    "name": "Tsukiyuki, Miyako",
+    "name": {
+      "en_us": "Tsukiyuki, Miyako",
+      "ja_jp": "月雪, ミヤコ",
+      "ko_kr": "츠키유키, 미야코",
+      "zh_cn": "月雪, 宫子",
+      "zh_tw": "月雪, 都子"
+    },
     "aliases": [
       "Miyako Tsukiyuki",
       "Miyako",
@@ -1906,7 +2591,13 @@
     ]
   },
   {
-    "name": "Ikekura, Marina",
+    "name": {
+      "en_us": "Ikekura, Marina",
+      "ja_jp": "池倉, マリナ",
+      "ko_kr": "이케쿠라, 마리나",
+      "zh_cn": "池仓, 玛利娜",
+      "zh_tw": "池倉, 瑪麗娜"
+    },
     "aliases": [
       "Marina Ikekura",
       "Marina",
@@ -1925,7 +2616,13 @@
     ]
   },
   {
-    "name": "Wakaba, Hinata",
+    "name": {
+      "en_us": "Wakaba, Hinata",
+      "ja_jp": "若葉, ヒナタ",
+      "ko_kr": "와카바, 히나타",
+      "zh_cn": "若叶, 日向",
+      "zh_tw": "若葉, 日向"
+    },
     "aliases": [
       "Hinata Wakaba",
       "Hinata",
@@ -1943,7 +2640,13 @@
     ]
   },
   {
-    "name": "Kozeki, Ui",
+    "name": {
+      "en_us": "Kozeki, Ui",
+      "ja_jp": "古関, ウイ",
+      "ko_kr": "코제키, 우이",
+      "zh_cn": "古关, 忧",
+      "zh_tw": "古関, 憂"
+    },
     "aliases": [
       "Ui Kozeki",
       "Ui",
@@ -1962,7 +2665,13 @@
     ]
   },
   {
-    "name": "Mizuha, Mimori",
+    "name": {
+      "en_us": "Mizuha, Mimori",
+      "ja_jp": "水羽, ミモリ",
+      "ko_kr": "미즈하, 미모리",
+      "zh_cn": "水羽, 三森",
+      "zh_tw": "水羽, 三森"
+    },
     "aliases": [
       "Mimori Mizuha",
       "Mimori",
@@ -1978,7 +2687,13 @@
     ]
   },
   {
-    "name": "Kosaka, Wakamo",
+    "name": {
+      "en_us": "Kosaka, Wakamo",
+      "ja_jp": "狐坂, ワカモ",
+      "ko_kr": "코사카, 와카모",
+      "zh_cn": "狐坂, 若藻",
+      "zh_tw": "狐坂, 若藻"
+    },
     "aliases": [
       "Wakamo Kosaka",
       "Wakamo",
@@ -1994,7 +2709,13 @@
     ]
   },
   {
-    "name": "Asagi, Mutsuki",
+    "name": {
+      "en_us": "Asagi, Mutsuki",
+      "ja_jp": "浅黄, ムツキ",
+      "ko_kr": "아사기, 무츠키",
+      "zh_cn": "浅黄, 睦月",
+      "zh_tw": "淺黃, 無月"
+    },
     "aliases": [
       "Mutsuki Asagi",
       "浅黄ムツキ",
@@ -2008,7 +2729,13 @@
     ]
   },
   {
-    "name": "Hinomiya, Chinatsu",
+    "name": {
+      "en_us": "Hinomiya, Chinatsu",
+      "ja_jp": "火宮, チナツ",
+      "ko_kr": "히노미야, 치나츠",
+      "zh_cn": "火宫, 千夏",
+      "zh_tw": "火宮, 千夏"
+    },
     "aliases": [
       "Chinatsu Hinomiya",
       "火宮チナツ",
@@ -2022,7 +2749,13 @@
     ]
   },
   {
-    "name": "Yutori, Natsu",
+    "name": {
+      "en_us": "Yutori, Natsu",
+      "ja_jp": "柚鳥, ナツ",
+      "ko_kr": "유토리, 나츠",
+      "zh_cn": "柚鸟, 夏",
+      "zh_tw": "柚鳥, 夏"
+    },
     "aliases": [
       "Natsu Yutori",
       "Natsu",
@@ -2040,7 +2773,13 @@
     ]
   },
   {
-    "name": "Ichinose, Asuna",
+    "name": {
+      "en_us": "Ichinose, Asuna",
+      "ja_jp": "一之瀬, アスナ",
+      "ko_kr": "이치노세, 아스나",
+      "zh_cn": "一之濑, 明日奈",
+      "zh_tw": "一之瀬, 明日奈"
+    },
     "aliases": [
       "Asuna Ichinose",
       "一之瀬アスナ",
@@ -2054,7 +2793,13 @@
     ]
   },
   {
-    "name": "Kakudate, Karin",
+    "name": {
+      "en_us": "Kakudate, Karin",
+      "ja_jp": "角楯, カリン",
+      "ko_kr": "카쿠다테, 카린",
+      "zh_cn": "角楯, 花凛",
+      "zh_tw": "角楯, 花凛"
+    },
     "aliases": [
       "Karin Kakudate",
       "角楯カリン",
@@ -2066,7 +2811,13 @@
     ]
   },
   {
-    "name": "Shimoe, Koharu",
+    "name": {
+      "en_us": "Shimoe, Koharu",
+      "ja_jp": "下江, コハル",
+      "ko_kr": "시모에, 코하루",
+      "zh_cn": "下江, 小春",
+      "zh_tw": "下江, 小春"
+    },
     "aliases": [
       "Koharu Shimoe",
       "Koharu",
@@ -2082,7 +2833,13 @@
     ]
   },
   {
-    "name": "Shirasu, Azusa",
+    "name": {
+      "en_us": "Shirasu, Azusa",
+      "ja_jp": "白洲, アズサ",
+      "ko_kr": "시라스, 아즈사",
+      "zh_cn": "白洲, 梓",
+      "zh_tw": "白洲, 梓"
+    },
     "aliases": [
       "Azusa Shirasu",
       "Azusa",
@@ -2098,7 +2855,13 @@
     ]
   },
   {
-    "name": "Hanaoka, Yuzu",
+    "name": {
+      "en_us": "Hanaoka, Yuzu",
+      "ja_jp": "花岡, ユズ",
+      "ko_kr": "하나오카, 유즈",
+      "zh_cn": "花冈, 柚子",
+      "zh_tw": "花岡, 柚子"
+    },
     "aliases": [
       "Yuzu Hanaoka",
       "Yuzu",
@@ -2116,7 +2879,13 @@
     ]
   },
   {
-    "name": "Renkawa, Cherino",
+    "name": {
+      "en_us": "Renkawa, Cherino",
+      "ja_jp": "連河, チェリノ",
+      "ko_kr": "렌카와, 체리노",
+      "zh_cn": "连河, 切里诺",
+      "zh_tw": "連河, 潔莉諾"
+    },
     "aliases": [
       "Cherino Renkawa",
       "Cherino",
@@ -2135,7 +2904,13 @@
     ]
   },
   {
-    "name": "Saiba, Midori",
+    "name": {
+      "en_us": "Saiba, Midori",
+      "ja_jp": "才羽, ミドリ",
+      "ko_kr": "사이바, 미도리",
+      "zh_cn": "才羽, 绿",
+      "zh_tw": "才羽, 綠"
+    },
     "aliases": [
       "Midori Saiba",
       "Midori",
@@ -2154,7 +2929,13 @@
     ]
   },
   {
-    "name": "Tendou, Aris",
+    "name": {
+      "en_us": "Tendou, Aris",
+      "ja_jp": "天童, アリス",
+      "ko_kr": "텐도, 아리스",
+      "zh_cn": "天童, 爱丽丝",
+      "zh_tw": "天童, 愛麗絲"
+    },
     "aliases": [
       "Aris Tendou",
       "Aris",
@@ -2173,7 +2954,13 @@
     ]
   },
   {
-    "name": "Kuda, Izuna",
+    "name": {
+      "en_us": "Kuda, Izuna",
+      "ja_jp": "久田, イズナ",
+      "ko_kr": "쿠다, 이즈나",
+      "zh_cn": "久田, 泉奈",
+      "zh_tw": "久田, 伊樹菜"
+    },
     "aliases": [
       "Izuna Kuda",
       "Izuna",
@@ -2192,7 +2979,13 @@
     ]
   },
   {
-    "name": "Kenzaki, Tsurugi",
+    "name": {
+      "en_us": "Kenzaki, Tsurugi",
+      "ja_jp": "剣先, ツルギ",
+      "ko_kr": "켄자키, 츠루기",
+      "zh_cn": "剑先, 鹤城",
+      "zh_tw": "劍先, 弦生"
+    },
     "aliases": [
       "Tsurugi Kenzaki",
       "Tsurugi",
@@ -2211,7 +3004,13 @@
     ]
   },
   {
-    "name": "Otohana, Sumire",
+    "name": {
+      "en_us": "Otohana, Sumire",
+      "ja_jp": "乙花, スミレ",
+      "ko_kr": "오토하나, 스미레",
+      "zh_cn": "乙花, 堇",
+      "zh_tw": "乙花, 堇"
+    },
     "aliases": [
       "Sumire Otohana",
       "Sumire",
@@ -2227,7 +3026,13 @@
     ]
   },
   {
-    "name": "Sunohara, Shun",
+    "name": {
+      "en_us": "Sunohara, Shun",
+      "ja_jp": "春原, シュン",
+      "ko_kr": "스노하라, 슌",
+      "zh_cn": "春原, 瞬",
+      "zh_tw": "春原, 旬"
+    },
     "aliases": [
       "Shun Sunohara",
       "Shun",
@@ -2246,7 +3051,13 @@
     ]
   },
   {
-    "name": "Sunaookami, Shiroko",
+    "name": {
+      "en_us": "Sunaookami, Shiroko",
+      "ja_jp": "砂狼, シロコ",
+      "ko_kr": "스나오오카미, 시로코",
+      "zh_cn": "砂狼, 白子",
+      "zh_tw": "砂狼, 白子"
+    },
     "aliases": [
       "Shiroko Sunaookami",
       "Shiroko",
@@ -2262,7 +3073,13 @@
     ]
   },
   {
-    "name": "Shishidou, Izumi",
+    "name": {
+      "en_us": "Shishidou, Izumi",
+      "ja_jp": "獅子堂, イズミ",
+      "ko_kr": "시시도우, 이즈미",
+      "zh_cn": "狮子堂, 泉",
+      "zh_tw": "獅子堂, 泉"
+    },
     "aliases": [
       "Izumi Shishidou",
       "Izumi",
@@ -2280,7 +3097,13 @@
     ]
   },
   {
-    "name": "Mikamo, Neru",
+    "name": {
+      "en_us": "Mikamo, Neru",
+      "ja_jp": "美甘, ネル",
+      "ko_kr": "미카모, 네루",
+      "zh_cn": "美甘, 尼露",
+      "zh_tw": "美甘, 寧瑠"
+    },
     "aliases": [
       "Neru Mikamo",
       "Neru",
@@ -2299,7 +3122,13 @@
     ]
   },
   {
-    "name": "Konuri, Maki",
+    "name": {
+      "en_us": "Konuri, Maki",
+      "ja_jp": "小塗, マキ",
+      "ko_kr": "코누리, 마키",
+      "zh_cn": "小涂, 真纪",
+      "zh_tw": "小塗, 真紀"
+    },
     "aliases": [
       "Maki Konuri",
       "Maki",
@@ -2318,7 +3147,13 @@
     ]
   },
   {
-    "name": "Shiromi, Iori",
+    "name": {
+      "en_us": "Shiromi, Iori",
+      "ja_jp": "銀鏡, イオリ",
+      "ko_kr": "시로미, 이오리",
+      "zh_cn": "银镜, 伊织",
+      "zh_tw": "銀鏡, 伊織"
+    },
     "aliases": [
       "Iori Shiromi",
       "Iori",
@@ -2337,7 +3172,13 @@
     ]
   },
   {
-    "name": "Takanashi, Hoshino",
+    "name": {
+      "en_us": "Takanashi, Hoshino",
+      "ja_jp": "小鳥遊, ホシノ",
+      "ko_kr": "타카나시, 호시노",
+      "zh_cn": "小鸟游, 星野",
+      "zh_tw": "小鳥遊, 星野"
+    },
     "aliases": [
       "Hoshino Takanashi",
       "Hoshino",
@@ -2355,7 +3196,13 @@
     ]
   },
   {
-    "name": "Sorasaki, Hina",
+    "name": {
+      "en_us": "Sorasaki, Hina",
+      "ja_jp": "空崎, ヒナ",
+      "ko_kr": "소라사키, 히나",
+      "zh_cn": "空崎, 日奈",
+      "zh_tw": "空崎, 陽奈"
+    },
     "aliases": [
       "Hina Sorasaki",
       "Hina",
@@ -2374,7 +3221,13 @@
     ]
   },
   {
-    "name": "Ajitani, Hifumi",
+    "name": {
+      "en_us": "Ajitani, Hifumi",
+      "ja_jp": "阿慈谷, ヒフミ",
+      "ko_kr": "아지타니, 히후미",
+      "zh_cn": "阿慈谷, 日富美",
+      "zh_tw": "阿慈谷, 日步美"
+    },
     "aliases": [
       "Hifumi Ajitani",
       "Hifumi",
@@ -2393,7 +3246,13 @@
     ]
   },
   {
-    "name": "Kurodate, Haruna",
+    "name": {
+      "en_us": "Kurodate, Haruna",
+      "ja_jp": "黒舘, ハルナ",
+      "ko_kr": "쿠로다테, 하루나",
+      "zh_cn": "黑馆, 晴奈",
+      "zh_tw": "黑舘, 羽留奈"
+    },
     "aliases": [
       "Haruna Kurodate",
       "Haruna",
@@ -2412,7 +3271,13 @@
     ]
   },
   {
-    "name": "Izumimoto, Eimi",
+    "name": {
+      "en_us": "Izumimoto, Eimi",
+      "ja_jp": "和泉元, エイミ",
+      "ko_kr": "이즈미모토, 에이미",
+      "zh_cn": "和泉元, 艾米",
+      "zh_tw": "和泉元, 英美"
+    },
     "aliases": [
       "Eimi Izumimoto",
       "Eimi",
@@ -2431,7 +3296,13 @@
     ]
   },
   {
-    "name": "Rikuhachima, Aru",
+    "name": {
+      "en_us": "Rikuhachima, Aru",
+      "ja_jp": "陸八魔, アル",
+      "ko_kr": "리쿠하치마, 아루",
+      "zh_cn": "陆八魔, 阿露",
+      "zh_tw": "陸八魔, 亞瑠"
+    },
     "aliases": [
       "Aru Rikuhachima",
       "Aru",

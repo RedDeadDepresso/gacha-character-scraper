@@ -1,11 +1,13 @@
 [
   {
-    "name": "Todoroki Hajime",
+    "name": {
+      "en_us": "Todoroki Hajime",
+      "ja_jp": "轟はじめ",
+      "ko_kr": "토도로키 하지메",
+      "zh_cn": "轰一",
+      "zh_tw": "轟一"
+    },
     "aliases": [
-      "轟はじめ",
-      "토도로키 하지메",
-      "轰一",
-      "轟一",
       "Hajime",
       "はじめ",
       "하지메",
@@ -13,12 +15,14 @@
     ]
   },
   {
-    "name": "Juufuutei Raden",
+    "name": {
+      "en_us": "Juufuutei Raden",
+      "ja_jp": "儒烏風亭らでん",
+      "ko_kr": "주우후테이 라덴",
+      "zh_cn": "儒乌风亭螺钿",
+      "zh_tw": "儒烏風亭螺鈿"
+    },
     "aliases": [
-      "儒烏風亭らでん",
-      "주우후테이 라덴",
-      "儒乌风亭螺钿",
-      "儒烏風亭螺鈿",
       "Raden",
       "らでん",
       "라덴",
@@ -27,12 +31,14 @@
     ]
   },
   {
-    "name": "Ichijou Ririka",
+    "name": {
+      "en_us": "Ichijou Ririka",
+      "ja_jp": "一条莉々華",
+      "ko_kr": "이치조 리리카",
+      "zh_cn": "一条莉莉华",
+      "zh_tw": "一條莉莉華"
+    },
     "aliases": [
-      "一条莉々華",
-      "이치조 리리카",
-      "一条莉莉华",
-      "一條莉莉華",
       "Ririka",
       "莉々華",
       "리리카",
@@ -41,114 +47,138 @@
     ]
   },
   {
-    "name": "Otonose Kanade",
+    "name": {
+      "en_us": "Otonose Kanade",
+      "ja_jp": "音乃瀬奏",
+      "ko_kr": "오토노세 카나데",
+      "zh_cn": "音乃濑奏",
+      "zh_tw": "音乃瀨奏"
+    },
     "aliases": [
-      "音乃瀬奏",
-      "오토노세 카나데",
-      "音乃濑奏",
-      "音乃瀨奏",
       "Kanade",
       "奏",
       "카나데"
     ]
   },
   {
-    "name": "Hiodoshi Ao",
+    "name": {
+      "en_us": "Hiodoshi Ao",
+      "ja_jp": "火威青",
+      "ko_kr": "히오도시 아오",
+      "zh_cn": "火威青",
+      "zh_tw": "火威青"
+    },
     "aliases": [
-      "火威青",
-      "히오도시 아오",
       "Ao",
       "青",
       "아오"
     ]
   },
   {
-    "name": "Mococo Abyssgard",
+    "name": {
+      "en_us": "Mococo Abyssgard",
+      "ja_jp": "モココ・アビスガード",
+      "ko_kr": "모코코 어비스가드"
+    },
     "aliases": [
-      "モココ・アビスガード",
-      "모코코 어비스가드",
       "Mococo",
       "モココ",
       "모코코"
     ]
   },
   {
-    "name": "Fuwawa Abyssgard",
+    "name": {
+      "en_us": "Fuwawa Abyssgard",
+      "ja_jp": "フワワ・アビスガード",
+      "ko_kr": "후와와 어비스가드"
+    },
     "aliases": [
-      "フワワ・アビスガード",
-      "후와와 어비스가드",
       "Fuwawa",
       "フワワ",
       "후와와"
     ]
   },
   {
-    "name": "Nerissa Ravencroft",
+    "name": {
+      "en_us": "Nerissa Ravencroft",
+      "ja_jp": "ネリッサ・レイヴンクロフト",
+      "ko_kr": "네리사 레이븐크로프트"
+    },
     "aliases": [
-      "ネリッサ・レイヴンクロフト",
-      "네리사 레이븐크로프트",
       "Nerissa",
       "ネリッサ",
       "네리사"
     ]
   },
   {
-    "name": "Koseki Bijou",
+    "name": {
+      "en_us": "Koseki Bijou",
+      "ja_jp": "古石ビジュー",
+      "ko_kr": "코세키 비쥬"
+    },
     "aliases": [
-      "古石ビジュー",
-      "코세키 비쥬",
       "Bijou",
       "ビジュー",
       "비쥬"
     ]
   },
   {
-    "name": "Shiori Novella",
+    "name": {
+      "en_us": "Shiori Novella",
+      "ja_jp": "シオリ・ノヴェラ",
+      "ko_kr": "시오리 노벨라"
+    },
     "aliases": [
-      "シオリ・ノヴェラ",
-      "시오리 노벨라",
       "Shiori",
       "シオリ",
       "시오리"
     ]
   },
   {
-    "name": "Kobo Kanaeru",
+    "name": {
+      "en_us": "Kobo Kanaeru",
+      "ja_jp": "こぼ・かなえる",
+      "ko_kr": "코보 카나에루"
+    },
     "aliases": [
-      "こぼ・かなえる",
-      "코보 카나에루",
       "Kobo",
       "こぼ",
       "코보"
     ]
   },
   {
-    "name": "Kaela Kovalskia",
+    "name": {
+      "en_us": "Kaela Kovalskia",
+      "ja_jp": "カエラ・コヴァルスキア",
+      "ko_kr": "카엘라 코발스키아"
+    },
     "aliases": [
-      "カエラ・コヴァルスキア",
-      "카엘라 코발스키아",
       "Kaela",
       "カエラ",
       "카엘라"
     ]
   },
   {
-    "name": "Vestia Zeta",
+    "name": {
+      "en_us": "Vestia Zeta",
+      "ja_jp": "ベスティア・ゼータ",
+      "ko_kr": "베스티아 제타"
+    },
     "aliases": [
-      "ベスティア・ゼータ",
-      "베스티아 제타",
       "Zeta",
       "ゼータ",
       "제타"
     ]
   },
   {
-    "name": "Kazama Iroha",
+    "name": {
+      "en_us": "Kazama Iroha",
+      "ja_jp": "風真いろは",
+      "ko_kr": "카자마 이로하",
+      "zh_cn": "风真伊吕波",
+      "zh_tw": "風真伊呂波"
+    },
     "aliases": [
-      "風真いろは",
-      "카자마 이로하",
-      "风真伊吕波",
-      "風真伊呂波",
       "Iroha",
       "いろは",
       "이로하",
@@ -157,12 +187,14 @@
     ]
   },
   {
-    "name": "Sakamata Chloe",
+    "name": {
+      "en_us": "Sakamata Chloe",
+      "ja_jp": "沙花叉クロヱ",
+      "ko_kr": "사카마타 클로에",
+      "zh_cn": "沙花叉克萝伊",
+      "zh_tw": "沙花叉克蘿伊"
+    },
     "aliases": [
-      "沙花叉クロヱ",
-      "사카마타 클로에",
-      "沙花叉克萝伊",
-      "沙花叉克蘿伊",
       "Chloe",
       "クロヱ",
       "클로에",
@@ -171,11 +203,14 @@
     ]
   },
   {
-    "name": "Hakui Koyori",
+    "name": {
+      "en_us": "Hakui Koyori",
+      "ja_jp": "博衣こより",
+      "ko_kr": "하쿠이 코요리",
+      "zh_cn": "博衣小夜璃",
+      "zh_tw": "博衣小夜璃"
+    },
     "aliases": [
-      "博衣こより",
-      "하쿠이 코요리",
-      "博衣小夜璃",
       "Koyori",
       "こより",
       "코요리",
@@ -183,12 +218,14 @@
     ]
   },
   {
-    "name": "Takane Lui",
+    "name": {
+      "en_us": "Takane Lui",
+      "ja_jp": "鷹嶺ルイ",
+      "ko_kr": "타카네 루이",
+      "zh_cn": "鹰岭琉依",
+      "zh_tw": "鷹嶺琉依"
+    },
     "aliases": [
-      "鷹嶺ルイ",
-      "타카네 루이",
-      "鹰岭琉依",
-      "鷹嶺琉依",
       "Lui",
       "ルイ",
       "루이",
@@ -196,12 +233,14 @@
     ]
   },
   {
-    "name": "La+ Darknesss",
+    "name": {
+      "en_us": "La+ Darknesss",
+      "ja_jp": "ラプラス・ダークネス",
+      "ko_kr": "라플라스 다크니스",
+      "zh_cn": "拉普拉斯·暗黑",
+      "zh_tw": "拉普拉斯．暗黑"
+    },
     "aliases": [
-      "ラプラス・ダークネス",
-      "라플라스 다크니스",
-      "拉普拉斯·暗黑",
-      "拉普拉斯．暗黑",
       "La+",
       "ラプラス",
       "라플라스",
@@ -209,136 +248,164 @@
     ]
   },
   {
-    "name": "Hakos Baelz",
+    "name": {
+      "en_us": "Hakos Baelz",
+      "ja_jp": "ハコス・ベールズ",
+      "ko_kr": "하코스 벨즈"
+    },
     "aliases": [
-      "ハコス・ベールズ",
-      "하코스 벨즈",
       "Baelz",
       "ベールズ",
       "벨즈"
     ]
   },
   {
-    "name": "Nanashi Mumei",
+    "name": {
+      "en_us": "Nanashi Mumei",
+      "ja_jp": "七詩ムメイ",
+      "ko_kr": "나나시 무메이"
+    },
     "aliases": [
-      "七詩ムメイ",
-      "나나시 무메이",
       "Mumei",
       "ムメイ",
       "무메이"
     ]
   },
   {
-    "name": "Ouro Kronii",
+    "name": {
+      "en_us": "Ouro Kronii",
+      "ja_jp": "オーロ・クロニー",
+      "ko_kr": "오로 크로니"
+    },
     "aliases": [
-      "オーロ・クロニー",
-      "오로 크로니",
       "Kronii",
       "クロニー",
       "크로니"
     ]
   },
   {
-    "name": "Ceres Fauna",
+    "name": {
+      "en_us": "Ceres Fauna",
+      "ja_jp": "セレス・ファウナ",
+      "ko_kr": "세레스 파우나"
+    },
     "aliases": [
-      "セレス・ファウナ",
-      "세레스 파우나",
       "Fauna",
       "ファウナ",
       "파우나"
     ]
   },
   {
-    "name": "IRyS",
+    "name": {
+      "en_us": "IRyS"
+    },
     "aliases": []
   },
   {
-    "name": "Pavolia Reine",
+    "name": {
+      "en_us": "Pavolia Reine",
+      "ja_jp": "パヴォリア・レイネ",
+      "ko_kr": "파볼리아 레이네"
+    },
     "aliases": [
-      "パヴォリア・レイネ",
-      "파볼리아 레이네",
       "Reine",
       "レイネ",
       "레이네"
     ]
   },
   {
-    "name": "Anya Melfissa",
+    "name": {
+      "en_us": "Anya Melfissa",
+      "ja_jp": "アーニャ・メルフィッサ",
+      "ko_kr": "아냐 멜핏사"
+    },
     "aliases": [
-      "アーニャ・メルフィッサ",
-      "아냐 멜핏사",
       "Anya",
       "アーニャ",
       "아냐"
     ]
   },
   {
-    "name": "Kureiji Ollie",
+    "name": {
+      "en_us": "Kureiji Ollie",
+      "ja_jp": "クレイジー・オリー",
+      "ko_kr": "쿠레이지 올리"
+    },
     "aliases": [
-      "クレイジー・オリー",
-      "쿠레이지 올리",
       "Ollie",
       "オリー",
       "올리"
     ]
   },
   {
-    "name": "Watson Amelia",
+    "name": {
+      "en_us": "Watson Amelia",
+      "ja_jp": "ワトソン・アメリア",
+      "ko_kr": "왓슨 아멜리아"
+    },
     "aliases": [
-      "ワトソン・アメリア",
-      "왓슨 아멜리아",
       "Amelia",
       "アメリア",
       "아멜리아"
     ]
   },
   {
-    "name": "Gawr Gura",
+    "name": {
+      "en_us": "Gawr Gura",
+      "ja_jp": "がうる・ぐら",
+      "ko_kr": "가우르 구라"
+    },
     "aliases": [
-      "がうる・ぐら",
-      "가우르 구라",
       "Gura",
       "ぐら",
       "구라"
     ]
   },
   {
-    "name": "Ninomae Ina'nis",
+    "name": {
+      "en_us": "Ninomae Ina'nis",
+      "ja_jp": "一伊那尓栖",
+      "ko_kr": "니노마에 이나니스"
+    },
     "aliases": [
-      "一伊那尓栖",
-      "니노마에 이나니스",
       "Ina'nis",
       "伊那尓栖",
       "이나니스"
     ]
   },
   {
-    "name": "Takanashi Kiara",
+    "name": {
+      "en_us": "Takanashi Kiara",
+      "ja_jp": "小鳥遊キアラ",
+      "ko_kr": "타카나시 키아라"
+    },
     "aliases": [
-      "小鳥遊キアラ",
-      "타카나시 키아라",
       "Kiara",
       "キアラ",
       "키아라"
     ]
   },
   {
-    "name": "Mori Calliope",
+    "name": {
+      "en_us": "Mori Calliope",
+      "ja_jp": "森カリオペ",
+      "ko_kr": "모리 칼리오페"
+    },
     "aliases": [
-      "森カリオペ",
-      "모리 칼리오페",
       "Calliope",
       "カリオペ",
       "칼리오페"
     ]
   },
   {
-    "name": "Omaru Polka",
+    "name": {
+      "en_us": "Omaru Polka",
+      "ja_jp": "尾丸ポルカ",
+      "ko_kr": "오마루 폴카",
+      "zh_cn": "尾丸波尔卡",
+      "zh_tw": "尾丸波爾卡"
+    },
     "aliases": [
-      "尾丸ポルカ",
-      "오마루 폴카",
-      "尾丸波尔卡",
-      "尾丸波爾卡",
       "Polka",
       "ポルカ",
       "폴카",
@@ -347,12 +414,14 @@
     ]
   },
   {
-    "name": "Shishiro Botan",
+    "name": {
+      "en_us": "Shishiro Botan",
+      "ja_jp": "獅白ぼたん",
+      "ko_kr": "시시로 보탄",
+      "zh_cn": "狮白牡丹",
+      "zh_tw": "獅白牡丹"
+    },
     "aliases": [
-      "獅白ぼたん",
-      "시시로 보탄",
-      "狮白牡丹",
-      "獅白牡丹",
       "Botan",
       "ぼたん",
       "보탄",
@@ -360,12 +429,14 @@
     ]
   },
   {
-    "name": "Momosuzu Nene",
+    "name": {
+      "en_us": "Momosuzu Nene",
+      "ja_jp": "桃鈴ねね",
+      "ko_kr": "모모스즈 네네",
+      "zh_cn": "桃铃音音",
+      "zh_tw": "桃鈴音音"
+    },
     "aliases": [
-      "桃鈴ねね",
-      "모모스즈 네네",
-      "桃铃音音",
-      "桃鈴音音",
       "Nene",
       "ねね",
       "네네",
@@ -373,11 +444,14 @@
     ]
   },
   {
-    "name": "Yukihana Lamy",
+    "name": {
+      "en_us": "Yukihana Lamy",
+      "ja_jp": "雪花ラミィ",
+      "ko_kr": "유키하나 라미",
+      "zh_cn": "雪花菈米",
+      "zh_tw": "雪花菈米"
+    },
     "aliases": [
-      "雪花ラミィ",
-      "유키하나 라미",
-      "雪花菈米",
       "Lamy",
       "ラミィ",
       "라미",
@@ -385,41 +459,50 @@
     ]
   },
   {
-    "name": "Airani Iofifteen",
+    "name": {
+      "en_us": "Airani Iofifteen",
+      "ja_jp": "アイラニ・イオフィフティーン",
+      "ko_kr": "아이라니 이오피프틴"
+    },
     "aliases": [
-      "アイラニ・イオフィフティーン",
-      "아이라니 이오피프틴",
       "Iofi",
       "イオフィ",
       "이오피"
     ]
   },
   {
-    "name": "Moona Hoshinova",
+    "name": {
+      "en_us": "Moona Hoshinova",
+      "ja_jp": "ムーナ・ホシノヴァ",
+      "ko_kr": "무나 호시노바"
+    },
     "aliases": [
-      "ムーナ・ホシノヴァ",
-      "무나 호시노바",
       "Moona",
       "ムーナ",
       "무나"
     ]
   },
   {
-    "name": "Ayunda Risu",
+    "name": {
+      "en_us": "Ayunda Risu",
+      "ja_jp": "アユンダ・リス",
+      "ko_kr": "아윤다 리스"
+    },
     "aliases": [
-      "アユンダ・リス",
-      "아윤다 리스",
       "Risu",
       "リス",
       "리스"
     ]
   },
   {
-    "name": "Himemori Luna",
+    "name": {
+      "en_us": "Himemori Luna",
+      "ja_jp": "姫森ルーナ",
+      "ko_kr": "히메모리 루나",
+      "zh_cn": "姬森璐娜",
+      "zh_tw": "姬森璐娜"
+    },
     "aliases": [
-      "姫森ルーナ",
-      "히메모리 루나",
-      "姬森璐娜",
       "Luna",
       "ルーナ",
       "루나",
@@ -427,12 +510,14 @@
     ]
   },
   {
-    "name": "Tokoyami Towa",
+    "name": {
+      "en_us": "Tokoyami Towa",
+      "ja_jp": "常闇トワ",
+      "ko_kr": "토코야미 토와",
+      "zh_cn": "常暗永远",
+      "zh_tw": "常闇永遠"
+    },
     "aliases": [
-      "常闇トワ",
-      "토코야미 토와",
-      "常暗永远",
-      "常闇永遠",
       "Towa",
       "トワ",
       "토와",
@@ -441,12 +526,14 @@
     ]
   },
   {
-    "name": "Tsunomaki Watame",
+    "name": {
+      "en_us": "Tsunomaki Watame",
+      "ja_jp": "角巻わため",
+      "ko_kr": "츠노마키 와타메",
+      "zh_cn": "角卷绵芽",
+      "zh_tw": "角卷綿芽"
+    },
     "aliases": [
-      "角巻わため",
-      "츠노마키 와타메",
-      "角卷绵芽",
-      "角卷綿芽",
       "Watame",
       "わため",
       "와타메",
@@ -455,11 +542,14 @@
     ]
   },
   {
-    "name": "Amane Kanata",
+    "name": {
+      "en_us": "Amane Kanata",
+      "ja_jp": "天音かなた",
+      "ko_kr": "아마네 카나타",
+      "zh_cn": "天音彼方",
+      "zh_tw": "天音彼方"
+    },
     "aliases": [
-      "天音かなた",
-      "아마네 카나타",
-      "天音彼方",
       "Kanata",
       "かなた",
       "카나타",
@@ -467,12 +557,14 @@
     ]
   },
   {
-    "name": "Houshou Marine",
+    "name": {
+      "en_us": "Houshou Marine",
+      "ja_jp": "宝鐘マリン",
+      "ko_kr": "호쇼 마린",
+      "zh_cn": "宝钟玛琳",
+      "zh_tw": "寶鐘瑪琳"
+    },
     "aliases": [
-      "宝鐘マリン",
-      "호쇼 마린",
-      "宝钟玛琳",
-      "寶鐘瑪琳",
       "Marine",
       "マリン",
       "마린",
@@ -481,12 +573,14 @@
     ]
   },
   {
-    "name": "Shirogane Noel",
+    "name": {
+      "en_us": "Shirogane Noel",
+      "ja_jp": "白銀ノエル",
+      "ko_kr": "시로가네 노엘",
+      "zh_cn": "白银诺艾尔",
+      "zh_tw": "白銀諾艾爾"
+    },
     "aliases": [
-      "白銀ノエル",
-      "시로가네 노엘",
-      "白银诺艾尔",
-      "白銀諾艾爾",
       "Noel",
       "ノエル",
       "노엘",
@@ -495,11 +589,14 @@
     ]
   },
   {
-    "name": "Shiranui Flare",
+    "name": {
+      "en_us": "Shiranui Flare",
+      "ja_jp": "不知火フレア",
+      "ko_kr": "시라누이 후레아",
+      "zh_cn": "不知火芙蕾雅",
+      "zh_tw": "不知火芙蕾雅"
+    },
     "aliases": [
-      "不知火フレア",
-      "시라누이 후레아",
-      "不知火芙蕾雅",
       "Flare",
       "フレア",
       "후레아",
@@ -507,11 +604,14 @@
     ]
   },
   {
-    "name": "Usada Pekora",
+    "name": {
+      "en_us": "Usada Pekora",
+      "ja_jp": "兎田ぺこら",
+      "ko_kr": "우사다 페코라",
+      "zh_cn": "兔田佩克拉",
+      "zh_tw": "兔田佩克拉"
+    },
     "aliases": [
-      "兎田ぺこら",
-      "우사다 페코라",
-      "兔田佩克拉",
       "Pekora",
       "ぺこら",
       "페코라",
@@ -519,11 +619,14 @@
     ]
   },
   {
-    "name": "Inugami Korone",
+    "name": {
+      "en_us": "Inugami Korone",
+      "ja_jp": "戌神ころね",
+      "ko_kr": "이누가미 코로네",
+      "zh_cn": "戌神沁音",
+      "zh_tw": "戌神沁音"
+    },
     "aliases": [
-      "戌神ころね",
-      "이누가미 코로네",
-      "戌神沁音",
       "Korone",
       "ころね",
       "코로네",
@@ -531,12 +634,14 @@
     ]
   },
   {
-    "name": "Nekomata Okayu",
+    "name": {
+      "en_us": "Nekomata Okayu",
+      "ja_jp": "猫又おかゆ",
+      "ko_kr": "네코마타 오카유",
+      "zh_cn": "猫又小粥",
+      "zh_tw": "貓又小粥"
+    },
     "aliases": [
-      "猫又おかゆ",
-      "네코마타 오카유",
-      "猫又小粥",
-      "貓又小粥",
       "Okayu",
       "おかゆ",
       "오카유",
@@ -544,11 +649,14 @@
     ]
   },
   {
-    "name": "Ookami Mio",
+    "name": {
+      "en_us": "Ookami Mio",
+      "ja_jp": "大神ミオ",
+      "ko_kr": "오오카미 미오",
+      "zh_cn": "大神澪",
+      "zh_tw": "大神澪"
+    },
     "aliases": [
-      "大神ミオ",
-      "오오카미 미오",
-      "大神澪",
       "Mio",
       "ミオ",
       "미오",
@@ -556,15 +664,20 @@
     ]
   },
   {
-    "name": "AZKi",
+    "name": {
+      "en_us": "AZKi"
+    },
     "aliases": []
   },
   {
-    "name": "Oozora Subaru",
+    "name": {
+      "en_us": "Oozora Subaru",
+      "ja_jp": "大空スバル",
+      "ko_kr": "오오조라 스바루",
+      "zh_cn": "大空昴",
+      "zh_tw": "大空昴"
+    },
     "aliases": [
-      "大空スバル",
-      "오오조라 스바루",
-      "大空昴",
       "Subaru",
       "スバル",
       "스바루",
@@ -572,11 +685,14 @@
     ]
   },
   {
-    "name": "Yuzuki Choco",
+    "name": {
+      "en_us": "Yuzuki Choco",
+      "ja_jp": "癒月ちょこ",
+      "ko_kr": "유즈키 초코",
+      "zh_cn": "癒月巧可",
+      "zh_tw": "癒月巧可"
+    },
     "aliases": [
-      "癒月ちょこ",
-      "유즈키 초코",
-      "癒月巧可",
       "Choco",
       "ちょこ",
       "초코",
@@ -584,12 +700,14 @@
     ]
   },
   {
-    "name": "Nakiri Ayame",
+    "name": {
+      "en_us": "Nakiri Ayame",
+      "ja_jp": "百鬼あやめ",
+      "ko_kr": "나키리 아야메",
+      "zh_cn": "百鬼绫目",
+      "zh_tw": "百鬼綾目"
+    },
     "aliases": [
-      "百鬼あやめ",
-      "나키리 아야메",
-      "百鬼绫目",
-      "百鬼綾目",
       "Ayame",
       "あやめ",
       "아야메",
@@ -598,12 +716,14 @@
     ]
   },
   {
-    "name": "Murasaki Shion",
+    "name": {
+      "en_us": "Murasaki Shion",
+      "ja_jp": "紫咲シオン",
+      "ko_kr": "무라사키 시온",
+      "zh_cn": "紫咲诗音",
+      "zh_tw": "紫咲詩音"
+    },
     "aliases": [
-      "紫咲シオン",
-      "무라사키 시온",
-      "紫咲诗音",
-      "紫咲詩音",
       "Shion",
       "シオン",
       "시온",
@@ -612,12 +732,14 @@
     ]
   },
   {
-    "name": "Sakura Miko",
+    "name": {
+      "en_us": "Sakura Miko",
+      "ja_jp": "さくらみこ",
+      "ko_kr": "사쿠라 미코",
+      "zh_cn": "樱巫女",
+      "zh_tw": "櫻巫女"
+    },
     "aliases": [
-      "さくらみこ",
-      "사쿠라 미코",
-      "樱巫女",
-      "櫻巫女",
       "Miko",
       "みこ",
       "미코",
@@ -625,11 +747,14 @@
     ]
   },
   {
-    "name": "Akai Haato",
+    "name": {
+      "en_us": "Akai Haato",
+      "ja_jp": "赤井はあと",
+      "ko_kr": "아카이 하아토",
+      "zh_cn": "赤井心",
+      "zh_tw": "赤井心"
+    },
     "aliases": [
-      "赤井はあと",
-      "아카이 하아토",
-      "赤井心",
       "Haato",
       "はあと",
       "하아토",
@@ -637,11 +762,14 @@
     ]
   },
   {
-    "name": "Natsuiro Matsuri",
+    "name": {
+      "en_us": "Natsuiro Matsuri",
+      "ja_jp": "夏色まつり",
+      "ko_kr": "나츠이로 마츠리",
+      "zh_cn": "夏色祭",
+      "zh_tw": "夏色祭"
+    },
     "aliases": [
-      "夏色まつり",
-      "나츠이로 마츠리",
-      "夏色祭",
       "Matsuri",
       "まつり",
       "마츠리",
@@ -649,11 +777,14 @@
     ]
   },
   {
-    "name": "Shirakami Fubuki",
+    "name": {
+      "en_us": "Shirakami Fubuki",
+      "ja_jp": "白上フブキ",
+      "ko_kr": "시라카미 후부키",
+      "zh_cn": "白上吹雪",
+      "zh_tw": "白上吹雪"
+    },
     "aliases": [
-      "白上フブキ",
-      "시라카미 후부키",
-      "白上吹雪",
       "Fubuki",
       "フブキ",
       "후부키",
@@ -661,12 +792,14 @@
     ]
   },
   {
-    "name": "Aki Rosenthal",
+    "name": {
+      "en_us": "Aki Rosenthal",
+      "ja_jp": "アキ・ローゼンタール",
+      "ko_kr": "아키 로젠탈",
+      "zh_cn": "亚绮·罗森塔尔",
+      "zh_tw": "亞綺．羅森塔爾"
+    },
     "aliases": [
-      "アキ・ローゼンタール",
-      "아키 로젠탈",
-      "亚绮·罗森塔尔",
-      "亞綺．羅森塔爾",
       "Aki",
       "アキ",
       "아키",
@@ -675,11 +808,14 @@
     ]
   },
   {
-    "name": "Hoshimachi Suisei",
+    "name": {
+      "en_us": "Hoshimachi Suisei",
+      "ja_jp": "星街すいせい",
+      "ko_kr": "호시마치 스이세이",
+      "zh_cn": "星街彗星",
+      "zh_tw": "星街彗星"
+    },
     "aliases": [
-      "星街すいせい",
-      "호시마치 스이세이",
-      "星街彗星",
       "Suisei",
       "すいせい",
       "스이세이",
@@ -687,21 +823,24 @@
     ]
   },
   {
-    "name": "Robocosan",
-    "aliases": [
-      "ロボ子さん",
-      "로보코 씨",
-      "萝卜子",
-      "蘿蔔子"
-    ]
+    "name": {
+      "en_us": "Robocosan",
+      "ja_jp": "ロボ子さん",
+      "ko_kr": "로보코 씨",
+      "zh_cn": "萝卜子",
+      "zh_tw": "蘿蔔子"
+    },
+    "aliases": []
   },
   {
-    "name": "Tokino Sora",
+    "name": {
+      "en_us": "Tokino Sora",
+      "ja_jp": "ときのそら",
+      "ko_kr": "토키노 소라",
+      "zh_cn": "时乃空",
+      "zh_tw": "時乃空"
+    },
     "aliases": [
-      "ときのそら",
-      "토키노 소라",
-      "时乃空",
-      "時乃空",
       "Sora",
       "そら",
       "소라",

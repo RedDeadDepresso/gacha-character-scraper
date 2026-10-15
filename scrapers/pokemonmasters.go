@@ -15,7 +15,7 @@ const (
 	pokemonURL    = "https://raw.githubusercontent.com/abcboy101/masters-text/refs/heads/main/Messages/trainer_name_%s.json"
 )
 
-// Languages used for aliases, in alias order. English is the main name.
+// Languages besides English (converted with LangCode).
 var pokemonLangs = []string{"ja", "ko", "zh-TW"}
 
 // PokemonMasters reads trainer names from the masters-text repo. The game is
@@ -49,7 +49,7 @@ func (p PokemonMasters) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(p.Name()) {
+	if upToDate(p.Name(), sha, existing) {
 		log.Printf("[Pokemon] masters-text unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -86,18 +86,18 @@ func (p PokemonMasters) Scrape(existing []Character) ([]Character, error) {
 	var chars []Character // oldest first for now
 	pos := map[string]int{}
 	for _, e := range ids {
-		name := strings.Join(strings.Fields(en[e.key]), " ")
-		var aliases []string
+		b := newNameBuilder().Name(LangEN, en[e.key])
 		for _, lang := range pokemonLangs {
-			aliases = append(aliases, others[lang][e.key])
+			b.Name(lang, others[lang][e.key])
 		}
-		key := strings.ToLower(name)
+		c := b.Character()
+		key := strings.ToLower(c.Name[LangEN])
 		if i, ok := pos[key]; ok {
-			chars[i].Aliases = cleanAliases(chars[i].Name, append(chars[i].Aliases, aliases...))
+			chars[i] = builderOf(chars[i]).Merge(c).Character()
 			continue
 		}
 		pos[key] = len(chars)
-		chars = append(chars, Character{Name: name, Aliases: cleanAliases(name, aliases)})
+		chars = append(chars, c)
 	}
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("pokemon: no trainers found")

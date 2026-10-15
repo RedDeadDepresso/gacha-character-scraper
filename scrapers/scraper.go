@@ -13,15 +13,57 @@ import (
 	"time"
 )
 
-// Character is one scraped character. Aliases hold names in other languages.
+// Character is one scraped character. Name holds one name per language
+// (KKAFIO language codes, see Names); Aliases hold every other way the
+// character may be called (short names, other word orders, alters, ...).
 type Character struct {
-	Name    string   `json:"name"`
+	Name    Names    `json:"name"`
 	Aliases []string `json:"aliases"`
+
+	// legacy is set when the character was read from a data file in the old
+	// format, where "name" was a single string.
+	legacy bool
+}
+
+// UnmarshalJSON reads the current format and, for old data files, a plain
+// string name (read as the English name and flagged as legacy).
+func (c *Character) UnmarshalJSON(b []byte) error {
+	var raw struct {
+		Name    json.RawMessage `json:"name"`
+		Aliases []string        `json:"aliases"`
+	}
+	if err := json.Unmarshal(b, &raw); err != nil {
+		return err
+	}
+	c.Aliases, c.legacy = raw.Aliases, false
+	var s string
+	if json.Unmarshal(raw.Name, &s) == nil {
+		c.Name, c.legacy = Names{LangEN: s}, true
+		return nil
+	}
+	c.Name = Names{}
+	return json.Unmarshal(raw.Name, &c.Name)
+}
+
+// upToDate reports whether a scraper can return the saved characters as they
+// are: a list exists, the source commit has not changed since the last run, and
+// the list is not in the old single-language format (which must be rebuilt to
+// pick up the other languages).
+func upToDate(game, sha string, existing []Character) bool {
+	if len(existing) == 0 || sha != LoadCommit(game) {
+		return false
+	}
+	for _, c := range existing {
+		if c.legacy {
+			return false
+		}
+	}
+	return true
 }
 
 // Scraper scrapes a single gacha game.
 type Scraper interface {
-	// Name must match the entry in config/games.json and is used as the data file name.
+	// Name must match the entry in config/series.json and is used as the data file name.
 	Name() string
 	// Scrape receives the previously saved characters (may be empty) and returns
 	// the full updated list. New characters are placed first.
@@ -99,8 +141,32 @@ func get(url string) (io.ReadCloser, error) {
 	return resp.Body, nil
 }
 
-// ConfigDir holds games.json and the commit cache.
+// ConfigDir holds series.json and the commit cache.
 const ConfigDir = "config"
+
+// Series is one entry of config/series.json. The file is an ordered list, most
+// popular game first (the order drives the scores in the merged index).
+type Series struct {
+	// Game is the scraper name and data file name, e.g. "Genshin Impact".
+	Game string `json:"game"`
+	// Title is the series title per language; en_us defaults to Game.
+	Title Names `json:"title"`
+	// Aliases are other names an LLM might answer with.
+	Aliases []string `json:"aliases"`
+}
+
+// LoadSeries reads config/series.json.
+func LoadSeries() ([]Series, error) {
+	b, err := os.ReadFile(filepath.Join(ConfigDir, "series.json"))
+	if err != nil {
+		return nil, err
+	}
+	var list []Series
+	if err := json.Unmarshal(b, &list); err != nil {
+		return nil, fmt.Errorf("parse series.json: %w", err)
+	}
+	return list, nil
+}
 
 const commitsFile = "commits.json"
 

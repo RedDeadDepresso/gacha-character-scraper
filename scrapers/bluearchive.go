@@ -14,7 +14,8 @@ const (
 	schaleDataURL = "https://raw.githubusercontent.com/nico0748/SchaleDB/refs/heads/main/data/%s/students.min.json"
 )
 
-// Languages in SchaleDB's data folder. "en" is the primary one.
+// Languages in SchaleDB's data folder (converted with LangCode: jp = Japanese,
+// kr = Korean, tw = Traditional and zh = Simplified Chinese).
 var schaleLangs = []string{"en", "jp", "kr", "tw", "zh"}
 
 // BlueArchive builds its list from SchaleDB's student data.
@@ -46,7 +47,7 @@ func (b BlueArchive) Scrape(existing []Character) ([]Character, error) {
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(b.Name()) {
+	if upToDate(b.Name(), sha, existing) {
 		log.Printf("[Blue Archive] SchaleDB unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -85,26 +86,16 @@ func (b BlueArchive) Scrape(existing []Character) ([]Character, error) {
 
 	chars := make([]Character, 0, len(bases))
 	for _, base := range bases {
-		c := Character{Name: displayName(base), Aliases: []string{}}
-		seen := map[string]bool{strings.ToLower(c.Name): true}
-		add := func(a string) {
-			a = strings.TrimSpace(a)
-			if a == "" || seen[strings.ToLower(a)] {
-				return
-			}
-			seen[strings.ToLower(a)] = true
-			c.Aliases = append(c.Aliases, a)
-		}
+		b := newNameBuilder().Name(LangEN, displayName(base))
 		for _, lang := range schaleLangs {
 			s, ok := byLang[lang][fmt.Sprint(base.Id)]
 			if !ok {
 				continue
 			}
-			for _, a := range langAliases(lang, s) {
-				add(a)
-			}
+			b.Name(lang, displayName(s))
+			b.Alias(langAliases(lang, s)...)
 		}
-		chars = append(chars, c)
+		chars = append(chars, b.Character())
 	}
 
 	if err := SaveCommit(b.Name(), sha); err != nil {
@@ -140,11 +131,13 @@ func displayName(s schaleStudent) string {
 	return s.Name
 }
 
-// langAliases returns the name forms of a student in one language.
+// langAliases returns the other name forms of a student in one language (the
+// main name is displayName): the joined and spaced word orders cards usually
+// carry, and the in-game short name.
 func langAliases(lang string, s schaleStudent) []string {
 	var out []string
 	if s.FamilyName != "" && s.PersonalName != "" {
-		if lang == "en" {
+		if LangCode(lang) == LangEN {
 			out = append(out, s.PersonalName+" "+s.FamilyName) // Western order
 		} else {
 			out = append(out, s.FamilyName+s.PersonalName, s.FamilyName+" "+s.PersonalName)

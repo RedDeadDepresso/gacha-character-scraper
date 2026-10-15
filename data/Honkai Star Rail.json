@@ -1,818 +1,975 @@
 [
   {
-    "name": "Trailblazer",
+    "name": {
+      "en_us": "Trailblazer",
+      "ja_jp": "穹",
+      "ko_kr": "카일루스",
+      "ru_ru": "Келус",
+      "zh_cn": "穹",
+      "zh_tw": "穹"
+    },
     "aliases": [
-      "穹",
       "穹 (壊滅)",
-      "카일루스",
       "카일루스 (파멸)",
-      "Келус",
       "Келус (Разрушение)",
       "穹 (毁灭)",
       "穹 (毀滅)"
     ]
   },
   {
-    "name": "Aventurine • Waveflair",
+    "name": {
+      "en_us": "Aventurine • Waveflair",
+      "ja_jp": "アベンチュリン・波と戯れる夏",
+      "ko_kr": "어벤츄린•웨이브",
+      "ru_ru": "Авантюрин: Прибой",
+      "zh_cn": "砂金•戏浪",
+      "zh_tw": "砂金•戲浪"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Robin • Summeretto",
+      "ja_jp": "ロビン・夏空の歌",
+      "ko_kr": "로빈•서머레토",
+      "ru_ru": "Зарянка: Яснопея",
+      "zh_cn": "知更鸟•晴歌",
+      "zh_tw": "知更鳥•晴歌"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Himeko • Nova",
+      "ja_jp": "姫子・旅立ち",
+      "ko_kr": "히메코•노바",
+      "ru_ru": "Химеко: Нова",
+      "zh_cn": "姬子•启行",
+      "zh_tw": "姬子•啟行"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Gilgamesh",
+      "ja_jp": "ギルガメッシュ",
+      "ko_kr": "길가메시",
+      "ru_ru": "Гильгамеш",
+      "zh_cn": "吉尔伽美什",
+      "zh_tw": "吉爾伽美什"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rin Tohsaka",
+      "ja_jp": "遠坂凛",
+      "ko_kr": "토오사카 린",
+      "ru_ru": "Рин Тосака",
+      "zh_cn": "远坂凛",
+      "zh_tw": "遠坂凜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mortenax Blade",
+      "ja_jp": "千冶・刃",
+      "ko_kr": "천야•블레이드",
+      "ru_ru": "Мортенакс Блэйд",
+      "zh_cn": "千冶•刃",
+      "zh_tw": "千冶•刃"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Silver Wolf LV.999",
+      "ja_jp": "銀狼LV.999",
+      "ko_kr": "은랑 LV.999",
+      "ru_ru": "Серебряный Волк ур. 999",
+      "zh_cn": "银狼LV.999",
+      "zh_tw": "銀狼LV.999"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Evanescia",
+      "ja_jp": "緋英",
+      "ko_kr": "에바네시아",
+      "ru_ru": "Эванесса",
+      "zh_cn": "绯英",
+      "zh_tw": "緋英"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ashveil",
+      "ja_jp": "不死途",
+      "ko_kr": "애쉬베일",
+      "ru_ru": "Эшвейл",
+      "zh_cn": "不死途",
+      "zh_tw": "不死途"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Pearl",
+      "ja_jp": "パール",
+      "ko_kr": "펄",
+      "zh_cn": "真珠",
+      "zh_tw": "真珠"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yao Guang",
+      "ja_jp": "爻光",
+      "ko_kr": "효광",
+      "ru_ru": "Яо Гуан",
+      "zh_cn": "爻光",
+      "zh_tw": "爻光"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sparxie",
+      "ja_jp": "火花",
+      "ko_kr": "스파키",
+      "ru_ru": "Искра",
+      "zh_cn": "火花",
+      "zh_tw": "火花"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cyrene",
+      "ja_jp": "キュレネ",
+      "ko_kr": "키레네",
+      "ru_ru": "Кирена",
+      "zh_cn": "昔涟",
+      "zh_tw": "昔漣"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dan Heng • Permansor Terrae",
+      "ja_jp": "丹恒・騰荒",
+      "ko_kr": "단항•등황",
+      "ru_ru": "Дань Хэн: Освободитель Пустошей",
+      "zh_cn": "丹恒•腾荒",
+      "zh_tw": "丹恆•騰荒"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Evernight",
+      "ja_jp": "長夜月",
+      "ko_kr": "에버나이트",
+      "ru_ru": "Темень",
+      "zh_cn": "长夜月",
+      "zh_tw": "長夜月"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cerydra",
+      "ja_jp": "ケリュドラ",
+      "ko_kr": "케리드라",
+      "ru_ru": "Керидра",
+      "zh_cn": "刻律德菈",
+      "zh_tw": "刻律德菈"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hysilens",
+      "ja_jp": "セイレンス",
+      "ko_kr": "히실렌스",
+      "ru_ru": "Гисиленса",
+      "zh_cn": "海瑟音",
+      "zh_tw": "海瑟音"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hyacine",
+      "ja_jp": "ヒアンシー",
+      "ko_kr": "히아킨",
+      "ru_ru": "Гиацина",
+      "zh_cn": "风堇",
+      "zh_tw": "風堇"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Phainon",
+      "ja_jp": "ファイノン",
+      "ko_kr": "파이논",
+      "ru_ru": "Фаенон",
+      "zh_cn": "白厄",
+      "zh_tw": "白厄"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Castorice",
+      "ja_jp": "キャストリス",
+      "ko_kr": "카스토리스",
+      "ru_ru": "Кастория",
+      "zh_cn": "遐蝶",
+      "zh_tw": "遐蝶"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Cipher",
+      "ja_jp": "サフェル",
+      "ko_kr": "사이퍼",
+      "ru_ru": "Цифер",
+      "zh_cn": "赛飞儿",
+      "zh_tw": "賽飛兒"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Anaxa",
+      "ja_jp": "アナイクス",
+      "ko_kr": "아낙사",
+      "ru_ru": "Анакса",
+      "zh_cn": "那刻夏",
+      "zh_tw": "那刻夏"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mydei",
+      "ja_jp": "モーディス",
+      "ko_kr": "마이데이",
+      "ru_ru": "Мидей",
+      "zh_cn": "万敌",
+      "zh_tw": "萬敵"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tribbie",
+      "ja_jp": "トリビー",
+      "ko_kr": "트리비",
+      "ru_ru": "Трибби",
+      "zh_cn": "缇宝",
+      "zh_tw": "緹寶"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aglaea",
+      "ja_jp": "アグライア",
+      "ko_kr": "아글라이아",
+      "ru_ru": "Аглая",
+      "zh_cn": "阿格莱雅",
+      "zh_tw": "阿格萊雅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "The Herta",
+      "ja_jp": "マダム・ヘルタ",
+      "ko_kr": "더 헤르타",
+      "ru_ru": "Великая Герта",
+      "zh_cn": "大黑塔",
+      "zh_tw": "大黑塔"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "The Dahlia",
+      "ja_jp": "ダリア",
+      "ko_kr": "달리아",
+      "ru_ru": "Георгина",
+      "zh_cn": "大丽花",
+      "zh_tw": "大理花"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rappa",
+      "ja_jp": "乱破",
+      "ko_kr": "라파",
+      "ru_ru": "Раппа",
+      "zh_cn": "乱破",
+      "zh_tw": "亂破"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Boothill",
+      "ja_jp": "ブートヒル",
+      "ko_kr": "부트힐",
+      "ru_ru": "Бутхилл",
+      "zh_cn": "波提欧",
+      "zh_tw": "波提歐"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jade",
+      "ja_jp": "ジェイド",
+      "ko_kr": "제이드",
+      "ru_ru": "Яшма",
+      "zh_cn": "翡翠",
+      "zh_tw": "翡翠"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sunday",
+      "ja_jp": "サンデー",
+      "ko_kr": "선데이",
+      "ru_ru": "Воскресенье",
+      "zh_cn": "星期日",
+      "zh_tw": "星期日"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Misha",
+      "ja_jp": "ミーシャ",
+      "ko_kr": "미샤",
+      "ru_ru": "Миша",
+      "zh_cn": "米沙",
+      "zh_tw": "米沙"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Firefly",
+      "ja_jp": "ホタル",
+      "ko_kr": "반디",
+      "ru_ru": "Светлячок",
+      "zh_cn": "流萤",
+      "zh_tw": "流螢"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Robin",
+      "ja_jp": "ロビン",
+      "ko_kr": "로빈",
+      "ru_ru": "Зарянка",
+      "zh_cn": "知更鸟",
+      "zh_tw": "知更鳥"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Acheron",
+      "ja_jp": "黄泉",
+      "ko_kr": "아케론",
+      "ru_ru": "Ахерон",
+      "zh_cn": "黄泉",
+      "zh_tw": "黃泉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Black Swan",
+      "ja_jp": "ブラックスワン",
+      "ko_kr": "블랙 스완",
+      "ru_ru": "Чёрный Лебедь",
+      "zh_cn": "黑天鹅",
+      "zh_tw": "黑天鵝"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sparkle",
+      "ja_jp": "花火",
+      "ko_kr": "스파클",
+      "ru_ru": "Искорка",
+      "zh_cn": "花火",
+      "zh_tw": "花火"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dr. Ratio",
+      "ja_jp": "Dr.レイシオ",
+      "ko_kr": "Dr. 레이시오",
+      "ru_ru": "Доктор Рацио",
+      "zh_cn": "真理医生",
+      "zh_tw": "真理醫生"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aventurine",
+      "ja_jp": "アベンチュリン",
+      "ko_kr": "어벤츄린",
+      "ru_ru": "Авантюрин",
+      "zh_cn": "砂金",
+      "zh_tw": "砂金"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ruan Mei",
+      "ja_jp": "ルアン・メェイ",
+      "ko_kr": "완•매",
+      "ru_ru": "Жуань Мэй",
+      "zh_cn": "阮•梅",
+      "zh_tw": "阮•梅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Argenti",
+      "ja_jp": "アルジェンティ",
+      "ko_kr": "아젠티",
+      "ru_ru": "Аргенти",
+      "zh_cn": "银枝",
+      "zh_tw": "銀枝"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Gallagher",
+      "ja_jp": "ギャラガー",
+      "ko_kr": "갤러거",
+      "ru_ru": "Галлахер",
+      "zh_cn": "加拉赫",
+      "zh_tw": "加拉赫"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Fugue",
+      "ja_jp": "帰忘の流離人",
+      "ko_kr": "망귀인",
+      "ru_ru": "Фуга",
+      "zh_cn": "忘归人",
+      "zh_tw": "忘歸人"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Moze",
+      "ja_jp": "モゼ",
+      "ko_kr": "맥택",
+      "ru_ru": "Моцзэ",
+      "zh_cn": "貊泽",
+      "zh_tw": "貊澤"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lingsha",
+      "ja_jp": "霊砂",
+      "ko_kr": "영사",
+      "ru_ru": "Линша",
+      "zh_cn": "灵砂",
+      "zh_tw": "靈砂"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yunli",
+      "ja_jp": "雲璃",
+      "ko_kr": "운리",
+      "ru_ru": "Юньли",
+      "zh_cn": "云璃",
+      "zh_tw": "雲璃"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Feixiao",
+      "ja_jp": "飛霄",
+      "ko_kr": "비소",
+      "ru_ru": "Фэйсяо",
+      "zh_cn": "飞霄",
+      "zh_tw": "飛霄"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jiaoqiu",
+      "ja_jp": "椒丘",
+      "ko_kr": "초구",
+      "ru_ru": "Цзяоцю",
+      "zh_cn": "椒丘",
+      "zh_tw": "椒丘"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Huohuo",
+      "ja_jp": "フォフォ",
+      "ko_kr": "곽향",
+      "ru_ru": "Хохо",
+      "zh_cn": "藿藿",
+      "zh_tw": "藿藿"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hanya",
+      "ja_jp": "寒鴉",
+      "ko_kr": "한아",
+      "ru_ru": "Ханья",
+      "zh_cn": "寒鸦",
+      "zh_tw": "寒鴉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Xueyi",
+      "ja_jp": "雪衣",
+      "ko_kr": "설의",
+      "ru_ru": "Сюэи",
+      "zh_cn": "雪衣",
+      "zh_tw": "雪衣"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dan Heng • Imbibitor Lunae",
+      "ja_jp": "丹恒・飲月",
+      "ko_kr": "단항•음월",
+      "ru_ru": "Дань Хэн: Пожиратель Луны",
+      "zh_cn": "丹恒•饮月",
+      "zh_tw": "丹恆•飲月"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jingliu",
+      "ja_jp": "鏡流",
+      "ko_kr": "경류",
+      "ru_ru": "Цзинлю",
+      "zh_cn": "镜流",
+      "zh_tw": "鏡流"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Bailu",
+      "ja_jp": "白露",
+      "ko_kr": "백로",
+      "ru_ru": "Байлу",
+      "zh_cn": "白露",
+      "zh_tw": "白露"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Guinaifen",
+      "ja_jp": "桂乃芬",
+      "ko_kr": "계네빈",
+      "ru_ru": "Гуйнайфэнь",
+      "zh_cn": "桂乃芬",
+      "zh_tw": "桂乃芬"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yanqing",
+      "ja_jp": "彦卿",
+      "ko_kr": "연경",
+      "ru_ru": "Яньцин",
+      "zh_cn": "彦卿",
+      "zh_tw": "彥卿"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Fu Xuan",
+      "ja_jp": "符玄",
+      "ko_kr": "부현",
+      "ru_ru": "Фу Сюань",
+      "zh_cn": "符玄",
+      "zh_tw": "符玄"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yukong",
+      "ja_jp": "御空",
+      "ko_kr": "어공",
+      "ru_ru": "Юйкун",
+      "zh_cn": "驭空",
+      "zh_tw": "馭空"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sushang",
+      "ja_jp": "素裳",
+      "ko_kr": "소상",
+      "ru_ru": "Сушан",
+      "zh_cn": "素裳",
+      "zh_tw": "素裳"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Blade",
+      "ja_jp": "刃",
+      "ko_kr": "블레이드",
+      "ru_ru": "Блэйд",
+      "zh_cn": "刃",
+      "zh_tw": "刃"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jing Yuan",
+      "ja_jp": "景元",
+      "ko_kr": "경원",
+      "ru_ru": "Цзин Юань",
+      "zh_cn": "景元",
+      "zh_tw": "景元"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Luocha",
+      "ja_jp": "羅刹",
+      "ko_kr": "나찰",
+      "ru_ru": "Лоча",
+      "zh_cn": "罗刹",
+      "zh_tw": "羅剎"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tingyun",
+      "ja_jp": "停雲",
+      "ko_kr": "정운",
+      "ru_ru": "Тинъюнь",
+      "zh_cn": "停云",
+      "zh_tw": "停雲"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Qingque",
+      "ja_jp": "青雀",
+      "ko_kr": "청작",
+      "ru_ru": "Цинцюэ",
+      "zh_cn": "青雀",
+      "zh_tw": "青雀"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Topaz & Numby",
+      "ja_jp": "トパーズ&カブ",
+      "ko_kr": "토파즈&복순이",
+      "ru_ru": "Топаз и Счетовод",
+      "zh_cn": "托帕&账账",
+      "zh_tw": "托帕&帳帳"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Luka",
+      "ja_jp": "ルカ",
+      "ko_kr": "루카",
+      "ru_ru": "Лука",
+      "zh_cn": "卢卡",
+      "zh_tw": "盧卡"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lynx",
+      "ja_jp": "リンクス",
+      "ko_kr": "링스",
+      "ru_ru": "Рысь",
+      "zh_cn": "玲可",
+      "zh_tw": "玲可"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hook",
+      "ja_jp": "フック",
+      "ko_kr": "후크",
+      "ru_ru": "Хук",
+      "zh_cn": "虎克",
+      "zh_tw": "虎克"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sampo",
+      "ja_jp": "サンポ",
+      "ko_kr": "삼포",
+      "ru_ru": "Сампо",
+      "zh_cn": "桑博",
+      "zh_tw": "桑博"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Clara",
+      "ja_jp": "クラーラ",
+      "ko_kr": "클라라",
+      "ru_ru": "Клара",
+      "zh_cn": "克拉拉",
+      "zh_tw": "克拉拉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Pela",
+      "ja_jp": "ペラ",
+      "ko_kr": "페라",
+      "ru_ru": "Пела",
+      "zh_cn": "佩拉",
+      "zh_tw": "佩拉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Natasha",
+      "ja_jp": "ナターシャ",
+      "ko_kr": "나타샤",
+      "ru_ru": "Наташа",
+      "zh_cn": "娜塔莎",
+      "zh_tw": "娜塔莎"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Gepard",
+      "ja_jp": "ジェパード",
+      "ko_kr": "게파드",
+      "ru_ru": "Гепард",
+      "zh_cn": "杰帕德",
+      "zh_tw": "傑帕德"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Serval",
+      "ja_jp": "セーバル",
+      "ko_kr": "서벌",
+      "ru_ru": "Сервал",
+      "zh_cn": "希露瓦",
+      "zh_tw": "希露瓦"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Seele",
+      "ja_jp": "ゼーレ",
+      "ko_kr": "제레",
+      "ru_ru": "Зеле",
+      "zh_cn": "希儿",
+      "zh_tw": "希兒"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Bronya",
+      "ja_jp": "ブローニャ",
+      "ko_kr": "브로냐",
+      "ru_ru": "Броня",
+      "zh_cn": "布洛妮娅",
+      "zh_tw": "布洛妮婭"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Archer",
+      "ja_jp": "アーチャー",
+      "ko_kr": "아처",
+      "ru_ru": "Арчер"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Saber",
+      "ja_jp": "セイバー",
+      "ko_kr": "세이버",
+      "ru_ru": "Сэйбер"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Herta",
+      "ja_jp": "ヘルタ",
+      "ko_kr": "헤르타",
+      "ru_ru": "Герта",
+      "zh_cn": "黑塔",
+      "zh_tw": "黑塔"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Asta",
+      "ja_jp": "アスター",
+      "ko_kr": "아스타",
+      "ru_ru": "Аста",
+      "zh_cn": "艾丝妲",
+      "zh_tw": "艾絲妲"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Arlan",
+      "ja_jp": "アーラン",
+      "ko_kr": "아를란",
+      "ru_ru": "Арлан",
+      "zh_cn": "阿兰",
+      "zh_tw": "阿蘭"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Silver Wolf",
+      "ja_jp": "銀狼",
+      "ko_kr": "은랑",
+      "ru_ru": "Серебряный Волк",
+      "zh_cn": "银狼",
+      "zh_tw": "銀狼"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kafka",
+      "ja_jp": "カフカ",
+      "ko_kr": "카프카",
+      "ru_ru": "Кафка",
+      "zh_cn": "卡芙卡",
+      "zh_tw": "卡芙卡"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Welt",
+      "ja_jp": "ヴェルト",
+      "ko_kr": "웰트",
+      "ru_ru": "Вельт",
+      "zh_cn": "瓦尔特",
+      "zh_tw": "瓦爾特"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Himeko",
+      "ja_jp": "姫子",
+      "ko_kr": "히메코",
+      "ru_ru": "Химеко",
+      "zh_cn": "姬子",
+      "zh_tw": "姬子"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Dan Heng",
+      "ja_jp": "丹恒",
+      "ko_kr": "단항",
+      "ru_ru": "Дань Хэн",
+      "zh_cn": "丹恒",
+      "zh_tw": "丹恆"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "March 7th",
+      "ja_jp": "三月なのか",
+      "ko_kr": "Mar. 7th",
+      "ru_ru": "Март 7",
+      "zh_cn": "三月七",
+      "zh_tw": "三月七"
+    },
     "aliases": [
-      "アベンチュリン・波と戯れる夏",
-      "어벤츄린•웨이브",
-      "Авантюрин: Прибой",
-      "砂金•戏浪",
-      "砂金•戲浪"
-    ]
-  },
-  {
-    "name": "Robin • Summeretto",
-    "aliases": [
-      "ロビン・夏空の歌",
-      "로빈•서머레토",
-      "Зарянка: Яснопея",
-      "知更鸟•晴歌",
-      "知更鳥•晴歌"
-    ]
-  },
-  {
-    "name": "Himeko • Nova",
-    "aliases": [
-      "姫子・旅立ち",
-      "히메코•노바",
-      "Химеко: Нова",
-      "姬子•启行",
-      "姬子•啟行"
-    ]
-  },
-  {
-    "name": "Gilgamesh",
-    "aliases": [
-      "ギルガメッシュ",
-      "길가메시",
-      "Гильгамеш",
-      "吉尔伽美什",
-      "吉爾伽美什"
-    ]
-  },
-  {
-    "name": "Rin Tohsaka",
-    "aliases": [
-      "遠坂凛",
-      "토오사카 린",
-      "Рин Тосака",
-      "远坂凛",
-      "遠坂凜"
-    ]
-  },
-  {
-    "name": "Mortenax Blade",
-    "aliases": [
-      "千冶・刃",
-      "천야•블레이드",
-      "Мортенакс Блэйд",
-      "千冶•刃"
-    ]
-  },
-  {
-    "name": "Silver Wolf LV.999",
-    "aliases": [
-      "銀狼LV.999",
-      "은랑 LV.999",
-      "Серебряный Волк ур. 999",
-      "银狼LV.999"
-    ]
-  },
-  {
-    "name": "Evanescia",
-    "aliases": [
-      "緋英",
-      "에바네시아",
-      "Эванесса",
-      "绯英"
-    ]
-  },
-  {
-    "name": "Ashveil",
-    "aliases": [
-      "不死途",
-      "애쉬베일",
-      "Эшвейл"
-    ]
-  },
-  {
-    "name": "Pearl",
-    "aliases": [
-      "パール",
-      "펄",
-      "真珠"
-    ]
-  },
-  {
-    "name": "Yao Guang",
-    "aliases": [
-      "爻光",
-      "효광",
-      "Яо Гуан"
-    ]
-  },
-  {
-    "name": "Sparxie",
-    "aliases": [
-      "火花",
-      "스파키",
-      "Искра"
-    ]
-  },
-  {
-    "name": "Cyrene",
-    "aliases": [
-      "キュレネ",
-      "키레네",
-      "Кирена",
-      "昔涟",
-      "昔漣"
-    ]
-  },
-  {
-    "name": "Dan Heng • Permansor Terrae",
-    "aliases": [
-      "丹恒・騰荒",
-      "단항•등황",
-      "Дань Хэн: Освободитель Пустошей",
-      "丹恒•腾荒",
-      "丹恆•騰荒"
-    ]
-  },
-  {
-    "name": "Evernight",
-    "aliases": [
-      "長夜月",
-      "에버나이트",
-      "Темень",
-      "长夜月"
-    ]
-  },
-  {
-    "name": "Cerydra",
-    "aliases": [
-      "ケリュドラ",
-      "케리드라",
-      "Керидра",
-      "刻律德菈"
-    ]
-  },
-  {
-    "name": "Hysilens",
-    "aliases": [
-      "セイレンス",
-      "히실렌스",
-      "Гисиленса",
-      "海瑟音"
-    ]
-  },
-  {
-    "name": "Hyacine",
-    "aliases": [
-      "ヒアンシー",
-      "히아킨",
-      "Гиацина",
-      "风堇",
-      "風堇"
-    ]
-  },
-  {
-    "name": "Phainon",
-    "aliases": [
-      "ファイノン",
-      "파이논",
-      "Фаенон",
-      "白厄"
-    ]
-  },
-  {
-    "name": "Castorice",
-    "aliases": [
-      "キャストリス",
-      "카스토리스",
-      "Кастория",
-      "遐蝶"
-    ]
-  },
-  {
-    "name": "Cipher",
-    "aliases": [
-      "サフェル",
-      "사이퍼",
-      "Цифер",
-      "赛飞儿",
-      "賽飛兒"
-    ]
-  },
-  {
-    "name": "Anaxa",
-    "aliases": [
-      "アナイクス",
-      "아낙사",
-      "Анакса",
-      "那刻夏"
-    ]
-  },
-  {
-    "name": "Mydei",
-    "aliases": [
-      "モーディス",
-      "마이데이",
-      "Мидей",
-      "万敌",
-      "萬敵"
-    ]
-  },
-  {
-    "name": "Tribbie",
-    "aliases": [
-      "トリビー",
-      "트리비",
-      "Трибби",
-      "缇宝",
-      "緹寶"
-    ]
-  },
-  {
-    "name": "Aglaea",
-    "aliases": [
-      "アグライア",
-      "아글라이아",
-      "Аглая",
-      "阿格莱雅",
-      "阿格萊雅"
-    ]
-  },
-  {
-    "name": "The Herta",
-    "aliases": [
-      "マダム・ヘルタ",
-      "더 헤르타",
-      "Великая Герта",
-      "大黑塔"
-    ]
-  },
-  {
-    "name": "The Dahlia",
-    "aliases": [
-      "ダリア",
-      "달리아",
-      "Георгина",
-      "大丽花",
-      "大理花"
-    ]
-  },
-  {
-    "name": "Rappa",
-    "aliases": [
-      "乱破",
-      "라파",
-      "Раппа",
-      "亂破"
-    ]
-  },
-  {
-    "name": "Boothill",
-    "aliases": [
-      "ブートヒル",
-      "부트힐",
-      "Бутхилл",
-      "波提欧",
-      "波提歐"
-    ]
-  },
-  {
-    "name": "Jade",
-    "aliases": [
-      "ジェイド",
-      "제이드",
-      "Яшма",
-      "翡翠"
-    ]
-  },
-  {
-    "name": "Sunday",
-    "aliases": [
-      "サンデー",
-      "선데이",
-      "Воскресенье",
-      "星期日"
-    ]
-  },
-  {
-    "name": "Misha",
-    "aliases": [
-      "ミーシャ",
-      "미샤",
-      "Миша",
-      "米沙"
-    ]
-  },
-  {
-    "name": "Firefly",
-    "aliases": [
-      "ホタル",
-      "반디",
-      "Светлячок",
-      "流萤",
-      "流螢"
-    ]
-  },
-  {
-    "name": "Robin",
-    "aliases": [
-      "ロビン",
-      "로빈",
-      "Зарянка",
-      "知更鸟",
-      "知更鳥"
-    ]
-  },
-  {
-    "name": "Acheron",
-    "aliases": [
-      "黄泉",
-      "아케론",
-      "Ахерон",
-      "黃泉"
-    ]
-  },
-  {
-    "name": "Black Swan",
-    "aliases": [
-      "ブラックスワン",
-      "블랙 스완",
-      "Чёрный Лебедь",
-      "黑天鹅",
-      "黑天鵝"
-    ]
-  },
-  {
-    "name": "Sparkle",
-    "aliases": [
-      "花火",
-      "스파클",
-      "Искорка"
-    ]
-  },
-  {
-    "name": "Dr. Ratio",
-    "aliases": [
-      "Dr.レイシオ",
-      "Dr. 레이시오",
-      "Доктор Рацио",
-      "真理医生",
-      "真理醫生"
-    ]
-  },
-  {
-    "name": "Aventurine",
-    "aliases": [
-      "アベンチュリン",
-      "어벤츄린",
-      "Авантюрин",
-      "砂金"
-    ]
-  },
-  {
-    "name": "Ruan Mei",
-    "aliases": [
-      "ルアン・メェイ",
-      "완•매",
-      "Жуань Мэй",
-      "阮•梅"
-    ]
-  },
-  {
-    "name": "Argenti",
-    "aliases": [
-      "アルジェンティ",
-      "아젠티",
-      "Аргенти",
-      "银枝",
-      "銀枝"
-    ]
-  },
-  {
-    "name": "Gallagher",
-    "aliases": [
-      "ギャラガー",
-      "갤러거",
-      "Галлахер",
-      "加拉赫"
-    ]
-  },
-  {
-    "name": "Fugue",
-    "aliases": [
-      "帰忘の流離人",
-      "망귀인",
-      "Фуга",
-      "忘归人",
-      "忘歸人"
-    ]
-  },
-  {
-    "name": "Moze",
-    "aliases": [
-      "モゼ",
-      "맥택",
-      "Моцзэ",
-      "貊泽",
-      "貊澤"
-    ]
-  },
-  {
-    "name": "Lingsha",
-    "aliases": [
-      "霊砂",
-      "영사",
-      "Линша",
-      "灵砂",
-      "靈砂"
-    ]
-  },
-  {
-    "name": "Yunli",
-    "aliases": [
-      "雲璃",
-      "운리",
-      "Юньли",
-      "云璃"
-    ]
-  },
-  {
-    "name": "Feixiao",
-    "aliases": [
-      "飛霄",
-      "비소",
-      "Фэйсяо",
-      "飞霄"
-    ]
-  },
-  {
-    "name": "Jiaoqiu",
-    "aliases": [
-      "椒丘",
-      "초구",
-      "Цзяоцю"
-    ]
-  },
-  {
-    "name": "Huohuo",
-    "aliases": [
-      "フォフォ",
-      "곽향",
-      "Хохо",
-      "藿藿"
-    ]
-  },
-  {
-    "name": "Hanya",
-    "aliases": [
-      "寒鴉",
-      "한아",
-      "Ханья",
-      "寒鸦"
-    ]
-  },
-  {
-    "name": "Xueyi",
-    "aliases": [
-      "雪衣",
-      "설의",
-      "Сюэи"
-    ]
-  },
-  {
-    "name": "Dan Heng • Imbibitor Lunae",
-    "aliases": [
-      "丹恒・飲月",
-      "단항•음월",
-      "Дань Хэн: Пожиратель Луны",
-      "丹恒•饮月",
-      "丹恆•飲月"
-    ]
-  },
-  {
-    "name": "Jingliu",
-    "aliases": [
-      "鏡流",
-      "경류",
-      "Цзинлю",
-      "镜流"
-    ]
-  },
-  {
-    "name": "Bailu",
-    "aliases": [
-      "白露",
-      "백로",
-      "Байлу"
-    ]
-  },
-  {
-    "name": "Guinaifen",
-    "aliases": [
-      "桂乃芬",
-      "계네빈",
-      "Гуйнайфэнь"
-    ]
-  },
-  {
-    "name": "Yanqing",
-    "aliases": [
-      "彦卿",
-      "연경",
-      "Яньцин",
-      "彥卿"
-    ]
-  },
-  {
-    "name": "Fu Xuan",
-    "aliases": [
-      "符玄",
-      "부현",
-      "Фу Сюань"
-    ]
-  },
-  {
-    "name": "Yukong",
-    "aliases": [
-      "御空",
-      "어공",
-      "Юйкун",
-      "驭空",
-      "馭空"
-    ]
-  },
-  {
-    "name": "Sushang",
-    "aliases": [
-      "素裳",
-      "소상",
-      "Сушан"
-    ]
-  },
-  {
-    "name": "Blade",
-    "aliases": [
-      "刃",
-      "블레이드",
-      "Блэйд"
-    ]
-  },
-  {
-    "name": "Jing Yuan",
-    "aliases": [
-      "景元",
-      "경원",
-      "Цзин Юань"
-    ]
-  },
-  {
-    "name": "Luocha",
-    "aliases": [
-      "羅刹",
-      "나찰",
-      "Лоча",
-      "罗刹",
-      "羅剎"
-    ]
-  },
-  {
-    "name": "Tingyun",
-    "aliases": [
-      "停雲",
-      "정운",
-      "Тинъюнь",
-      "停云"
-    ]
-  },
-  {
-    "name": "Qingque",
-    "aliases": [
-      "青雀",
-      "청작",
-      "Цинцюэ"
-    ]
-  },
-  {
-    "name": "Topaz & Numby",
-    "aliases": [
-      "トパーズ&カブ",
-      "토파즈&복순이",
-      "Топаз и Счетовод",
-      "托帕&账账",
-      "托帕&帳帳"
-    ]
-  },
-  {
-    "name": "Luka",
-    "aliases": [
-      "ルカ",
-      "루카",
-      "Лука",
-      "卢卡",
-      "盧卡"
-    ]
-  },
-  {
-    "name": "Lynx",
-    "aliases": [
-      "リンクス",
-      "링스",
-      "Рысь",
-      "玲可"
-    ]
-  },
-  {
-    "name": "Hook",
-    "aliases": [
-      "フック",
-      "후크",
-      "Хук",
-      "虎克"
-    ]
-  },
-  {
-    "name": "Sampo",
-    "aliases": [
-      "サンポ",
-      "삼포",
-      "Сампо",
-      "桑博"
-    ]
-  },
-  {
-    "name": "Clara",
-    "aliases": [
-      "クラーラ",
-      "클라라",
-      "Клара",
-      "克拉拉"
-    ]
-  },
-  {
-    "name": "Pela",
-    "aliases": [
-      "ペラ",
-      "페라",
-      "Пела",
-      "佩拉"
-    ]
-  },
-  {
-    "name": "Natasha",
-    "aliases": [
-      "ナターシャ",
-      "나타샤",
-      "Наташа",
-      "娜塔莎"
-    ]
-  },
-  {
-    "name": "Gepard",
-    "aliases": [
-      "ジェパード",
-      "게파드",
-      "Гепард",
-      "杰帕德",
-      "傑帕德"
-    ]
-  },
-  {
-    "name": "Serval",
-    "aliases": [
-      "セーバル",
-      "서벌",
-      "Сервал",
-      "希露瓦"
-    ]
-  },
-  {
-    "name": "Seele",
-    "aliases": [
-      "ゼーレ",
-      "제레",
-      "Зеле",
-      "希儿",
-      "希兒"
-    ]
-  },
-  {
-    "name": "Bronya",
-    "aliases": [
-      "ブローニャ",
-      "브로냐",
-      "Броня",
-      "布洛妮娅",
-      "布洛妮婭"
-    ]
-  },
-  {
-    "name": "Archer",
-    "aliases": [
-      "アーチャー",
-      "아처",
-      "Арчер"
-    ]
-  },
-  {
-    "name": "Saber",
-    "aliases": [
-      "セイバー",
-      "세이버",
-      "Сэйбер"
-    ]
-  },
-  {
-    "name": "Herta",
-    "aliases": [
-      "ヘルタ",
-      "헤르타",
-      "Герта",
-      "黑塔"
-    ]
-  },
-  {
-    "name": "Asta",
-    "aliases": [
-      "アスター",
-      "아스타",
-      "Аста",
-      "艾丝妲",
-      "艾絲妲"
-    ]
-  },
-  {
-    "name": "Arlan",
-    "aliases": [
-      "アーラン",
-      "아를란",
-      "Арлан",
-      "阿兰",
-      "阿蘭"
-    ]
-  },
-  {
-    "name": "Silver Wolf",
-    "aliases": [
-      "銀狼",
-      "은랑",
-      "Серебряный Волк",
-      "银狼"
-    ]
-  },
-  {
-    "name": "Kafka",
-    "aliases": [
-      "カフカ",
-      "카프카",
-      "Кафка",
-      "卡芙卡"
-    ]
-  },
-  {
-    "name": "Welt",
-    "aliases": [
-      "ヴェルト",
-      "웰트",
-      "Вельт",
-      "瓦尔特",
-      "瓦爾特"
-    ]
-  },
-  {
-    "name": "Himeko",
-    "aliases": [
-      "姫子",
-      "히메코",
-      "Химеко",
-      "姬子"
-    ]
-  },
-  {
-    "name": "Dan Heng",
-    "aliases": [
-      "丹恒",
-      "단항",
-      "Дань Хэн",
-      "丹恆"
-    ]
-  },
-  {
-    "name": "March 7th",
-    "aliases": [
-      "三月なのか",
       "三月なのか (存護)",
-      "Mar. 7th",
       "Mar. 7th (보존)",
-      "Март 7",
       "Март 7 (Сохранение)",
-      "三月七",
       "三月七 (存护)",
       "三月七 (存護)"
     ]

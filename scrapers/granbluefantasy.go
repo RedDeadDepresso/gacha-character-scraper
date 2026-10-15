@@ -83,15 +83,15 @@ func parseGBFLookup(s string) gbfLookup {
 // Scrape skips everything when the GBFAL commit hasn't changed since the last
 // run (cached in config/commits.json). Every playable character id (the
 // "characters" object) is one entry, named after its wiki page with
-// underscores turned into spaces, e.g. "Jeanne d'Arc (Summer)". The alias is
-// the Japanese name. Entries without a wiki page (trial and cut content) are
+// underscores turned into spaces, e.g. "Jeanne d'Arc (Summer)". The Japanese
+// name comes from the lookup string. Entries without a wiki page (trial and cut content) are
 // skipped. The list is newest-first by release date, then by id.
 func (g GranblueFantasy) Scrape(existing []Character) ([]Character, error) {
 	sha, err := LatestCommit(gbfRepo, gbfBranch)
 	if err != nil {
 		return nil, err
 	}
-	if len(existing) > 0 && sha == LoadCommit(g.Name()) {
+	if upToDate(g.Name(), sha, existing) {
 		log.Printf("[Granblue Fantasy] GBFAL unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
@@ -138,17 +138,18 @@ func (g GranblueFantasy) Scrape(existing []Character) ([]Character, error) {
 	pos := map[string]int{}
 	for _, e := range list {
 		name := strings.Join(strings.Fields(strings.ReplaceAll(e.wiki, "_", " ")), " ")
-		var aliases []string
+		b := newNameBuilder().Name(LangEN, name)
 		if jp := e.nameJP; jp != "" && !strings.ContainsAny(jp, "?？") {
-			aliases = append(aliases, jp)
+			b.Name(LangJA, jp)
 		}
-		key := strings.ToLower(name)
+		c := b.Character()
+		key := strings.ToLower(c.Name[LangEN])
 		if p, ok := pos[key]; ok {
-			chars[p].Aliases = cleanAliases(chars[p].Name, append(chars[p].Aliases, aliases...))
+			chars[p] = builderOf(chars[p]).Merge(c).Character()
 			continue
 		}
 		pos[key] = len(chars)
-		chars = append(chars, Character{Name: name, Aliases: cleanAliases(name, aliases)})
+		chars = append(chars, c)
 	}
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("granblue fantasy: no characters found")
