@@ -1,0 +1,662 @@
+[
+  {
+    "name": "Adelyde: Anabasis",
+    "aliases": [
+      "Adelyde",
+      "阿德莱德",
+      "阿德莱德·破渊"
+    ]
+  },
+  {
+    "name": "Kurumi Tokisaki",
+    "aliases": [
+      "时崎狂三"
+    ]
+  },
+  {
+    "name": "Karenina: Effulgence",
+    "aliases": [
+      "Karenina",
+      "卡列尼娜",
+      "卡列尼娜·烬航"
+    ]
+  },
+  {
+    "name": "Helentine: Lacrimosa",
+    "aliases": [
+      "Helentine",
+      "海伦汀",
+      "海伦汀·安魂"
+    ]
+  },
+  {
+    "name": "Lucia: Inverse Crown",
+    "aliases": [
+      "Lucia",
+      "露西亚",
+      "露西亚·逆冕"
+    ]
+  },
+  {
+    "name": "Kamui: Aeternion",
+    "aliases": [
+      "Kamui",
+      "神威",
+      "神威·不落日"
+    ]
+  },
+  {
+    "name": "Nirvatia: Dirge",
+    "aliases": [
+      "Nirvatia",
+      "涅缇娅",
+      "涅缇娅·亡歌"
+    ]
+  },
+  {
+    "name": "Rosetta: Arete",
+    "aliases": [
+      "Rosetta",
+      "罗塞塔",
+      "罗塞塔·极锋"
+    ]
+  },
+  {
+    "name": "Teddy: Spectre",
+    "aliases": [
+      "Teddy",
+      "布偶熊",
+      "布偶熊·骇影"
+    ]
+  },
+  {
+    "name": "Liv: Limpidity",
+    "aliases": [
+      "Liv",
+      "丽芙",
+      "丽芙·霁梦"
+    ]
+  },
+  {
+    "name": "Veronica: Aegis",
+    "aliases": [
+      "Veronica",
+      "维罗妮卡",
+      "维罗妮卡·铮骨"
+    ]
+  },
+  {
+    "name": "Discord: Secator",
+    "aliases": [
+      "Discord",
+      "斜奏",
+      "斜奏·裁律"
+    ]
+  },
+  {
+    "name": "Bianca: Crepuscule",
+    "aliases": [
+      "Bianca",
+      "比安卡",
+      "比安卡·晖暮"
+    ]
+  },
+  {
+    "name": "Dante",
+    "aliases": [
+      "但丁"
+    ]
+  },
+  {
+    "name": "Vergil",
+    "aliases": [
+      "维吉尔"
+    ]
+  },
+  {
+    "name": "Vera: Geiravor",
+    "aliases": [
+      "Vera",
+      "薇拉",
+      "薇拉·灼惘"
+    ]
+  },
+  {
+    "name": "Jetavie: Daybreak",
+    "aliases": [
+      "Jetavie",
+      "洁塔薇",
+      "洁塔薇·破晓"
+    ]
+  },
+  {
+    "name": "Selena: Pianissimo",
+    "aliases": [
+      "Selena",
+      "赛琳娜",
+      "赛琳娜·希声"
+    ]
+  },
+  {
+    "name": "Lilith: Daemonissa",
+    "aliases": [
+      "Lilith",
+      "莉莉丝",
+      "莉莉丝·谬影"
+    ]
+  },
+  {
+    "name": "Ishmael: Parhelion",
+    "aliases": [
+      "Ishmael",
+      "伊什梅尔",
+      "伊什梅尔·幻日"
+    ]
+  },
+  {
+    "name": "Nanami: Startrail",
+    "aliases": [
+      "Nanami",
+      "七实",
+      "七实·芒星之迹"
+    ]
+  },
+  {
+    "name": "Yata: Fulgor",
+    "aliases": [
+      "Yata",
+      "八咫",
+      "八咫·徊闪"
+    ]
+  },
+  {
+    "name": "Lucia: Pyroath",
+    "aliases": [
+      "Lucia",
+      "露西亚",
+      "露西亚·誓焰"
+    ]
+  },
+  {
+    "name": "Wanshi: Lucid Dreamer",
+    "aliases": [
+      "Wanshi",
+      "万事",
+      "万事·明晰梦"
+    ]
+  },
+  {
+    "name": "Hanying: Solacetune",
+    "aliases": [
+      "Hanying",
+      "含英",
+      "含英·檀心"
+    ]
+  },
+  {
+    "name": "Bridget: Ardeo",
+    "aliases": [
+      "Bridget",
+      "布丽姬特",
+      "布丽姬特·耀炎"
+    ]
+  },
+  {
+    "name": "Luna: Oblivion",
+    "aliases": [
+      "Luna",
+      "露娜",
+      "露娜·终焉"
+    ]
+  },
+  {
+    "name": "Teddy: Decryptor",
+    "aliases": [
+      "Teddy",
+      "布偶熊",
+      "布偶熊·觅语"
+    ]
+  },
+  {
+    "name": "Qu: Shukra",
+    "aliases": [
+      "Qu",
+      "曲",
+      "曲·启明"
+    ]
+  },
+  {
+    "name": "Watanabe: Epitaph",
+    "aliases": [
+      "Watanabe",
+      "渡边",
+      "渡边·尘铭"
+    ]
+  },
+  {
+    "name": "BLACK★ROCK SHOOTER",
+    "aliases": [
+      "BRS"
+    ]
+  },
+  {
+    "name": "Lamia: Lost Lullaby",
+    "aliases": [
+      "Lamia",
+      "拉弥亚",
+      "拉弥亚·深谣"
+    ]
+  },
+  {
+    "name": "Alisa: Echo",
+    "aliases": [
+      "Alisa",
+      "亚里莎",
+      "亚里莎·回音"
+    ]
+  },
+  {
+    "name": "Noctis: Indomitus",
+    "aliases": [
+      "Noctis",
+      "诺克提",
+      "诺克提·擎驱"
+    ]
+  },
+  {
+    "name": "No. 21: Feral",
+    "aliases": [
+      "No. 21",
+      "21号",
+      "21号·森息"
+    ]
+  },
+  {
+    "name": "Hanying: Zitherwoe",
+    "aliases": [
+      "Hanying",
+      "含英",
+      "含英·清商"
+    ]
+  },
+  {
+    "name": "Lucia: Crimson Weave",
+    "aliases": [
+      "Lucia",
+      "露西亚",
+      "露西亚·深红囚影"
+    ]
+  },
+  {
+    "name": "Ayla: Kaleido",
+    "aliases": [
+      "Ayla",
+      "艾拉",
+      "艾拉·万华"
+    ]
+  },
+  {
+    "name": "Lee: Hyperreal",
+    "aliases": [
+      "Lee",
+      "里",
+      "里·超刻"
+    ]
+  },
+  {
+    "name": "Bambinata: Vitrum",
+    "aliases": [
+      "Bambinata",
+      "邦比娜塔",
+      "邦比娜塔·琉璃"
+    ]
+  },
+  {
+    "name": "Bianca: Stigmata",
+    "aliases": [
+      "Bianca",
+      "比安卡",
+      "比安卡·深痕"
+    ]
+  },
+  {
+    "name": "Noan: Arca",
+    "aliases": [
+      "Noan",
+      "诺安",
+      "诺安·逆旅"
+    ]
+  },
+  {
+    "name": "Karenina: Scire",
+    "aliases": [
+      "Karenina",
+      "卡列尼娜",
+      "卡列尼娜·辉晓"
+    ]
+  },
+  {
+    "name": "Haicma: Starveil",
+    "aliases": [
+      "Haicma",
+      "哈卡玛",
+      "哈卡玛·隐星"
+    ]
+  },
+  {
+    "name": "Nanami: Starfarer",
+    "aliases": [
+      "Nanami",
+      "七实",
+      "七实·遥星之座"
+    ]
+  },
+  {
+    "name": "Pulao: Dragontoll",
+    "aliases": [
+      "Pulao",
+      "蒲牢",
+      "蒲牢·华钟"
+    ]
+  },
+  {
+    "name": "Selena: Capriccio",
+    "aliases": [
+      "Selena",
+      "赛琳娜",
+      "赛琳娜·幻奏"
+    ]
+  },
+  {
+    "name": "Liv: Empyrea",
+    "aliases": [
+      "Liv",
+      "丽芙",
+      "丽芙·极昼"
+    ]
+  },
+  {
+    "name": "Roland: Flambeau",
+    "aliases": [
+      "Roland",
+      "罗兰",
+      "罗兰·戏炎"
+    ]
+  },
+  {
+    "name": "Vera: Garnet",
+    "aliases": [
+      "Vera",
+      "薇拉",
+      "薇拉·绯耀"
+    ]
+  },
+  {
+    "name": "No. 21: XXI",
+    "aliases": [
+      "No. 21",
+      "21号",
+      "21号·XXI"
+    ]
+  },
+  {
+    "name": "Chrome: Glory",
+    "aliases": [
+      "Chrome",
+      "库洛姆",
+      "库洛姆·荣光"
+    ]
+  },
+  {
+    "name": "Selena: Tempest",
+    "aliases": [
+      "Selena",
+      "赛琳娜",
+      "赛琳娜·岚音"
+    ]
+  },
+  {
+    "name": "Wanshi: Hypnos",
+    "aliases": [
+      "Wanshi",
+      "万事",
+      "万事·明觉"
+    ]
+  },
+  {
+    "name": "A2",
+    "aliases": []
+  },
+  {
+    "name": "9S",
+    "aliases": []
+  },
+  {
+    "name": "2B",
+    "aliases": []
+  },
+  {
+    "name": "Luna: Laurel",
+    "aliases": [
+      "Luna",
+      "露娜",
+      "露娜·银冕"
+    ]
+  },
+  {
+    "name": "Changyu: Qilin",
+    "aliases": [
+      "Changyu",
+      "常羽",
+      "常羽·游麟"
+    ]
+  },
+  {
+    "name": "Qu: Pavo",
+    "aliases": [
+      "Qu",
+      "曲",
+      "曲·雀翎"
+    ]
+  },
+  {
+    "name": "Rosetta: Rigor",
+    "aliases": [
+      "Rosetta",
+      "罗塞塔",
+      "罗塞塔·凛冽"
+    ]
+  },
+  {
+    "name": "Camu: Crocotta",
+    "aliases": [
+      "Camu",
+      "卡穆",
+      "卡穆·狂犬"
+    ]
+  },
+  {
+    "name": "Vera: Rozen",
+    "aliases": [
+      "Vera",
+      "薇拉",
+      "薇拉·瑰丽"
+    ]
+  },
+  {
+    "name": "Lucia: Plume",
+    "aliases": [
+      "Lucia",
+      "露西亚",
+      "露西亚·鸦羽"
+    ]
+  },
+  {
+    "name": "Chrome: Arclight",
+    "aliases": [
+      "Chrome",
+      "库洛姆",
+      "库洛姆·弧光"
+    ]
+  },
+  {
+    "name": "Sophia: Silverfang",
+    "aliases": [
+      "Sophia",
+      "苏菲亚",
+      "苏菲亚·银牙"
+    ]
+  },
+  {
+    "name": "Bianca: Veritas",
+    "aliases": [
+      "Bianca",
+      "比安卡",
+      "比安卡·真理"
+    ]
+  },
+  {
+    "name": "Ayla: Brilliance",
+    "aliases": [
+      "Ayla",
+      "艾拉",
+      "艾拉·溢彩"
+    ]
+  },
+  {
+    "name": "Watanabe: Astral",
+    "aliases": [
+      "Watanabe",
+      "渡边",
+      "渡边·夙星"
+    ]
+  },
+  {
+    "name": "Lucia: Crimson Abyss",
+    "aliases": [
+      "Lucia",
+      "露西亚",
+      "露西亚·深红之渊"
+    ]
+  },
+  {
+    "name": "Nanami: Pulse",
+    "aliases": [
+      "Nanami",
+      "七实",
+      "七实·脉冲"
+    ]
+  },
+  {
+    "name": "Karenina: Ember",
+    "aliases": [
+      "Karenina",
+      "卡列尼娜",
+      "卡列尼娜·烬燃"
+    ]
+  },
+  {
+    "name": "Kamui: Tenebrion",
+    "aliases": [
+      "Kamui",
+      "神威",
+      "神威·暗能"
+    ]
+  },
+  {
+    "name": "Liv: Luminance",
+    "aliases": [
+      "Liv",
+      "丽芙",
+      "丽芙·仰光"
+    ]
+  },
+  {
+    "name": "Lee: Entropy",
+    "aliases": [
+      "Lee",
+      "里",
+      "里·乱数"
+    ]
+  },
+  {
+    "name": "Liv: Lux",
+    "aliases": [
+      "Liv",
+      "丽芙",
+      "丽芙·流光"
+    ]
+  },
+  {
+    "name": "Lucia: Dawn",
+    "aliases": [
+      "Lucia",
+      "露西亚",
+      "露西亚·黎明"
+    ]
+  },
+  {
+    "name": "Watanabe: Nightblade",
+    "aliases": [
+      "Watanabe",
+      "渡边",
+      "渡边·夜刃"
+    ]
+  },
+  {
+    "name": "Karenina: Blast",
+    "aliases": [
+      "Karenina",
+      "卡列尼娜",
+      "卡列尼娜·爆裂"
+    ]
+  },
+  {
+    "name": "Kamui: Bastion",
+    "aliases": [
+      "Kamui",
+      "神威",
+      "神威·重能"
+    ]
+  },
+  {
+    "name": "Nanami: Storm",
+    "aliases": [
+      "Nanami",
+      "七实",
+      "七实·风暴"
+    ]
+  },
+  {
+    "name": "Bianca: Zero",
+    "aliases": [
+      "Bianca",
+      "比安卡",
+      "比安卡·零度"
+    ]
+  },
+  {
+    "name": "Liv: Eclipse",
+    "aliases": [
+      "Liv",
+      "丽芙",
+      "丽芙·蚀暗"
+    ]
+  },
+  {
+    "name": "Lucia: Lotus",
+    "aliases": [
+      "Lucia",
+      "露西亚",
+      "露西亚·红莲"
+    ]
+  },
+  {
+    "name": "Lee: Palefire",
+    "aliases": [
+      "Lee",
+      "里",
+      "里·异火"
+    ]
+  }
+]
