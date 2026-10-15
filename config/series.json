@@ -243,5 +243,20 @@
       "Punishing: Gray Raven",
       "PGR"
     ]
+  },
+  {
+    "game": "Atelier",
+    "title": {
+      "en_us": "Atelier",
+      "ja_jp": "アトリエ",
+      "ko_kr": "아틀리에",
+      "zh_cn": "炼金工房",
+      "zh_tw": "鍊金工房"
+    },
+    "aliases": [
+      "Atelier Resleriana",
+      "Resleriana",
+      "レスレリアーナのアトリエ"
+    ]
   }
 ]
