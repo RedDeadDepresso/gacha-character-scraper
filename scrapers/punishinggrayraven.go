@@ -35,6 +35,18 @@ func (PunishingGrayRaven) Name() string { return "Punishing Gray Raven" }
 type pgrCharacter struct {
 	ID            int    `json:"id"`
 	CharacterName string `json:"characterName"`
+	FrameName     string `json:"frameName"`
+}
+
+// full returns "characterName: frameName" (e.g. "Lucia: Lotus"), or "" when
+// there is no frame name.
+func (c pgrCharacter) full() string {
+	name := strings.Join(strings.Fields(c.CharacterName), " ")
+	frame := strings.Join(strings.Fields(c.FrameName), " ")
+	if name == "" || frame == "" || strings.EqualFold(name, frame) {
+		return ""
+	}
+	return name + ": " + frame
 }
 
 // fetchPGR downloads one server's character list, keeping the API order.
@@ -60,18 +72,18 @@ func fetchPGR(server string) ([]pgrCharacter, error) {
 }
 
 // buildPGRCharacters turns the per-language lists (language -> API-ordered
-// characters) into one entry per English characterName. Only characterName is
-// used (frameName is ignored), so every frame of a character (Lucia: Lotus,
-// Lucia: Inverse Crown, ...) folds into one entry, placed at the position of
-// its oldest frame. The English list gives the order and the main name: it is
+// characters) into one entry per English characterName. The name is
+// characterName, so every frame of a character (Lucia: Lotus, Lucia: Inverse
+// Crown, ...) folds into one entry, placed at the position of its oldest frame.
+// The alias of each frame, in every language, is "characterName: frameName". The English list gives the order and the main name: it is
 // in release order, so the result is that order reversed, newest first. The
 // other languages are matched by id.
 func buildPGRCharacters(lists map[string][]pgrCharacter) []Character {
-	byLang := map[string]map[int]string{} // lang -> id -> characterName
+	byLang := map[string]map[int]pgrCharacter{} // lang -> id -> character
 	for lang, list := range lists {
-		m := make(map[int]string, len(list))
+		m := make(map[int]pgrCharacter, len(list))
 		for _, c := range list {
-			m[c.ID] = c.CharacterName
+			m[c.ID] = c
 		}
 		byLang[lang] = m
 	}
@@ -83,9 +95,10 @@ func buildPGRCharacters(lists map[string][]pgrCharacter) []Character {
 		if name == "" {
 			continue
 		}
-		b := newNameBuilder().Name(LangEN, name)
+		b := newNameBuilder().Name(LangEN, name).Alias(c.full())
 		for _, s := range pgrServers[1:] {
-			b.Name(s.lang, byLang[s.lang][c.ID])
+			o := byLang[s.lang][c.ID]
+			b.Name(s.lang, o.CharacterName).Alias(o.full())
 		}
 		built := b.Character()
 		key := strings.ToLower(name)
