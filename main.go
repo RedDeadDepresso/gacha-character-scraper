@@ -31,6 +31,7 @@ var registry = []scrapers.Scraper{
 	scrapers.GranblueFantasy{},
 	scrapers.PunishingGrayRaven{},
 	scrapers.Atelier{},
+	scrapers.Onmyoji{},
 }
 
 func main() {

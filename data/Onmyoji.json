@@ -1,0 +1,2483 @@
+[
+  {
+    "name": {
+      "en_us": "SP Hououka",
+      "zh_cn": "百羽凤凰火"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Iwanaga Hime",
+      "ja_jp": "岩長姫",
+      "zh_cn": "石长姬"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yan He",
+      "zh_cn": "言和"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Luo Tianyi",
+      "zh_cn": "洛天依"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Fuzoukozen",
+      "ja_jp": "不相狐禅",
+      "zh_cn": "不相狐禅"
+    },
+    "aliases": [
+      "Fuzenkitsune"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Bishamonten",
+      "ja_jp": "思金神",
+      "zh_cn": "毗沙门天"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tenkamei Suzuhiko Hime",
+      "ja_jp": "天火命鈴彦姫",
+      "zh_cn": "天火命铃彦姬"
+    },
+    "aliases": [
+      "Ignis Suzuhiko Hime"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Namahage Oni",
+      "ja_jp": "生剥げ",
+      "zh_cn": "生剥鬼"
+    },
+    "aliases": [
+      "Namahage"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Omoikane no Kami",
+      "ja_jp": "思金神",
+      "zh_cn": "思金神"
+    },
+    "aliases": [
+      "Omoikane"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shinigami",
+      "ja_jp": "市加美",
+      "zh_cn": "市加美"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shokugetsu Kyuuketsu Hime",
+      "ja_jp": "蝕月吸血姫",
+      "zh_cn": "蚀月吸血姬"
+    },
+    "aliases": [
+      "Moonclipse Vampira"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shakubana Momo no Sei",
+      "ja_jp": "灼華桃の精",
+      "zh_cn": "灼华桃花妖"
+    },
+    "aliases": [
+      "Everadiant Momo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kuzunoha",
+      "ja_jp": "葛の葉",
+      "zh_cn": "葛叶"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kannazuki",
+      "ja_jp": "神無月",
+      "zh_cn": "神无月"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yumeyama Hakuzousu",
+      "ja_jp": "夢山白蔵主",
+      "zh_cn": "梦山白藏主"
+    },
+    "aliases": [
+      "Hakuzosu Unbound"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Yumebiki Kochou no Sei",
+      "ja_jp": "夢引き胡蝶の精",
+      "zh_cn": "梦引蝴蝶精"
+    },
+    "aliases": [
+      "Dreambound Chocho"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Taira no Masakado",
+      "ja_jp": "平将門",
+      "zh_cn": "平将门"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Myoushu Kyuumei Neko",
+      "ja_jp": "妙主九命猫",
+      "zh_cn": "妙主九命猫"
+    },
+    "aliases": [
+      "Meowlord Kyuumei Neko"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Yuki Gozen",
+      "ja_jp": "雪御前",
+      "zh_cn": "雪御前"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Syaoran Li",
+      "ja_jp": "リ・シャオラン",
+      "zh_cn": "李小狼"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sakura Kinomoto",
+      "ja_jp": "木之本さくら",
+      "zh_cn": "木之本樱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tagitsuhime",
+      "ja_jp": "湍津姫",
+      "zh_cn": "湍津姫"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Unjou Fukengaku",
+      "ja_jp": "雲上不見岳",
+      "zh_cn": "云间不见岳"
+    },
+    "aliases": [
+      "Lavaforged Fukengaku"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Gashadokuro",
+      "ja_jp": "餓者髑髏",
+      "zh_cn": "荒骷髅"
+    },
+    "aliases": [
+      "Odokuro"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Jiyou Takiyasha Hime",
+      "ja_jp": "時曜滝夜叉姫",
+      "zh_cn": "时曜泷夜叉姬"
+    },
+    "aliases": [
+      "Glorious Takiyashahime"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Himiko",
+      "ja_jp": "卑弥呼",
+      "zh_cn": "卑弥呼"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Megurine Luka",
+      "ja_jp": "巡音ルカ",
+      "zh_cn": "巡音流歌"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Karuta",
+      "ja_jp": "歌留多",
+      "zh_cn": "歌留多"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Seishi Hiyoribou",
+      "ja_jp": "晴思日和坊",
+      "zh_cn": "晴思日和坊"
+    },
+    "aliases": [
+      "Sungraced Hiyoribou"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Youon Kinnara",
+      "ja_jp": "瑶音緊那羅",
+      "zh_cn": "瑶音紧那罗"
+    },
+    "aliases": [
+      "Panharmonic Kinnara"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Natsume & Nyanko-sensei",
+      "ja_jp": "夏目&ニャンコ先生",
+      "zh_cn": "夏目&猫老师"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shinjou Hoshiguma Douji",
+      "ja_jp": "神釀星熊童子",
+      "zh_cn": "神酿星熊童子"
+    },
+    "aliases": [
+      "Ambrosial Hoshiguma Doji"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kikinyou",
+      "ja_jp": "鬼金羊",
+      "zh_cn": "鬼金羊"
+    },
+    "aliases": [
+      "Guijinyang"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Fuuyoukun",
+      "ja_jp": "封陽君",
+      "zh_cn": "封阳君"
+    },
+    "aliases": [
+      "Fengyang"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shinyuu Inugami",
+      "ja_jp": "心友犬神",
+      "zh_cn": "心友犬神"
+    },
+    "aliases": [
+      "Bosombuddy Inugami"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Ryukaku",
+      "ja_jp": "瀧珏",
+      "zh_cn": "龙珏"
+    },
+    "aliases": [
+      "Loongjue"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Younen Enenra",
+      "ja_jp": "遥念煙々羅",
+      "zh_cn": "遥念烟烟罗"
+    },
+    "aliases": [
+      "Nostalgic Enenra"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Magatsugami",
+      "ja_jp": "禍津神",
+      "zh_cn": "祸津神"
+    },
+    "aliases": [
+      "Magatsuhi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Nekogawa",
+      "ja_jp": "猫川",
+      "zh_cn": "猫川"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ryougin Suzuka Gozen",
+      "ja_jp": "龍吟鈴鹿御前",
+      "zh_cn": "龙吟铃鹿御前"
+    },
+    "aliases": [
+      "Draconic Suzuka Gozen"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shentu Ziye",
+      "ja_jp": "申屠子夜",
+      "zh_cn": "申屠子夜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Gyoujitsu Ebisu",
+      "ja_jp": "暁日恵比寿",
+      "zh_cn": "晨晖惠比寿"
+    },
+    "aliases": [
+      "Returner Ebisu"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kagamine Rin & Len",
+      "ja_jp": "鏡音リン・レン",
+      "zh_cn": "镜音铃·连"
+    },
+    "aliases": [
+      "Kagamine Rin/Len"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hatsune Miku",
+      "ja_jp": "初音ミク",
+      "zh_cn": "初音未来"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eikyo Senhime",
+      "ja_jp": "盈虚千姫",
+      "zh_cn": "鲸汐千姬"
+    },
+    "aliases": [
+      "Senhime Resurgent"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shoufuku Zashiki Warashi",
+      "ja_jp": "招福座敷童子",
+      "zh_cn": "福悦座敷童子"
+    },
+    "aliases": [
+      "Fortunegiver Zashiki"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Taki",
+      "ja_jp": "瀧",
+      "zh_cn": "泷"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tamatori",
+      "ja_jp": "玉取",
+      "zh_cn": "玉取"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Honshin Sanbi no Kitsune",
+      "ja_jp": "本真三尾の狐",
+      "zh_cn": "本真三尾狐"
+    },
+    "aliases": [
+      "Trueself Mio"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Nusubitogami",
+      "ja_jp": "盗人神",
+      "zh_cn": "盗人神"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Izanami",
+      "ja_jp": "イザナミ",
+      "zh_cn": "伊邪那美"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Byounen Hotarugusa",
+      "ja_jp": "渺念蛍草",
+      "zh_cn": "渺念萤草"
+    },
+    "aliases": [
+      "Kusa Regrown"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Amaterasu",
+      "ja_jp": "天照",
+      "zh_cn": "天照"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Wenren Yixuan",
+      "ja_jp": "闻人翊悬",
+      "zh_cn": "闻人翊悬"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Negai Tsumugi Enmusubi no Kami",
+      "ja_jp": "願紡縁結神",
+      "zh_cn": "纺愿缘结神"
+    },
+    "aliases": [
+      "Bondweaver Enmusubi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Miakashi",
+      "ja_jp": "御明かし",
+      "zh_cn": "慧明灯"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jinshin Shishio",
+      "ja_jp": "尋森シシオ",
+      "zh_cn": "寻森小鹿男"
+    },
+    "aliases": [
+      "Greenwarden Shishio"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kujaku-Myouou",
+      "ja_jp": "孔雀明王",
+      "zh_cn": "孔雀明王"
+    },
+    "aliases": [
+      "Kujaku-Myoo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kagura & Sadaharu",
+      "ja_jp": "神楽&定春",
+      "zh_cn": "神乐&定春"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Gintoki Sakata",
+      "ja_jp": "坂田銀時",
+      "zh_cn": "坂田银时"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kotodama",
+      "ja_jp": "言霊",
+      "zh_cn": "言灵"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Amanozako",
+      "ja_jp": "天逆毎",
+      "zh_cn": "天逆每"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shura Kidoumaru",
+      "ja_jp": "修羅鬼童丸",
+      "zh_cn": "修罗鬼童丸"
+    },
+    "aliases": [
+      "Shura Kidomaru"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Ryuukou Oitsukigami",
+      "ja_jp": "流光追月神",
+      "zh_cn": "流光追月神"
+    },
+    "aliases": [
+      "Luminary Oitsuki"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Tsukuyomi",
+      "ja_jp": "月読",
+      "zh_cn": "月读"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zenshin Ungaikyou",
+      "ja_jp": "禅心雲外鏡",
+      "zh_cn": "禅心云外镜"
+    },
+    "aliases": [
+      "Zen Ungaikyo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shiki",
+      "ja_jp": "季",
+      "zh_cn": "季"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jinkougyou",
+      "ja_jp": "尋香行",
+      "zh_cn": "寻香行"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Susanoo",
+      "ja_jp": "须佐之男",
+      "zh_cn": "须佐之男"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shinkei Susabi",
+      "ja_jp": "神啓荒",
+      "zh_cn": "神启荒"
+    },
+    "aliases": [
+      "Divine Prophet Susabi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Zenitsu Agatsuma",
+      "ja_jp": "我妻善逸",
+      "zh_cn": "我妻善逸"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Inosuke Hashibira",
+      "ja_jp": "嘴平伊之助",
+      "zh_cn": "嘴平伊之助"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kokorogari Kijo Momiji",
+      "ja_jp": "心狩鬼女紅葉",
+      "zh_cn": "心狩鬼女红叶"
+    },
+    "aliases": [
+      "Heartseeker Momiji"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Daiyamaten Enma",
+      "ja_jp": "大夜摩天閻魔",
+      "zh_cn": "大夜摩天阎魔"
+    },
+    "aliases": [
+      "Yamalord Enma"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Oshiroi Baba",
+      "ja_jp": "白粉婆",
+      "zh_cn": "粉婆婆"
+    },
+    "aliases": [
+      "Oshiroibaba"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kamiochi Orochi",
+      "ja_jp": "神堕オロチ",
+      "zh_cn": "神堕八岐大蛇"
+    },
+    "aliases": [
+      "Fallen God Orochi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Umi no Chou",
+      "ja_jp": "海の蝶",
+      "zh_cn": "灵海蝶"
+    },
+    "aliases": [
+      "Uminocho"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kagewani",
+      "ja_jp": "影鰐",
+      "zh_cn": "影鳄"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Fukengaku",
+      "ja_jp": "不見岳",
+      "zh_cn": "不见岳"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Garuda",
+      "ja_jp": "迦楼羅",
+      "zh_cn": "迦楼羅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mujin Yama Usagi",
+      "ja_jp": "夢尋山兎",
+      "zh_cn": "梦寻山兔"
+    },
+    "aliases": [
+      "Ninja Yamausagi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Suzuhiko Hime",
+      "ja_jp": "鈴彦姫",
+      "zh_cn": "铃彦姬"
+    },
+    "aliases": [
+      "Suzuhikohime"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Yato no Kami",
+      "ja_jp": "夜刀神",
+      "zh_cn": "夜刀神"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Inaba Kaguya Hime",
+      "ja_jp": "因幡かぐや姫",
+      "zh_cn": "因幡辉夜姬"
+    },
+    "aliases": [
+      "Inaba Kaguya"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kawazaru",
+      "ja_jp": "川猿",
+      "zh_cn": "川猿"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mishige",
+      "ja_jp": "飯笥",
+      "zh_cn": "饭笥"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shokurei",
+      "ja_jp": "食霊",
+      "zh_cn": "食灵"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Amezaiku",
+      "ja_jp": "飴細工",
+      "zh_cn": "饴细工"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kaisei Kachou Fuugetsu",
+      "ja_jp": "絵世花鳥風月",
+      "zh_cn": "绘世花鸟卷"
+    },
+    "aliases": [
+      "Virtuoso Hana"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kuusou Menreiki",
+      "ja_jp": "空相面霊気",
+      "zh_cn": "空相面灵气"
+    },
+    "aliases": [
+      "Void Menreiki"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Nyuunai-suzume",
+      "ja_jp": "入内雀",
+      "zh_cn": "入内雀"
+    },
+    "aliases": [
+      "Nyunai-suzume"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Asura",
+      "ja_jp": "阿修羅",
+      "zh_cn": "阿修罗"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Miketsu Frog",
+      "ja_jp": "御饌津蛙",
+      "zh_cn": "御馔津呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tamamo no Mae Frog",
+      "ja_jp": "玉藻前蛙",
+      "zh_cn": "玉藻前呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yuki Douji Frog",
+      "ja_jp": "雪童子蛙",
+      "zh_cn": "雪童子呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Taishakuten",
+      "ja_jp": "帝釈天",
+      "zh_cn": "帝释天"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Semigoori Yuki Onna",
+      "ja_jp": "蝉氷雪女",
+      "zh_cn": "蝉冰雪女"
+    },
+    "aliases": [
+      "Frosty Yuki Onna"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Akaname",
+      "ja_jp": "垢嘗",
+      "zh_cn": "垢尝"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tanjiro Kamado",
+      "ja_jp": "竈門炭治郎",
+      "zh_cn": "灶门炭治郎"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nezuko Kamado",
+      "ja_jp": "竈門禰豆子",
+      "zh_cn": "灶门祢豆子"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yomei Higanbana",
+      "ja_jp": "夜溟彼岸花",
+      "zh_cn": "夜溟彼岸花"
+    },
+    "aliases": [
+      "Nightveil Higanbana"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hatsurei Yamakaze",
+      "ja_jp": "初翎山風",
+      "zh_cn": "初翎山风"
+    },
+    "aliases": [
+      "Valiant Yamakaze"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Senhime",
+      "ja_jp": "千姫",
+      "zh_cn": "千姬"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rokumei Ootakemaru",
+      "ja_jp": "麓銘大嶽丸",
+      "zh_cn": "麓铭大岳丸"
+    },
+    "aliases": [
+      "Monumental Otakemaru"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Matsuyoi Ubume",
+      "ja_jp": "待宵姑獲鳥",
+      "zh_cn": "待宵姑获鸟"
+    },
+    "aliases": [
+      "Guardian Ubume"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kinnara",
+      "ja_jp": "緊那羅",
+      "zh_cn": "紧那罗"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Bakkotsu Kiyohime",
+      "ja_jp": "縛骨清姫",
+      "zh_cn": "缚骨清姬"
+    },
+    "aliases": [
+      "Lovebound Kiyohime"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Sasori Onna",
+      "ja_jp": "蠍女",
+      "zh_cn": "蝎女"
+    },
+    "aliases": [
+      "Sasori"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Suzuka Gozen",
+      "ja_jp": "鈴鹿御前",
+      "zh_cn": "铃鹿御前"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Fuuri",
+      "ja_jp": "風狸",
+      "zh_cn": "风狸"
+    },
+    "aliases": [
+      "Furi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Ukiyo Aoandon",
+      "ja_jp": "浮世青行燈",
+      "zh_cn": "浮世青行灯"
+    },
+    "aliases": [
+      "Wordly Aoandon"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Enmusubi no Kami",
+      "ja_jp": "縁結神",
+      "zh_cn": "缘结神"
+    },
+    "aliases": [
+      "Enmusubi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Reikai Kingyo Hime",
+      "ja_jp": "聆海金魚姫",
+      "zh_cn": "聆海金鱼姬"
+    },
+    "aliases": [
+      "Seawatch Kingyo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kidoumaru",
+      "ja_jp": "鬼童丸",
+      "zh_cn": "鬼童丸"
+    },
+    "aliases": [
+      "Kidomaru"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Ungaikyou",
+      "ja_jp": "雲外鏡",
+      "zh_cn": "云外镜"
+    },
+    "aliases": [
+      "Ungaikyo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Tenken Jinshin Onikiri",
+      "ja_jp": "天剣刃心鬼切",
+      "zh_cn": "天剑韧心鬼切"
+    },
+    "aliases": [
+      "Onikiri Reforged"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hoshiguma Douji",
+      "ja_jp": "星熊童子",
+      "zh_cn": "星熊童子"
+    },
+    "aliases": [
+      "Hoshiguma Doji"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Oniou Shuten Douji",
+      "ja_jp": "鬼王酒吞童子",
+      "zh_cn": "鬼王酒吞童子"
+    },
+    "aliases": [
+      "Demoniac Shuten Doji"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kamimai",
+      "ja_jp": "紙舞",
+      "zh_cn": "​纸舞"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Takiyasha Hime",
+      "ja_jp": "滝夜叉姫",
+      "zh_cn": "泷夜叉姬"
+    },
+    "aliases": [
+      "Takiyashahime"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Jinten Tamamo no Mae",
+      "ja_jp": "燼天玉藻前",
+      "zh_cn": "烬天玉藻前"
+    },
+    "aliases": [
+      "Blazing Tamamonomae"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Rukia Kuchiki",
+      "ja_jp": "朽木ルキア",
+      "zh_cn": "朽木露琪亚"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ichigo Kurosaki",
+      "ja_jp": "黒崎一護",
+      "zh_cn": "黑崎一护"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Gyourou Arakawa no Aruji",
+      "ja_jp": "驍浪荒川の主",
+      "zh_cn": "骁浪荒川之主"
+    },
+    "aliases": [
+      "Waverider Lord Arakawa"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kani Hime",
+      "ja_jp": "蟹姬",
+      "zh_cn": "蟹姬"
+    },
+    "aliases": [
+      "Kanihime"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kujira",
+      "ja_jp": "久次良",
+      "zh_cn": "久次良"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ootakemaru",
+      "ja_jp": "大嶽丸",
+      "zh_cn": "大岳丸"
+    },
+    "aliases": [
+      "Otakemaru"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Oura Hannya",
+      "ja_jp": "御怨般若",
+      "zh_cn": "御怨般若"
+    },
+    "aliases": [
+      "Vengeful Hannya"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kainin",
+      "ja_jp": "海忍",
+      "zh_cn": "海忍"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shiranui",
+      "ja_jp": "不知火",
+      "zh_cn": "不知火"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Akakage Youtou Hime",
+      "ja_jp": "赤影妖刀姫",
+      "zh_cn": "赤影妖刀姫"
+    },
+    "aliases": [
+      "Crimson Yoto"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Bakekujira",
+      "ja_jp": "化鯨",
+      "zh_cn": "化鯨"
+    },
+    "aliases": [
+      "Bake-kujira"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Soufuu Ichimokuren",
+      "ja_jp": "蒼風一目連",
+      "zh_cn": "苍风一目连"
+    },
+    "aliases": [
+      "Azurestorm Ichimokuren"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Tenjo Kudari",
+      "ja_jp": "天井下",
+      "zh_cn": "天井下"
+    },
+    "aliases": [
+      "Tenjo-kudari"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Inari Miketsu",
+      "ja_jp": "稲荷御饌津",
+      "zh_cn": "稻荷神御馔津"
+    },
+    "aliases": [
+      "Divine Miketsu"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Ittan Momen",
+      "ja_jp": "一反木綿",
+      "zh_cn": "一反木绵"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Noukanshi",
+      "ja_jp": "納棺師",
+      "zh_cn": "入殓师"
+    },
+    "aliases": [
+      "Okuribito"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Rengoku Ibaraki Douji",
+      "ja_jp": "煉獄茨木童子",
+      "zh_cn": "炼狱茨木童子"
+    },
+    "aliases": [
+      "Inferno Ibaraki Doji"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Okikumushi",
+      "ja_jp": "於菊虫",
+      "zh_cn": "於菊虫"
+    },
+    "aliases": [
+      "Okikumishi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kikyou",
+      "ja_jp": "桔梗",
+      "zh_cn": "桔梗"
+    },
+    "aliases": [
+      "Kikyo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Ninmenju",
+      "ja_jp": "人面樹",
+      "zh_cn": "人面树"
+    },
+    "aliases": [
+      "Jinmenju"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shouu Ootengu",
+      "ja_jp": "少羽大天狗",
+      "zh_cn": "少羽大天狗"
+    },
+    "aliases": [
+      "Jr. Ootengu"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hakuzousu",
+      "ja_jp": "白蔵主",
+      "zh_cn": "白藏主"
+    },
+    "aliases": [
+      "Hakuzosu"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Onikiri",
+      "ja_jp": "鬼切",
+      "zh_cn": "鬼切"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sesshoumaru",
+      "ja_jp": "殺生丸",
+      "zh_cn": "杀生丸"
+    },
+    "aliases": [
+      "Sesshomaru"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Inuyasha",
+      "ja_jp": "犬夜叉",
+      "zh_cn": "犬夜叉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Menreiki",
+      "ja_jp": "面霊気",
+      "zh_cn": "面灵气"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nekomata",
+      "ja_jp": "猫又",
+      "zh_cn": "猫掌柜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Peach Maki & Karashi",
+      "ja_jp": "ピーチマキ＆芥子",
+      "zh_cn": "蜜桃&芥子"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Okou",
+      "ja_jp": "お香",
+      "zh_cn": "阿香"
+    },
+    "aliases": [
+      "Oko"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hozuki",
+      "ja_jp": "鬼灯",
+      "zh_cn": "鬼灯"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mushishi",
+      "ja_jp": "蟲師",
+      "zh_cn": "虫师"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kusuriuri",
+      "ja_jp": "薬売り",
+      "zh_cn": "卖药郎"
+    },
+    "aliases": [
+      "Medicine Seller"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kaoru",
+      "ja_jp": "薫",
+      "zh_cn": "薰"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Orochi",
+      "ja_jp": "オロチ",
+      "zh_cn": "八岐大蛇"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ichimokuren Frog",
+      "ja_jp": "一目連蛙",
+      "zh_cn": "一目连呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Youtou Hime Frog",
+      "ja_jp": "妖刀姫蛙",
+      "zh_cn": "妖刀姬呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Enma Frog",
+      "ja_jp": "閻魔蛙",
+      "zh_cn": "阎魔呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shishio Frog",
+      "ja_jp": "シシオ蛙",
+      "zh_cn": "小鹿男呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aoandon Frog",
+      "ja_jp": "青行燈蛙",
+      "zh_cn": "青行灯呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ryoumenbotoke Frog",
+      "ja_jp": "両面仏蛙",
+      "zh_cn": "两面佛呱"
+    },
+    "aliases": [
+      "Ryomen Frog"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shuten Frog",
+      "ja_jp": "酒呑蛙",
+      "zh_cn": "酒吞呱"
+    },
+    "aliases": [
+      "Shuten"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kaguya Hime Frog",
+      "ja_jp": "かぐや姫蛙",
+      "zh_cn": "辉夜姬呱"
+    },
+    "aliases": [
+      "Kaguya Frog"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Arakawa Frog",
+      "ja_jp": "荒川蛙",
+      "zh_cn": "荒川呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Susabi Frog",
+      "ja_jp": "荒蛙",
+      "zh_cn": "荒呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kachou Fuugetsu Frog",
+      "ja_jp": "花鳥風月蛙",
+      "zh_cn": "花鸟卷呱"
+    },
+    "aliases": [
+      "Hana Frog"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Higanbana Frog",
+      "ja_jp": "彼岸花蛙",
+      "zh_cn": "彼岸花呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ootengu Frog",
+      "ja_jp": "大天狗蛙",
+      "zh_cn": "大天狗呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ibaraki Frog",
+      "ja_jp": "茨木蛙",
+      "zh_cn": "茨木呱"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yamakaze",
+      "ja_jp": "山風",
+      "zh_cn": "山风"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kisei",
+      "ja_jp": "棋聖",
+      "zh_cn": "弈"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kosode no Te",
+      "ja_jp": "小袖の手",
+      "zh_cn": "小袖之手"
+    },
+    "aliases": [
+      "Kosodenote"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Miketsu",
+      "ja_jp": "御饌津",
+      "zh_cn": "御馔津"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hiyoribou",
+      "ja_jp": "日和坊",
+      "zh_cn": "日和坊"
+    },
+    "aliases": [
+      "Hiyoribo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Daruma",
+      "ja_jp": "招福ダルマ",
+      "zh_cn": "招福达摩"
+    },
+    "aliases": [
+      "Base Daruma"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Oitsukigami",
+      "ja_jp": "追月神",
+      "zh_cn": "追月神"
+    },
+    "aliases": [
+      "Oitsuki"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Nura Rikuo",
+      "ja_jp": "奴良リクオ",
+      "zh_cn": "奴良陆生"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Juzu",
+      "ja_jp": "数珠",
+      "zh_cn": "数珠"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kyonshii Inu",
+      "ja_jp": "Kyonshī-inu キョンシー犬",
+      "zh_cn": "Tiào tiào quǎn 跳跳犬"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Doumeki",
+      "ja_jp": "百目鬼",
+      "zh_cn": "百目鬼"
+    },
+    "aliases": [
+      "Dodomeki"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Yuki Douji",
+      "ja_jp": "雪童子",
+      "zh_cn": "雪童子"
+    },
+    "aliases": [
+      "Yuki"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Tamamo no Mae",
+      "ja_jp": "玉藻前",
+      "zh_cn": "玉藻前"
+    },
+    "aliases": [
+      "Tamamonomae"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shoyou",
+      "ja_jp": "書妖",
+      "zh_cn": "书翁"
+    },
+    "aliases": [
+      "Bukkuman"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Usagimaru",
+      "ja_jp": "兔丸",
+      "zh_cn": "兔丸"
+    },
+    "aliases": [
+      "Usagi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Komatsumaru",
+      "ja_jp": "小松丸",
+      "zh_cn": "小松丸"
+    },
+    "aliases": [
+      "Komatsu"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hako no Shoujo",
+      "ja_jp": "匣の少女",
+      "zh_cn": "匣中少女"
+    },
+    "aliases": [
+      "Hako Shoujo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Higanbana",
+      "ja_jp": "彼岸花",
+      "zh_cn": "彼岸花"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Chin",
+      "ja_jp": "鴆",
+      "zh_cn": "鸩"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Itsumade",
+      "ja_jp": "以津真天",
+      "zh_cn": "以津真天"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kingyo Hime",
+      "ja_jp": "金魚姫",
+      "zh_cn": "金鱼姬"
+    },
+    "aliases": [
+      "Kingyo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Mannendake",
+      "ja_jp": "万年竹",
+      "zh_cn": "万年竹"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Susabi",
+      "ja_jp": "荒",
+      "zh_cn": "荒"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hotarugusa",
+      "ja_jp": "蛍草",
+      "zh_cn": "萤草"
+    },
+    "aliases": [
+      "Kusa"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Youtou Hime",
+      "ja_jp": "妖刀姫",
+      "zh_cn": "妖刀姬"
+    },
+    "aliases": [
+      "Yoto Hime"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kachou Fuugetsu",
+      "ja_jp": "花鳥風月",
+      "zh_cn": "花鸟卷"
+    },
+    "aliases": [
+      "Hana"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Korouka",
+      "ja_jp": "古籠火",
+      "zh_cn": "古笼火"
+    },
+    "aliases": [
+      "Koroka"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Aobouzu",
+      "ja_jp": "青坊主",
+      "zh_cn": "青坊主"
+    },
+    "aliases": [
+      "Aobozu"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kuro Douji",
+      "ja_jp": "黒童子",
+      "zh_cn": "黑童子"
+    },
+    "aliases": [
+      "Kuro"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shiro Douji",
+      "ja_jp": "白童子",
+      "zh_cn": "白童子"
+    },
+    "aliases": [
+      "Shiro"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hahakigami",
+      "ja_jp": "Hōkigami 箒神",
+      "zh_cn": "Zhou shén 帚神"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Oguna",
+      "ja_jp": "童男",
+      "zh_cn": "童男"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Doujo",
+      "ja_jp": "童女",
+      "zh_cn": "童女"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kyonshii Otouto",
+      "ja_jp": "キョンシー弟",
+      "zh_cn": "跳跳弟弟"
+    },
+    "aliases": [
+      "Kyonshi Ototo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kyonshii Imouto",
+      "ja_jp": "キョンシー妹",
+      "zh_cn": "跳跳妹妹"
+    },
+    "aliases": [
+      "Kyonshi Imoto"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kyonshii Ani",
+      "ja_jp": "キョンシー兄",
+      "zh_cn": "跳跳哥哥"
+    },
+    "aliases": [
+      "Kyonshi Ani"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Parasite",
+      "ja_jp": "Kiseirei",
+      "zh_cn": "Jìshēng hún"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Umbrella",
+      "ja_jp": "Karakasa-kozō からかさ小僧",
+      "zh_cn": "Táng zhǐ sǎn yāo 唐纸伞妖"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Grave Digger",
+      "ja_jp": "Hakaarashi no rei",
+      "zh_cn": "Dàomù xiǎoguǐ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lantern Boy",
+      "ja_jp": "Chōchin-kozō 提灯小僧",
+      "zh_cn": "Tídēng xiǎosēng 提灯小僧"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lantern Soul",
+      "ja_jp": "<!--Chōchin-obake-->提灯お化け",
+      "zh_cn": "<!--Dēnglóng guǐ-->灯笼鬼"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sanbi no Kitsune",
+      "ja_jp": "三尾の狐",
+      "zh_cn": "三尾狐"
+    },
+    "aliases": [
+      "Mio"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Sakura no Sei",
+      "ja_jp": "桜の精",
+      "zh_cn": "樱花妖"
+    },
+    "aliases": [
+      "Sakura"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kamikui",
+      "ja_jp": "髪喰い",
+      "zh_cn": "食发鬼"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yumekui",
+      "ja_jp": "夢喰い",
+      "zh_cn": "食梦貘"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ushi no Toki",
+      "ja_jp": "丑の刻参り",
+      "zh_cn": "丑时之女"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Tesso",
+      "ja_jp": "鉄鼠",
+      "zh_cn": "铁鼠"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Nurikabe",
+      "ja_jp": "Nurikabe ぬりかべ",
+      "zh_cn": "Tu bì 涂壁"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Akashita",
+      "ja_jp": "Akajita 赤舌",
+      "zh_cn": "Chì shé 赤舌"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kochou no Sei",
+      "ja_jp": "胡蝶の精",
+      "zh_cn": "蝴蝶精"
+    },
+    "aliases": [
+      "Chocho"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Jikikaeru",
+      "ja_jp": "磁器蛙",
+      "zh_cn": "青蛙瓷器"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kodokushi",
+      "ja_jp": "蠱毒師",
+      "zh_cn": "巫蛊师"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Heiyou",
+      "ja_jp": "兵俑",
+      "zh_cn": "兵俑"
+    },
+    "aliases": [
+      "Samurai X"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Samurai no Rei",
+      "ja_jp": "侍の霊",
+      "zh_cn": "武士之灵"
+    },
+    "aliases": [
+      "Warrior Soul"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hitotsume Kozou",
+      "ja_jp": "一つ目小僧",
+      "zh_cn": "独眼小僧"
+    },
+    "aliases": [
+      "Hitotsume"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Baketanuki",
+      "ja_jp": "化け狸",
+      "zh_cn": "狸猫"
+    },
+    "aliases": [
+      "Tanuki"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hangan",
+      "ja_jp": "判官",
+      "zh_cn": "判官"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Youkinshi",
+      "ja_jp": "妖琴師",
+      "zh_cn": "妖琴师"
+    },
+    "aliases": [
+      "Maestro"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hone Onna",
+      "ja_jp": "骨女",
+      "zh_cn": "骨女"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Youko",
+      "ja_jp": "妖狐",
+      "zh_cn": "妖狐"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ebisu",
+      "ja_jp": "恵比寿",
+      "zh_cn": "惠比寿"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hakurou",
+      "ja_jp": "白狼",
+      "zh_cn": "白狼"
+    },
+    "aliases": [
+      "Hakuro"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kamaitachi",
+      "ja_jp": "鎌鼬",
+      "zh_cn": "镰鼬"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Futakuchi Onna",
+      "ja_jp": "二口女",
+      "zh_cn": "二口女"
+    },
+    "aliases": [
+      "Futakuchi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Ichimokuren",
+      "ja_jp": "一目連",
+      "zh_cn": "一目连"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shishio",
+      "ja_jp": "シシオ",
+      "zh_cn": "小鹿男"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kairaishi",
+      "ja_jp": "傀儡师",
+      "zh_cn": "傀儡师"
+    },
+    "aliases": [
+      "Puppeteer"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Ryoumenbotoke",
+      "ja_jp": "両面仏",
+      "zh_cn": "两面佛"
+    },
+    "aliases": [
+      "Ryomen"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Yellow Imp",
+      "ja_jp": "Amanojaku ki",
+      "zh_cn": "Tiānxiéguǐ huáng"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Blue Imp",
+      "ja_jp": "Amanojaku ao 天邪鬼青",
+      "zh_cn": "Tiānxiéguǐ qīng 天邪鬼青"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Red Imp",
+      "ja_jp": "Amanojaku aka 天邪鬼赤",
+      "zh_cn": "Tiānxiéguǐ hóng 天邪鬼赤"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Green Imp",
+      "ja_jp": "Amanojaku midori 天邪鬼緑",
+      "zh_cn": "Tiānxiéguǐ lǜ 天邪鬼绿"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kudagitsune",
+      "ja_jp": "管狐",
+      "zh_cn": "管狐"
+    },
+    "aliases": [
+      "Kanko"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shouzu",
+      "ja_jp": "椒図",
+      "zh_cn": "椒图"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kyuuketsu Hime",
+      "ja_jp": "吸血姫",
+      "zh_cn": "吸血姬"
+    },
+    "aliases": [
+      "Vampira"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Mouba",
+      "ja_jp": "孟婆",
+      "zh_cn": "孟婆"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Enenra",
+      "ja_jp": "煙々羅",
+      "zh_cn": "烟烟罗"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kaguya Hime",
+      "ja_jp": "かぐや姫",
+      "zh_cn": "辉夜姬"
+    },
+    "aliases": [
+      "Kaguya"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kubinashi",
+      "ja_jp": "首なし",
+      "zh_cn": "首无"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yama Usagi",
+      "ja_jp": "山兎",
+      "zh_cn": "山兔"
+    },
+    "aliases": [
+      "Yamausagi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Satori",
+      "ja_jp": "覚",
+      "zh_cn": "觉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kappa",
+      "ja_jp": "河童",
+      "zh_cn": "河童"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Koi no Sei",
+      "ja_jp": "鯉の精",
+      "zh_cn": "鲤鱼精"
+    },
+    "aliases": [
+      "Koi"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kyuumei Neko",
+      "ja_jp": "九命猫",
+      "zh_cn": "九命猫"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Arakawa no Aruji",
+      "ja_jp": "荒川の主",
+      "zh_cn": "荒川之主"
+    },
+    "aliases": [
+      "Lord Arakawa"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Yamawaro",
+      "ja_jp": "山童",
+      "zh_cn": "山童"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Hououka",
+      "ja_jp": "鳳凰火",
+      "zh_cn": "凤凰火"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kijo Momiji",
+      "ja_jp": "鬼女紅葉",
+      "zh_cn": "鬼女红叶"
+    },
+    "aliases": [
+      "Momiji"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Umibouzu",
+      "ja_jp": "海坊主",
+      "zh_cn": "海坊主"
+    },
+    "aliases": [
+      "Umibozu"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Shiro Mujou",
+      "ja_jp": "白無常",
+      "zh_cn": "鬼使白"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Jorougumo",
+      "ja_jp": "絡新婦",
+      "zh_cn": "络新妇"
+    },
+    "aliases": [
+      "Jorogumo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Kuro Mujou",
+      "ja_jp": "黒無常",
+      "zh_cn": "鬼使黑"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ubume",
+      "ja_jp": "姑獲鳥",
+      "zh_cn": "姑获鸟"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shuten Douji",
+      "ja_jp": "酒吞童子",
+      "zh_cn": "酒吞童子"
+    },
+    "aliases": [
+      "Shuten Doji"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Ibaraki Douji",
+      "ja_jp": "茨木童子",
+      "zh_cn": "茨木童子"
+    },
+    "aliases": [
+      "Ibaraki Doji"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Momo no Sei",
+      "ja_jp": "桃の精",
+      "zh_cn": "桃花妖"
+    },
+    "aliases": [
+      "Momo"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Hannya",
+      "ja_jp": "般若",
+      "zh_cn": "般若"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aoandon",
+      "ja_jp": "青行燈",
+      "zh_cn": "青行灯"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ame Onna",
+      "ja_jp": "雨女",
+      "zh_cn": "雨女"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Zashiki Warashi",
+      "ja_jp": "座敷童子",
+      "zh_cn": "座敷童子"
+    },
+    "aliases": [
+      "Zashiki"
+    ]
+  },
+  {
+    "name": {
+      "en_us": "Yuki Onna",
+      "ja_jp": "雪女",
+      "zh_cn": "雪女"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Gaki",
+      "ja_jp": "餓鬼",
+      "zh_cn": "饿鬼"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Karasu Tengu",
+      "ja_jp": "烏天狗",
+      "zh_cn": "鸦天狗"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Inugami",
+      "ja_jp": "犬神",
+      "zh_cn": "犬神"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kiyohime",
+      "ja_jp": "清姫",
+      "zh_cn": "清姬"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Enma",
+      "ja_jp": "閻魔",
+      "zh_cn": "阎魔"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ootengu",
+      "ja_jp": "大天狗",
+      "zh_cn": "大天狗"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yasha",
+      "ja_jp": "夜叉",
+      "zh_cn": "夜叉"
+    },
+    "aliases": []
+  }
+]

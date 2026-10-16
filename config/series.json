@@ -258,5 +258,18 @@
       "Resleriana",
       "レスレリアーナのアトリエ"
     ]
+  },
+  {
+    "game": "Onmyoji",
+    "title": {
+      "en_us": "Onmyoji",
+      "ja_jp": "陰陽師",
+      "ko_kr": "음양사",
+      "zh_cn": "阴阳师",
+      "zh_tw": "陰陽師"
+    },
+    "aliases": [
+      "Onmyouji"
+    ]
   }
 ]
