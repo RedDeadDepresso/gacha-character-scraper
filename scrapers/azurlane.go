@@ -2,134 +2,198 @@ package scrapers
 
 import (
 	"encoding/json"
-	"errors"
 	"fmt"
+	"io"
 	"log"
+	"math"
+	"regexp"
 	"sort"
 	"strconv"
 	"strings"
-	"time"
 )
 
 const (
-	azurLaneURL  = "https://raw.githubusercontent.com/Traneptora/azur-lane-data/refs/heads/main/shiplist_%d.json"
-	azurRepo     = "Traneptora/azur-lane-data"
-	azurBranch   = "main"
-	azurLaneMax  = 1000 // safety cap on the number of shiplist files
-	azurLaneWait = 200 * time.Millisecond
+	azurRepo   = "xyz-alpha/AzurLaneFleet"
+	azurBranch = "master"
+	azurURL    = "https://raw.githubusercontent.com/xyz-alpha/AzurLaneFleet/refs/heads/master/js/ship_data.min.js"
 )
 
-// AzurLane reads the paginated shiplist_<x>.json files from azur-lane-data.
+// AzurLane reads ship_data.min.js from AzurLaneFleet, a JavaScript file that
+// is just `const ship_data={...};`.
 type AzurLane struct{}
 
 func (AzurLane) Name() string { return "Azur Lane" }
 
+// looseString reads a JSON string or number as a string.
+type looseString string
+
+func (s *looseString) UnmarshalJSON(b []byte) error {
+	var str string
+	if json.Unmarshal(b, &str) == nil {
+		*s = looseString(str)
+		return nil
+	}
+	*s = looseString(strings.Trim(string(b), `"`))
+	return nil
+}
+
+// azurShip holds the fields of one ship_data entry that we use.
 type azurShip struct {
-	Name   string `json:"Name"`
-	CNName string `json:"CNName"`
-	JPName string `json:"JPName"`
-	KRName string `json:"KRName"`
-	ShipID string `json:"ShipID"`
+	EN   looseString `json:"en_name"`
+	EN2  looseString `json:"english_name"` // used when en_name is empty
+	CN   looseString `json:"cn_name"`
+	TW   looseString `json:"tw_name"`
+	JP   looseString `json:"jp_name"`
+	Date looseString `json:"date"` // release date, e.g. 2026年07月16日
+	KR   looseString `json:"kr_name"`
 }
 
-type azurPage struct {
-	CargoQuery []struct {
-		Title azurShip `json:"title"`
-	} `json:"cargoquery"`
+// parseAzurShips converts the contents of ship_data.min.js to a map keyed by
+// the ship's id as written in the file (e.g. "100000", or "1e5" for 100000).
+func parseAzurShips(src string) (map[string]azurShip, error) {
+	b, err := jsObjectToJSON(src, "ship_data")
+	if err != nil {
+		return nil, fmt.Errorf("azur lane ship_data: %w", err)
+	}
+	ships := map[string]azurShip{}
+	if err := json.Unmarshal(b, &ships); err != nil {
+		return nil, fmt.Errorf("parse azur lane ship_data: %w", err)
+	}
+	return ships, nil
 }
 
-// Scrape downloads shiplist_0.json, shiplist_1.json, ... until a 404, then
-// returns the ships newest-first (lower ShipID = older). It skips everything
-// when the repo's latest commit matches the one cached in config/commits.json.
+// azurName trims a name and the trailing "*" that marks some collab ships in
+// the source.
+func azurName(s looseString) string {
+	return strings.TrimSpace(strings.TrimRight(strings.TrimSpace(string(s)), "*"))
+}
+
+var azurDateRe = regexp.MustCompile(`(\d{4})\D+(\d{1,2})(?:\D+(\d{1,2}))?`)
+
+// azurDate converts a release date such as "2026年07月16日" or "2017年06月" to
+// a sortable number (YYYYMMDD); 0 when there is no date.
+func azurDate(s string) int {
+	m := azurDateRe.FindStringSubmatch(s)
+	if m == nil {
+		return 0
+	}
+	y, _ := strconv.Atoi(m[1])
+	mo, _ := strconv.Atoi(m[2])
+	d, _ := strconv.Atoi(m[3])
+	return y*10000 + mo*100 + d
+}
+
+// mergeAzur folds b into a: every name of b becomes an alias of a, even in a
+// language where a has no name (that name would belong to a different
+// character). Languages are visited in a fixed order (unlike
+// nameBuilder.Merge, which ranges over a map) so that the aliases, and the
+// saved file, come out the same on every run.
+func mergeAzur(a, b Character) Character {
+	nb := builderOf(a)
+	for _, l := range []string{LangEN, LangZH, LangTW, LangJA, LangKO, LangRU} {
+		nb.Alias(b.Name[l])
+	}
+	return nb.Alias(b.Aliases...).Character()
+}
+
+// buildAzurCharacters makes the characters, newest first by release date
+// (then by id). Retrofit versions ("X (Retrofit)") are separate entries in the
+// source and are skipped. Entries that share an English name (skins, or
+// unrelated collab ships such as the two Fubukis) become one character placed
+// at the oldest of them; the names of the others become aliases.
+func buildAzurCharacters(ships map[string]azurShip) []Character {
+	type entry struct {
+		date int
+		id   float64
+		char Character
+	}
+	var list []entry
+	for key, s := range ships {
+		name := azurName(s.EN)
+		if name == "" {
+			name = azurName(s.EN2)
+		}
+		if name == "" || strings.HasSuffix(name, "(Retrofit)") {
+			continue
+		}
+		id, err := strconv.ParseFloat(strings.TrimSpace(key), 64)
+		if err != nil {
+			id = math.Inf(1) // non-numeric ids count as newest
+		}
+		cn := azurName(s.CN)
+		b := newNameBuilder().
+			Name(LangEN, name).
+			Name(LangZH, cn).
+			Name(LangJA, azurName(s.JP)).
+			Name(LangKO, azurName(s.KR))
+		// Traditional Chinese is only kept when it differs from Simplified.
+		if tw := azurName(s.TW); tw != cn {
+			b.Name(LangTW, tw)
+		}
+		list = append(list, entry{azurDate(string(s.Date)), id, b.Character()})
+	}
+	sort.Slice(list, func(i, j int) bool { // oldest first
+		a, b := list[i], list[j]
+		if a.date != b.date {
+			return a.date < b.date
+		}
+		if a.id != b.id {
+			return a.id < b.id
+		}
+		return a.char.Name.EN() < b.char.Name.EN()
+	})
+
+	var oldest []Character
+	pos := map[string]int{} // lowercase en name -> index in oldest
+	for _, e := range list {
+		key := strings.ToLower(e.char.Name.EN())
+		if p, ok := pos[key]; ok {
+			oldest[p] = mergeAzur(oldest[p], e.char)
+			continue
+		}
+		pos[key] = len(oldest)
+		oldest = append(oldest, e.char)
+	}
+	chars := make([]Character, 0, len(oldest)) // newest first
+	for i := len(oldest) - 1; i >= 0; i-- {
+		chars = append(chars, oldest[i])
+	}
+	return chars
+}
+
+// Scrape skips everything when the AzurLaneFleet commit hasn't changed since
+// the last run (cached in config/commits.json). Otherwise it downloads
+// ship_data.min.js and rebuilds the list, newest first.
 func (a AzurLane) Scrape(existing []Character) ([]Character, error) {
 	sha, err := LatestCommit(azurRepo, azurBranch)
 	if err != nil {
 		return nil, err
 	}
 	if upToDate(a.Name(), sha, existing) {
-		log.Printf("[Azur Lane] azur-lane-data unchanged (%s), skipping", sha[:7])
+		log.Printf("[Azur Lane] AzurLaneFleet unchanged (%s), skipping", sha[:7])
 		return existing, nil
 	}
 
-	var ships []azurShip
-	for x := 0; x < azurLaneMax; x++ {
-		page, err := fetchAzurPage(x)
-		if errors.Is(err, ErrNotFound) {
-			log.Printf("[Azur Lane] shiplist_%d.json is 404, done", x)
-			break
-		}
-		if err != nil {
-			return nil, err
-		}
-		for _, e := range page.CargoQuery {
-			ships = append(ships, e.Title)
-		}
-		time.Sleep(azurLaneWait)
+	body, err := get(azurURL)
+	if err != nil {
+		return nil, err
 	}
-	if len(ships) == 0 {
+	src, err := io.ReadAll(body)
+	body.Close()
+	if err != nil {
+		return nil, err
+	}
+	ships, err := parseAzurShips(string(src))
+	if err != nil {
+		return nil, err
+	}
+	chars := buildAzurCharacters(ships)
+	if len(chars) == 0 {
 		return nil, fmt.Errorf("azur lane: no ships found")
-	}
-
-	// Keep the lowest ShipID per name. Non-numeric IDs (collabs, plans, ...)
-	// sort as newest.
-	best := map[string]azurShip{}
-	for _, s := range ships {
-		s.Name = strings.TrimSpace(s.Name)
-		if s.Name == "" {
-			continue
-		}
-		key := strings.ToLower(s.Name)
-		if cur, ok := best[key]; !ok || shipOrder(s.ShipID) < shipOrder(cur.ShipID) {
-			best[key] = s
-		}
-	}
-	list := make([]azurShip, 0, len(best))
-	for _, s := range best {
-		list = append(list, s)
-	}
-	sort.Slice(list, func(i, j int) bool {
-		oi, oj := shipOrder(list[i].ShipID), shipOrder(list[j].ShipID)
-		if oi != oj {
-			return oi > oj // newest first
-		}
-		return list[i].Name < list[j].Name
-	})
-
-	chars := make([]Character, 0, len(list))
-	for _, s := range list {
-		chars = append(chars, newNameBuilder().
-			Name(LangEN, s.Name).
-			Name(LangZH, s.CNName).
-			Name(LangJA, s.JPName).
-			Name(LangKO, s.KRName).
-			Character())
 	}
 	if err := SaveCommit(a.Name(), sha); err != nil {
 		return nil, err
 	}
 	log.Printf("[Azur Lane] %d ships (commit %s)", len(chars), sha[:7])
 	return chars, nil
-}
-
-func fetchAzurPage(x int) (azurPage, error) {
-	var page azurPage
-	body, err := get(fmt.Sprintf(azurLaneURL, x))
-	if err != nil {
-		return page, err
-	}
-	defer body.Close()
-	if err := json.NewDecoder(body).Decode(&page); err != nil {
-		return page, fmt.Errorf("parse shiplist_%d.json: %w", x, err)
-	}
-	return page, nil
-}
-
-// shipOrder converts a ShipID to a sortable number; non-numeric IDs count as
-// newest.
-func shipOrder(id string) int {
-	n, err := strconv.Atoi(strings.TrimSpace(id))
-	if err != nil {
-		return 1 << 30
-	}
-	return n
 }
