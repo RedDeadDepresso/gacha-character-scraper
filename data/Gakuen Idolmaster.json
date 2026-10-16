@@ -3,6 +3,8 @@
     "name": {
       "en_us": "Amaya, Tsubame",
       "ja_jp": "雨夜, 燕",
+      "zh_cn": "雨夜, 燕子",
+      "zh_tw": "雨夜, 燕子",
       "ko_kr": "아마야, 츠바메"
     },
     "aliases": [
@@ -17,6 +19,8 @@
     "name": {
       "en_us": "Hataya, Misuzu",
       "ja_jp": "秦谷, 美鈴",
+      "zh_cn": "秦谷, 美铃",
+      "zh_tw": "秦谷, 美鈴",
       "ko_kr": "하타야, 미스즈"
     },
     "aliases": [
@@ -31,6 +35,8 @@
     "name": {
       "en_us": "Juo, Sena",
       "ja_jp": "十王, 星南",
+      "zh_cn": "十王, 星南",
+      "zh_tw": "十王, 星南",
       "ko_kr": "주오, 세나"
     },
     "aliases": [
@@ -44,6 +50,8 @@
     "name": {
       "en_us": "Hanami, Ume",
       "ja_jp": "花海, 佑芽",
+      "zh_cn": "花海, 佑芽",
+      "zh_tw": "花海, 佑芽",
       "ko_kr": "하나미, 우메"
     },
     "aliases": [
@@ -57,6 +65,8 @@
     "name": {
       "en_us": "Himesaki, Rinami",
       "ja_jp": "姫崎, 莉波",
+      "zh_cn": "姬崎, 莉波",
+      "zh_tw": "姬崎, 莉波",
       "ko_kr": "히메사키, 리나미"
     },
     "aliases": [
@@ -71,6 +81,8 @@
     "name": {
       "en_us": "Shinosawa, Hiro",
       "ja_jp": "篠澤, 広",
+      "zh_cn": "筱泽, 广",
+      "zh_tw": "筱澤, 廣",
       "ko_kr": "시노사와, 히로"
     },
     "aliases": [
@@ -88,6 +100,8 @@
     "name": {
       "en_us": "Shiun, Sumika",
       "ja_jp": "紫雲, 清夏",
+      "zh_cn": "紫云, 清夏",
+      "zh_tw": "紫雲, 清夏",
       "ko_kr": "시운, 스미카"
     },
     "aliases": [
@@ -102,6 +116,8 @@
     "name": {
       "en_us": "Kuramoto, China",
       "ja_jp": "倉本, 千奈",
+      "zh_cn": "仓本, 千奈",
+      "zh_tw": "倉本, 千奈",
       "ko_kr": "쿠라모토, 치나"
     },
     "aliases": [
@@ -116,6 +132,8 @@
     "name": {
       "en_us": "Katsuragi, Lilja",
       "ja_jp": "葛城, リーリヤ",
+      "zh_cn": "葛城, 莉莉亚",
+      "zh_tw": "葛城, 莉莉亞",
       "ko_kr": "카츠라기, 릴리야"
     },
     "aliases": [
@@ -133,6 +151,8 @@
     "name": {
       "en_us": "Arimura, Mao",
       "ja_jp": "有村, 麻央",
+      "zh_cn": "有村, 麻央",
+      "zh_tw": "有村, 麻央",
       "ko_kr": "아리무라, 마오"
     },
     "aliases": [
@@ -146,6 +166,8 @@
     "name": {
       "en_us": "Fujita, Kotone",
       "ja_jp": "藤田, ことね",
+      "zh_cn": "藤田, 琴音",
+      "zh_tw": "藤田, 琴音",
       "ko_kr": "후지타, 코토네"
     },
     "aliases": [
@@ -160,6 +182,8 @@
     "name": {
       "en_us": "Tsukimura, Temari",
       "ja_jp": "月村, 手毬",
+      "zh_cn": "月村, 手毬",
+      "zh_tw": "月村, 手毬",
       "ko_kr": "츠키무라, 테마리"
     },
     "aliases": [
@@ -173,6 +197,8 @@
     "name": {
       "en_us": "Hanami, Saki",
       "ja_jp": "花海, 咲季",
+      "zh_cn": "花海, 咲季",
+      "zh_tw": "花海, 咲季",
       "ko_kr": "하나미, 사키"
     },
     "aliases": [
