@@ -191,9 +191,11 @@ func union(a, b []string) []string {
 }
 
 // alterSeparators mark an alter version of a character: "Ch'en the Dawnstreak",
-// "Amiya (Guardian)" and "Himeko • Nova" are alters of "Ch'en", "Amiya" and
-// "Himeko".
-var alterSeparators = []string{" the ", " (", " • "}
+// "Amiya (Guardian)", "Himeko • Nova", "Nemesis: Gnosis" and "Nemesis·Gnosis"
+// are alters of "Ch'en", "Amiya", "Himeko" and "Nemesis". The colon and the
+// middle dots (· U+00B7, ・ U+30FB) are matched with or without spaces around
+// them.
+var alterSeparators = []string{" the ", " (", " • ", ":", "・", "·"}
 
 // baseOf returns the lowercase English name of the base character if name looks
 // like an alter of a character that exists in idx (same series only, since idx
@@ -202,7 +204,7 @@ func baseOf(name string, idx map[string]int) (string, bool) {
 	for _, sep := range alterSeparators {
 		for i := 1; i+len(sep) <= len(name); i++ {
 			if strings.EqualFold(name[i:i+len(sep)], sep) {
-				base := strings.ToLower(name[:i])
+				base := strings.ToLower(strings.TrimSpace(name[:i]))
 				if _, ok := idx[base]; ok {
 					return base, true
 				}

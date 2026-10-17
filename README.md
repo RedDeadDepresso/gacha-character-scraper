@@ -8,7 +8,9 @@
 - `go run ./cmd/merge` – merge `data/*.json` into `dist/gacha_character_index.json` (KKAFIO format).
 - `.github/workflows/build-index.yml` – merges `data/*.json` and publishes to GitHub Pages on push or manual run (no scraping in CI).
 
-The merge step folds alter versions (`X the Y`, `X (Y)` or `X • Y`, where `X` exists in the same series) into the base character `X`, adding the alter's name and aliases to `X`'s aliases.
+The merge step folds alter versions (`X the Y`, `X (Y)`, `X • Y`, `X: Y`, `X・Y` or `X·Y`, where `X` exists in the same series) into the base character `X`, adding the alter's name and aliases to `X`'s aliases.
+
+Girls Frontline 2 reads the Simplified Chinese names with [Playwright](https://github.com/playwright-community/playwright-go) (that page is built by JavaScript). Run `go mod tidy` once to fetch it; the first scrape then downloads Chromium (about 150 MB) by itself. On a Linux server, install Chromium and its system libraries first: `go run github.com/playwright-community/playwright-go/cmd/playwright@v0.6000.0 install --with-deps chromium`. If the browser cannot start, the other languages are still scraped and a warning is logged. To check the setup: `GFL2_BROWSER_TEST=1 go test ./scrapers -run RenderPageWithBrowser -v`.
 
 `data/Gakuen Idolmaster.json` and `data/Project Sekai.json` are maintained by hand (no scraper, since new characters are rare). Keep it newest-first like the scraped files.
 
