@@ -13,11 +13,7 @@ import (
 	"strings"
 )
 
-const (
-	gfl2Repo   = "Infernal-Crack-LED/gfl2-team-builder"
-	gfl2Branch = "main"
-	gfl2URL    = "https://raw.githubusercontent.com/Infernal-Crack-LED/gfl2-team-builder/refs/heads/main/data/dolls.json"
-)
+const gfl2URL = "https://raw.githubusercontent.com/Infernal-Crack-LED/gfl2-team-builder/refs/heads/main/data/dolls.json"
 
 // gfl2Source is one official "all roles" page. It lists every doll with its
 // gunDataId and its name in one language; the English names come from gfl2URL.
@@ -41,9 +37,11 @@ var gfl2Langs = []gfl2Source{
 
 // GirlsFrontline2 reads dolls from the gfl2-team-builder open game data (English
 // name and gunDataId) and adds the Japanese, Korean, Traditional and Simplified
-// Chinese names from the official "all roles" pages, matched by gunDataId. The
-// Simplified Chinese page is built by JavaScript, so it is read with Playwright
-// (headless Chromium, see gfl2browser.go).
+// Chinese names from the official "all roles" pages, matched by gunDataId. A
+// doll that is on those pages but has no English name yet is kept too, under
+// its first available name. The Simplified Chinese page is built by
+// JavaScript, so it is read with Playwright (headless Chromium, see
+// gfl2browser.go).
 // The name has no apostrophe or colon so it is safe as a file name.
 type GirlsFrontline2 struct{}
 
@@ -183,44 +181,86 @@ func fetchGFL2Names() gfl2Names {
 	return names
 }
 
-// gfl2Complete reports whether every saved doll already has a name in every
-// language, i.e. there is nothing left to fill in.
-func gfl2Complete(chars []Character) bool {
-	for _, c := range chars {
-		for _, l := range []string{LangJA, LangKO, LangZH, LangTW} {
-			if c.Name[l] == "" {
-				return false
+// gfl2LangOrder is the order in which the non-English names of a saved doll
+// are visited, fixed so that aliases come out the same on every run.
+var gfl2LangOrder = []string{LangZH, LangTW, LangJA, LangKO, LangRU}
+
+// gfl2Entry is one doll: its gunDataId and its English name, empty when the
+// doll is only known from the language pages.
+type gfl2Entry struct {
+	id  int
+	en  string
+	pos int // position in dolls.json, to order dolls that share an id
+}
+
+// buildGFL2 merges the doll list and the localized names by gunDataId and
+// keeps every doll that is in either of them, so a doll without an English
+// name is not lost: it is named after its first available language (the
+// builder promotes that name to the English slot).
+//
+// Dolls already saved keep their entry (names and hand-written aliases): a
+// language they lack is filled in, and a scraped name that differs from the
+// saved one becomes an alias. A saved doll is found again through any of its
+// names, not just the English one, since an untranslated doll is saved under
+// a foreign name. When such a doll gets its English name, that name replaces
+// the placeholder. Dolls that are new go to the front, newest first (a higher
+// gunDataId is a later release). It returns the list and how many dolls are new.
+func buildGFL2(dolls []gfl2Doll, names gfl2Names, existing []Character) ([]Character, int) {
+	localized := func(id int) []string { // the doll's names, in language order
+		var out []string
+		for _, l := range gfl2Langs {
+			if n := names[l.lang][id]; n != "" {
+				out = append(out, n)
+			}
+		}
+		return out
+	}
+
+	var list []gfl2Entry
+	seen := map[int]bool{}
+	for i, d := range dolls {
+		en := strings.Join(strings.Fields(d.Name), " ")
+		if en == "" && (d.GunDataID <= 0 || len(localized(d.GunDataID)) == 0) {
+			continue // nothing to call it
+		}
+		list = append(list, gfl2Entry{d.GunDataID, en, i})
+		if d.GunDataID > 0 {
+			seen[d.GunDataID] = true
+		}
+	}
+	for _, l := range gfl2Langs { // dolls only the language pages know
+		for id := range names[l.lang] {
+			if !seen[id] {
+				seen[id] = true
+				list = append(list, gfl2Entry{id, "", len(dolls) + id})
 			}
 		}
 	}
-	return len(chars) > 0
-}
-
-// buildGFL2 merges the doll list and the localized names by gunDataId. Dolls
-// already saved keep their entry (names and hand-written aliases): a language
-// they lack is filled in, and a scraped name that differs from the saved one
-// becomes an alias. Dolls that are new go to the front, newest first (a higher
-// gunDataId is a later release). It returns the list and how many dolls are new.
-func buildGFL2(dolls []gfl2Doll, names gfl2Names, existing []Character) ([]Character, int) {
-	// Newest first; the file position breaks ties (later = newer).
-	idx := make([]int, 0, len(dolls))
-	for i, d := range dolls {
-		if strings.TrimSpace(d.Name) != "" {
-			idx = append(idx, i)
+	sort.SliceStable(list, func(a, b int) bool { // newest first
+		if list[a].id != list[b].id {
+			return list[a].id > list[b].id
 		}
-	}
-	sort.SliceStable(idx, func(a, b int) bool {
-		da, db := dolls[idx[a]], dolls[idx[b]]
-		if da.GunDataID != db.GunDataID {
-			return da.GunDataID > db.GunDataID
-		}
-		return idx[a] > idx[b]
+		return list[a].pos > list[b].pos
 	})
 
-	byName := map[string]int{} // lowercase en name -> gunDataId
-	for _, i := range idx {
-		byName[strings.ToLower(strings.Join(strings.Fields(dolls[i].Name), " "))] = dolls[i].GunDataID
+	// Lowercase name -> doll, English names before localized ones.
+	byName := map[string]gfl2Entry{}
+	add := func(name string, e gfl2Entry) {
+		if k := strings.ToLower(name); k != "" {
+			if _, ok := byName[k]; !ok {
+				byName[k] = e
+			}
+		}
 	}
+	for _, e := range list {
+		add(e.en, e)
+	}
+	for _, e := range list {
+		for _, n := range localized(e.id) {
+			add(n, e)
+		}
+	}
+
 	localize := func(b *nameBuilder, id int) {
 		for _, l := range gfl2Langs {
 			if n := names[l.lang][id]; n != "" {
@@ -228,11 +268,25 @@ func buildGFL2(dolls []gfl2Doll, names gfl2Names, existing []Character) ([]Chara
 			}
 		}
 	}
+	find := func(c Character) (gfl2Entry, bool) {
+		cands := []string{c.Name.EN()}
+		for _, l := range gfl2LangOrder {
+			cands = append(cands, c.Name[l])
+		}
+		cands = append(cands, c.Aliases...)
+		for _, n := range cands {
+			if e, ok := byName[strings.ToLower(strings.Join(strings.Fields(n), " "))]; ok {
+				return e, true
+			}
+		}
+		return gfl2Entry{}, false
+	}
 
-	// Names already saved, including their aliases, so a doll that is known
-	// under any of them is not added a second time.
+	// Names already saved, including aliases, so a doll that is known under
+	// any of them is not added a second time.
 	known := map[string]bool{}
-	chars := make([]Character, 0, len(existing)+len(dolls))
+	claimed := map[int]bool{} // gunDataIds of saved dolls
+	chars := make([]Character, 0, len(existing)+len(list))
 	for _, c := range existing {
 		for _, n := range c.Name {
 			known[strings.ToLower(n)] = true
@@ -240,54 +294,74 @@ func buildGFL2(dolls []gfl2Doll, names gfl2Names, existing []Character) ([]Chara
 		for _, a := range c.Aliases {
 			known[strings.ToLower(strings.TrimSpace(a))] = true
 		}
-		id, ok := byName[strings.ToLower(c.Name.EN())]
-		for _, a := range c.Aliases {
-			if !ok {
-				id, ok = byName[strings.ToLower(strings.TrimSpace(a))]
+		if e, ok := find(c); ok {
+			if e.id > 0 {
+				claimed[e.id] = true
 			}
-		}
-		if ok {
-			b := builderOf(c)
-			localize(b, id)
 			legacy := c.legacy
-			c = b.Character()
+			c = refreshGFL2(c, e, localized(e.id), localize)
 			c.legacy = legacy
 		}
 		chars = append(chars, c)
 	}
 
-	// idx is newest first, so new dolls keep that order at the front.
+	// list is newest first, so new dolls keep that order at the front.
 	var added []Character
-	for _, i := range idx {
-		name := strings.Join(strings.Fields(dolls[i].Name), " ")
-		k := strings.ToLower(name)
-		if known[k] {
+	for _, e := range list {
+		if e.id > 0 && claimed[e.id] {
 			continue
 		}
-		known[k] = true
-		b := newNameBuilder().Name(LangEN, name)
-		localize(b, dolls[i].GunDataID)
+		keys := []string{e.en}
+		if e.en == "" {
+			keys = localized(e.id)
+		}
+		dup := false
+		for _, k := range keys {
+			dup = dup || known[strings.ToLower(k)]
+		}
+		if dup {
+			continue
+		}
+		for _, k := range keys {
+			known[strings.ToLower(k)] = true
+		}
+		b := newNameBuilder().Name(LangEN, e.en)
+		localize(b, e.id)
 		added = append(added, b.Character())
 	}
 	return append(added, chars...), len(added)
 }
 
-// Scrape fetches the doll list and the localized names and merges them (see
-// buildGFL2). It skips everything when the gfl2-team-builder commit hasn't
-// changed since the last run (cached in config/commits.json) and every saved
-// doll already has all its names.
-func (g GirlsFrontline2) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(gfl2Repo, gfl2Branch)
-	if err != nil {
-		return nil, err
+// refreshGFL2 fills in the missing names of a saved doll. When the doll has an
+// English name now but the saved entry only has a foreign name in the English
+// slot (it was saved untranslated), the English name replaces that
+// placeholder, which stays searchable as the name of its own language.
+func refreshGFL2(c Character, e gfl2Entry, loc []string, localize func(*nameBuilder, int)) Character {
+	b := builderOf(c)
+	if e.en != "" {
+		saved := c.Name[LangEN]
+		placeholder := false
+		for _, n := range loc {
+			placeholder = placeholder || strings.EqualFold(n, saved)
+		}
+		if placeholder && !strings.EqualFold(saved, e.en) {
+			b = newNameBuilder().Name(LangEN, e.en)
+			for _, l := range gfl2LangOrder {
+				b.Name(l, c.Name[l])
+			}
+			b.Alias(saved).Alias(c.Aliases...)
+		} else {
+			b.Name(LangEN, e.en) // a different saved English name keeps its place; this becomes an alias
+		}
 	}
-	// Not upToDate(): a saved list in the old format is converted on load, so
-	// there is nothing to rebuild for it.
-	if sha == LoadCommit(g.Name()) && gfl2Complete(existing) {
-		log.Printf("[Girls Frontline 2] gfl2-team-builder unchanged (%s) and all names present, skipping", sha[:7])
-		return existing, nil
-	}
+	localize(b, e.id)
+	return b.Character()
+}
 
+// Scrape fetches the doll list and the localized names and merges them (see
+// buildGFL2). It always visits the language pages, because a doll that has no
+// English name yet is only listed there.
+func (g GirlsFrontline2) Scrape(existing []Character) ([]Character, error) {
 	body, err := get(gfl2URL)
 	if err != nil {
 		return nil, err
@@ -305,9 +379,6 @@ func (g GirlsFrontline2) Scrape(existing []Character) ([]Character, error) {
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("girls frontline 2: no dolls found")
 	}
-	if err := SaveCommit(g.Name(), sha); err != nil {
-		return nil, err
-	}
-	log.Printf("[Girls Frontline 2] %d dolls, %d new (commit %s)", len(chars), added, sha[:7])
+	log.Printf("[Girls Frontline 2] %d dolls, %d new", len(chars), added)
 	return chars, nil
 }
