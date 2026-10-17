@@ -29,6 +29,23 @@
     ]
   },
   {
+    "game": "Honkai Impact 3rd",
+    "title": {
+      "en_us": "Honkai Impact 3rd",
+      "ja_jp": "崩壊3rd",
+      "ko_kr": "붕괴3rd",
+      "zh_cn": "崩坏3",
+      "zh_tw": "崩壞3rd"
+    },
+    "aliases": [
+      "Honkai Impact",
+      "Honkai Impact 3",
+      "HI3",
+      "崩壊3rd",
+      "崩坏3rd"
+    ]
+  },
+  {
     "game": "Fate Grand Order",
     "title": {
       "en_us": "Fate Grand Order",

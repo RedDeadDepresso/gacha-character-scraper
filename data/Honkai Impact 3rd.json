@@ -1,0 +1,312 @@
+[
+  {
+    "name": {
+      "en_us": "Sparkle",
+      "ja_jp": "花火",
+      "zh_cn": "花火"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vita",
+      "ja_jp": "ヴィタ",
+      "zh_cn": "薇塔"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Songque",
+      "ja_jp": "松雀",
+      "zh_cn": "松雀"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Lantern",
+      "ja_jp": "「アカリ」",
+      "zh_cn": "「燈」"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Thelema Nutriscu",
+      "ja_jp": "セルマ",
+      "zh_cn": "瑟莉姆·努特里斯科"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Senadia",
+      "ja_jp": "セナディア",
+      "zh_cn": "希娜狄雅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Erdős Helia",
+      "ja_jp": "エルデシュ・ヘリア",
+      "zh_cn": "埃爾德什·赫麗婭"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Coralie 6626 Planck",
+      "ja_jp": "コラリー・6626・プランク",
+      "zh_cn": "科拉莉·6626·普朗克"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Sirin",
+      "ja_jp": "シーリン",
+      "zh_cn": "西琳"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Shigure Kira",
+      "ja_jp": "時雨綺羅",
+      "zh_cn": "時雨綺羅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "PROMETEUS",
+      "ja_jp": "プロメテウス",
+      "zh_cn": "普羅米修斯"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Misteln Schariac",
+      "ja_jp": "ミステル・シャニアテ",
+      "zh_cn": "米絲忒琳·沙尼亞特"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Susannah",
+      "ja_jp": "スーサナ",
+      "zh_cn": "蘇莎娜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ai Hyperion Λ",
+      "ja_jp": "AI",
+      "zh_cn": "愛衣·休伯利安Λ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Li Sushang",
+      "ja_jp": "李素裳",
+      "zh_cn": "李素裳"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Vill-V",
+      "ja_jp": "ヴィルヴィ",
+      "zh_cn": "維爾薇"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Griseo",
+      "ja_jp": "グレーシュ",
+      "zh_cn": "格蕾修"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Eden",
+      "ja_jp": "エデン",
+      "zh_cn": "伊甸"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Aponia",
+      "ja_jp": "アポニア",
+      "zh_cn": "阿波尼亞"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Pardofelis",
+      "ja_jp": "パルドフェリス",
+      "zh_cn": "帕朵菲莉絲"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Mobius",
+      "ja_jp": "メビウス",
+      "zh_cn": "梅比烏斯"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Elysia",
+      "ja_jp": "エリシア",
+      "zh_cn": "愛莉希雅"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Carole Pepper",
+      "ja_jp": "キャロル・ペッパー",
+      "zh_cn": "卡蘿爾·佩珀"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Natasha Cioara",
+      "ja_jp": "ナターシャ・キオラ",
+      "zh_cn": "娜塔莎·希奧拉"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Fischl",
+      "ja_jp": "フィッシュル",
+      "zh_cn": "菲謝爾"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "アスカ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Durandal",
+      "ja_jp": "デュランダル",
+      "zh_cn": "幽蘭黛爾"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Seele Vollerei",
+      "ja_jp": "ゼーレ・フェレライ",
+      "zh_cn": "希兒·芙樂艾"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Liliya Olenyeva",
+      "ja_jp": "リリア・アリーン",
+      "zh_cn": "莉莉婭·阿琳"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rozaliya Olenyeva",
+      "ja_jp": "ロザリア・アリーン",
+      "zh_cn": "蘿莎莉婭·阿琳"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Rita Rossweisse",
+      "ja_jp": "リタ・ロスヴァイセ",
+      "zh_cn": "麗塔·洛絲薇瑟"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Fu hua",
+      "ja_jp": "フカ",
+      "zh_cn": "符華"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kallen Kaslana",
+      "ja_jp": "カレン・カスラナ",
+      "zh_cn": "卡蓮·卡斯蘭娜"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Theresa Apocalypse",
+      "ja_jp": "テレサ・アポカリプス",
+      "zh_cn": "德麗莎·阿波卡利斯"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Yae Sakura",
+      "ja_jp": "八重桜",
+      "zh_cn": "八重·櫻"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Murata Himeko",
+      "ja_jp": "無量塔 姫子",
+      "zh_cn": "無量塔·姬子"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Bronya Zaychik",
+      "ja_jp": "ブローニャ・ザイチク",
+      "zh_cn": "布洛妮婭·札伊切克"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Raiden Mei",
+      "ja_jp": "雷電 芽衣",
+      "zh_cn": "雷電·芽衣"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Kiana Kaslana",
+      "ja_jp": "キアナ・カスラナ",
+      "zh_cn": "琪亞娜·卡斯蘭娜"
+    },
+    "aliases": []
+  }
+]

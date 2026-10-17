@@ -83,12 +83,12 @@ func azurDate(s string) int {
 	return y*10000 + mo*100 + d
 }
 
-// mergeAzur folds b into a: every name of b becomes an alias of a, even in a
+// mergeCharacters folds b into a: every name of b becomes an alias of a, even in a
 // language where a has no name (that name would belong to a different
 // character). Languages are visited in a fixed order (unlike
 // nameBuilder.Merge, which ranges over a map) so that the aliases, and the
 // saved file, come out the same on every run.
-func mergeAzur(a, b Character) Character {
+func mergeCharacters(a, b Character) Character {
 	nb := builderOf(a)
 	for _, l := range []string{LangEN, LangZH, LangTW, LangJA, LangKO, LangRU} {
 		nb.Alias(b.Name[l])
@@ -148,7 +148,7 @@ func buildAzurCharacters(ships map[string]azurShip) []Character {
 	for _, e := range list {
 		key := strings.ToLower(e.char.Name.EN())
 		if p, ok := pos[key]; ok {
-			oldest[p] = mergeAzur(oldest[p], e.char)
+			oldest[p] = mergeCharacters(oldest[p], e.char)
 			continue
 		}
 		pos[key] = len(oldest)

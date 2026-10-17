@@ -40,6 +40,16 @@
   },
   {
     "name": {
+      "en_us": "Aeon ★ Aha",
+      "ja_jp": "星神★アッハ",
+      "ko_kr": "에이언즈★아하",
+      "zh_cn": "星神★阿哈",
+      "zh_tw": "星神★阿哈"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
       "en_us": "Himeko • Nova",
       "ja_jp": "姫子・旅立ち",
       "ko_kr": "히메코•노바",

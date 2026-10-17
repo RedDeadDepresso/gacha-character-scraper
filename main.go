@@ -21,6 +21,7 @@ var registry = []scrapers.Scraper{
 	scrapers.WutheringWaves{},
 	scrapers.ArknightsEndfield{},
 	scrapers.HonkaiStarRail{},
+	scrapers.HonkaiImpact{},
 	scrapers.NevernessToEverness{},
 	scrapers.Nikke{},
 	scrapers.FateGrandOrder{},
