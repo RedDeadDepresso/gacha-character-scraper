@@ -9,9 +9,7 @@
       "zh_tw": "原神",
       "ru_ru": "Геншин Импакт"
     },
-    "aliases": [
-      "Genshin"
-    ]
+    "aliases": ["Genshin"]
   },
   {
     "game": "Honkai Star Rail",
@@ -22,28 +20,7 @@
       "zh_cn": "崩坏：星穹铁道",
       "zh_tw": "崩壞：星穹鐵道"
     },
-    "aliases": [
-      "Honkai: Star Rail",
-      "Star Rail",
-      "HSR"
-    ]
-  },
-  {
-    "game": "Honkai Impact 3rd",
-    "title": {
-      "en_us": "Honkai Impact 3rd",
-      "ja_jp": "崩壊3rd",
-      "ko_kr": "붕괴3rd",
-      "zh_cn": "崩坏3",
-      "zh_tw": "崩壞3rd"
-    },
-    "aliases": [
-      "Honkai Impact",
-      "Honkai Impact 3",
-      "HI3",
-      "崩壊3rd",
-      "崩坏3rd"
-    ]
+    "aliases": ["Honkai: Star Rail", "Star Rail", "HSR"]
   },
   {
     "game": "Fate Grand Order",
@@ -54,21 +31,7 @@
       "zh_cn": "命运-冠位指定",
       "zh_tw": "Fate／Grand Order"
     },
-    "aliases": [
-      "Fate/Grand Order",
-      "FGO"
-    ]
-  },
-  {
-    "game": "Blue Archive",
-    "title": {
-      "en_us": "Blue Archive",
-      "ja_jp": "ブルーアーカイブ",
-      "ko_kr": "블루 아카이브",
-      "zh_cn": "蔚蓝档案",
-      "zh_tw": "碧藍檔案"
-    },
-    "aliases": []
+    "aliases": ["Fate/Grand Order", "FGO"]
   },
   {
     "game": "Zenless Zone Zero",
@@ -79,9 +42,7 @@
       "zh_cn": "绝区零",
       "zh_tw": "絕區零"
     },
-    "aliases": [
-      "ZZZ"
-    ]
+    "aliases": ["ZZZ"]
   },
   {
     "game": "Wuthering Waves",
@@ -92,9 +53,29 @@
       "zh_cn": "鸣潮",
       "zh_tw": "鳴潮"
     },
-    "aliases": [
-      "WuWa"
-    ]
+    "aliases": ["WuWa"]
+  },
+  {
+    "game": "Nikke",
+    "title": {
+      "en_us": "Nikke",
+      "ja_jp": "勝利の女神：NIKKE",
+      "ko_kr": "승리의 여신 니케",
+      "zh_cn": "胜利女神：妮姬",
+      "zh_tw": "勝利女神：妮姬"
+    },
+    "aliases": ["Goddess of Victory: Nikke", "NIKKE"]
+  },
+  {
+    "game": "Uma Musume Pretty Derby",
+    "title": {
+      "en_us": "Uma Musume Pretty Derby",
+      "ja_jp": "ウマ娘 プリティーダービー",
+      "ko_kr": "우마무스메 프리티 더비",
+      "zh_cn": "赛马娘",
+      "zh_tw": "賽馬娘"
+    },
+    "aliases": ["Uma Musume"]
   },
   {
     "game": "Arknights",
@@ -108,31 +89,26 @@
     "aliases": []
   },
   {
-    "game": "Uma Musume Pretty Derby",
+    "game": "Blue Archive",
     "title": {
-      "en_us": "Uma Musume Pretty Derby",
-      "ja_jp": "ウマ娘 プリティーダービー",
-      "ko_kr": "우마무스메 프리티 더비",
-      "zh_cn": "赛马娘",
-      "zh_tw": "賽馬娘"
+      "en_us": "Blue Archive",
+      "ja_jp": "ブルーアーカイブ",
+      "ko_kr": "블루 아카이브",
+      "zh_cn": "蔚蓝档案",
+      "zh_tw": "碧藍檔案"
     },
-    "aliases": [
-      "Uma Musume"
-    ]
+    "aliases": []
   },
   {
-    "game": "Nikke",
+    "game": "Project Sekai",
     "title": {
-      "en_us": "Nikke",
-      "ja_jp": "勝利の女神：NIKKE",
-      "ko_kr": "승리의 여신 니케",
-      "zh_cn": "胜利女神：妮姬",
-      "zh_tw": "勝利女神：妮姬"
+      "en_us": "Project Sekai",
+      "ja_jp": "プロジェクトセカイ",
+      "ko_kr": "프로젝트 세카이",
+      "zh_cn": "世界计划",
+      "zh_tw": "世界計畫"
     },
-    "aliases": [
-      "Goddess of Victory: Nikke",
-      "NIKKE"
-    ]
+    "aliases": ["Hatsune Miku: Colorful Stage!", "Colorful Stage"]
   },
   {
     "game": "Azur Lane",
@@ -146,58 +122,6 @@
     "aliases": []
   },
   {
-    "game": "Girls Frontline 2",
-    "title": {
-      "en_us": "Girls Frontline 2",
-      "ja_jp": "ドールズフロントライン2：エクシリウム",
-      "ko_kr": "소녀전선2: 망명",
-      "zh_cn": "少女前线2：追放",
-      "zh_tw": "少女前線2：追放"
-    },
-    "aliases": [
-      "Girls' Frontline 2",
-      "Girls' Frontline 2: Exilium"
-    ]
-  },
-  {
-    "game": "Arknights Endfield",
-    "title": {
-      "en_us": "Arknights Endfield",
-      "ja_jp": "アークナイツ：エンドフィールド",
-      "ko_kr": "명일방주: 엔드필드",
-      "zh_cn": "明日方舟：终末地",
-      "zh_tw": "明日方舟：終末地"
-    },
-    "aliases": [
-      "Arknights: Endfield"
-    ]
-  },
-  {
-    "game": "Project Sekai",
-    "title": {
-      "en_us": "Project Sekai",
-      "ja_jp": "プロジェクトセカイ",
-      "ko_kr": "프로젝트 세카이",
-      "zh_cn": "世界计划",
-      "zh_tw": "世界計畫"
-    },
-    "aliases": [
-      "Hatsune Miku: Colorful Stage!",
-      "Colorful Stage"
-    ]
-  },
-  {
-    "game": "Neverness to Everness",
-    "title": {
-      "en_us": "Neverness to Everness",
-      "zh_cn": "异环",
-      "zh_tw": "異環"
-    },
-    "aliases": [
-      "NTE"
-    ]
-  },
-  {
     "game": "Gakuen Idolmaster",
     "title": {
       "en_us": "Gakuen Idolmaster",
@@ -206,33 +130,7 @@
       "zh_cn": "学园偶像大师",
       "zh_tw": "學園偶像大師"
     },
-    "aliases": [
-      "Gakumas"
-    ]
-  },
-  {
-    "game": "Pokemon",
-    "title": {
-      "en_us": "Pokemon",
-      "ja_jp": "ポケモン",
-      "ko_kr": "포켓몬",
-      "zh_cn": "宝可梦",
-      "zh_tw": "寶可夢",
-      "ru_ru": "Покемон"
-    },
-    "aliases": [
-      "Pokémon",
-      "Pokemon Masters EX"
-    ]
-  },
-  {
-    "game": "Hololive",
-    "title": {
-      "en_us": "Hololive",
-      "ja_jp": "ホロライブ",
-      "ko_kr": "홀로라이브"
-    },
-    "aliases": []
+    "aliases": ["Gakumas"]
   },
   {
     "game": "Granblue Fantasy",
@@ -243,38 +141,7 @@
       "zh_cn": "碧蓝幻想",
       "zh_tw": "碧藍幻想"
     },
-    "aliases": [
-      "GBF"
-    ]
-  },
-  {
-    "game": "Punishing Gray Raven",
-    "title": {
-      "en_us": "Punishing Gray Raven",
-      "ja_jp": "パニシング：グレイレイヴン",
-      "ko_kr": "퍼니싱: 그레이 레이븐",
-      "zh_cn": "战双帕弥什",
-      "zh_tw": "戰雙帕彌什"
-    },
-    "aliases": [
-      "Punishing: Gray Raven",
-      "PGR"
-    ]
-  },
-  {
-    "game": "Atelier",
-    "title": {
-      "en_us": "Atelier",
-      "ja_jp": "アトリエ",
-      "ko_kr": "아틀리에",
-      "zh_cn": "炼金工房",
-      "zh_tw": "鍊金工房"
-    },
-    "aliases": [
-      "Atelier Resleriana",
-      "Resleriana",
-      "レスレリアーナのアトリエ"
-    ]
+    "aliases": ["GBF"]
   },
   {
     "game": "Onmyoji",
@@ -285,8 +152,59 @@
       "zh_cn": "阴阳师",
       "zh_tw": "陰陽師"
     },
-    "aliases": [
-      "Onmyouji"
-    ]
+    "aliases": ["Onmyouji"]
+  },
+  {
+    "game": "Honkai Impact 3rd",
+    "title": {
+      "en_us": "Honkai Impact 3rd",
+      "ja_jp": "崩壊3rd",
+      "ko_kr": "붕괴3rd",
+      "zh_cn": "崩坏3",
+      "zh_tw": "崩壞3rd"
+    },
+    "aliases": ["Honkai Impact", "Honkai Impact 3", "HI3", "崩壊3rd", "崩坏3rd"]
+  },
+  {
+    "game": "Punishing Gray Raven",
+    "title": {
+      "en_us": "Punishing Gray Raven",
+      "ja_jp": "パニシング：グレイレイヴン",
+      "ko_kr": "퍼니싱: 그레이 레이븐",
+      "zh_cn": "战双帕弥什",
+      "zh_tw": "戰雙帕彌什"
+    },
+    "aliases": ["Punishing: Gray Raven", "PGR"]
+  },
+  {
+    "game": "Arknights Endfield",
+    "title": {
+      "en_us": "Arknights Endfield",
+      "ja_jp": "アークナイツ：エンドフィールド",
+      "ko_kr": "명일방주: 엔드필드",
+      "zh_cn": "明日方舟：终末地",
+      "zh_tw": "明日方舟：終末地"
+    },
+    "aliases": ["Arknights: Endfield"]
+  },
+  {
+    "game": "Girls Frontline 2",
+    "title": {
+      "en_us": "Girls Frontline 2",
+      "ja_jp": "ドールズフロントライン2：エクシリウム",
+      "ko_kr": "소녀전선2: 망명",
+      "zh_cn": "少女前线2：追放",
+      "zh_tw": "少女前線2：追放"
+    },
+    "aliases": ["Girls' Frontline 2", "Girls' Frontline 2: Exilium"]
+  },
+  {
+    "game": "Neverness to Everness",
+    "title": {
+      "en_us": "Neverness to Everness",
+      "zh_cn": "异环",
+      "zh_tw": "異環"
+    },
+    "aliases": ["NTE"]
   }
 ]

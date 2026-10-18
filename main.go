@@ -27,11 +27,8 @@ var registry = []scrapers.Scraper{
 	scrapers.FateGrandOrder{},
 	scrapers.GenshinImpact{},
 	scrapers.GirlsFrontline2{},
-	scrapers.PokemonMasters{},
-	scrapers.Hololive{},
 	scrapers.GranblueFantasy{},
 	scrapers.PunishingGrayRaven{},
-	scrapers.Atelier{},
 	scrapers.Onmyoji{},
 }
 

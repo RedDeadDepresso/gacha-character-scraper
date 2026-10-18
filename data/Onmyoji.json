@@ -1,6 +1,14 @@
 [
   {
     "name": {
+      "en_us": "Sakuya",
+      "ja_jp": "咲耶",
+      "zh_cn": "咲耶"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
       "en_us": "SP Hououka",
       "zh_cn": "百羽凤凰火"
     },
