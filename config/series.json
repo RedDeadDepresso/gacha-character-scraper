@@ -7,14 +7,14 @@
       "ko_kr": "원신",
       "zh_cn": "原神",
       "zh_tw": "原神",
-      "ru_ru": "Геншин Импакт"
+      "ru_ru": "Genshin Impact"
     },
     "aliases": ["Genshin"]
   },
   {
     "game": "Honkai Star Rail",
     "title": {
-      "en_us": "Honkai Star Rail",
+      "en_us": "Honkai: Star Rail",
       "ja_jp": "崩壊：スターレイル",
       "ko_kr": "붕괴: 스타레일",
       "zh_cn": "崩坏：星穹铁道",
@@ -25,11 +25,11 @@
   {
     "game": "Fate Grand Order",
     "title": {
-      "en_us": "Fate Grand Order",
-      "ja_jp": "Fate／Grand Order",
-      "ko_kr": "Fate／Grand Order",
+      "en_us": "Fate/Grand Order",
+      "ja_jp": "Fate/Grand Order",
+      "ko_kr": "Fate/Grand Order",
       "zh_cn": "命运-冠位指定",
-      "zh_tw": "Fate／Grand Order"
+      "zh_tw": "Fate/Grand Order"
     },
     "aliases": ["Fate/Grand Order", "FGO"]
   },
@@ -58,9 +58,9 @@
   {
     "game": "Nikke",
     "title": {
-      "en_us": "Nikke",
+      "en_us": "Goddess of Victory: Nikke",
       "ja_jp": "勝利の女神：NIKKE",
-      "ko_kr": "승리의 여신 니케",
+      "ko_kr": "승리의 여신: 니케",
       "zh_cn": "胜利女神：妮姬",
       "zh_tw": "勝利女神：妮姬"
     },
@@ -69,11 +69,11 @@
   {
     "game": "Uma Musume Pretty Derby",
     "title": {
-      "en_us": "Uma Musume Pretty Derby",
+      "en_us": "Uma Musume: Pretty Derby",
       "ja_jp": "ウマ娘 プリティーダービー",
       "ko_kr": "우마무스메 프리티 더비",
-      "zh_cn": "赛马娘",
-      "zh_tw": "賽馬娘"
+      "zh_cn": "赛马娘 Pretty Derby",
+      "zh_tw": "賽馬娘Pretty Derby"
     },
     "aliases": ["Uma Musume"]
   },
@@ -92,7 +92,7 @@
     "game": "Blue Archive",
     "title": {
       "en_us": "Blue Archive",
-      "ja_jp": "ブルーアーカイブ",
+      "ja_jp": "ブルーアーカイブ -Blue Archive-",
       "ko_kr": "블루 아카이브",
       "zh_cn": "蔚蓝档案",
       "zh_tw": "碧藍檔案"
@@ -102,11 +102,11 @@
   {
     "game": "Project Sekai",
     "title": {
-      "en_us": "Project Sekai",
-      "ja_jp": "プロジェクトセカイ",
-      "ko_kr": "프로젝트 세카이",
-      "zh_cn": "世界计划",
-      "zh_tw": "世界計畫"
+      "en_us": "Hatsune Miku: Colorful Stage!",
+      "ja_jp": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+      "ko_kr": "프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠",
+      "zh_cn": "世界计划 缤纷舞台！ feat. 初音未来",
+      "zh_tw": "世界計畫 繽紛舞台！ feat. 初音未來"
     },
     "aliases": ["Hatsune Miku: Colorful Stage!", "Colorful Stage"]
   },
@@ -147,7 +147,7 @@
     "game": "Onmyoji",
     "title": {
       "en_us": "Onmyoji",
-      "ja_jp": "陰陽師",
+      "ja_jp": "陰陽師本格幻想RPG",
       "ko_kr": "음양사",
       "zh_cn": "阴阳师",
       "zh_tw": "陰陽師"
@@ -168,7 +168,7 @@
   {
     "game": "Punishing Gray Raven",
     "title": {
-      "en_us": "Punishing Gray Raven",
+      "en_us": "Punishing: Gray Raven",
       "ja_jp": "パニシング：グレイレイヴン",
       "ko_kr": "퍼니싱: 그레이 레이븐",
       "zh_cn": "战双帕弥什",
@@ -179,7 +179,7 @@
   {
     "game": "Arknights Endfield",
     "title": {
-      "en_us": "Arknights Endfield",
+      "en_us": "Arknights: Endfield",
       "ja_jp": "アークナイツ：エンドフィールド",
       "ko_kr": "명일방주: 엔드필드",
       "zh_cn": "明日方舟：终末地",
@@ -190,7 +190,7 @@
   {
     "game": "Girls Frontline 2",
     "title": {
-      "en_us": "Girls Frontline 2",
+      "en_us": "Girls' Frontline 2: Exilium",
       "ja_jp": "ドールズフロントライン2：エクシリウム",
       "ko_kr": "소녀전선2: 망명",
       "zh_cn": "少女前线2：追放",
