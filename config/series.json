@@ -1,6 +1,7 @@
 [
   {
     "game": "Genshin Impact",
+    "bangumi_id": 314352,
     "title": {
       "en_us": "Genshin Impact",
       "ja_jp": "原神",
@@ -13,6 +14,7 @@
   },
   {
     "game": "Honkai Star Rail",
+    "bangumi_id": 360097,
     "title": {
       "en_us": "Honkai: Star Rail",
       "ja_jp": "崩壊：スターレイル",
@@ -24,6 +26,7 @@
   },
   {
     "game": "Fate Grand Order",
+    "bangumi_id": 196885,
     "title": {
       "en_us": "Fate/Grand Order",
       "ja_jp": "Fate/Grand Order",
@@ -35,6 +38,7 @@
   },
   {
     "game": "Zenless Zone Zero",
+    "bangumi_id": 403061,
     "title": {
       "en_us": "Zenless Zone Zero",
       "ja_jp": "ゼンレスゾーンゼロ",
@@ -46,6 +50,7 @@
   },
   {
     "game": "Wuthering Waves",
+    "bangumi_id": 454378,
     "title": {
       "en_us": "Wuthering Waves",
       "ja_jp": "鳴潮",
@@ -57,6 +62,7 @@
   },
   {
     "game": "Nikke",
+    "bangumi_id": 395922,
     "title": {
       "en_us": "Goddess of Victory: Nikke",
       "ja_jp": "勝利の女神：NIKKE",
@@ -68,6 +74,7 @@
   },
   {
     "game": "Uma Musume Pretty Derby",
+    "bangumi_id": 213271,
     "title": {
       "en_us": "Uma Musume: Pretty Derby",
       "ja_jp": "ウマ娘 プリティーダービー",
@@ -79,6 +86,7 @@
   },
   {
     "game": "Arknights",
+    "bangumi_id": 225878,
     "title": {
       "en_us": "Arknights",
       "ja_jp": "アークナイツ",
@@ -90,6 +98,7 @@
   },
   {
     "game": "Blue Archive",
+    "bangumi_id": 331742,
     "title": {
       "en_us": "Blue Archive",
       "ja_jp": "ブルーアーカイブ -Blue Archive-",
@@ -101,6 +110,7 @@
   },
   {
     "game": "Project Sekai",
+    "bangumi_id": 312290,
     "title": {
       "en_us": "Hatsune Miku: Colorful Stage!",
       "ja_jp": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
@@ -112,6 +122,7 @@
   },
   {
     "game": "Azur Lane",
+    "bangumi_id": 224411,
     "title": {
       "en_us": "Azur Lane",
       "ja_jp": "アズールレーン",
@@ -123,6 +134,7 @@
   },
   {
     "game": "Gakuen Idolmaster",
+    "bangumi_id": 477435,
     "title": {
       "en_us": "Gakuen Idolmaster",
       "ja_jp": "学園アイドルマスター",
@@ -134,6 +146,7 @@
   },
   {
     "game": "Granblue Fantasy",
+    "bangumi_id": 138653,
     "title": {
       "en_us": "Granblue Fantasy",
       "ja_jp": "グランブルーファンタジー",
@@ -145,6 +158,7 @@
   },
   {
     "game": "Onmyoji",
+    "bangumi_id": 204996,
     "title": {
       "en_us": "Onmyoji",
       "ja_jp": "陰陽師本格幻想RPG",
@@ -156,6 +170,7 @@
   },
   {
     "game": "Honkai Impact 3rd",
+    "bangumi_id": 218205,
     "title": {
       "en_us": "Honkai Impact 3rd",
       "ja_jp": "崩壊3rd",
@@ -167,6 +182,7 @@
   },
   {
     "game": "Punishing Gray Raven",
+    "bangumi_id": 302061,
     "title": {
       "en_us": "Punishing: Gray Raven",
       "ja_jp": "パニシング：グレイレイヴン",
@@ -178,6 +194,7 @@
   },
   {
     "game": "Arknights Endfield",
+    "bangumi_id": 374638,
     "title": {
       "en_us": "Arknights: Endfield",
       "ja_jp": "アークナイツ：エンドフィールド",
@@ -189,6 +206,7 @@
   },
   {
     "game": "Girls Frontline 2",
+    "bangumi_id": 313795,
     "title": {
       "en_us": "Girls' Frontline 2: Exilium",
       "ja_jp": "ドールズフロントライン2：エクシリウム",
@@ -200,6 +218,7 @@
   },
   {
     "game": "Neverness to Everness",
+    "bangumi_id": 481177,
     "title": {
       "en_us": "Neverness to Everness",
       "zh_cn": "异环",

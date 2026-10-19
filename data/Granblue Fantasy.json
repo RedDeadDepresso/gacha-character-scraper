@@ -1,6 +1,27 @@
 [
   {
     "name": {
+      "en_us": "Randall (Halloween)",
+      "ja_jp": "アズサ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Azusa (Halloween)",
+      "ja_jp": "アズサ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
+      "en_us": "Ewiyar (Halloween)",
+      "ja_jp": "イーウィヤ"
+    },
+    "aliases": []
+  },
+  {
+    "name": {
       "en_us": "Alba",
       "ja_jp": "アルバ"
     },
