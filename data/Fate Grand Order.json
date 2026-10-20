@@ -4,77 +4,88 @@
       "en_us": "Kingprotea Alter",
       "ja_jp": "キングプロテア・オルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Azrael the Pale",
       "ja_jp": "蒼きアズライール"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Sidra Azrael",
       "ja_jp": "シドラ・アズライール"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Azrael",
       "ja_jp": "アズライール"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Hassan-i Sabbah",
       "ja_jp": "ハサン・サッバーハ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 27
   },
   {
     "name": {
       "en_us": "Gray Lily",
       "ja_jp": "グレイ・リリィ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Ascalaphus-Acheron",
       "ja_jp": "アスカラポス＝アケローン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Ascalaphus",
       "ja_jp": "アスカラポス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Urðr",
       "ja_jp": "ウルズ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "John Lackland",
       "ja_jp": "ジョン・ラックランド"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Hippolyta",
       "ja_jp": "ヒッポリュテ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 89
   },
   {
     "name": {
@@ -84,7 +95,8 @@
     "aliases": [
       "フランソワ",
       "François"
-    ]
+    ],
+    "score": 8
   },
   {
     "name": {
@@ -94,98 +106,112 @@
     "aliases": [
       "デメテル",
       "Demeter"
-    ]
+    ],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Flora",
       "ja_jp": "フローラ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Hebi Nyōbō",
       "ja_jp": "蛇女房"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Hanasaka-no-Okina",
       "ja_jp": "花咲翁"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Lord Logres",
       "ja_jp": "ロード・ログレス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Maris Chaldeas",
       "ja_jp": "マリス・カルデアス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Elisabeth of the End",
       "ja_jp": "終わりのエリザベート"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Kondo Isami",
       "ja_jp": "近藤勇"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Harada Sanosuke",
       "ja_jp": "原田左之助"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Tōdō Heisuke",
       "ja_jp": "藤堂平助"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Kawakami Gensai",
       "ja_jp": "河上彦斎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Nemo/Noah",
       "ja_jp": "ネモ／ノア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Jeunesse Crane",
       "ja_jp": "ジュネス・クレーン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Miyu Sakatsuki",
       "ja_jp": "朔月美遊"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -195,356 +221,408 @@
     "aliases": [
       "玉兎",
       "Jade Rabbit"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Olga Marie Animusphere",
       "ja_jp": "オルガマリー・アニムスフィア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 96
   },
   {
     "name": {
       "en_us": "U-Olga Marie",
       "ja_jp": "Ｕ－オルガマリー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "E-Stellar Marie",
       "ja_jp": "Ｅ－ステラマリー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Indra",
       "ja_jp": "インドラ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Typhon Ephemeros",
       "ja_jp": "テュフォン・エフェメロス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Lilith",
       "ja_jp": "リリス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "King Ashoka",
       "ja_jp": "アショカ王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Metatron Jeanne",
       "ja_jp": "メタトロン・ジャンヌ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Dante Alighieri",
       "ja_jp": "ダンテ・アリギエーリ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "E-Grand Marie",
       "ja_jp": "Ｅ－グランマリー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Ono-no-Komachi",
       "ja_jp": "小野小町"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Kurohime",
       "ja_jp": "黒姫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Biscione (Ouroboros Shift)",
       "ja_jp": "ビショーネ〔ウロボロスシフト〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Biscione",
       "ja_jp": "ビショーネ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Lionheart",
       "ja_jp": "獅子心王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Richard the Lionheart",
       "ja_jp": "獅子心王リチャード"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Richard I",
       "ja_jp": "リチャードⅠ世"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 66
   },
   {
     "name": {
       "en_us": "Santa's Moon",
       "ja_jp": "サンタズムーン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "S Phantasmoon",
       "ja_jp": "Ｓ・ファンタズムーン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Space Phantasmoon V",
       "ja_jp": "スペース・ファンタズムーンＶ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Phantasmoon",
       "ja_jp": "ファンタズムーン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Abigail Williams (Santa)",
       "ja_jp": "アビゲイル・ウィリアムズ〔サンタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 81
   },
   {
     "name": {
       "en_us": "Louhi",
       "ja_jp": "ロウヒ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Van Gogh (Miner)",
       "ja_jp": "ヴァン・ゴッホ〔マイナー〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
       "en_us": "Tutankhamun",
       "ja_jp": "ツタンカーメン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Muryan",
       "ja_jp": "ムリアン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Kazuradrop",
       "ja_jp": "カズラドロップ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
       "en_us": "Kishinami Hakuno",
       "ja_jp": "岸波白野"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 38
   },
   {
     "name": {
       "en_us": "Heroine XX (Alter)",
       "ja_jp": "ヒロインXX・オルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 131
   },
   {
     "name": {
       "en_us": "Mysterious Heroine XX (Alter)",
       "ja_jp": "謎のヒロインXX〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 131
   },
   {
     "name": {
       "en_us": "Golden BB",
       "ja_jp": "ゴールデンＢＢ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "BB Cosmos",
       "ja_jp": "ＢＢコスモ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "BB Dubai",
       "ja_jp": "ＢＢドバイ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Star Ciel",
       "ja_jp": "スターシエル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Ciel",
       "ja_jp": "シエル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 155
   },
   {
     "name": {
       "en_us": "Teach Me! Miss Ciel",
       "ja_jp": "教えて！シエル先生"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "C.I.E.L"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 155
   },
   {
     "name": {
       "en_us": "Mysterious Executor C.I.E.L",
       "ja_jp": "謎の代行者C.I.E.L"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Space Ereshkigal",
       "ja_jp": "スペース・エレシュキガル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
       "en_us": "Anki Ereshkigal",
       "ja_jp": "アンキ・エレシュキガル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
       "en_us": "Sirius",
       "ja_jp": "シリウス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Azumi-no-Isora",
       "ja_jp": "阿曇磯良"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Hibiki & Chikagi",
       "ja_jp": "ひびき＆千鍵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Kuonji Alice",
       "ja_jp": "久遠寺有珠"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 917
   },
   {
     "name": {
       "en_us": "Shizuki Soujuurou",
       "ja_jp": "静希草十郎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 328
   },
   {
     "name": {
       "en_us": "Aozaki Aoko",
       "ja_jp": "蒼崎青子"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 871
   },
   {
     "name": {
       "en_us": "E-Aqua Marie",
       "ja_jp": "Ｅ－アクアマリー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "E-Flare Marie",
       "ja_jp": "Ｅ－フレアマリー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Count Cagliostro",
       "ja_jp": "カリオストロ伯爵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Alessandro di Cagliostro",
       "ja_jp": "アレッサンドロ・ディ・カリオストロ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -553,1169 +631,1338 @@
     },
     "aliases": [
       "巌窟王モンテ・クリスト"
-    ]
+    ],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Hassan of the Shining Star",
       "ja_jp": "耀星のハサン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Marie Antoinette Alter",
       "ja_jp": "マリー・アントワネット・オルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Marie Antoinette (Alter)",
       "ja_jp": "マリー・アントワネット〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Andromeda",
       "ja_jp": "アンドロメダ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Miyamoto Iori",
       "ja_jp": "宮本伊織"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
       "en_us": "Yui Shousetsu",
       "ja_jp": "由井正雪"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 24
   },
   {
     "name": {
       "en_us": "Ushi Gozen",
       "ja_jp": "丑御前"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Minamoto-no-Raikou/Ushi Gozen",
       "ja_jp": "源頼光／丑御前"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Yamato Takeru",
       "ja_jp": "ヤマトタケル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 32
   },
   {
     "name": {
       "en_us": "Nemo Santa",
       "ja_jp": "ネモサンタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Nemo (Santa)",
       "ja_jp": "ネモ〔サンタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Uesugi Kenshin",
       "ja_jp": "上杉謙信"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Saika Magoichi",
       "ja_jp": "雑賀孫一"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Nagakura Shinpachi",
       "ja_jp": "永倉新八"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Takeda Shingen",
       "ja_jp": "武田信玄"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Takeda Harunobu",
       "ja_jp": "武田晴信"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Theseus",
       "ja_jp": "テセウス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Sugitani Zenjubou",
       "ja_jp": "杉谷善住坊"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Ptolemaîos",
       "ja_jp": "プトレマイオス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Wandjina",
       "ja_jp": "ワンジナ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Cait Cú Cerpriestess",
       "ja_jp": "ケット・クー・ミコケル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Tam Lin Barghest",
       "ja_jp": "妖精騎士バーゲスト"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "UDK-Barghest",
       "ja_jp": "ＵＤＫ－バーゲスト"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Mélusine Undine",
       "ja_jp": "メリュジーヌ・オンディーヌ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Cnoc na Riabh Yaraan-doo",
       "ja_jp": "ノクナレア・ヤラアーンドゥ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Suzuka Gozen (Summer Vacation)",
       "ja_jp": "鈴鹿御前〔サマバケ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Beach Queen Morgan",
       "ja_jp": "水妃モルガン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Aesc the Savior",
       "ja_jp": "救世主トネリコ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Aesc the Rain Witch",
       "ja_jp": "雨の魔女トネリコ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Kali",
       "ja_jp": "カーリー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Durga",
       "ja_jp": "ドゥルガー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Duryodhana",
       "ja_jp": "ドゥリーヨダナ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Bhima",
       "ja_jp": "ビーマ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Kashin Koji",
       "ja_jp": "果心居士"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Setanta",
       "ja_jp": "セタンタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Locusta",
       "ja_jp": "ロクスタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Draco",
       "ja_jp": "ドラコー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Sodom's Beast/Draco",
       "ja_jp": "ソドムズビースト／ドラコー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Larva/Tiamat",
       "ja_jp": "ラーヴァ／ティアマト"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Takasugi Shinsaku",
       "ja_jp": "高杉晋作"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Johanna",
       "ja_jp": "ヨハンナ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Pope Johanna",
       "ja_jp": "女教皇ヨハンナ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Kukulcan",
       "ja_jp": "ククルカン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Huitzilopochtli",
       "ja_jp": "ウィツィロポチトリ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Tlaloc",
       "ja_jp": "トラロック"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Tenochtitlan",
       "ja_jp": "テノチティトラン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Tezcatlipoca",
       "ja_jp": "テスカトリポカ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
       "en_us": "Nitocris Alter",
       "ja_jp": "ニトクリス・オルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Nitocris (Alter)",
       "ja_jp": "ニトクリス〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Father Kotomine",
       "ja_jp": "言峰神父"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Rasputin",
       "ja_jp": "ラスプーチン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Grigori Rasputin",
       "ja_jp": "グレゴリー・ラスプーチン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Kotomine Kirei",
       "ja_jp": "言峰綺礼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Britomart",
       "ja_jp": "ブリトマート"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Nine-Tattoo Dragon Elisa",
       "ja_jp": "九紋竜エリザ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Huang Feihu",
       "ja_jp": "黄飛虎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Huyan Zhuo",
       "ja_jp": "呼延灼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Iyo",
       "ja_jp": "壱与"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Yamanami Keisuke",
       "ja_jp": "山南敬助"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Komahime",
       "ja_jp": "駒姫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Sen-no-Rikyu",
       "ja_jp": "千利休"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Ers",
       "ja_jp": "イルス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Ortlinde",
       "ja_jp": "オルトリンデ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Örun",
       "ja_jp": "エルン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Hildr",
       "ja_jp": "ヒルド"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Rindr",
       "ja_jp": "リンド"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Thrúd",
       "ja_jp": "スルーズ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Lady Avalon",
       "ja_jp": "レディ・アヴァロン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Xu Fu",
       "ja_jp": "徐福"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Arcueid Brunestud",
       "ja_jp": "アルクェイド・ブリュンスタッド"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 612,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Archetype: Earth",
       "ja_jp": "アーキタイプ：アース"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Minamoto-no-Tametomo",
       "ja_jp": "源為朝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Kyokutei Bakin",
       "ja_jp": "曲亭馬琴"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Zhang Jue",
       "ja_jp": "張角"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Don Quixote",
       "ja_jp": "ドン・キホーテ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Kriemhild",
       "ja_jp": "クリームヒルト"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Roland",
       "ja_jp": "ローラン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Charlemagne",
       "ja_jp": "シャルルマーニュ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
       "en_us": "Kōnstantînos XI",
       "ja_jp": "コンスタンティノス11世"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Mary Anning",
       "ja_jp": "メアリー・アニング"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Daikokuten",
       "ja_jp": "大黒天"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Super Bunyan",
       "ja_jp": "スーパーバニヤン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Taisui Xingjun",
       "ja_jp": "太歳星君"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Hai Bà Trưng",
       "ja_jp": "徴姉妹"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Manannán mac Lir",
       "ja_jp": "マナナン・マク・リール"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Bazett",
       "ja_jp": "バゼット"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Manannán mac Lir (Bazett)",
       "ja_jp": "マナナン・マク・リール〔バゼット〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
       "en_us": "Hephaistíon",
       "ja_jp": "ヘファイスティオン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Koyanskaya of Dark",
       "ja_jp": "闇のコヤンスカヤ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Beast IV",
       "ja_jp": "ビーストⅣ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Nikitich",
       "ja_jp": "ニキチッチ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Dobrynya Nikitich",
       "ja_jp": "ドブルイニャ・ニキチッチ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Taigong Wang",
       "ja_jp": "太公望"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Martha Santa",
       "ja_jp": "マルタ・サンタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Martha (Santa)",
       "ja_jp": "マルタ〔サンタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Ranmaru X",
       "ja_jp": "蘭丸X"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Mysterious Ranmaru X",
       "ja_jp": "謎の蘭丸X"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Izumo-no-Okuni",
       "ja_jp": "出雲阿国"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Elisabeth Báthory (Cinderella)",
       "ja_jp": "エリザベート・バートリー〔シンデレラ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 51
   },
   {
     "name": {
       "en_us": "Zenobia",
       "ja_jp": "ゼノビア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Jacques de Molay",
       "ja_jp": "ジャック・ド・モレー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Anastasia & Viy",
       "ja_jp": "アナスタシア＆ヴィイ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Majin Saber",
       "ja_jp": "魔セイバー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Oberon",
       "ja_jp": "オベロン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 33
   },
   {
     "name": {
       "en_us": "Habetrot",
       "ja_jp": "ハベトロット"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Koyanskaya of Light",
       "ja_jp": "光のコヤンスカヤ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 20
   },
   {
     "name": {
       "en_us": "Percival",
       "ja_jp": "パーシヴァル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Tam Lin Lancelot",
       "ja_jp": "妖精騎士ランスロット"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 60
   },
   {
     "name": {
       "en_us": "Mélusine",
       "ja_jp": "メリュジーヌ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 60
   },
   {
     "name": {
       "en_us": "Tam Lin Tristan",
       "ja_jp": "妖精騎士トリスタン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 34
   },
   {
     "name": {
       "en_us": "Baobhan Sith",
       "ja_jp": "バーヴァン・シー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 34
   },
   {
     "name": {
       "en_us": "Tam Lin Gawain",
       "ja_jp": "妖精騎士ガウェイン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
       "en_us": "Barghest",
       "ja_jp": "バーゲスト"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
       "en_us": "Morgan",
       "ja_jp": "モルガン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 63
   },
   {
     "name": {
       "en_us": "Idol X Alter",
       "ja_jp": "アイドルXオルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Mysterious Idol X (Alter)",
       "ja_jp": "謎のアイドルX〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Miss Crane",
       "ja_jp": "ミス・クレーン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Galatea",
       "ja_jp": "ガラテア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Devil Caren",
       "ja_jp": "デビルカレン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "God Caren",
       "ja_jp": "ゴッドカレン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Caren",
       "ja_jp": "カレン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Amor",
       "ja_jp": "アムール"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Amor (Caren)",
       "ja_jp": "アムール〔カレン〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Kiichi Hogen",
       "ja_jp": "鬼一法眼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Taira-no-Kagekiyo",
       "ja_jp": "平景清"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Senji Muramasa",
       "ja_jp": "千子村正"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Santa Karna",
       "ja_jp": "サンタカルナ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Karna (Santa)",
       "ja_jp": "カルナ〔サンタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Vritra",
       "ja_jp": "ヴリトラ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Ibuki-Douji",
       "ja_jp": "伊吹童子"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Watanabe-no-Tsuna",
       "ja_jp": "渡辺綱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Ashiya Douman",
       "ja_jp": "蘆屋道満"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Nemo",
       "ja_jp": "ネモ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Gogh",
       "ja_jp": "ゴッホ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Van Gogh",
       "ja_jp": "ヴァン・ゴッホ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
       "en_us": "Oda Nobukatsu",
       "ja_jp": "織田信勝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Saito Hajime",
       "ja_jp": "斎藤一"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Himiko",
       "ja_jp": "卑弥呼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Abigail Williams (Summer)",
       "ja_jp": "アビゲイル・ウィリアムズ〔夏〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 81
   },
   {
     "name": {
       "en_us": "Altria Caster",
       "ja_jp": "アルトリア・キャスター"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 40
   },
   {
     "name": {
       "en_us": "Utsumi Erice",
       "ja_jp": "宇津見エリセ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 31
   },
   {
     "name": {
       "en_us": "Kijyo Koyo",
       "ja_jp": "鬼女紅葉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Voyager",
       "ja_jp": "ボイジャー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Romulus=Quirinus",
       "ja_jp": "ロムルス＝クィリヌス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Caenis",
       "ja_jp": "カイニス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Dioscuri",
       "ja_jp": "ディオスクロイ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Odysseus",
       "ja_jp": "オデュッセウス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Sei Shounagon",
       "ja_jp": "清少納言"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
       "en_us": "Yang Guifei",
       "ja_jp": "楊貴妃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
       "en_us": "Europa",
       "ja_jp": "エウロペ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Mandricardo",
       "ja_jp": "マンドリカルド"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Super Orion",
       "ja_jp": "超人オリオン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Florence Nightingale Santa",
       "ja_jp": "ナイチンゲール・サンタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Florence Nightingale (Santa)",
       "ja_jp": "ナイチンゲール〔サンタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 28
   },
   {
     "name": {
       "en_us": "Calamity Jane",
       "ja_jp": "カラミティ・ジェーン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Ashtart Origin",
       "ja_jp": "アシュタレト・オリジン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Ishtar Ashtart",
       "ja_jp": "イシュタル・アシュタレト"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Ashtart",
       "ja_jp": "アシュタレト"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "S. Ishtar",
       "ja_jp": "Sイシュタル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Space Ishtar",
       "ja_jp": "スペース・イシュタル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Okita J. Souji",
       "ja_jp": "オキタ・Ｊ・ソウジ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Lambdaryllis",
       "ja_jp": "ラムダリリス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Mysterious Alter Ego Λ",
       "ja_jp": "謎のアルターエゴ・Λ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Salome",
       "ja_jp": "サロメ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Charlotte Corday",
       "ja_jp": "シャルロット・コルデー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Chen Gong",
       "ja_jp": "陳宮"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -1725,70 +1972,80 @@
     "aliases": [
       "バーソロミュー",
       "Bartholomew"
-    ]
+    ],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Gareth",
       "ja_jp": "ガレス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Paris",
       "ja_jp": "パリス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Jason",
       "ja_jp": "イアソン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
       "en_us": "Nagao Kagetora",
       "ja_jp": "長尾景虎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Mori Nagayoshi",
       "ja_jp": "森長可"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Oda Kippoushi",
       "ja_jp": "織田吉法師"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Demon King Nobunaga",
       "ja_jp": "魔王信長"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Asclepius",
       "ja_jp": "アスクレピオス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Aśvatthāman",
       "ja_jp": "アシュヴァッターマン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1797,105 +2054,120 @@
     },
     "aliases": [
       "アルジュナ・オルタ"
-    ]
+    ],
+    "score": 2
   },
   {
     "name": {
       "en_us": "William Tell",
       "ja_jp": "ウィリアム・テル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Lakshmi Bai",
       "ja_jp": "ラクシュミー・バーイー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Great Stone Statue God",
       "ja_jp": "大いなる石像神"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Ganesha",
       "ja_jp": "ガネーシャ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Jinako Carigiri",
       "ja_jp": "ジナコ＝カリギリ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Gray",
       "ja_jp": "グレイ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 250
   },
   {
     "name": {
       "en_us": "Astraea",
       "ja_jp": "アストライア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Sima Yi",
       "ja_jp": "司馬懿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
       "en_us": "Sima Yi (Reines)",
       "ja_jp": "司馬懿〔ライネス〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
       "en_us": "Kama/Mara",
       "ja_jp": "カーマ／マーラ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Beast III/L",
       "ja_jp": "ビーストⅢ／L"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Kama",
       "ja_jp": "カーマ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 49
   },
   {
     "name": {
       "en_us": "Kingprotea",
       "ja_jp": "キングプロテア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 20
   },
   {
     "name": {
       "en_us": "Murasaki Shikibu",
       "ja_jp": "紫式部"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 23
   },
   {
     "name": {
@@ -1905,14 +2177,16 @@
     "aliases": [
       "美遊",
       "Miyu"
-    ]
+    ],
+    "score": 254
   },
   {
     "name": {
       "en_us": "Beni-Enma",
       "ja_jp": "紅閻魔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -1921,231 +2195,264 @@
     },
     "aliases": [
       "ケツァル・コアトル・サンバ"
-    ]
+    ],
+    "score": 16
   },
   {
     "name": {
       "en_us": "Bradamante",
       "ja_jp": "ブラダマンテ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
       "en_us": "Red Hare",
       "ja_jp": "赤兎馬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Yu Mei-ren",
       "ja_jp": "虞美人"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 30
   },
   {
     "name": {
       "en_us": "Qin Shi Huang",
       "ja_jp": "始皇帝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
       "en_us": "Qin Liangyu",
       "ja_jp": "秦良玉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
       "en_us": "Prince of Lan Ling",
       "ja_jp": "蘭陵王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
       "en_us": "Xiang Yu",
       "ja_jp": "項羽"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Sitonai",
       "ja_jp": "シトナイ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
       "en_us": "Heroine XX",
       "ja_jp": "ヒロインXX"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Mysterious Heroine XX",
       "ja_jp": "謎のヒロインXX"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Scáthach-Skadi",
       "ja_jp": "スカサハ＝スカディ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 49
   },
   {
     "name": {
       "en_us": "Valkyrie",
       "ja_jp": "ワルキューレ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 20
   },
   {
     "name": {
       "en_us": "Sigurd",
       "ja_jp": "シグルド"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Napoleon",
       "ja_jp": "ナポレオン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Sakamoto Ryouma",
       "ja_jp": "坂本龍馬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Okada Izo",
       "ja_jp": "岡田以蔵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Rengoku Alter",
       "ja_jp": "煉獄オルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Majin Okita Souji",
       "ja_jp": "魔・沖田総司"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Okita Souji (Alter)",
       "ja_jp": "沖田総司〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Sieg",
       "ja_jp": "ジーク"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Chiron",
       "ja_jp": "ケイローン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Achilles",
       "ja_jp": "アキレウス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 20
   },
   {
     "name": {
       "en_us": "Ivan the Terrible",
       "ja_jp": "イヴァン雷帝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Salieri",
       "ja_jp": "サリエリ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Antonio Salieri",
       "ja_jp": "アントニオ・サリエリ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Avicebron",
       "ja_jp": "アヴィケブロン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Atalante Alter",
       "ja_jp": "アタランテ・オルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Atalante (Alter)",
       "ja_jp": "アタランテ〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 131
   },
   {
     "name": {
       "en_us": "Anastasia",
       "ja_jp": "アナスタシア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Asagami Fujino",
       "ja_jp": "浅上藤乃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 309
   },
   {
     "name": {
       "en_us": "Semiramis",
       "ja_jp": "セミラミス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 47
   },
   {
     "name": {
       "en_us": "Katsushika Hokusai",
       "ja_jp": "葛飾北斎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 45
   },
   {
     "name": {
@@ -2154,14 +2461,16 @@
     },
     "aliases": [
       "アルテラ・サンタ"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Ereshkigal",
       "ja_jp": "エレシュキガル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 120
   },
   {
     "name": {
@@ -2170,28 +2479,32 @@
     },
     "aliases": [
       "アビゲイル"
-    ]
+    ],
+    "score": 81
   },
   {
     "name": {
       "en_us": "Queen of Sheba",
       "ja_jp": "シバの女王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
       "en_us": "Nezha",
       "ja_jp": "哪吒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Circe",
       "ja_jp": "キルケー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 17
   },
   {
     "name": {
@@ -2201,21 +2514,24 @@
     "aliases": [
       "メカエリチャン",
       "Mecha Eli-chan"
-    ]
+    ],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Osakabehime",
       "ja_jp": "刑部姫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
       "en_us": "Katou \"Black Kite\" Danzo",
       "ja_jp": "加藤段蔵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2225,161 +2541,184 @@
     "aliases": [
       "柳生但馬守",
       "Yagyu Tajima-no-kami"
-    ]
+    ],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Houzouin Inshun",
       "ja_jp": "宝蔵院胤舜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Mochizuki Chiyome",
       "ja_jp": "望月千代女"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Tomoe Gozen",
       "ja_jp": "巴御前"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 36
   },
   {
     "name": {
       "en_us": "Pārvatī",
       "ja_jp": "パールヴァティー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
       "en_us": "Maid Alter",
       "ja_jp": "メイド・オルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Bunyan",
       "ja_jp": "バニヤン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Paul Bunyan",
       "ja_jp": "ポール・バニヤン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Sherlock Holmes",
       "ja_jp": "シャーロック・ホームズ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 18
   },
   {
     "name": {
       "en_us": "Columbus",
       "ja_jp": "コロンブス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Christopher Columbus",
       "ja_jp": "クリストファー・コロンブス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Penthesilea",
       "ja_jp": "ペンテシレイア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Wu Zetian",
       "ja_jp": "武則天"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
       "en_us": "Scheherazade",
       "ja_jp": "シェヘラザード"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
       "en_us": "Heaven's Hole",
       "ja_jp": "ヘブンズホール"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Beast III/R",
       "ja_jp": "ビーストⅢ／Ｒ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Sessyoin Kiara",
       "ja_jp": "殺生院キアラ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 53
   },
   {
     "name": {
       "en_us": "BB",
       "ja_jp": "ＢＢ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 62
   },
   {
     "name": {
       "en_us": "Suzuka Gozen",
       "ja_jp": "鈴鹿御前"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Passionlip",
       "ja_jp": "パッションリップ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 35
   },
   {
     "name": {
       "en_us": "Meltryllis",
       "ja_jp": "メルトリリス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 94
   },
   {
     "name": {
       "en_us": "Chacha",
       "ja_jp": "茶々"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
       "en_us": "Hijikata Toshizo",
       "ja_jp": "土方歳三"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2389,175 +2728,200 @@
     "aliases": [
       "アーサー",
       "Arthur"
-    ]
+    ],
+    "score": 60
   },
   {
     "name": {
       "en_us": "Yan Qing",
       "ja_jp": "燕青"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Hessian Lobo",
       "ja_jp": "ヘシアン・ロボ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Emiya Alter",
       "ja_jp": "エミヤオルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Emiya (Alter)",
       "ja_jp": "エミヤ〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Moriarty",
       "ja_jp": "モリアーティ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "James Moriarty",
       "ja_jp": "ジェームズ・モリアーティ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Heroine X Alter",
       "ja_jp": "ヒロインXオルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Mysterious Heroine X (Alter)",
       "ja_jp": "謎のヒロインX〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "\"First Hassan\"",
       "ja_jp": "“山の翁”"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 27
   },
   {
     "name": {
       "en_us": "Miyamoto Musashi",
       "ja_jp": "宮本武蔵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 64
   },
   {
     "name": {
       "en_us": "Demon King Goetia",
       "ja_jp": "魔神王ゲーティア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Goetia",
       "ja_jp": "ゲーティア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Merlin",
       "ja_jp": "マーリン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 74
   },
   {
     "name": {
       "en_us": "Tiamat",
       "ja_jp": "ティアマト"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 30
   },
   {
     "name": {
       "en_us": "Jaguar Warrior",
       "ja_jp": "ジャガーマン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Gorgon",
       "ja_jp": "ゴルゴーン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
       "en_us": "Quetzalcoatl",
       "ja_jp": "ケツァル・コアトル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
       "en_us": "Enkidu",
       "ja_jp": "エルキドゥ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 161
   },
   {
     "name": {
       "en_us": "Ishtar",
       "ja_jp": "イシュタル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 120
   },
   {
     "name": {
       "en_us": "Jeanne Alter Santa Lily",
       "ja_jp": "ジャンヌオルタサンタリリィ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Jeanne d'Arc Alter Santa Lily",
       "ja_jp": "ジャンヌ・ダルク・オルタ・サンタ・リリィ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Vlad III (EXTRA)",
       "ja_jp": "ヴラド三世〔EXTRA〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Cleopatra",
       "ja_jp": "クレオパトラ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Elisabeth Báthory (Brave)",
       "ja_jp": "エリザベート・バートリー〔ブレイブ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 51
   },
   {
     "name": {
@@ -2567,189 +2931,216 @@
     "aliases": [
       "クロエ",
       "Chloe"
-    ]
+    ],
+    "score": 138
   },
   {
     "name": {
       "en_us": "Illya",
       "ja_jp": "イリヤ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Illyasviel von Einzbern",
       "ja_jp": "イリヤスフィール・フォン・アインツベルン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 82
   },
   {
     "name": {
       "en_us": "Anne Bonny",
       "ja_jp": "アン・ボニー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Tamamo Summer",
       "ja_jp": "タマモちゃんサマー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Da Vinci",
       "ja_jp": "ダ・ヴィンチ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Leonardo da Vinci",
       "ja_jp": "レオナルド・ダ・ヴィンチ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 43
   },
   {
     "name": {
       "en_us": "Bedivere",
       "ja_jp": "ベディヴィエール"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 43
   },
   {
     "name": {
       "en_us": "Tawara Touta",
       "ja_jp": "俵藤太"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Hassan of the Serenity",
       "ja_jp": "静謐のハサン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 37
   },
   {
     "name": {
       "en_us": "Gawain",
       "ja_jp": "ガウェイン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 35
   },
   {
     "name": {
       "en_us": "Tristan",
       "ja_jp": "トリスタン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 18
   },
   {
     "name": {
       "en_us": "Nitocris",
       "ja_jp": "ニトクリス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 37
   },
   {
     "name": {
       "en_us": "Ozymandias",
       "ja_jp": "オジマンディアス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 30
   },
   {
     "name": {
       "en_us": "Fuuma \"Evil-wind\" Kotarou",
       "ja_jp": "風魔小太郎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Ibaraki-Douji",
       "ja_jp": "茨木童子"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Minamoto-no-Raikou",
       "ja_jp": "源頼光"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Xuanzang Sanzang",
       "ja_jp": "玄奘三蔵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Shuten-Douji",
       "ja_jp": "酒呑童子"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 42
   },
   {
     "name": {
       "en_us": "Iri",
       "ja_jp": "アイリ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Irisviel (Holy Grail)",
       "ja_jp": "アイリスフィール〔天の衣〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Hassan of the Hundred Personas",
       "ja_jp": "百貌のハサン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
       "en_us": "Emiya (Assassin)",
       "ja_jp": "エミヤ〔アサシン〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Iskandar",
       "ja_jp": "イスカンダル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 277
   },
   {
     "name": {
       "en_us": "Aŋra Mainiiu",
       "ja_jp": "アンリマユ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 31
   },
   {
     "name": {
       "en_us": "Jeanne Alter",
       "ja_jp": "ジャンヌ・オルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Jeanne d'Arc (Alter)",
       "ja_jp": "ジャンヌ・ダルク〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 131
   },
   {
     "name": {
@@ -2759,147 +3150,168 @@
     "aliases": [
       "ビリー",
       "Billy"
-    ]
+    ],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Geronimo",
       "ja_jp": "ジェロニモ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Thomas Edison",
       "ja_jp": "トーマス・エジソン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Li Shuwen",
       "ja_jp": "李書文"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Rama",
       "ja_jp": "ラーマ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Blavatsky",
       "ja_jp": "ブラヴァツキー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Helena Blavatsky",
       "ja_jp": "エレナ・ブラヴァツキー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 33
   },
   {
     "name": {
       "en_us": "Medb",
       "ja_jp": "メイヴ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 31
   },
   {
     "name": {
       "en_us": "Queen Medb",
       "ja_jp": "女王メイヴ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 31
   },
   {
     "name": {
       "en_us": "Cú Chulainn Alter",
       "ja_jp": "クー・フーリン・オルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Cú Chulainn (Alter)",
       "ja_jp": "クー・フーリン〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Florence Nightingale",
       "ja_jp": "ナイチンゲール"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 28
   },
   {
     "name": {
       "en_us": "Edmond Dantès",
       "ja_jp": "巌窟王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Gilgamesh (Child)",
       "ja_jp": "子ギル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Astolfo",
       "ja_jp": "アストルフォ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 135
   },
   {
     "name": {
       "en_us": "Amakusa Shirou",
       "ja_jp": "天草四郎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 36
   },
   {
     "name": {
       "en_us": "Ryougi Shiki",
       "ja_jp": "両儀式"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1683
   },
   {
     "name": {
       "en_us": "Nero Bride",
       "ja_jp": "ネロ・ブライド"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Nero Claudius (Bride)",
       "ja_jp": "ネロ・クラウディウス〔ブライド〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Beowulf",
       "ja_jp": "ベオウルフ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Brynhild",
       "ja_jp": "ブリュンヒルデ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 36
   },
   {
     "name": {
@@ -2909,119 +3321,136 @@
     "aliases": [
       "フィン",
       "Fionn"
-    ]
+    ],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Heroine X",
       "ja_jp": "ヒロインX"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Mysterious Heroine X",
       "ja_jp": "謎のヒロインX"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Karna",
       "ja_jp": "カルナ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 65
   },
   {
     "name": {
       "en_us": "Arjuna",
       "ja_jp": "アルジュナ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 24
   },
   {
     "name": {
       "en_us": "King Solomon",
       "ja_jp": "ソロモン王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Solomon",
       "ja_jp": "ソロモン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Fran",
       "ja_jp": "フラン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Frankenstein",
       "ja_jp": "フランケンシュタイン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 64
   },
   {
     "name": {
       "en_us": "Jekyll",
       "ja_jp": "ジキル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Henry Jekyll & Hyde",
       "ja_jp": "ヘンリー・ジキル＆ハイド"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Babbage",
       "ja_jp": "バベッジ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Charles Babbage",
       "ja_jp": "チャールズ・バベッジ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Paracelsus",
       "ja_jp": "パラケルスス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Paracelsus von Hohenheim",
       "ja_jp": "ヴァン・ホーエンハイム・パラケルスス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Nikola Tesla",
       "ja_jp": "ニコラ・テスラ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Mordred",
       "ja_jp": "モードレッド"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 132
   },
   {
     "name": {
@@ -3031,28 +3460,32 @@
     "aliases": [
       "ジャック",
       "Jack"
-    ]
+    ],
+    "score": 57
   },
   {
     "name": {
       "en_us": "Nursery Rhyme",
       "ja_jp": "ナーサリー・ライム"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 55
   },
   {
     "name": {
       "en_us": "Santa Alter",
       "ja_jp": "サンタオルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Altria Pendragon (Santa Alter)",
       "ja_jp": "アルトリア・ペンドラゴン〔サンタオルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2209
   },
   {
     "name": {
@@ -3062,7 +3495,8 @@
     "aliases": [
       "フェルグス",
       "Fergus"
-    ]
+    ],
+    "score": 1
   },
   {
     "name": {
@@ -3072,105 +3506,120 @@
     "aliases": [
       "ディルムッド",
       "Diarmuid"
-    ]
+    ],
+    "score": 125
   },
   {
     "name": {
       "en_us": "Scáthach",
       "ja_jp": "スカサハ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 144
   },
   {
     "name": {
       "en_us": "Oda Nobunaga",
       "ja_jp": "織田信長"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 45
   },
   {
     "name": {
       "en_us": "Okita Souji",
       "ja_jp": "沖田総司"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Medea Lily",
       "ja_jp": "メディア・リリィ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Medea (Lily)",
       "ja_jp": "メディア〔リリィ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Mary",
       "ja_jp": "アン＆メアリー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Anne Bonny & Mary Read",
       "ja_jp": "アン・ボニー＆メアリー・リード"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Drake",
       "ja_jp": "ドレイク"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Francis Drake",
       "ja_jp": "フランシス・ドレイク"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 20
   },
   {
     "name": {
       "en_us": "Hektor",
       "ja_jp": "ヘクトール"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "David",
       "ja_jp": "ダビデ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Tamamo-no-Mae",
       "ja_jp": "玉藻の前"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 119
   },
   {
     "name": {
       "en_us": "Elisabeth Báthory (Halloween)",
       "ja_jp": "エリザベート・バートリー〔ハロウィン〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 51
   },
   {
     "name": {
       "en_us": "Orion",
       "ja_jp": "オリオン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -3180,14 +3629,16 @@
     "aliases": [
       "ジャンヌ",
       "Jeanne"
-    ]
+    ],
+    "score": 257
   },
   {
     "name": {
       "en_us": "Tamamo Cat",
       "ja_jp": "タマモキャット"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -3197,56 +3648,64 @@
     "aliases": [
       "エイリーク",
       "Eric"
-    ]
+    ],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Kiyohime",
       "ja_jp": "清姫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 59
   },
   {
     "name": {
       "en_us": "Darius III",
       "ja_jp": "ダレイオス三世"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Caligula",
       "ja_jp": "カリギュラ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Asterios",
       "ja_jp": "アステリオス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Vlad III",
       "ja_jp": "ヴラド三世"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Sakata Kintoki",
       "ja_jp": "坂田金時"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Spartacus",
       "ja_jp": "スパルタクス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -3256,35 +3715,40 @@
     "aliases": [
       "呂布",
       "Lu Bu"
-    ]
+    ],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Lancelot",
       "ja_jp": "ランスロット"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 52
   },
   {
     "name": {
       "en_us": "Heracles",
       "ja_jp": "ヘラクレス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 43
   },
   {
     "name": {
       "en_us": "Carmilla",
       "ja_jp": "カーミラ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Mata Hari",
       "ja_jp": "マタ・ハリ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -3294,203 +3758,232 @@
     "aliases": [
       "ファントム",
       "Phantom"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Sanson",
       "ja_jp": "サンソン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Charles-Henri Sanson",
       "ja_jp": "シャルル＝アンリ・サンソン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Jing Ke",
       "ja_jp": "荊軻"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
       "en_us": "Stheno",
       "ja_jp": "ステンノ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 37
   },
   {
     "name": {
       "en_us": "Cursed Arm",
       "ja_jp": "ハサン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Hassan of the Cursed Arm",
       "ja_jp": "呪腕のハサン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
       "en_us": "Kojirou",
       "ja_jp": "小次郎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Sasaki Kojirou",
       "ja_jp": "佐々木小次郎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 68
   },
   {
     "name": {
       "en_us": "Zhuge Liang",
       "ja_jp": "諸葛孔明"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Zhuge Liang (Lord El-Melloi II)",
       "ja_jp": "諸葛孔明〔エルメロイⅡ世〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Amadeus",
       "ja_jp": "アマデウス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Wolfgang Amadeus Mozart",
       "ja_jp": "ヴォルフガング・アマデウス・モーツァルト"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Mephistopheles",
       "ja_jp": "メフィストフェレス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Shakespeare",
       "ja_jp": "シェイクスピア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "William Shakespeare",
       "ja_jp": "ウィリアム・シェイクスピア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
       "en_us": "Andersen",
       "ja_jp": "アンデルセン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Hans Christian Andersen",
       "ja_jp": "ハンス・クリスチャン・アンデルセン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
       "en_us": "Medea",
       "ja_jp": "メディア"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 125
   },
   {
     "name": {
       "en_us": "Martha",
       "ja_jp": "マルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 25
   },
   {
     "name": {
       "en_us": "Marie Antoinette",
       "ja_jp": "マリー・アントワネット"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 37
   },
   {
     "name": {
       "en_us": "Alexander",
       "ja_jp": "アレキサンダー"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Ushiwakamaru",
       "ja_jp": "牛若丸"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 57
   },
   {
     "name": {
       "en_us": "Boudica",
       "ja_jp": "ブーディカ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
       "en_us": "Teach",
       "ja_jp": "ティーチ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Edward Teach",
       "ja_jp": "エドワード・ティーチ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
       "en_us": "Georgios",
       "ja_jp": "ゲオルギウス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Medusa",
       "ja_jp": "メドゥーサ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 295
   },
   {
     "name": {
       "en_us": "Romulus",
       "ja_jp": "ロムルス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -3500,28 +3993,32 @@
     "aliases": [
       "レオニダス",
       "Leonidas"
-    ]
+    ],
+    "score": 5
   },
   {
     "name": {
       "en_us": "Cú Chulainn (Prototype)",
       "ja_jp": "クー・フーリン〔プロトタイプ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 178
   },
   {
     "name": {
       "en_us": "Benkei",
       "ja_jp": "弁慶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Musashibou Benkei",
       "ja_jp": "武蔵坊弁慶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -3531,70 +4028,80 @@
     "aliases": [
       "エリザベート",
       "Elisabeth"
-    ]
+    ],
+    "score": 51
   },
   {
     "name": {
       "en_us": "Cú Chulainn",
       "ja_jp": "クー・フーリン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 178
   },
   {
     "name": {
       "en_us": "Arash",
       "ja_jp": "アーラシュ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 28
   },
   {
     "name": {
       "en_us": "Euryale",
       "ja_jp": "エウリュアレ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 44
   },
   {
     "name": {
       "en_us": "Atalante",
       "ja_jp": "アタランテ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 68
   },
   {
     "name": {
       "en_us": "Robin Hood",
       "ja_jp": "ロビンフッド"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
       "en_us": "Gilgamesh",
       "ja_jp": "ギルガメッシュ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 532
   },
   {
     "name": {
       "en_us": "Emiya",
       "ja_jp": "エミヤ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 449
   },
   {
     "name": {
       "en_us": "d'Eon",
       "ja_jp": "デオン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Chevalier d'Eon",
       "ja_jp": "シュヴァリエ・デオン"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 17
   },
   {
     "name": {
@@ -3604,35 +4111,40 @@
     "aliases": [
       "ジル",
       "Gilles"
-    ]
+    ],
+    "score": 21
   },
   {
     "name": {
       "en_us": "Altera",
       "ja_jp": "アルテラ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 54
   },
   {
     "name": {
       "en_us": "Caesar",
       "ja_jp": "カエサル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Gaius Julius Caesar",
       "ja_jp": "ガイウス・ユリウス・カエサル"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Siegfried",
       "ja_jp": "ジークフリート"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 25
   },
   {
     "name": {
@@ -3642,35 +4154,40 @@
     "aliases": [
       "ネロ",
       "Nero"
-    ]
+    ],
+    "score": 304
   },
   {
     "name": {
       "en_us": "Saber Lily",
       "ja_jp": "セイバー・リリィ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Altria Pendragon (Lily)",
       "ja_jp": "アルトリア・ペンドラゴン〔リリィ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 28
   },
   {
     "name": {
       "en_us": "Saber Alter",
       "ja_jp": "セイバーオルタ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Altria Pendragon (Alter)",
       "ja_jp": "アルトリア・ペンドラゴン〔オルタ〕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
@@ -3680,7 +4197,8 @@
     "aliases": [
       "アルトリア",
       "Altria"
-    ]
+    ],
+    "score": 2209
   },
   {
     "name": {
@@ -3690,6 +4208,7 @@
     "aliases": [
       "マシュ",
       "Mash"
-    ]
+    ],
+    "score": 295
   }
 ]

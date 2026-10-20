@@ -1,8 +1,9 @@
 module github.com/reddeaddepresso/gacha-character-scraper
 
-go 1.23
+go 1.23.0
 
 require (
+	github.com/bangumi/wiki-parser-go v0.0.2
 	github.com/mxschmitt/playwright-go v0.6201.1
 	gopkg.in/yaml.v3 v3.0.1
 )

@@ -3,54 +3,62 @@
     "name": {
       "en_us": "针"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "寇尔芙·镜刻"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "代理人"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Cecilia",
       "zh_cn": "希丽雅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Eagletta",
       "zh_cn": "伊格蕾塔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Asteria",
       "zh_cn": "阿斯缇亚"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Koleda",
       "zh_cn": "克莱妲"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Faelynn",
       "zh_cn": "芙铃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -60,7 +68,8 @@
       "zh_cn": "米蒂尔",
       "zh_tw": "米蒂爾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -70,7 +79,8 @@
       "zh_cn": "索普",
       "zh_tw": "索普"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -80,13 +90,15 @@
       "zh_cn": "纳美西丝·衍光",
       "zh_tw": "納美西絲·衍光"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "OTs-14"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -96,7 +108,8 @@
       "zh_cn": "六分仪",
       "zh_tw": "六分儀"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -106,7 +119,8 @@
       "zh_cn": "刘莳",
       "zh_tw": "劉蒔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -116,7 +130,8 @@
       "zh_cn": "贝丝蒂",
       "zh_tw": "貝絲蒂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -126,7 +141,8 @@
       "zh_cn": "夏安",
       "zh_tw": "夏安"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -136,7 +152,8 @@
       "zh_cn": "罗蕾莱",
       "zh_tw": "羅蕾萊"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -146,7 +163,8 @@
       "zh_cn": "樱花",
       "zh_tw": "櫻花"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -156,7 +174,8 @@
       "zh_cn": "海伦",
       "zh_tw": "海倫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -166,7 +185,8 @@
       "zh_cn": "威玛西娜",
       "zh_tw": "威瑪西娜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -176,7 +196,8 @@
       "zh_cn": "埃芙",
       "zh_tw": "埃芙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -186,14 +207,16 @@
       "zh_cn": "芙洛伦",
       "zh_tw": "芙洛倫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Welrod",
       "zh_cn": "维尔德"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -203,7 +226,8 @@
       "zh_cn": "刘易斯",
       "zh_tw": "路易士"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -213,7 +237,8 @@
       "zh_cn": "巴希达",
       "zh_tw": "巴希達"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -223,7 +248,8 @@
       "zh_cn": "翡图萨",
       "zh_tw": "翡圖薩"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -233,7 +259,8 @@
       "zh_cn": "琳德",
       "zh_tw": "琳德"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -243,7 +270,8 @@
       "zh_cn": "莱妮",
       "zh_tw": "萊妮"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -253,7 +281,8 @@
       "zh_cn": "洛贝拉",
       "zh_tw": "洛貝拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -263,7 +292,8 @@
       "zh_cn": "莱娅",
       "zh_tw": "萊婭"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -273,7 +303,8 @@
       "zh_cn": "妮基塔",
       "zh_tw": "妮基塔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -283,7 +314,8 @@
       "zh_cn": "幼熙",
       "zh_tw": "幼熙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -293,7 +325,8 @@
       "zh_cn": "佩莉",
       "zh_tw": "佩莉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -303,7 +336,8 @@
       "zh_cn": "可露凯",
       "zh_tw": "可露凱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -313,7 +347,8 @@
       "zh_cn": "米什缇",
       "zh_tw": "米什緹"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -323,7 +358,8 @@
       "zh_cn": "朝晖",
       "zh_tw": "朝暉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -333,7 +369,8 @@
       "zh_cn": "哈卜茜",
       "zh_tw": "哈卜茜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -343,7 +380,8 @@
       "zh_cn": "秋桦",
       "zh_tw": "秋樺"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -353,7 +391,8 @@
       "zh_cn": "春田",
       "zh_tw": "春田"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -363,7 +402,8 @@
       "zh_cn": "比悠卡",
       "zh_tw": "比悠卡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -373,7 +413,8 @@
       "zh_cn": "维克托",
       "zh_tw": "維克托"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -383,7 +424,8 @@
       "zh_cn": "绯",
       "zh_tw": "緋"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -393,7 +435,8 @@
       "zh_cn": "安朵丝",
       "zh_tw": "安朵絲"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -403,7 +446,8 @@
       "zh_cn": "洛塔",
       "zh_tw": "洛塔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -413,7 +457,8 @@
       "zh_cn": "波波沙",
       "zh_tw": "波波沙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -423,7 +468,8 @@
       "zh_cn": "索米",
       "zh_tw": "索米"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -433,7 +479,8 @@
       "zh_cn": "莉塔拉",
       "zh_tw": "莉塔拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -443,7 +490,8 @@
       "zh_cn": "乌尔丽德",
       "zh_tw": "烏爾麗德"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -453,7 +501,8 @@
       "zh_cn": "科谢尼娅",
       "zh_tw": "科謝尼婭"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -463,7 +512,8 @@
       "zh_cn": "绛雨",
       "zh_tw": "絳雨"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -473,7 +523,8 @@
       "zh_cn": "玛绮朵",
       "zh_tw": "瑪綺朵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -483,7 +534,8 @@
       "zh_cn": "莫辛纳甘",
       "zh_tw": "莫辛納甘"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -493,7 +545,8 @@
       "zh_cn": "黛烟",
       "zh_tw": "黛煙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -503,7 +556,8 @@
       "zh_cn": "塞布丽娜",
       "zh_tw": "塞布麗娜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -513,7 +567,8 @@
       "zh_cn": "桑朵莱希",
       "zh_tw": "桑朵萊希"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -523,7 +578,8 @@
       "zh_cn": "琼玖",
       "zh_tw": "瓊玖"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -533,7 +589,8 @@
       "zh_cn": "纳甘",
       "zh_tw": "納甘"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -543,7 +600,8 @@
       "zh_cn": "托洛洛",
       "zh_tw": "托洛洛"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -553,7 +611,8 @@
       "zh_cn": "奇塔",
       "zh_tw": "奇塔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -563,7 +622,8 @@
       "zh_cn": "杜莎妮",
       "zh_tw": "杜莎妮"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -573,7 +633,8 @@
       "zh_cn": "夏克里",
       "zh_tw": "夏克里"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -583,7 +644,8 @@
       "zh_cn": "佩里缇亚",
       "zh_tw": "佩里緹亞"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -593,7 +655,8 @@
       "zh_cn": "闪电",
       "zh_tw": "閃電"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -603,7 +666,8 @@
       "zh_cn": "维普蕾",
       "zh_tw": "維普蕾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -613,7 +677,8 @@
       "zh_cn": "莱娜",
       "zh_tw": "萊娜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -623,7 +688,8 @@
       "zh_cn": "寇尔芙",
       "zh_tw": "寇爾芙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -633,7 +699,8 @@
       "zh_cn": "纳美西丝",
       "zh_tw": "納美西絲"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -643,6 +710,7 @@
       "zh_cn": "克罗丽科",
       "zh_tw": "克羅麗科"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   }
 ]

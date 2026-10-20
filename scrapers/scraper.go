@@ -20,6 +20,14 @@ type Character struct {
 	Name    Names    `json:"name"`
 	Aliases []string `json:"aliases"`
 
+	// Score is the popularity on Bangumi (the character's 收藏数) and Collab
+	// marks a character that first appeared elsewhere (a collab character);
+	// both are set by ApplyBangumi after every scrape and read by cmd/merge,
+	// which leaves collab characters out. They are kept in the data file, not
+	// removed, so that the incremental scrape still knows the character.
+	Score  int  `json:"score"`
+	Collab bool `json:"collab,omitempty"`
+
 	// legacy is set when the character was read from a data file in the old
 	// format, where "name" was a single string.
 	legacy bool
@@ -31,11 +39,13 @@ func (c *Character) UnmarshalJSON(b []byte) error {
 	var raw struct {
 		Name    json.RawMessage `json:"name"`
 		Aliases []string        `json:"aliases"`
+		Score   int             `json:"score"`
+		Collab  bool            `json:"collab"`
 	}
 	if err := json.Unmarshal(b, &raw); err != nil {
 		return err
 	}
-	c.Aliases, c.legacy = raw.Aliases, false
+	c.Aliases, c.legacy, c.Score, c.Collab = raw.Aliases, false, raw.Score, raw.Collab
 	var s string
 	if json.Unmarshal(raw.Name, &s) == nil {
 		c.Name, c.legacy = Names{LangEN: s}, true
@@ -149,6 +159,12 @@ const ConfigDir = "config"
 type Series struct {
 	// Game is the scraper name and data file name, e.g. "Genshin Impact".
 	Game string `json:"game"`
+	// BangumiID is the Bangumi subject id of the game. The scraper step scores
+	// the characters by their popularity on Bangumi and flags the collab
+	// characters (guests in this subject); agv-character-scraper
+	// leaves the subject out of its index. 0 means unknown: no score is set and
+	// cmd/merge uses the score by position in series.json.
+	BangumiID int `json:"bangumi_id"`
 	// Title is the series title per language; en_us defaults to Game.
 	Title Names `json:"title"`
 	// Aliases are other names an LLM might answer with.

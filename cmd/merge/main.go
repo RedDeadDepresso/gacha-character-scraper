@@ -38,8 +38,6 @@ type index struct {
 
 func main() {
 	out := flag.String("out", "dist/gacha_character_index.json", "output path")
-	flag.Parse()
-
 	cfg, err := scrapers.LoadSeries()
 	if err != nil {
 		log.Fatal(err)
@@ -74,7 +72,10 @@ func main() {
 		aliases := union(nil, sc.Aliases)
 		idx.Series = append(idx.Series, series{Title: title, Aliases: aliases})
 
-		// Game popularity from config order: 100, 90, 80 ... (min 10).
+		// A game with a bangumi_id uses the scraped Bangumi scores and skips collab
+		// characters; otherwise the game's popularity comes from the config order:
+		// 100, 90, 80 ... (min 10).
+		bgm := sc.BangumiID != 0
 		base := 100 - gi*10
 		if base < 10 {
 			base = 10
@@ -84,6 +85,12 @@ func main() {
 			// Data files are newest-first, so a higher index means an older
 			// character; older characters score higher (base down to base/2).
 			score := base - (base/2)*(n-1-i)/n
+			if bgm {
+				if s.Collab {
+					continue
+				}
+				score = s.Score // 0 when Bangumi has no such character
+			}
 			key := strings.ToLower(s.Name.EN())
 			if key == "" {
 				continue
@@ -239,7 +246,7 @@ func mergeAlters(list []scraped) []scraped {
 	for i, s := range list {
 		if root(i) == i {
 			outPos[i] = len(out)
-			out = append(out, scraped{Name: copyNames(s.Name), Aliases: union(nil, s.Aliases)})
+			out = append(out, scraped{Name: copyNames(s.Name), Aliases: union(nil, s.Aliases), Score: s.Score, Collab: s.Collab})
 		}
 	}
 	for i, s := range list {

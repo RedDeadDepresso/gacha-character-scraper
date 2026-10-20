@@ -61,3 +61,14 @@ func contains(l []string, s string) bool {
 	}
 	return false
 }
+
+func TestMergeAltersKeepsTheBaseScoreAndCollabFlag(t *testing.T) {
+	in := []scraped{
+		{Name: scrapers.Names{scrapers.LangEN: "Amiya (Guardian)"}, Score: 5},
+		{Name: scrapers.Names{scrapers.LangEN: "Amiya"}, Score: 900, Collab: true},
+	}
+	out := mergeAlters(in)
+	if len(out) != 1 || out[0].Score != 900 || !out[0].Collab {
+		t.Errorf("%+v", out)
+	}
+}

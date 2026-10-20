@@ -4,56 +4,64 @@
       "en_us": "Jacinta",
       "zh_cn": "嘉辛塔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Timeslot",
       "zh_cn": "时隙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Thumpy",
       "zh_cn": "珊比"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Pedro",
       "zh_cn": "佩德洛"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Homebound",
       "zh_cn": "旅骨"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Clementia",
       "zh_cn": "克莱门莎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Mechanist",
       "zh_cn": "机械师"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "Aphrissa",
       "zh_cn": "谬因"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -62,13 +70,15 @@
       "ko_kr": "클로저",
       "zh_cn": "可露希尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
       "en_us": "GALLUS²"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -77,7 +87,8 @@
       "ko_kr": "비이",
       "zh_cn": "维伊"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -86,7 +97,8 @@
       "ko_kr": "크랙본",
       "zh_cn": "裂响"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -95,7 +107,8 @@
       "ko_kr": "우쿠시크",
       "zh_cn": "乌啾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -104,7 +117,8 @@
       "ko_kr": "보타니",
       "zh_cn": "伯塔尼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -113,7 +127,8 @@
       "ko_kr": "타락사쿰",
       "zh_cn": "风絮"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -122,42 +137,52 @@
       "ko_kr": "쥐",
       "zh_cn": "矩"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Koromaru",
       "zh_cn": "虎狼丸"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 18,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Yukari Takeba",
       "zh_cn": "岳羽由加莉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 165,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Aegis",
       "zh_cn": "埃癸斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 170,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Makoto Yuki",
       "zh_cn": "结城理"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 244,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Rhodes Island Recon",
       "zh_cn": "罗德岛隐秘队"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -166,7 +191,8 @@
       "ko_kr": "케언",
       "zh_cn": "响石"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -175,7 +201,8 @@
       "ko_kr": "스카이박스",
       "zh_cn": "天空盒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -184,7 +211,8 @@
       "ko_kr": "내스티",
       "zh_cn": "娜斯提"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -193,7 +221,8 @@
       "ko_kr": "스노우헌터",
       "zh_cn": "雪猎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -202,7 +231,8 @@
       "ko_kr": "스네구로치카",
       "zh_cn": "冬时"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -211,7 +241,8 @@
       "ko_kr": "베토치키",
       "zh_cn": "折桠"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -220,7 +251,8 @@
       "ko_kr": "만트라",
       "zh_cn": "真言"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -229,7 +261,8 @@
       "ko_kr": "키치세이",
       "zh_cn": "吉星"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -238,7 +271,8 @@
       "ko_kr": "하루카",
       "zh_cn": "遥"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -247,7 +281,8 @@
       "ko_kr": "마츠키리",
       "zh_cn": "松桐"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -255,7 +290,8 @@
       "ja_jp": "ミス・クリスティーン",
       "ko_kr": "미스 크리스틴"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -264,7 +300,8 @@
       "ko_kr": "레코드키퍼",
       "zh_cn": "录武官"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -273,7 +310,8 @@
       "ko_kr": "라이디언",
       "zh_cn": "电弧"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -282,7 +320,8 @@
       "ko_kr": "산크타 믹사파라토",
       "zh_cn": "信仰搅拌机"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -291,7 +330,8 @@
       "ko_kr": "르무엔",
       "zh_cn": "蕾缪安"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
@@ -300,13 +340,15 @@
       "ko_kr": "티피",
       "zh_cn": "蒂比"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "CONFESS-47"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -315,7 +357,8 @@
       "ko_kr": "그레이스베어러",
       "zh_cn": "聆音"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -324,7 +367,9 @@
       "ko_kr": "야하타 우미리",
       "zh_cn": "八幡海铃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 274,
+    "collab": true
   },
   {
     "name": {
@@ -333,7 +378,9 @@
       "ko_kr": "유텐지 냐무",
       "zh_cn": "祐天寺若麦"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 189,
+    "collab": true
   },
   {
     "name": {
@@ -342,7 +389,9 @@
       "ko_kr": "미스미 우이카",
       "zh_cn": "三角初华"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 378,
+    "collab": true
   },
   {
     "name": {
@@ -351,7 +400,9 @@
       "ko_kr": "와카바 무츠미",
       "zh_cn": "若叶睦"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 805,
+    "collab": true
   },
   {
     "name": {
@@ -360,13 +411,16 @@
       "ko_kr": "토가와 사키코",
       "zh_cn": "丰川祥子"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 779,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Mon3tr"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 23
   },
   {
     "name": {
@@ -375,7 +429,8 @@
       "ko_kr": "알라나",
       "zh_cn": "阿兰娜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -384,7 +439,8 @@
       "ko_kr": "브리지드",
       "zh_cn": "水灯心"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -393,7 +449,8 @@
       "ko_kr": "노웰",
       "zh_cn": "诺威尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -402,7 +459,8 @@
       "ko_kr": "싱주",
       "zh_cn": "行箸"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -411,7 +469,8 @@
       "ko_kr": "울페나이트",
       "zh_cn": "钼铅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -420,7 +479,8 @@
       "ko_kr": "바르카리스",
       "zh_cn": "摆渡人"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -429,7 +489,8 @@
       "ko_kr": "콘트레일",
       "zh_cn": "云迹"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -438,7 +499,8 @@
       "ko_kr": "테크노",
       "zh_cn": "特克诺"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -447,7 +509,8 @@
       "ko_kr": "로즈솔트",
       "zh_cn": "瑰盐"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -456,7 +519,8 @@
       "ko_kr": "캐서린",
       "zh_cn": "凯瑟琳"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -465,7 +529,8 @@
       "ko_kr": "피구리노",
       "zh_cn": "裁度"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -474,7 +539,8 @@
       "ko_kr": "틴맨",
       "zh_cn": "锡人"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -483,7 +549,8 @@
       "ko_kr": "필라에",
       "zh_cn": "菲莱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -492,7 +559,8 @@
       "ko_kr": "미틈",
       "zh_cn": "渡桥"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -501,7 +569,8 @@
       "ko_kr": "님프",
       "zh_cn": "妮芙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -510,7 +579,8 @@
       "ko_kr": "울피아누스",
       "zh_cn": "乌尔比安"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -519,7 +589,9 @@
       "ko_kr": "칠책",
       "zh_cn": "齐尔查克"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 60,
+    "collab": true
   },
   {
     "name": {
@@ -528,7 +600,9 @@
       "ko_kr": "센시",
       "zh_cn": "森西"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 74,
+    "collab": true
   },
   {
     "name": {
@@ -537,7 +611,9 @@
       "ko_kr": "라이오스",
       "zh_cn": "莱欧斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 114,
+    "collab": true
   },
   {
     "name": {
@@ -546,7 +622,9 @@
       "ko_kr": "마르실",
       "zh_cn": "玛露西尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 647,
+    "collab": true
   },
   {
     "name": {
@@ -555,7 +633,8 @@
       "ko_kr": "샌드레코너",
       "zh_cn": "衡沙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -564,7 +643,8 @@
       "ko_kr": "파피루스",
       "zh_cn": "莎草"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -573,7 +653,8 @@
       "ko_kr": "나란투야",
       "zh_cn": "娜仁图亚"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -582,13 +663,15 @@
       "ko_kr": "언더플로우",
       "zh_cn": "深巡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "PhonoR-0"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -597,7 +680,8 @@
       "ko_kr": "시빌라이트 에테르나",
       "zh_cn": "魔王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -606,7 +690,8 @@
       "ko_kr": "로고스",
       "zh_cn": "逻各斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -615,7 +700,8 @@
       "ko_kr": "아스카론",
       "zh_cn": "阿斯卡纶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -624,7 +710,8 @@
       "ko_kr": "오다",
       "zh_cn": "奥达"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -633,35 +720,44 @@
       "ko_kr": "루토나다",
       "zh_cn": "露托"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Fuze",
       "zh_cn": "导火索"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Doc",
       "zh_cn": "医生"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Iana",
       "zh_cn": "双月"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Ela",
       "zh_cn": "艾拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5,
+    "collab": true
   },
   {
     "name": {
@@ -670,7 +766,8 @@
       "ko_kr": "그레인버즈",
       "zh_cn": "小满"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -679,7 +776,8 @@
       "ko_kr": "좌락",
       "zh_cn": "左乐"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -688,7 +786,8 @@
       "ko_kr": "완칭",
       "zh_cn": "万顷"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -697,7 +796,8 @@
       "ko_kr": "레이",
       "zh_cn": "莱伊"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -706,7 +806,8 @@
       "ko_kr": "데겐블레허",
       "zh_cn": "锏"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -715,7 +816,8 @@
       "ko_kr": "해럴드",
       "zh_cn": "哈洛德"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -724,7 +826,8 @@
       "ko_kr": "델핀",
       "zh_cn": "戴菲恩"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -733,7 +836,8 @@
       "ko_kr": "베이스라인",
       "zh_cn": "深律"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -742,7 +846,8 @@
       "ko_kr": "버던트",
       "zh_cn": "维荻"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -751,7 +856,8 @@
       "ko_kr": "브라이오피타",
       "zh_cn": "苍苔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -760,7 +866,8 @@
       "ko_kr": "아몬드",
       "zh_cn": "杏仁"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -769,7 +876,8 @@
       "ko_kr": "콜드샷",
       "zh_cn": "冰酿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -778,7 +886,8 @@
       "ko_kr": "발라크빈",
       "zh_cn": "凛视"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -787,7 +896,8 @@
       "ko_kr": "케이퍼",
       "zh_cn": "跃跃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -796,19 +906,22 @@
       "ko_kr": "비비아나",
       "zh_cn": "薇薇安娜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Friston-3"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "U-Official"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -817,7 +930,8 @@
       "ko_kr": "외드레르",
       "zh_cn": "赫德雷"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -826,7 +940,8 @@
       "ko_kr": "이네스",
       "zh_cn": "伊内丝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -835,7 +950,8 @@
       "ko_kr": "윈드차임스",
       "zh_cn": "铎铃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -844,7 +960,8 @@
       "ko_kr": "치우바이",
       "zh_cn": "仇白"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -853,7 +970,8 @@
       "ko_kr": "워미",
       "zh_cn": "温米"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -862,7 +980,8 @@
       "ko_kr": "린",
       "zh_cn": "林"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
@@ -871,7 +990,8 @@
       "ko_kr": "루실라",
       "zh_cn": "海霓"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -880,7 +1000,8 @@
       "ko_kr": "지에윈",
       "zh_cn": "截云"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -889,7 +1010,8 @@
       "ko_kr": "테라 대륙 조사단",
       "zh_cn": "泰拉大陆调查团"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -898,7 +1020,8 @@
       "ko_kr": "스테인리스",
       "zh_cn": "白铁"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -907,7 +1030,8 @@
       "ko_kr": "파프리카",
       "zh_cn": "明椒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -916,7 +1040,9 @@
       "ko_kr": "나소흑",
       "zh_cn": "罗小黑"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 114,
+    "collab": true
   },
   {
     "name": {
@@ -925,7 +1051,8 @@
       "ko_kr": "하이모어",
       "zh_cn": "海沫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -934,7 +1061,8 @@
       "ko_kr": "페넌스",
       "zh_cn": "斥罪"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -943,7 +1071,8 @@
       "ko_kr": "무에나",
       "zh_cn": "玛恩纳"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -952,7 +1081,8 @@
       "ko_kr": "쿼츠",
       "zh_cn": "石英"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -961,7 +1091,8 @@
       "ko_kr": "토터",
       "zh_cn": "铅踝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -970,7 +1101,8 @@
       "ko_kr": "페페",
       "zh_cn": "佩佩"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -979,7 +1111,8 @@
       "ko_kr": "티티",
       "zh_cn": "缇缇"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -988,7 +1121,8 @@
       "ko_kr": "파죰카",
       "zh_cn": "鸿雪"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -997,7 +1131,8 @@
       "ko_kr": "미니멀리스트",
       "zh_cn": "至简"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1006,7 +1141,8 @@
       "ko_kr": "서퍼",
       "zh_cn": "寻澜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1015,7 +1151,8 @@
       "ko_kr": "아코르트",
       "zh_cn": "协律"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1024,7 +1161,8 @@
       "ko_kr": "도로시",
       "zh_cn": "多萝西"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -1033,7 +1171,8 @@
       "ko_kr": "체르니",
       "zh_cn": "车尔尼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1042,7 +1181,8 @@
       "ko_kr": "에벤홀츠",
       "zh_cn": "黑键"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1051,7 +1191,8 @@
       "ko_kr": "하이디",
       "zh_cn": "海蒂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -1060,7 +1201,8 @@
       "ko_kr": "에라토",
       "zh_cn": "埃拉托"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -1069,7 +1211,8 @@
       "ko_kr": "루멘",
       "zh_cn": "流明"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -1078,7 +1221,8 @@
       "ko_kr": "체스트넛",
       "zh_cn": "褐果"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1087,7 +1231,8 @@
       "ko_kr": "락락",
       "zh_cn": "洛洛"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1096,7 +1241,8 @@
       "ko_kr": "혼",
       "zh_cn": "号角"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1105,7 +1251,8 @@
       "ko_kr": "벨로네",
       "zh_cn": "贝洛内"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1114,7 +1261,8 @@
       "ko_kr": "인포서",
       "zh_cn": "见行者"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -1123,7 +1271,8 @@
       "ko_kr": "프로바이조",
       "zh_cn": "但书"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1132,7 +1281,8 @@
       "ko_kr": "리프레사",
       "zh_cn": "复奏"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1141,7 +1291,8 @@
       "ko_kr": "오올헤약",
       "zh_cn": "霍尔海雅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -1150,7 +1301,8 @@
       "ko_kr": "불피스폴리아",
       "zh_cn": "忍冬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -1159,7 +1311,8 @@
       "ko_kr": "샬렘",
       "zh_cn": "暮落"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1168,7 +1321,8 @@
       "ko_kr": "케스트럴",
       "zh_cn": "红隼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1177,7 +1331,8 @@
       "ko_kr": "나인컬러드 디어",
       "zh_cn": "九色鹿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -1186,7 +1341,8 @@
       "ko_kr": "퍼즐",
       "zh_cn": "谜图"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1195,7 +1351,8 @@
       "ko_kr": "카제마루",
       "zh_cn": "风丸"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -1204,7 +1361,8 @@
       "ko_kr": "스푸리아",
       "zh_cn": "空构"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1213,7 +1371,8 @@
       "ko_kr": "루나컵",
       "zh_cn": "子月"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1222,7 +1381,8 @@
       "ko_kr": "쉐라",
       "zh_cn": "耶拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1231,7 +1391,8 @@
       "ko_kr": "레싱",
       "zh_cn": "止颂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1240,7 +1401,8 @@
       "ko_kr": "엔텔레키아",
       "zh_cn": "隐德来希"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1249,7 +1411,8 @@
       "ko_kr": "아이린",
       "zh_cn": "艾丽妮"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -1258,7 +1421,8 @@
       "ko_kr": "멜라나이트",
       "zh_cn": "玫拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1267,7 +1431,8 @@
       "ko_kr": "푸딩",
       "zh_cn": "布丁"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1276,7 +1441,8 @@
       "ko_kr": "저스티스 나이트",
       "zh_cn": "正义骑士号"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1285,7 +1451,8 @@
       "ko_kr": "왕",
       "zh_cn": "望"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1294,7 +1461,8 @@
       "ko_kr": "위",
       "zh_cn": "余"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -1303,7 +1471,8 @@
       "ko_kr": "슈",
       "zh_cn": "黍"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
@@ -1312,7 +1481,8 @@
       "ko_kr": "총웨",
       "zh_cn": "重岳"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -1321,7 +1491,8 @@
       "ko_kr": "링",
       "zh_cn": "令"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -1330,7 +1501,8 @@
       "ko_kr": "시",
       "zh_cn": "夕"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 29
   },
   {
     "name": {
@@ -1339,7 +1511,8 @@
       "ko_kr": "니엔",
       "zh_cn": "年"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -1348,7 +1521,8 @@
       "ko_kr": "케오베",
       "zh_cn": "刻俄柏"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
@@ -1357,7 +1531,8 @@
       "ko_kr": "티폰",
       "zh_cn": "提丰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -1366,7 +1541,8 @@
       "ko_kr": "크라운슬레이어",
       "zh_cn": "弑君者"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -1375,7 +1551,8 @@
       "ko_kr": "켈시 에스페란타",
       "zh_cn": "凯尔希·思衡托"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -1384,7 +1561,8 @@
       "ko_kr": "지마 더 레이징 타이드",
       "zh_cn": "怒潮凛冬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1393,21 +1571,24 @@
       "ko_kr": "첸 더 던스트릭",
       "zh_cn": "赤刃明霄陈"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
       "en_us": "Zinogre S Catapult",
       "zh_cn": "雷狼龙S空爆"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Violet Mizutsune Orchid",
       "zh_cn": "焰狐龙梓兰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1416,7 +1597,8 @@
       "ko_kr": "아스트젠 더 라이트체이서",
       "zh_cn": "溯光星源"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1425,7 +1607,8 @@
       "ko_kr": "프라마닉스 더 프레리타",
       "zh_cn": "圣聆初雪"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -1434,7 +1617,8 @@
       "ko_kr": "실버애쉬 더 레인프로스트",
       "zh_cn": "凛御银灰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1443,7 +1627,8 @@
       "ko_kr": "호시구마 더 브리처",
       "zh_cn": "斩业星熊"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -1452,7 +1637,8 @@
       "ko_kr": "레이즈 더 썬더브링어",
       "zh_cn": "司霆惊蛰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -1461,7 +1647,8 @@
       "ko_kr": "트라고디아",
       "zh_cn": "酒神"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1470,7 +1657,8 @@
       "ko_kr": "엑시아 더 뉴 커버넌트",
       "zh_cn": "新约能天使"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -1479,7 +1667,8 @@
       "ko_kr": "블레이즈 디 이그나이팅 스파크",
       "zh_cn": "烛煌"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1488,7 +1677,8 @@
       "ko_kr": "쏜즈 더 로드스타",
       "zh_cn": "引星棘刺"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1497,7 +1687,8 @@
       "ko_kr": "라플란드 더 데카덴차",
       "zh_cn": "荒芜拉普兰德"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -1508,7 +1699,8 @@
     },
     "aliases": [
       "阿米娅"
-    ]
+    ],
+    "score": 142
   },
   {
     "name": {
@@ -1517,7 +1709,8 @@
       "ko_kr": "팽 더 파이어 샤픈드",
       "zh_cn": "历阵锐枪芬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1526,7 +1719,8 @@
       "ko_kr": "위셔델",
       "zh_cn": "维什戴尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -1535,7 +1729,8 @@
       "ko_kr": "제시카 더 리버레이티드",
       "zh_cn": "涤火杰西卡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1544,7 +1739,8 @@
       "ko_kr": "스와이어 디 엘리건트 위트",
       "zh_cn": "琳琅诗怀雅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1553,7 +1749,8 @@
       "ko_kr": "이그제큐터 디 엑스 포에데레",
       "zh_cn": "圣约送葬人"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1562,7 +1759,8 @@
       "ko_kr": "사일런스 더 패러디그매틱",
       "zh_cn": "淬羽赫默"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1571,7 +1769,8 @@
       "ko_kr": "레우스S 느와르 코르네",
       "zh_cn": "火龙S黑角"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1580,7 +1779,8 @@
       "ko_kr": "키린R 야토",
       "zh_cn": "麒麟R夜刀"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -1589,7 +1789,8 @@
       "ko_kr": "텍사스 디 오메르토사",
       "zh_cn": "缄默德克萨斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -1598,7 +1799,8 @@
       "ko_kr": "그레이 더 라이트닝베어러",
       "zh_cn": "承曦格雷伊"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1607,7 +1809,8 @@
       "ko_kr": "가비알 디 인빈서블",
       "zh_cn": "百炼嘉维尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1616,7 +1819,8 @@
       "ko_kr": "히비스커스 더 퓨리파이어",
       "zh_cn": "濯尘芙蓉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1625,7 +1829,8 @@
       "ko_kr": "스펙터 디 언체인드",
       "zh_cn": "归溟幽灵鲨"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1634,7 +1839,8 @@
       "ko_kr": "퍼퓨머 더 디스틸트",
       "zh_cn": "撷英调香师"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1643,7 +1849,8 @@
       "ko_kr": "크루스 더 킨 글린트",
       "zh_cn": "寒芒克洛丝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -1652,7 +1859,8 @@
       "ko_kr": "리드 더 플레임 섀도우",
       "zh_cn": "焰影苇草"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -1661,7 +1869,8 @@
       "ko_kr": "비나 빅토리아",
       "zh_cn": "维娜·维多利亚"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -1670,14 +1879,16 @@
       "ko_kr": "에이야퍄들라 더 크비트 아스카",
       "zh_cn": "纯烬艾雅法拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
       "en_us": "Angelina the Mellow Wish",
       "zh_cn": "予愿安洁莉娜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -1686,7 +1897,8 @@
       "ko_kr": "니어 더 래디언트 나이트",
       "zh_cn": "耀骑士临光"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1695,7 +1907,8 @@
       "ko_kr": "첸 더 홀룽데이",
       "zh_cn": "假日威龙陈"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -1704,7 +1917,8 @@
       "ko_kr": "스카디 더 커럽팅 하트",
       "zh_cn": "浊心斯卡蒂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -1713,7 +1927,8 @@
       "ko_kr": "라바 더 퍼거토리",
       "zh_cn": "炎狱炎熔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1724,7 +1939,8 @@
     },
     "aliases": [
       "阿米娅"
-    ]
+    ],
+    "score": 142
   },
   {
     "name": {
@@ -1733,7 +1949,8 @@
       "ko_kr": "레인저",
       "zh_cn": "巡林者"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1742,7 +1959,8 @@
       "ko_kr": "야토",
       "zh_cn": "夜刀"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1751,7 +1969,8 @@
       "ko_kr": "두린",
       "zh_cn": "杜林"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -1760,7 +1979,8 @@
       "ko_kr": "느와르 코르네",
       "zh_cn": "黑角"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -1769,7 +1989,8 @@
       "ko_kr": "디아만테",
       "zh_cn": "折光"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1778,7 +1999,8 @@
       "ko_kr": "인사이더",
       "zh_cn": "隐现"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1787,7 +2009,8 @@
       "ko_kr": "칸타빌레",
       "zh_cn": "晓歌"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -1796,7 +2019,8 @@
       "ko_kr": "와일드메인",
       "zh_cn": "野鬃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1805,7 +2029,8 @@
       "ko_kr": "벤델라",
       "zh_cn": "刺玫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1814,7 +2039,8 @@
       "ko_kr": "파이어휘슬",
       "zh_cn": "火哨"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1823,7 +2049,8 @@
       "ko_kr": "퀘르쿠스",
       "zh_cn": "夏栎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1832,7 +2059,8 @@
       "ko_kr": "휴머스",
       "zh_cn": "休谟斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1841,7 +2069,8 @@
       "ko_kr": "코로세럼",
       "zh_cn": "蚀清"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1850,7 +2079,8 @@
       "ko_kr": "폰사이러스",
       "zh_cn": "青枳"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -1859,7 +2089,8 @@
       "ko_kr": "보빙",
       "zh_cn": "波卜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1868,7 +2099,8 @@
       "ko_kr": "테킬라",
       "zh_cn": "龙舌兰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -1877,7 +2109,8 @@
       "ko_kr": "팔라스",
       "zh_cn": "帕拉斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1886,7 +2119,8 @@
       "ko_kr": "로베르타",
       "zh_cn": "罗比菈塔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -1895,7 +2129,8 @@
       "ko_kr": "사일라흐",
       "zh_cn": "琴柳"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -1904,7 +2139,8 @@
       "ko_kr": "키라라",
       "zh_cn": "绮良"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1913,7 +2149,8 @@
       "ko_kr": "블랙나이트",
       "zh_cn": "夜半"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -1922,7 +2159,8 @@
       "ko_kr": "아카후유",
       "zh_cn": "赤冬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1931,7 +2169,8 @@
       "ko_kr": "글래디아",
       "zh_cn": "歌蕾蒂娅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -1940,7 +2179,8 @@
       "ko_kr": "멀베리",
       "zh_cn": "桑葚"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -1949,7 +2189,8 @@
       "ko_kr": "패신저",
       "zh_cn": "异客"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1958,7 +2199,8 @@
       "ko_kr": "인디고",
       "zh_cn": "深靛"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -1967,7 +2209,8 @@
       "ko_kr": "카니팔라트",
       "zh_cn": "雪绒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1976,35 +2219,44 @@
       "ko_kr": "시멘트",
       "zh_cn": "洋灰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Tachanka",
       "zh_cn": "战车"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Frost",
       "zh_cn": "霜华"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Blitz",
       "zh_cn": "闪击"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2,
+    "collab": true
   },
   {
     "name": {
       "en_us": "Ash",
       "zh_cn": "灰烬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4,
+    "collab": true
   },
   {
     "name": {
@@ -2013,7 +2265,8 @@
       "ko_kr": "우요우",
       "zh_cn": "乌有"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2022,7 +2275,8 @@
       "ko_kr": "빈스토크",
       "zh_cn": "豆苗"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2031,7 +2285,8 @@
       "ko_kr": "로빈",
       "zh_cn": "罗宾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2040,7 +2295,8 @@
       "ko_kr": "네크라스",
       "zh_cn": "死芒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -2049,7 +2305,8 @@
       "ko_kr": "허니베리",
       "zh_cn": "蜜莓"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2058,7 +2315,8 @@
       "ko_kr": "아로마",
       "zh_cn": "阿罗玛"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2067,7 +2325,8 @@
       "ko_kr": "윈드스쿠트",
       "zh_cn": "骋风"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2076,7 +2335,8 @@
       "ko_kr": "파인콘",
       "zh_cn": "松果"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -2085,7 +2345,8 @@
       "ko_kr": "미즈키",
       "zh_cn": "水月"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -2094,7 +2355,8 @@
       "ko_kr": "위스퍼레인",
       "zh_cn": "絮雨"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -2103,7 +2365,8 @@
       "ko_kr": "윈드플릿",
       "zh_cn": "掠风"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2112,7 +2375,8 @@
       "ko_kr": "애쉬락",
       "zh_cn": "灰毫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2121,7 +2385,8 @@
       "ko_kr": "파투스",
       "zh_cn": "远牙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2130,7 +2395,8 @@
       "ko_kr": "비질",
       "zh_cn": "伺夜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2139,7 +2405,8 @@
       "ko_kr": "카넬리안",
       "zh_cn": "卡涅利安"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2148,7 +2415,8 @@
       "ko_kr": "블레미샤인",
       "zh_cn": "瑕光"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -2157,7 +2425,8 @@
       "ko_kr": "오로라",
       "zh_cn": "极光"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -2166,7 +2435,8 @@
       "ko_kr": "라 플루마",
       "zh_cn": "羽毛笔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 34
   },
   {
     "name": {
@@ -2175,7 +2445,8 @@
       "ko_kr": "플레임테일",
       "zh_cn": "焰尾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2184,7 +2455,8 @@
       "ko_kr": "유넥티스",
       "zh_cn": "森蚺"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -2193,7 +2465,8 @@
       "ko_kr": "플린트",
       "zh_cn": "燧石"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2202,7 +2475,8 @@
       "ko_kr": "토미미",
       "zh_cn": "特米米"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2211,7 +2485,8 @@
       "ko_kr": "압생트",
       "zh_cn": "苦艾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -2220,7 +2495,8 @@
       "ko_kr": "투예",
       "zh_cn": "图耶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2229,7 +2505,8 @@
       "ko_kr": "엘리시움",
       "zh_cn": "极境"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -2238,7 +2515,8 @@
       "ko_kr": "위디",
       "zh_cn": "温蒂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
@@ -2247,14 +2525,16 @@
       "ko_kr": "하디야",
       "zh_cn": "哈蒂娅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
       "en_us": "de Toledo",
       "zh_cn": "德·托莱多"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2263,7 +2543,8 @@
       "ko_kr": "로즈몬티스",
       "zh_cn": "迷迭香"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 24
   },
   {
     "name": {
@@ -2272,7 +2553,8 @@
       "ko_kr": "민트",
       "zh_cn": "薄绿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2281,7 +2563,8 @@
       "ko_kr": "퓨어스트림",
       "zh_cn": "清流"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2290,7 +2573,8 @@
       "ko_kr": "스노우상트",
       "zh_cn": "雪雉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2299,7 +2583,8 @@
       "ko_kr": "버블",
       "zh_cn": "泡泡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2308,7 +2593,8 @@
       "ko_kr": "세사",
       "zh_cn": "慑砂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2317,7 +2603,8 @@
       "ko_kr": "아스베스토스",
       "zh_cn": "石棉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2326,13 +2613,15 @@
       "ko_kr": "골든글로우",
       "zh_cn": "澄闪"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 21
   },
   {
     "name": {
       "en_us": "THRM-EX"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2341,7 +2630,8 @@
       "ko_kr": "레온하르트",
       "zh_cn": "莱恩哈特"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -2350,7 +2640,8 @@
       "ko_kr": "베나",
       "zh_cn": "贝娜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2359,7 +2650,8 @@
       "ko_kr": "그레이스롯",
       "zh_cn": "灰喉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -2368,7 +2660,8 @@
       "ko_kr": "애시드드롭",
       "zh_cn": "酸糖"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2377,7 +2670,8 @@
       "ko_kr": "에이프릴",
       "zh_cn": "四月"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2386,7 +2680,8 @@
       "ko_kr": "토디폰스",
       "zh_cn": "熔泉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2395,7 +2690,8 @@
       "ko_kr": "사가",
       "zh_cn": "嵯峨"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -2404,7 +2700,8 @@
       "ko_kr": "스즈란",
       "zh_cn": "铃兰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 33
   },
   {
     "name": {
@@ -2413,7 +2710,8 @@
       "ko_kr": "브로카",
       "zh_cn": "布洛卡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2422,7 +2720,8 @@
       "ko_kr": "에단",
       "zh_cn": "伊桑"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -2431,7 +2730,8 @@
       "ko_kr": "수르트",
       "zh_cn": "史尔特尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 37
   },
   {
     "name": {
@@ -2440,7 +2740,8 @@
       "ko_kr": "키아베",
       "zh_cn": "贾维"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2449,7 +2750,8 @@
       "ko_kr": "실론",
       "zh_cn": "锡兰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -2458,7 +2760,8 @@
       "ko_kr": "재키",
       "zh_cn": "杰克"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2467,7 +2770,8 @@
       "ko_kr": "아오스타",
       "zh_cn": "奥斯塔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2476,7 +2780,8 @@
       "ko_kr": "폴리닉",
       "zh_cn": "亚叶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -2485,7 +2790,8 @@
       "ko_kr": "비즈왁스",
       "zh_cn": "蜜蜡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2494,7 +2800,8 @@
       "ko_kr": "츠키노기",
       "zh_cn": "月禾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2503,7 +2810,8 @@
       "ko_kr": "산탈라",
       "zh_cn": "寒檀"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2512,7 +2820,8 @@
       "ko_kr": "슈바르츠",
       "zh_cn": "黑"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 17
   },
   {
     "name": {
@@ -2521,7 +2830,8 @@
       "ko_kr": "아이리스",
       "zh_cn": "爱丽丝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2530,7 +2840,8 @@
       "ko_kr": "우타게",
       "zh_cn": "宴"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -2539,7 +2850,8 @@
       "ko_kr": "씬",
       "zh_cn": "稀音"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
@@ -2548,7 +2860,8 @@
       "ko_kr": "시데로카",
       "zh_cn": "铸铁"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2557,7 +2870,8 @@
       "ko_kr": "아르케토",
       "zh_cn": "空弦"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -2566,7 +2880,8 @@
       "ko_kr": "클릭",
       "zh_cn": "卡达"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2575,7 +2890,8 @@
       "ko_kr": "글라우쿠스",
       "zh_cn": "格劳克斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -2584,7 +2900,8 @@
       "ko_kr": "바이슨",
       "zh_cn": "拜松"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2593,7 +2910,8 @@
       "ko_kr": "리",
       "zh_cn": "老鲤"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2602,7 +2920,8 @@
       "ko_kr": "머드락",
       "zh_cn": "泥岩"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 17
   },
   {
     "name": {
@@ -2611,7 +2930,8 @@
       "ko_kr": "스와이어",
       "zh_cn": "诗怀雅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -2620,7 +2940,8 @@
       "ko_kr": "레이즈",
       "zh_cn": "惊蛰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -2629,7 +2950,8 @@
       "ko_kr": "헤비레인",
       "zh_cn": "暴雨"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2638,7 +2960,8 @@
       "ko_kr": "엠브리엘",
       "zh_cn": "安比尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2647,7 +2970,8 @@
       "ko_kr": "커터",
       "zh_cn": "刻刀"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -2656,7 +2980,8 @@
       "ko_kr": "피아메타",
       "zh_cn": "菲亚梅塔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -2665,7 +2990,8 @@
       "ko_kr": "수수로",
       "zh_cn": "苏苏洛"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -2674,7 +3000,8 @@
       "ko_kr": "아르모니",
       "zh_cn": "和弦"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2683,7 +3010,8 @@
       "ko_kr": "에이어스카르페",
       "zh_cn": "断崖"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -2692,7 +3020,8 @@
       "ko_kr": "쏜즈",
       "zh_cn": "棘刺"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -2701,7 +3030,8 @@
       "ko_kr": "안젤리나",
       "zh_cn": "安洁莉娜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 32
   },
   {
     "name": {
@@ -2710,7 +3040,8 @@
       "ko_kr": "비그나",
       "zh_cn": "红豆"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -2719,19 +3050,22 @@
       "ko_kr": "마토이마루",
       "zh_cn": "缠丸"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
       "en_us": "Castle-3"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
       "en_us": "Lancet-2"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -2740,7 +3074,8 @@
       "ko_kr": "스팟",
       "zh_cn": "斑点"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2749,7 +3084,8 @@
       "ko_kr": "미드나이트",
       "zh_cn": "月见夜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2758,7 +3094,8 @@
       "ko_kr": "캐터펄트",
       "zh_cn": "空爆"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2767,7 +3104,8 @@
       "ko_kr": "포푸카",
       "zh_cn": "泡普卡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -2776,7 +3114,8 @@
       "ko_kr": "이그제큐터",
       "zh_cn": "送葬人"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -2785,7 +3124,8 @@
       "ko_kr": "오키드",
       "zh_cn": "梓兰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2794,7 +3134,8 @@
       "ko_kr": "쇼",
       "zh_cn": "阿消"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -2803,7 +3144,8 @@
       "ko_kr": "브리즈",
       "zh_cn": "微风"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2812,7 +3154,8 @@
       "ko_kr": "아스테시아",
       "zh_cn": "星极"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
@@ -2821,7 +3164,8 @@
       "ko_kr": "제이",
       "zh_cn": "孑"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2830,7 +3174,8 @@
       "ko_kr": "아렌",
       "zh_cn": "芳汀"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2839,7 +3184,8 @@
       "ko_kr": "위슬래시",
       "zh_cn": "鞭刃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -2848,7 +3194,8 @@
       "ko_kr": "마운틴",
       "zh_cn": "山"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2857,7 +3204,8 @@
       "ko_kr": "스카디",
       "zh_cn": "斯卡蒂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 66
   },
   {
     "name": {
@@ -2866,7 +3214,8 @@
       "ko_kr": "리드",
       "zh_cn": "苇草"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -2875,7 +3224,8 @@
       "ko_kr": "듀나",
       "zh_cn": "坚雷"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2884,7 +3234,8 @@
       "ko_kr": "포덴코",
       "zh_cn": "波登可"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -2893,7 +3244,8 @@
       "ko_kr": "샤마르",
       "zh_cn": "巫恋"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -2902,7 +3254,8 @@
       "ko_kr": "그레이",
       "zh_cn": "格雷伊"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2911,7 +3264,8 @@
       "ko_kr": "바이비크",
       "zh_cn": "柏喙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2920,7 +3274,8 @@
       "ko_kr": "팬텀",
       "zh_cn": "傀影"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -2929,7 +3284,8 @@
       "ko_kr": "뮤엘시스",
       "zh_cn": "缪尔赛思"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 38
   },
   {
     "name": {
@@ -2938,7 +3294,8 @@
       "ko_kr": "마젤란",
       "zh_cn": "麦哲伦"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 17
   },
   {
     "name": {
@@ -2947,7 +3304,8 @@
       "ko_kr": "비르투오사",
       "zh_cn": "塑心"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 26
   },
   {
     "name": {
@@ -2956,7 +3314,8 @@
       "ko_kr": "와이후",
       "zh_cn": "槐琥"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -2965,7 +3324,8 @@
       "ko_kr": "메이어",
       "zh_cn": "梅尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2974,7 +3334,8 @@
       "ko_kr": "에프이터",
       "zh_cn": "食铁兽"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -2983,7 +3344,8 @@
       "ko_kr": "바닐라",
       "zh_cn": "香草"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -2992,7 +3354,8 @@
       "ko_kr": "그라벨",
       "zh_cn": "砾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -3001,7 +3364,8 @@
       "ko_kr": "로프",
       "zh_cn": "暗索"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -3010,7 +3374,8 @@
       "ko_kr": "제시카",
       "zh_cn": "杰西卡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -3019,7 +3384,8 @@
       "ko_kr": "새비지",
       "zh_cn": "暴行"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -3028,7 +3394,8 @@
       "ko_kr": "훔",
       "zh_cn": "吽"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -3037,7 +3404,8 @@
       "ko_kr": "아",
       "zh_cn": "阿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -3046,7 +3414,8 @@
       "ko_kr": "백파이프",
       "zh_cn": "风笛"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -3055,7 +3424,8 @@
       "ko_kr": "그라니",
       "zh_cn": "格拉尼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -3064,7 +3434,8 @@
       "ko_kr": "메테오라이트",
       "zh_cn": "陨星"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -3073,7 +3444,8 @@
       "ko_kr": "안드레아나",
       "zh_cn": "安哲拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -3082,7 +3454,8 @@
       "ko_kr": "맨티코어",
       "zh_cn": "狮蝎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -3091,7 +3464,8 @@
       "ko_kr": "카프카",
       "zh_cn": "卡夫卡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -3100,7 +3474,8 @@
       "ko_kr": "모스티마",
       "zh_cn": "莫斯提马"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 37
   },
   {
     "name": {
@@ -3109,7 +3484,8 @@
       "ko_kr": "안셀",
       "zh_cn": "安赛尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -3118,7 +3494,8 @@
       "ko_kr": "아드나키엘",
       "zh_cn": "安德切尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -3127,7 +3504,8 @@
       "ko_kr": "스튜어드",
       "zh_cn": "史都华德"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -3136,7 +3514,8 @@
       "ko_kr": "카디건",
       "zh_cn": "卡缇"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -3145,7 +3524,8 @@
       "ko_kr": "멜란사",
       "zh_cn": "玫兰莎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 29
   },
   {
     "name": {
@@ -3154,7 +3534,8 @@
       "ko_kr": "노시스",
       "zh_cn": "灵知"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -3163,7 +3544,8 @@
       "ko_kr": "플래티넘",
       "zh_cn": "白金"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 25
   },
   {
     "name": {
@@ -3172,7 +3554,8 @@
       "ko_kr": "사리아",
       "zh_cn": "塞雷娅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 20
   },
   {
     "name": {
@@ -3181,7 +3564,8 @@
       "ko_kr": "크루아상",
       "zh_cn": "可颂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -3190,7 +3574,8 @@
       "ko_kr": "마터호른",
       "zh_cn": "角峰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -3199,7 +3584,8 @@
       "ko_kr": "쿠리어",
       "zh_cn": "讯使"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -3208,7 +3594,8 @@
       "ko_kr": "로사",
       "zh_cn": "早露"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 23
   },
   {
     "name": {
@@ -3217,7 +3604,8 @@
       "ko_kr": "굼",
       "zh_cn": "古米"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -3226,7 +3614,8 @@
       "ko_kr": "이스티나",
       "zh_cn": "真理"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -3235,7 +3624,8 @@
       "ko_kr": "레토",
       "zh_cn": "烈夏"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -3244,7 +3634,8 @@
       "ko_kr": "프로스트리프",
       "zh_cn": "霜叶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -3253,7 +3644,8 @@
       "ko_kr": "플룸",
       "zh_cn": "翎羽"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -3262,7 +3654,8 @@
       "ko_kr": "버메일",
       "zh_cn": "红云"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -3271,7 +3664,8 @@
       "ko_kr": "헬라그",
       "zh_cn": "赫拉格"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -3280,7 +3674,8 @@
       "ko_kr": "가비알",
       "zh_cn": "嘉维尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -3289,7 +3684,8 @@
       "ko_kr": "무스",
       "zh_cn": "慕斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -3298,7 +3694,8 @@
       "ko_kr": "어스스피릿",
       "zh_cn": "地灵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -3307,7 +3704,8 @@
       "ko_kr": "퍼퓨머",
       "zh_cn": "调香师"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -3316,7 +3714,8 @@
       "ko_kr": "에이야퍄들라",
       "zh_cn": "艾雅法拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 51
   },
   {
     "name": {
@@ -3325,7 +3724,8 @@
       "ko_kr": "나이팅게일",
       "zh_cn": "夜莺"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 18
   },
   {
     "name": {
@@ -3334,7 +3734,8 @@
       "ko_kr": "프라마닉스",
       "zh_cn": "初雪"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 21
   },
   {
     "name": {
@@ -3343,7 +3744,8 @@
       "ko_kr": "클리프하트",
       "zh_cn": "崖心"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -3352,7 +3754,8 @@
       "ko_kr": "실버애쉬",
       "zh_cn": "银灰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
@@ -3361,7 +3764,8 @@
       "ko_kr": "와파린",
       "zh_cn": "华法琳"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 24
   },
   {
     "name": {
@@ -3370,7 +3774,8 @@
       "ko_kr": "스카이파이어",
       "zh_cn": "天火"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -3379,7 +3784,8 @@
       "ko_kr": "나이트메어",
       "zh_cn": "夜魔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -3388,7 +3794,8 @@
       "ko_kr": "벌컨",
       "zh_cn": "火神"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -3397,7 +3804,8 @@
       "ko_kr": "컨빅션",
       "zh_cn": "断罪者"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -3406,7 +3814,8 @@
       "ko_kr": "파이어워치",
       "zh_cn": "守林人"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -3415,7 +3824,8 @@
       "ko_kr": "다그다",
       "zh_cn": "达格达"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -3424,7 +3834,8 @@
       "ko_kr": "인드라",
       "zh_cn": "因陀罗"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -3433,7 +3844,8 @@
       "ko_kr": "모건",
       "zh_cn": "摩根"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -3442,7 +3854,8 @@
       "ko_kr": "머틀",
       "zh_cn": "桃金娘"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -3451,7 +3864,8 @@
       "ko_kr": "쿠오라",
       "zh_cn": "蛇屠箱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
@@ -3460,7 +3874,8 @@
       "ko_kr": "스캐빈저",
       "zh_cn": "清道夫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -3469,7 +3884,8 @@
       "ko_kr": "니어",
       "zh_cn": "临光"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -3478,7 +3894,8 @@
       "ko_kr": "샤이닝",
       "zh_cn": "闪灵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 20
   },
   {
     "name": {
@@ -3487,7 +3904,8 @@
       "ko_kr": "프로방스",
       "zh_cn": "普罗旺斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -3496,7 +3914,8 @@
       "ko_kr": "레드",
       "zh_cn": "红"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -3505,7 +3924,8 @@
       "ko_kr": "스펙터",
       "zh_cn": "幽灵鲨"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 29
   },
   {
     "name": {
@@ -3514,7 +3934,8 @@
       "ko_kr": "헤이즈",
       "zh_cn": "夜烟"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -3523,7 +3944,8 @@
       "ko_kr": "라플란드",
       "zh_cn": "拉普兰德"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 42
   },
   {
     "name": {
@@ -3532,7 +3954,8 @@
       "ko_kr": "비헌터",
       "zh_cn": "猎蜂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -3541,7 +3964,8 @@
       "ko_kr": "호시구마",
       "zh_cn": "星熊"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 18
   },
   {
     "name": {
@@ -3550,7 +3974,8 @@
       "ko_kr": "아스트젠",
       "zh_cn": "星源"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -3559,7 +3984,8 @@
       "ko_kr": "이프리트",
       "zh_cn": "伊芙利特"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -3568,7 +3994,8 @@
       "ko_kr": "메이",
       "zh_cn": "梅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -3577,7 +4004,8 @@
       "ko_kr": "플레임브링어",
       "zh_cn": "炎客"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -3586,7 +4014,8 @@
       "ko_kr": "도베르만",
       "zh_cn": "杜宾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -3595,7 +4024,8 @@
       "ko_kr": "블루포이즌",
       "zh_cn": "蓝毒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 29
   },
   {
     "name": {
@@ -3604,7 +4034,8 @@
       "ko_kr": "프틸롭시스",
       "zh_cn": "白面鸮"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 29
   },
   {
     "name": {
@@ -3613,7 +4044,8 @@
       "ko_kr": "에스텔",
       "zh_cn": "艾丝黛尔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -3622,7 +4054,8 @@
       "ko_kr": "메테오",
       "zh_cn": "流星"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -3631,7 +4064,8 @@
       "ko_kr": "크루스",
       "zh_cn": "克洛丝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
@@ -3640,7 +4074,8 @@
       "ko_kr": "팽",
       "zh_cn": "芬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -3649,7 +4084,8 @@
       "ko_kr": "비글",
       "zh_cn": "米格鲁"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -3658,7 +4094,8 @@
       "ko_kr": "라바",
       "zh_cn": "炎熔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -3667,7 +4104,8 @@
       "ko_kr": "히비스커스",
       "zh_cn": "芙蓉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -3676,7 +4114,8 @@
       "ko_kr": "시라유키",
       "zh_cn": "白雪"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -3685,7 +4124,8 @@
       "ko_kr": "미르",
       "zh_cn": "末药"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -3694,13 +4134,15 @@
       "ko_kr": "지마",
       "zh_cn": "凛冬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
       "en_us": "W"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -3709,7 +4151,8 @@
       "ko_kr": "시즈",
       "zh_cn": "推进之王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -3718,7 +4161,8 @@
       "ko_kr": "딥컬러",
       "zh_cn": "深海色"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -3727,7 +4171,8 @@
       "ko_kr": "기타노",
       "zh_cn": "远山"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -3736,7 +4181,8 @@
       "ko_kr": "사일런스",
       "zh_cn": "赫默"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -3745,7 +4191,8 @@
       "ko_kr": "리스캄",
       "zh_cn": "雷蛇"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -3754,7 +4201,8 @@
       "ko_kr": "프란카",
       "zh_cn": "芙兰卡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -3763,7 +4211,8 @@
       "ko_kr": "엑시아",
       "zh_cn": "能天使"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 58
   },
   {
     "name": {
@@ -3772,7 +4221,8 @@
       "ko_kr": "텍사스",
       "zh_cn": "德克萨斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 63
   },
   {
     "name": {
@@ -3781,7 +4231,8 @@
       "ko_kr": "소라",
       "zh_cn": "空"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 17
   },
   {
     "name": {
@@ -3790,7 +4241,8 @@
       "ko_kr": "블레이즈",
       "zh_cn": "煌"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 20
   },
   {
     "name": {
@@ -3799,13 +4251,15 @@
       "ko_kr": "첸",
       "zh_cn": "陈"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 59
   },
   {
     "name": {
       "en_us": "12F"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -3814,7 +4268,8 @@
       "ko_kr": "켈시",
       "zh_cn": "凯尔希"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 103
   },
   {
     "name": {
@@ -3823,6 +4278,7 @@
       "ko_kr": "아미야",
       "zh_cn": "阿米娅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 142
   }
 ]

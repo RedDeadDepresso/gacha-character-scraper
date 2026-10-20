@@ -14,7 +14,8 @@
       "Келус (Разрушение)",
       "穹 (毁灭)",
       "穹 (毀滅)"
-    ]
+    ],
+    "score": 4
   },
   {
     "name": {
@@ -25,7 +26,8 @@
       "zh_cn": "砂金•戏浪",
       "zh_tw": "砂金•戲浪"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -36,7 +38,8 @@
       "zh_cn": "知更鸟•晴歌",
       "zh_tw": "知更鳥•晴歌"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -46,7 +49,8 @@
       "zh_cn": "星神★阿哈",
       "zh_tw": "星神★阿哈"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -57,7 +61,8 @@
       "zh_cn": "姬子•启行",
       "zh_tw": "姬子•啟行"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -68,7 +73,9 @@
       "zh_cn": "吉尔伽美什",
       "zh_tw": "吉爾伽美什"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 532,
+    "collab": true
   },
   {
     "name": {
@@ -79,7 +86,9 @@
       "zh_cn": "远坂凛",
       "zh_tw": "遠坂凜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1823,
+    "collab": true
   },
   {
     "name": {
@@ -90,7 +99,8 @@
       "zh_cn": "千冶•刃",
       "zh_tw": "千冶•刃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -101,7 +111,8 @@
       "zh_cn": "银狼LV.999",
       "zh_tw": "銀狼LV.999"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -112,7 +123,8 @@
       "zh_cn": "绯英",
       "zh_tw": "緋英"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -123,7 +135,8 @@
       "zh_cn": "不死途",
       "zh_tw": "不死途"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -133,7 +146,8 @@
       "zh_cn": "真珠",
       "zh_tw": "真珠"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -144,7 +158,8 @@
       "zh_cn": "爻光",
       "zh_tw": "爻光"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -155,7 +170,8 @@
       "zh_cn": "火花",
       "zh_tw": "火花"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
@@ -166,7 +182,8 @@
       "zh_cn": "昔涟",
       "zh_tw": "昔漣"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 32
   },
   {
     "name": {
@@ -177,7 +194,8 @@
       "zh_cn": "丹恒•腾荒",
       "zh_tw": "丹恆•騰荒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -188,7 +206,8 @@
       "zh_cn": "长夜月",
       "zh_tw": "長夜月"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
@@ -199,7 +218,8 @@
       "zh_cn": "刻律德菈",
       "zh_tw": "刻律德菈"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -210,7 +230,8 @@
       "zh_cn": "海瑟音",
       "zh_tw": "海瑟音"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 17
   },
   {
     "name": {
@@ -221,7 +242,8 @@
       "zh_cn": "风堇",
       "zh_tw": "風堇"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 32
   },
   {
     "name": {
@@ -232,7 +254,8 @@
       "zh_cn": "白厄",
       "zh_tw": "白厄"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -243,7 +266,8 @@
       "zh_cn": "遐蝶",
       "zh_tw": "遐蝶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 37
   },
   {
     "name": {
@@ -254,7 +278,8 @@
       "zh_cn": "赛飞儿",
       "zh_tw": "賽飛兒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -265,7 +290,8 @@
       "zh_cn": "那刻夏",
       "zh_tw": "那刻夏"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -276,7 +302,8 @@
       "zh_cn": "万敌",
       "zh_tw": "萬敵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -287,7 +314,8 @@
       "zh_cn": "缇宝",
       "zh_tw": "緹寶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -298,7 +326,8 @@
       "zh_cn": "阿格莱雅",
       "zh_tw": "阿格萊雅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
@@ -309,7 +338,8 @@
       "zh_cn": "大黑塔",
       "zh_tw": "大黑塔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 21
   },
   {
     "name": {
@@ -320,7 +350,8 @@
       "zh_cn": "大丽花",
       "zh_tw": "大理花"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -331,7 +362,8 @@
       "zh_cn": "乱破",
       "zh_tw": "亂破"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -342,7 +374,8 @@
       "zh_cn": "波提欧",
       "zh_tw": "波提歐"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -353,7 +386,8 @@
       "zh_cn": "翡翠",
       "zh_tw": "翡翠"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -364,7 +398,8 @@
       "zh_cn": "星期日",
       "zh_tw": "星期日"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -375,7 +410,8 @@
       "zh_cn": "米沙",
       "zh_tw": "米沙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -386,7 +422,8 @@
       "zh_cn": "流萤",
       "zh_tw": "流螢"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 100
   },
   {
     "name": {
@@ -397,7 +434,8 @@
       "zh_cn": "知更鸟",
       "zh_tw": "知更鳥"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 41
   },
   {
     "name": {
@@ -408,7 +446,8 @@
       "zh_cn": "黄泉",
       "zh_tw": "黃泉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 26
   },
   {
     "name": {
@@ -419,7 +458,8 @@
       "zh_cn": "黑天鹅",
       "zh_tw": "黑天鵝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
@@ -430,7 +470,8 @@
       "zh_cn": "花火",
       "zh_tw": "花火"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 66
   },
   {
     "name": {
@@ -441,7 +482,8 @@
       "zh_cn": "真理医生",
       "zh_tw": "真理醫生"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -452,7 +494,8 @@
       "zh_cn": "砂金",
       "zh_tw": "砂金"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -463,7 +506,8 @@
       "zh_cn": "阮•梅",
       "zh_tw": "阮•梅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 27
   },
   {
     "name": {
@@ -474,7 +518,8 @@
       "zh_cn": "银枝",
       "zh_tw": "銀枝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -485,7 +530,8 @@
       "zh_cn": "加拉赫",
       "zh_tw": "加拉赫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -496,7 +542,8 @@
       "zh_cn": "忘归人",
       "zh_tw": "忘歸人"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -507,7 +554,8 @@
       "zh_cn": "貊泽",
       "zh_tw": "貊澤"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -518,7 +566,8 @@
       "zh_cn": "灵砂",
       "zh_tw": "靈砂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -529,7 +578,8 @@
       "zh_cn": "云璃",
       "zh_tw": "雲璃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 23
   },
   {
     "name": {
@@ -540,7 +590,8 @@
       "zh_cn": "飞霄",
       "zh_tw": "飛霄"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -551,7 +602,8 @@
       "zh_cn": "椒丘",
       "zh_tw": "椒丘"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -562,7 +614,8 @@
       "zh_cn": "藿藿",
       "zh_tw": "藿藿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 18
   },
   {
     "name": {
@@ -573,7 +626,8 @@
       "zh_cn": "寒鸦",
       "zh_tw": "寒鴉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -584,7 +638,8 @@
       "zh_cn": "雪衣",
       "zh_tw": "雪衣"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -595,7 +650,8 @@
       "zh_cn": "丹恒•饮月",
       "zh_tw": "丹恆•飲月"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -606,7 +662,8 @@
       "zh_cn": "镜流",
       "zh_tw": "鏡流"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 29
   },
   {
     "name": {
@@ -617,7 +674,8 @@
       "zh_cn": "白露",
       "zh_tw": "白露"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -628,7 +686,8 @@
       "zh_cn": "桂乃芬",
       "zh_tw": "桂乃芬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -639,7 +698,8 @@
       "zh_cn": "彦卿",
       "zh_tw": "彥卿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -650,7 +710,8 @@
       "zh_cn": "符玄",
       "zh_tw": "符玄"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 37
   },
   {
     "name": {
@@ -661,7 +722,8 @@
       "zh_cn": "驭空",
       "zh_tw": "馭空"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -672,7 +734,8 @@
       "zh_cn": "素裳",
       "zh_tw": "素裳"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -683,7 +746,8 @@
       "zh_cn": "刃",
       "zh_tw": "刃"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -694,7 +758,8 @@
       "zh_cn": "景元",
       "zh_tw": "景元"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -705,7 +770,8 @@
       "zh_cn": "罗刹",
       "zh_tw": "羅剎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -716,7 +782,8 @@
       "zh_cn": "停云",
       "zh_tw": "停雲"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
@@ -727,7 +794,8 @@
       "zh_cn": "青雀",
       "zh_tw": "青雀"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 37
   },
   {
     "name": {
@@ -738,7 +806,8 @@
       "zh_cn": "托帕&账账",
       "zh_tw": "托帕&帳帳"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 17
   },
   {
     "name": {
@@ -749,7 +818,8 @@
       "zh_cn": "卢卡",
       "zh_tw": "盧卡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -760,7 +830,8 @@
       "zh_cn": "玲可",
       "zh_tw": "玲可"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -771,7 +842,8 @@
       "zh_cn": "虎克",
       "zh_tw": "虎克"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -782,7 +854,8 @@
       "zh_cn": "桑博",
       "zh_tw": "桑博"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -793,7 +866,8 @@
       "zh_cn": "克拉拉",
       "zh_tw": "克拉拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 26
   },
   {
     "name": {
@@ -804,7 +878,8 @@
       "zh_cn": "佩拉",
       "zh_tw": "佩拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -815,7 +890,8 @@
       "zh_cn": "娜塔莎",
       "zh_tw": "娜塔莎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -826,7 +902,8 @@
       "zh_cn": "杰帕德",
       "zh_tw": "傑帕德"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -837,7 +914,8 @@
       "zh_cn": "希露瓦",
       "zh_tw": "希露瓦"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -848,7 +926,8 @@
       "zh_cn": "希儿",
       "zh_tw": "希兒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
@@ -859,7 +938,8 @@
       "zh_cn": "布洛妮娅",
       "zh_tw": "布洛妮婭"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 29
   },
   {
     "name": {
@@ -868,7 +948,9 @@
       "ko_kr": "아처",
       "ru_ru": "Арчер"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 449,
+    "collab": true
   },
   {
     "name": {
@@ -877,7 +959,8 @@
       "ko_kr": "세이버",
       "ru_ru": "Сэйбер"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -888,7 +971,8 @@
       "zh_cn": "黑塔",
       "zh_tw": "黑塔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 30
   },
   {
     "name": {
@@ -899,7 +983,8 @@
       "zh_cn": "艾丝妲",
       "zh_tw": "艾絲妲"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 30
   },
   {
     "name": {
@@ -910,7 +995,8 @@
       "zh_cn": "阿兰",
       "zh_tw": "阿蘭"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -921,7 +1007,8 @@
       "zh_cn": "银狼",
       "zh_tw": "銀狼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 40
   },
   {
     "name": {
@@ -932,7 +1019,8 @@
       "zh_cn": "卡芙卡",
       "zh_tw": "卡芙卡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 76
   },
   {
     "name": {
@@ -943,7 +1031,8 @@
       "zh_cn": "瓦尔特",
       "zh_tw": "瓦爾特"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -954,7 +1043,8 @@
       "zh_cn": "姬子",
       "zh_tw": "姬子"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 18
   },
   {
     "name": {
@@ -965,7 +1055,8 @@
       "zh_cn": "丹恒",
       "zh_tw": "丹恆"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -982,6 +1073,7 @@
       "Март 7 (Сохранение)",
       "三月七 (存护)",
       "三月七 (存護)"
-    ]
+    ],
+    "score": 74
   }
 ]

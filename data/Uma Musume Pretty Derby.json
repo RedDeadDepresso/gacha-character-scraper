@@ -4,7 +4,8 @@
       "en_us": "Phalaenopsis",
       "ja_jp": "ファレノプシス"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -12,7 +13,8 @@
       "ja_jp": "ルーラーシップ",
       "ko_kr": "룰러쉽"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -20,7 +22,8 @@
       "ja_jp": "ローズキングダム",
       "ko_kr": "로즈 킹덤"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -28,7 +31,8 @@
       "ja_jp": "ヴィクトワールピサ",
       "ko_kr": "빅투아르 피사"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -36,7 +40,8 @@
       "ja_jp": "エピファネイア",
       "ko_kr": "에피파네이아"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -44,7 +49,8 @@
       "ja_jp": "キセキ",
       "ko_kr": "키세키"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -52,7 +58,8 @@
       "ja_jp": "レッドディザイア",
       "ko_kr": "레드 디자이어"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -61,7 +68,8 @@
       "ko_kr": "스테이 골드",
       "zh_tw": "黃金旅程"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 9
   },
   {
     "name": {
@@ -70,7 +78,8 @@
       "ko_kr": "카렌 부케도르",
       "zh_tw": "機伶金花"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -79,7 +88,8 @@
       "ko_kr": "크로노 제네시스",
       "zh_tw": "時代創世"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -88,7 +98,8 @@
       "ko_kr": "러브즈 온리 유",
       "zh_tw": "唯獨愛你"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -97,7 +108,8 @@
       "ko_kr": "그란 알레그리아",
       "zh_tw": "放聲歡呼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -106,7 +118,8 @@
       "ko_kr": "럭키 라일락",
       "zh_tw": "幸運歐丁香"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -115,7 +128,8 @@
       "ko_kr": "아몬드 아이",
       "zh_tw": "杏目"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 23
   },
   {
     "name": {
@@ -124,7 +138,8 @@
       "ko_kr": "페노메노",
       "zh_tw": "超常駿驥"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -133,7 +148,8 @@
       "ko_kr": "버블검 펠로",
       "zh_tw": "泡泡糖小子"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -142,7 +158,8 @@
       "ko_kr": "뒤랑달",
       "zh_tw": "杜蘭達爾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -151,7 +168,8 @@
       "ko_kr": "칼스톤 라이트 오",
       "zh_tw": "浮岩光王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -160,7 +178,8 @@
       "ko_kr": "드림 저니",
       "zh_tw": "夢之旅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -169,7 +188,8 @@
       "ko_kr": "어드마이어 그루브",
       "zh_tw": "愛慕律動"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -178,7 +198,8 @@
       "ko_kr": "윈 바리아시옹",
       "zh_tw": "凱旋芭蕾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -187,7 +208,8 @@
       "ko_kr": "젠틸돈나",
       "zh_tw": "貴婦人"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -196,7 +218,8 @@
       "ko_kr": "오르페브르",
       "zh_tw": "黃金巨匠"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -205,7 +228,8 @@
       "ko_kr": "부에나 비스타",
       "zh_tw": "迷人景致"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -214,7 +238,8 @@
       "ko_kr": "후사이치 판도라",
       "zh_tw": "房一潘朵拉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -223,7 +248,8 @@
       "ko_kr": "데어링 하트",
       "zh_tw": "勇敢之心"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -232,7 +258,8 @@
       "ko_kr": "에어 메사이어",
       "zh_tw": "空中彌賽亞"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -241,7 +268,8 @@
       "ko_kr": "세자리오",
       "zh_tw": "西薩里奧"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -250,7 +278,8 @@
       "ko_kr": "라인 크라프트",
       "zh_tw": "萊茵實力"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -259,7 +288,8 @@
       "ko_kr": "두라멘테",
       "zh_tw": "大鳴大放"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
@@ -268,7 +298,8 @@
       "ko_kr": "탭 댄스 시티",
       "zh_tw": "踢踏城市"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -277,7 +308,8 @@
       "ko_kr": "히시 미라클",
       "zh_tw": "菱奇蹟"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 24
   },
   {
     "name": {
@@ -286,7 +318,8 @@
       "ko_kr": "네오 유니버스",
       "zh_tw": "新宇宙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -295,7 +328,8 @@
       "ko_kr": "카츠라기 에이스",
       "zh_tw": "葛城榮主"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -304,7 +338,8 @@
       "ko_kr": "로이스 앤 로이스",
       "zh_tw": "萊斯萊斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -313,7 +348,8 @@
       "ko_kr": "사운즈 오브 어스",
       "zh_tw": "萬籟爭鳴"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -322,7 +358,8 @@
       "ko_kr": "원더 어큐트",
       "zh_tw": "奇銳駿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 15
   },
   {
     "name": {
@@ -331,7 +368,8 @@
       "ko_kr": "홋코 타루마에",
       "zh_tw": "北幸樽前"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 23
   },
   {
     "name": {
@@ -340,7 +378,8 @@
       "ko_kr": "코파노 리키",
       "zh_tw": "小林歷奇"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 28
   },
   {
     "name": {
@@ -349,7 +388,8 @@
       "ko_kr": "스틸 인 러브",
       "zh_tw": "愛如往昔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 21
   },
   {
     "name": {
@@ -358,7 +398,8 @@
       "ko_kr": "노 리즌",
       "zh_tw": "無需理由"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -367,7 +408,8 @@
       "ko_kr": "빌리브",
       "zh_tw": "信念"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -376,7 +418,8 @@
       "ko_kr": "정글 포켓",
       "zh_tw": "叢林口袋"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 24
   },
   {
     "name": {
@@ -385,7 +428,8 @@
       "ko_kr": "케이에스 미라클",
       "zh_tw": "喜嘉奇蹟"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -394,7 +438,8 @@
       "ko_kr": "단츠 플레임",
       "zh_tw": "緞通烈焰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 37
   },
   {
     "name": {
@@ -403,7 +448,8 @@
       "ko_kr": "비블로스",
       "zh_tw": "比布魯斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 42
   },
   {
     "name": {
@@ -412,7 +458,8 @@
       "ko_kr": "베르시나",
       "zh_tw": "極峰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
@@ -421,7 +468,8 @@
       "ko_kr": "슈발 그랑",
       "zh_tw": "高尚駿逸"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 26
   },
   {
     "name": {
@@ -430,7 +478,8 @@
       "ko_kr": "사토노 크라운",
       "zh_tw": "里見皇冠"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 32
   },
   {
     "name": {
@@ -439,7 +488,8 @@
       "ko_kr": "애스턴 마짱",
       "zh_tw": "奧斯頓真弓"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 27
   },
   {
     "name": {
@@ -448,7 +498,8 @@
       "ko_kr": "메지로 라모누",
       "zh_tw": "目白拉茉奴"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -457,7 +508,8 @@
       "ko_kr": "다이이치 루비",
       "zh_tw": "第一紅寶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 23
   },
   {
     "name": {
@@ -466,7 +518,8 @@
       "ko_kr": "타니노 김렛",
       "zh_tw": "谷水琴蕾"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -475,7 +528,8 @@
       "ko_kr": "심볼리 크리스 에스",
       "zh_tw": "克莉斯耶絲象徵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -484,7 +538,8 @@
       "ko_kr": "노스 플라이트",
       "zh_tw": "北方飛翔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -493,7 +548,8 @@
       "ko_kr": "에스푸아르 시티",
       "zh_tw": "希望城市"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -502,7 +558,8 @@
       "ko_kr": "트랜센드",
       "zh_tw": "創升"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 4
   },
   {
     "name": {
@@ -511,7 +568,8 @@
       "ko_kr": "푸리오소",
       "zh_tw": "狂熱激昂"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -520,7 +578,8 @@
       "ko_kr": "야마닌 제퍼",
       "zh_tw": "山人西風"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -529,7 +588,8 @@
       "ko_kr": "나리타 탑 로드",
       "zh_tw": "成田路"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 148
   },
   {
     "name": {
@@ -538,7 +598,8 @@
       "ko_kr": "사쿠라 로렐",
       "zh_tw": "櫻花桂冠"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -547,7 +608,8 @@
       "ko_kr": "메지로 브라이트",
       "zh_tw": "目白光明"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -556,7 +618,8 @@
       "ko_kr": "츠루마루 츠요시",
       "zh_tw": "鶴丸強志"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -565,7 +628,8 @@
       "ko_kr": "야에노 무테키",
       "zh_tw": "八重無敵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 18
   },
   {
     "name": {
@@ -574,7 +638,8 @@
       "ko_kr": "메지로 아르당",
       "zh_tw": "目白阿爾丹"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 58
   },
   {
     "name": {
@@ -583,7 +648,8 @@
       "ko_kr": "시리우스 심볼리",
       "zh_tw": "天狼星象徵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -592,7 +658,8 @@
       "ko_kr": "사쿠라 치요노 오",
       "zh_tw": "櫻花千代王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 59
   },
   {
     "name": {
@@ -601,7 +668,8 @@
       "ko_kr": "키타산 블랙",
       "zh_tw": "北部玄駒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 149
   },
   {
     "name": {
@@ -610,7 +678,8 @@
       "ko_kr": "사토노 다이아몬드",
       "zh_tw": "里見光鑽"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 151
   },
   {
     "name": {
@@ -619,7 +688,8 @@
       "ko_kr": "트윈 터보",
       "zh_tw": "雙渦輪"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 121
   },
   {
     "name": {
@@ -628,7 +698,8 @@
       "ko_kr": "다이타쿠 헬리오스",
       "zh_tw": "大德太陽"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 50
   },
   {
     "name": {
@@ -637,7 +708,8 @@
       "ko_kr": "메지로 파머",
       "zh_tw": "目白善信"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 28
   },
   {
     "name": {
@@ -646,7 +718,8 @@
       "ko_kr": "이쿠노 딕터스",
       "zh_tw": "生野狄杜斯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
@@ -655,7 +728,8 @@
       "ko_kr": "마치카네 탄호이저",
       "zh_tw": "待兼唐懷瑟"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 158
   },
   {
     "name": {
@@ -664,7 +738,8 @@
       "ko_kr": "킹 헤일로",
       "zh_tw": "帝王光輝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 25
   },
   {
     "name": {
@@ -673,7 +748,8 @@
       "ko_kr": "나이스 네이처",
       "zh_tw": "優秀素質"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 165
   },
   {
     "name": {
@@ -682,7 +758,8 @@
       "ko_kr": "메지로 도베르",
       "zh_tw": "目白多伯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 32
   },
   {
     "name": {
@@ -691,7 +768,8 @@
       "ko_kr": "메이쇼 도토",
       "zh_tw": "名將怒濤"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 64
   },
   {
     "name": {
@@ -700,7 +778,8 @@
       "ko_kr": "미스터 시비",
       "zh_tw": "千明代表"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
@@ -709,7 +788,8 @@
       "ko_kr": "마치카네 후쿠키타루",
       "zh_tw": "待兼福來"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 34
   },
   {
     "name": {
@@ -718,7 +798,8 @@
       "ko_kr": "마블러스 선데이",
       "zh_tw": "美麗週日"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 12
   },
   {
     "name": {
@@ -727,7 +808,8 @@
       "ko_kr": "비코 페가수스",
       "zh_tw": "微光飛駒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -736,7 +818,8 @@
       "ko_kr": "뱀부 메모리",
       "zh_tw": "青竹回憶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 8
   },
   {
     "name": {
@@ -745,7 +828,8 @@
       "ko_kr": "하루 우라라",
       "zh_tw": "春烏菈菈"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 88
   },
   {
     "name": {
@@ -754,7 +838,8 @@
       "ko_kr": "니시노 플라워",
       "zh_tw": "西野花"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 18
   },
   {
     "name": {
@@ -763,7 +848,8 @@
       "ko_kr": "나리타 타이신",
       "zh_tw": "成田大進"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 35
   },
   {
     "name": {
@@ -772,7 +858,8 @@
       "ko_kr": "나카야마 페스타",
       "zh_tw": "中山慶典"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -781,7 +868,8 @@
       "ko_kr": "토센 조던",
       "zh_tw": "島川喬登"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -790,7 +878,8 @@
       "ko_kr": "젠노 롭 로이",
       "zh_tw": "荒漠英雄"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 10
   },
   {
     "name": {
@@ -799,7 +888,8 @@
       "ko_kr": "스마트 팔콘",
       "zh_tw": "醒目飛鷹"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 47
   },
   {
     "name": {
@@ -808,7 +898,8 @@
       "ko_kr": "슈퍼 크릭",
       "zh_tw": "超級小溪"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 56
   },
   {
     "name": {
@@ -817,7 +908,8 @@
       "ko_kr": "스윕 토쇼",
       "zh_tw": "東商變革"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 21
   },
   {
     "name": {
@@ -826,7 +918,8 @@
       "ko_kr": "신코 윈디",
       "zh_tw": "新光風"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -835,7 +928,8 @@
       "ko_kr": "시킹 더 펄",
       "zh_tw": "採珠"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 5
   },
   {
     "name": {
@@ -844,7 +938,8 @@
       "ko_kr": "사쿠라 바쿠신 오",
       "zh_tw": "櫻花驀進王"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 20
   },
   {
     "name": {
@@ -853,7 +948,8 @@
       "ko_kr": "골드 시티",
       "zh_tw": "黃金城市"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 35
   },
   {
     "name": {
@@ -862,7 +958,8 @@
       "ko_kr": "카와카미 프린세스",
       "zh_tw": "川上公主"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 11
   },
   {
     "name": {
@@ -871,7 +968,8 @@
       "ko_kr": "카렌짱",
       "zh_tw": "真機伶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 67
   },
   {
     "name": {
@@ -880,7 +978,8 @@
       "ko_kr": "에이신 플래시",
       "zh_tw": "榮進閃耀"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 28
   },
   {
     "name": {
@@ -889,7 +988,8 @@
       "ko_kr": "에어 샤커",
       "zh_tw": "空中神宮"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -898,7 +998,8 @@
       "ko_kr": "위닝 티켓",
       "zh_tw": "勝利獎券"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 22
   },
   {
     "name": {
@@ -907,7 +1008,8 @@
       "ko_kr": "이나리 원",
       "zh_tw": "稻荷一"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
@@ -916,7 +1018,8 @@
       "ko_kr": "어드마이어 베가",
       "zh_tw": "愛慕織姬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 103
   },
   {
     "name": {
@@ -925,7 +1028,8 @@
       "ko_kr": "아그네스 타키온",
       "zh_tw": "愛麗速子"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 87
   },
   {
     "name": {
@@ -934,7 +1038,8 @@
       "ko_kr": "아이네스 후진",
       "zh_tw": "艾尼風神"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 13
   },
   {
     "name": {
@@ -943,7 +1048,8 @@
       "ko_kr": "라이스 샤워",
       "zh_tw": "米浴"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 371
   },
   {
     "name": {
@@ -952,7 +1058,8 @@
       "ko_kr": "유키노 비진",
       "zh_tw": "雪之美人"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -961,7 +1068,8 @@
       "ko_kr": "히시 아케보노",
       "zh_tw": "菱曙"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 19
   },
   {
     "name": {
@@ -970,7 +1078,8 @@
       "ko_kr": "메지로 라이언",
       "zh_tw": "目白雷恩"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 14
   },
   {
     "name": {
@@ -979,7 +1088,8 @@
       "ko_kr": "미호노 부르봉",
       "zh_tw": "美浦波旁"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 104
   },
   {
     "name": {
@@ -988,7 +1098,8 @@
       "ko_kr": "맨하탄 카페",
       "zh_tw": "曼哈頓咖啡"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 87
   },
   {
     "name": {
@@ -997,7 +1108,8 @@
       "ko_kr": "마야노 탑건",
       "zh_tw": "重砲"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 88
   },
   {
     "name": {
@@ -1006,7 +1118,8 @@
       "ko_kr": "비와 하야히데",
       "zh_tw": "琵琶晨光"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 29
   },
   {
     "name": {
@@ -1015,7 +1128,8 @@
       "ko_kr": "파인 모션",
       "zh_tw": "美妙姿勢"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 34
   },
   {
     "name": {
@@ -1024,7 +1138,8 @@
       "ko_kr": "타마모 크로스",
       "zh_tw": "玉藻十字"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 149
   },
   {
     "name": {
@@ -1033,7 +1148,8 @@
       "ko_kr": "세이운 스카이",
       "zh_tw": "青雲天空"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 113
   },
   {
     "name": {
@@ -1042,7 +1158,8 @@
       "ko_kr": "아그네스 디지털",
       "zh_tw": "愛麗數碼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 24
   },
   {
     "name": {
@@ -1051,7 +1168,8 @@
       "ko_kr": "에어 그루브",
       "zh_tw": "氣槽"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 23
   },
   {
     "name": {
@@ -1060,7 +1178,8 @@
       "ko_kr": "심볼리 루돌프",
       "zh_tw": "魯道夫象徵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 72
   },
   {
     "name": {
@@ -1069,7 +1188,8 @@
       "ko_kr": "나리타 브라이언",
       "zh_tw": "成田白仁"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 26
   },
   {
     "name": {
@@ -1078,7 +1198,8 @@
       "ko_kr": "티엠 오페라 오",
       "zh_tw": "好歌劇"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 122
   },
   {
     "name": {
@@ -1087,7 +1208,8 @@
       "ko_kr": "엘 콘도르 파사",
       "zh_tw": "神鷹"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 46
   },
   {
     "name": {
@@ -1096,7 +1218,8 @@
       "ko_kr": "메지로 맥퀸",
       "zh_tw": "目白麥昆"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 293
   },
   {
     "name": {
@@ -1105,7 +1228,8 @@
       "ko_kr": "히시 아마존",
       "zh_tw": "菱亞馬遜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 16
   },
   {
     "name": {
@@ -1114,7 +1238,8 @@
       "ko_kr": "그래스 원더",
       "zh_tw": "草上飛"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 147
   },
   {
     "name": {
@@ -1123,7 +1248,8 @@
       "ko_kr": "타이키 셔틀",
       "zh_tw": "大樹快車"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 21
   },
   {
     "name": {
@@ -1132,7 +1258,8 @@
       "ko_kr": "다이와 스칼렛",
       "zh_tw": "大和赤驥"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 141
   },
   {
     "name": {
@@ -1141,7 +1268,8 @@
       "ko_kr": "보드카",
       "zh_tw": "伏特加"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 40
   },
   {
     "name": {
@@ -1150,7 +1278,8 @@
       "ko_kr": "골드 쉽",
       "zh_tw": "黃金船"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 147
   },
   {
     "name": {
@@ -1159,7 +1288,8 @@
       "ko_kr": "오구리 캡",
       "zh_tw": "小栗帽"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 393
   },
   {
     "name": {
@@ -1168,7 +1298,8 @@
       "ko_kr": "후지 키세키",
       "zh_tw": "富士奇石"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 55
   },
   {
     "name": {
@@ -1177,7 +1308,8 @@
       "ko_kr": "마루젠스키",
       "zh_tw": "丸善斯基"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 53
   },
   {
     "name": {
@@ -1186,7 +1318,8 @@
       "ko_kr": "토카이 테이오",
       "zh_tw": "東海帝皇"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 750
   },
   {
     "name": {
@@ -1195,7 +1328,8 @@
       "ko_kr": "사일런스 스즈카",
       "zh_tw": "無聲鈴鹿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 337
   },
   {
     "name": {
@@ -1204,6 +1338,7 @@
       "ko_kr": "스페셜 위크",
       "zh_tw": "特別週"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 247
   }
 ]

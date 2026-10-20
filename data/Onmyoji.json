@@ -2,17 +2,19 @@
   {
     "name": {
       "en_us": "Sakuya",
-      "ja_jp": "咲耶",
+      "ja_jp": "?",
       "zh_cn": "咲耶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "SP Hououka",
       "zh_cn": "百羽凤凰火"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -20,21 +22,24 @@
       "ja_jp": "岩長姫",
       "zh_cn": "石长姬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Yan He",
       "zh_cn": "言和"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
       "en_us": "Luo Tianyi",
       "zh_cn": "洛天依"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -44,7 +49,8 @@
     },
     "aliases": [
       "Fuzenkitsune"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -52,7 +58,8 @@
       "ja_jp": "思金神",
       "zh_cn": "毗沙门天"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -62,7 +69,8 @@
     },
     "aliases": [
       "Ignis Suzuhiko Hime"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -72,7 +80,8 @@
     },
     "aliases": [
       "Namahage"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -82,7 +91,8 @@
     },
     "aliases": [
       "Omoikane"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -90,7 +100,8 @@
       "ja_jp": "市加美",
       "zh_cn": "市加美"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -100,7 +111,8 @@
     },
     "aliases": [
       "Moonclipse Vampira"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -110,7 +122,8 @@
     },
     "aliases": [
       "Everadiant Momo"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -118,7 +131,8 @@
       "ja_jp": "葛の葉",
       "zh_cn": "葛叶"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -126,7 +140,8 @@
       "ja_jp": "神無月",
       "zh_cn": "神无月"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -136,7 +151,8 @@
     },
     "aliases": [
       "Hakuzosu Unbound"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -146,7 +162,8 @@
     },
     "aliases": [
       "Dreambound Chocho"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -154,7 +171,8 @@
       "ja_jp": "平将門",
       "zh_cn": "平将门"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -164,7 +182,8 @@
     },
     "aliases": [
       "Meowlord Kyuumei Neko"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -172,7 +191,8 @@
       "ja_jp": "雪御前",
       "zh_cn": "雪御前"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -180,7 +200,9 @@
       "ja_jp": "リ・シャオラン",
       "zh_cn": "李小狼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 161,
+    "collab": true
   },
   {
     "name": {
@@ -188,7 +210,9 @@
       "ja_jp": "木之本さくら",
       "zh_cn": "木之本樱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 750,
+    "collab": true
   },
   {
     "name": {
@@ -196,7 +220,8 @@
       "ja_jp": "湍津姫",
       "zh_cn": "湍津姫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -206,7 +231,8 @@
     },
     "aliases": [
       "Lavaforged Fukengaku"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -216,7 +242,8 @@
     },
     "aliases": [
       "Odokuro"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -226,7 +253,8 @@
     },
     "aliases": [
       "Glorious Takiyashahime"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -234,7 +262,8 @@
       "ja_jp": "卑弥呼",
       "zh_cn": "卑弥呼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -242,7 +271,9 @@
       "ja_jp": "巡音ルカ",
       "zh_cn": "巡音流歌"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 207,
+    "collab": true
   },
   {
     "name": {
@@ -250,7 +281,8 @@
       "ja_jp": "歌留多",
       "zh_cn": "歌留多"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -260,7 +292,8 @@
     },
     "aliases": [
       "Sungraced Hiyoribou"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -270,7 +303,8 @@
     },
     "aliases": [
       "Panharmonic Kinnara"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -278,7 +312,8 @@
       "ja_jp": "夏目&ニャンコ先生",
       "zh_cn": "夏目&猫老师"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -288,7 +323,8 @@
     },
     "aliases": [
       "Ambrosial Hoshiguma Doji"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -298,7 +334,8 @@
     },
     "aliases": [
       "Guijinyang"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -308,7 +345,8 @@
     },
     "aliases": [
       "Fengyang"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -318,7 +356,8 @@
     },
     "aliases": [
       "Bosombuddy Inugami"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -328,7 +367,8 @@
     },
     "aliases": [
       "Loongjue"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -338,7 +378,8 @@
     },
     "aliases": [
       "Nostalgic Enenra"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -348,7 +389,8 @@
     },
     "aliases": [
       "Magatsuhi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -356,7 +398,8 @@
       "ja_jp": "猫川",
       "zh_cn": "猫川"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -366,7 +409,8 @@
     },
     "aliases": [
       "Draconic Suzuka Gozen"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -374,7 +418,8 @@
       "ja_jp": "申屠子夜",
       "zh_cn": "申屠子夜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -384,7 +429,8 @@
     },
     "aliases": [
       "Returner Ebisu"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -394,7 +440,8 @@
     },
     "aliases": [
       "Kagamine Rin/Len"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -402,7 +449,9 @@
       "ja_jp": "初音ミク",
       "zh_cn": "初音未来"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2463,
+    "collab": true
   },
   {
     "name": {
@@ -412,7 +461,8 @@
     },
     "aliases": [
       "Senhime Resurgent"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -422,7 +472,8 @@
     },
     "aliases": [
       "Fortunegiver Zashiki"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -430,7 +481,8 @@
       "ja_jp": "瀧",
       "zh_cn": "泷"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -438,7 +490,8 @@
       "ja_jp": "玉取",
       "zh_cn": "玉取"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -448,7 +501,8 @@
     },
     "aliases": [
       "Trueself Mio"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -456,7 +510,8 @@
       "ja_jp": "盗人神",
       "zh_cn": "盗人神"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -464,7 +519,8 @@
       "ja_jp": "イザナミ",
       "zh_cn": "伊邪那美"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -474,7 +530,8 @@
     },
     "aliases": [
       "Kusa Regrown"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -482,7 +539,8 @@
       "ja_jp": "天照",
       "zh_cn": "天照"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -490,7 +548,8 @@
       "ja_jp": "闻人翊悬",
       "zh_cn": "闻人翊悬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -500,7 +559,8 @@
     },
     "aliases": [
       "Bondweaver Enmusubi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -508,7 +568,8 @@
       "ja_jp": "御明かし",
       "zh_cn": "慧明灯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -518,7 +579,8 @@
     },
     "aliases": [
       "Greenwarden Shishio"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -528,7 +590,8 @@
     },
     "aliases": [
       "Kujaku-Myoo"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -536,7 +599,8 @@
       "ja_jp": "神楽&定春",
       "zh_cn": "神乐&定春"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -544,7 +608,9 @@
       "ja_jp": "坂田銀時",
       "zh_cn": "坂田银时"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1381,
+    "collab": true
   },
   {
     "name": {
@@ -552,7 +618,8 @@
       "ja_jp": "言霊",
       "zh_cn": "言灵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -560,7 +627,8 @@
       "ja_jp": "天逆毎",
       "zh_cn": "天逆每"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -570,7 +638,8 @@
     },
     "aliases": [
       "Shura Kidomaru"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -580,7 +649,8 @@
     },
     "aliases": [
       "Luminary Oitsuki"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -588,7 +658,8 @@
       "ja_jp": "月読",
       "zh_cn": "月读"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -598,7 +669,8 @@
     },
     "aliases": [
       "Zen Ungaikyo"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -606,7 +678,8 @@
       "ja_jp": "季",
       "zh_cn": "季"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -614,7 +687,8 @@
       "ja_jp": "尋香行",
       "zh_cn": "寻香行"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -622,7 +696,8 @@
       "ja_jp": "须佐之男",
       "zh_cn": "须佐之男"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -632,7 +707,8 @@
     },
     "aliases": [
       "Divine Prophet Susabi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -640,7 +716,9 @@
       "ja_jp": "我妻善逸",
       "zh_cn": "我妻善逸"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 109,
+    "collab": true
   },
   {
     "name": {
@@ -648,7 +726,9 @@
       "ja_jp": "嘴平伊之助",
       "zh_cn": "嘴平伊之助"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 66,
+    "collab": true
   },
   {
     "name": {
@@ -658,7 +738,8 @@
     },
     "aliases": [
       "Heartseeker Momiji"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -668,7 +749,8 @@
     },
     "aliases": [
       "Yamalord Enma"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -678,7 +760,8 @@
     },
     "aliases": [
       "Oshiroibaba"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -688,7 +771,8 @@
     },
     "aliases": [
       "Fallen God Orochi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -698,7 +782,8 @@
     },
     "aliases": [
       "Uminocho"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -706,7 +791,8 @@
       "ja_jp": "影鰐",
       "zh_cn": "影鳄"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -714,7 +800,8 @@
       "ja_jp": "不見岳",
       "zh_cn": "不见岳"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -722,7 +809,8 @@
       "ja_jp": "迦楼羅",
       "zh_cn": "迦楼羅"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -732,7 +820,8 @@
     },
     "aliases": [
       "Ninja Yamausagi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -742,7 +831,8 @@
     },
     "aliases": [
       "Suzuhikohime"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -750,7 +840,8 @@
       "ja_jp": "夜刀神",
       "zh_cn": "夜刀神"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -760,7 +851,8 @@
     },
     "aliases": [
       "Inaba Kaguya"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -768,7 +860,8 @@
       "ja_jp": "川猿",
       "zh_cn": "川猿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -776,7 +869,8 @@
       "ja_jp": "飯笥",
       "zh_cn": "饭笥"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -784,7 +878,8 @@
       "ja_jp": "食霊",
       "zh_cn": "食灵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -792,7 +887,8 @@
       "ja_jp": "飴細工",
       "zh_cn": "饴细工"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -802,7 +898,8 @@
     },
     "aliases": [
       "Virtuoso Hana"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -812,7 +909,8 @@
     },
     "aliases": [
       "Void Menreiki"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -822,7 +920,8 @@
     },
     "aliases": [
       "Nyunai-suzume"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -830,7 +929,8 @@
       "ja_jp": "阿修羅",
       "zh_cn": "阿修罗"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -838,7 +938,8 @@
       "ja_jp": "御饌津蛙",
       "zh_cn": "御馔津呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -846,7 +947,8 @@
       "ja_jp": "玉藻前蛙",
       "zh_cn": "玉藻前呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -854,7 +956,8 @@
       "ja_jp": "雪童子蛙",
       "zh_cn": "雪童子呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -862,7 +965,8 @@
       "ja_jp": "帝釈天",
       "zh_cn": "帝释天"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -872,7 +976,8 @@
     },
     "aliases": [
       "Frosty Yuki Onna"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -880,7 +985,8 @@
       "ja_jp": "垢嘗",
       "zh_cn": "垢尝"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -888,7 +994,9 @@
       "ja_jp": "竈門炭治郎",
       "zh_cn": "灶门炭治郎"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 158,
+    "collab": true
   },
   {
     "name": {
@@ -896,7 +1004,9 @@
       "ja_jp": "竈門禰豆子",
       "zh_cn": "灶门祢豆子"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 325,
+    "collab": true
   },
   {
     "name": {
@@ -906,7 +1016,8 @@
     },
     "aliases": [
       "Nightveil Higanbana"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -916,7 +1027,8 @@
     },
     "aliases": [
       "Valiant Yamakaze"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -924,7 +1036,8 @@
       "ja_jp": "千姫",
       "zh_cn": "千姬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -934,7 +1047,8 @@
     },
     "aliases": [
       "Monumental Otakemaru"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -944,7 +1058,8 @@
     },
     "aliases": [
       "Guardian Ubume"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -952,7 +1067,8 @@
       "ja_jp": "緊那羅",
       "zh_cn": "紧那罗"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -962,7 +1078,8 @@
     },
     "aliases": [
       "Lovebound Kiyohime"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -972,7 +1089,8 @@
     },
     "aliases": [
       "Sasori"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -980,7 +1098,8 @@
       "ja_jp": "鈴鹿御前",
       "zh_cn": "铃鹿御前"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -990,7 +1109,8 @@
     },
     "aliases": [
       "Furi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1000,7 +1120,8 @@
     },
     "aliases": [
       "Wordly Aoandon"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1010,7 +1131,8 @@
     },
     "aliases": [
       "Enmusubi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1020,7 +1142,8 @@
     },
     "aliases": [
       "Seawatch Kingyo"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1030,7 +1153,8 @@
     },
     "aliases": [
       "Kidomaru"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1040,7 +1164,8 @@
     },
     "aliases": [
       "Ungaikyo"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1050,7 +1175,8 @@
     },
     "aliases": [
       "Onikiri Reforged"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1060,7 +1186,8 @@
     },
     "aliases": [
       "Hoshiguma Doji"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1070,7 +1197,8 @@
     },
     "aliases": [
       "Demoniac Shuten Doji"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1078,7 +1206,8 @@
       "ja_jp": "紙舞",
       "zh_cn": "​纸舞"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1088,7 +1217,8 @@
     },
     "aliases": [
       "Takiyashahime"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1098,7 +1228,8 @@
     },
     "aliases": [
       "Blazing Tamamonomae"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1106,7 +1237,9 @@
       "ja_jp": "朽木ルキア",
       "zh_cn": "朽木露琪亚"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 221,
+    "collab": true
   },
   {
     "name": {
@@ -1114,7 +1247,9 @@
       "ja_jp": "黒崎一護",
       "zh_cn": "黑崎一护"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 173,
+    "collab": true
   },
   {
     "name": {
@@ -1124,7 +1259,8 @@
     },
     "aliases": [
       "Waverider Lord Arakawa"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1134,7 +1270,8 @@
     },
     "aliases": [
       "Kanihime"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1142,7 +1279,8 @@
       "ja_jp": "久次良",
       "zh_cn": "久次良"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1152,7 +1290,8 @@
     },
     "aliases": [
       "Otakemaru"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1162,7 +1301,8 @@
     },
     "aliases": [
       "Vengeful Hannya"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1170,7 +1310,8 @@
       "ja_jp": "海忍",
       "zh_cn": "海忍"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1178,7 +1319,8 @@
       "ja_jp": "不知火",
       "zh_cn": "不知火"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 6
   },
   {
     "name": {
@@ -1188,7 +1330,8 @@
     },
     "aliases": [
       "Crimson Yoto"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1198,7 +1341,8 @@
     },
     "aliases": [
       "Bake-kujira"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1208,7 +1352,8 @@
     },
     "aliases": [
       "Azurestorm Ichimokuren"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1218,7 +1363,8 @@
     },
     "aliases": [
       "Tenjo-kudari"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1228,7 +1374,8 @@
     },
     "aliases": [
       "Divine Miketsu"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1236,7 +1383,8 @@
       "ja_jp": "一反木綿",
       "zh_cn": "一反木绵"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1246,7 +1394,8 @@
     },
     "aliases": [
       "Okuribito"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1256,7 +1405,8 @@
     },
     "aliases": [
       "Inferno Ibaraki Doji"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1266,7 +1416,8 @@
     },
     "aliases": [
       "Okikumishi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1276,7 +1427,9 @@
     },
     "aliases": [
       "Kikyo"
-    ]
+    ],
+    "score": 339,
+    "collab": true
   },
   {
     "name": {
@@ -1286,7 +1439,8 @@
     },
     "aliases": [
       "Jinmenju"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1296,7 +1450,8 @@
     },
     "aliases": [
       "Jr. Ootengu"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1306,7 +1461,8 @@
     },
     "aliases": [
       "Hakuzosu"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1314,7 +1470,8 @@
       "ja_jp": "鬼切",
       "zh_cn": "鬼切"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -1324,7 +1481,9 @@
     },
     "aliases": [
       "Sesshomaru"
-    ]
+    ],
+    "score": 110,
+    "collab": true
   },
   {
     "name": {
@@ -1332,7 +1491,9 @@
       "ja_jp": "犬夜叉",
       "zh_cn": "犬夜叉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 92,
+    "collab": true
   },
   {
     "name": {
@@ -1340,7 +1501,8 @@
       "ja_jp": "面霊気",
       "zh_cn": "面灵气"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1348,7 +1510,8 @@
       "ja_jp": "猫又",
       "zh_cn": "猫掌柜"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1356,7 +1519,8 @@
       "ja_jp": "ピーチマキ＆芥子",
       "zh_cn": "蜜桃&芥子"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1366,7 +1530,9 @@
     },
     "aliases": [
       "Oko"
-    ]
+    ],
+    "score": 8,
+    "collab": true
   },
   {
     "name": {
@@ -1374,7 +1540,9 @@
       "ja_jp": "鬼灯",
       "zh_cn": "鬼灯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 54,
+    "collab": true
   },
   {
     "name": {
@@ -1382,7 +1550,8 @@
       "ja_jp": "蟲師",
       "zh_cn": "虫师"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1392,7 +1561,9 @@
     },
     "aliases": [
       "Medicine Seller"
-    ]
+    ],
+    "score": 131,
+    "collab": true
   },
   {
     "name": {
@@ -1400,7 +1571,8 @@
       "ja_jp": "薫",
       "zh_cn": "薰"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1408,7 +1580,8 @@
       "ja_jp": "オロチ",
       "zh_cn": "八岐大蛇"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1416,7 +1589,8 @@
       "ja_jp": "一目連蛙",
       "zh_cn": "一目连呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1424,7 +1598,8 @@
       "ja_jp": "妖刀姫蛙",
       "zh_cn": "妖刀姬呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1432,7 +1607,8 @@
       "ja_jp": "閻魔蛙",
       "zh_cn": "阎魔呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1440,7 +1616,8 @@
       "ja_jp": "シシオ蛙",
       "zh_cn": "小鹿男呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1448,7 +1625,8 @@
       "ja_jp": "青行燈蛙",
       "zh_cn": "青行灯呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1458,7 +1636,8 @@
     },
     "aliases": [
       "Ryomen Frog"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1468,7 +1647,8 @@
     },
     "aliases": [
       "Shuten"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1478,7 +1658,8 @@
     },
     "aliases": [
       "Kaguya Frog"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1486,7 +1667,8 @@
       "ja_jp": "荒川蛙",
       "zh_cn": "荒川呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1494,7 +1676,8 @@
       "ja_jp": "荒蛙",
       "zh_cn": "荒呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1504,7 +1687,8 @@
     },
     "aliases": [
       "Hana Frog"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1512,7 +1696,8 @@
       "ja_jp": "彼岸花蛙",
       "zh_cn": "彼岸花呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1520,7 +1705,8 @@
       "ja_jp": "大天狗蛙",
       "zh_cn": "大天狗呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1528,7 +1714,8 @@
       "ja_jp": "茨木蛙",
       "zh_cn": "茨木呱"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1536,7 +1723,8 @@
       "ja_jp": "山風",
       "zh_cn": "山风"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1544,7 +1732,8 @@
       "ja_jp": "棋聖",
       "zh_cn": "弈"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1554,7 +1743,8 @@
     },
     "aliases": [
       "Kosodenote"
-    ]
+    ],
+    "score": 1
   },
   {
     "name": {
@@ -1562,7 +1752,8 @@
       "ja_jp": "御饌津",
       "zh_cn": "御馔津"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1572,7 +1763,8 @@
     },
     "aliases": [
       "Hiyoribo"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1582,7 +1774,8 @@
     },
     "aliases": [
       "Base Daruma"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1592,7 +1785,8 @@
     },
     "aliases": [
       "Oitsuki"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1600,7 +1794,9 @@
       "ja_jp": "奴良リクオ",
       "zh_cn": "奴良陆生"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 24,
+    "collab": true
   },
   {
     "name": {
@@ -1608,7 +1804,8 @@
       "ja_jp": "数珠",
       "zh_cn": "数珠"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1616,7 +1813,8 @@
       "ja_jp": "Kyonshī-inu キョンシー犬",
       "zh_cn": "Tiào tiào quǎn 跳跳犬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1626,7 +1824,8 @@
     },
     "aliases": [
       "Dodomeki"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1636,7 +1835,8 @@
     },
     "aliases": [
       "Yuki"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1646,7 +1846,8 @@
     },
     "aliases": [
       "Tamamonomae"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1656,7 +1857,8 @@
     },
     "aliases": [
       "Bukkuman"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1666,7 +1868,8 @@
     },
     "aliases": [
       "Usagi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1676,7 +1879,8 @@
     },
     "aliases": [
       "Komatsu"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1686,7 +1890,8 @@
     },
     "aliases": [
       "Hako Shoujo"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1694,7 +1899,8 @@
       "ja_jp": "彼岸花",
       "zh_cn": "彼岸花"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1702,7 +1908,8 @@
       "ja_jp": "鴆",
       "zh_cn": "鸩"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1710,7 +1917,8 @@
       "ja_jp": "以津真天",
       "zh_cn": "以津真天"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1720,7 +1928,8 @@
     },
     "aliases": [
       "Kingyo"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1728,7 +1937,8 @@
       "ja_jp": "万年竹",
       "zh_cn": "万年竹"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1736,7 +1946,8 @@
       "ja_jp": "荒",
       "zh_cn": "荒"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1746,7 +1957,8 @@
     },
     "aliases": [
       "Kusa"
-    ]
+    ],
+    "score": 8
   },
   {
     "name": {
@@ -1756,7 +1968,8 @@
     },
     "aliases": [
       "Yoto Hime"
-    ]
+    ],
+    "score": 10
   },
   {
     "name": {
@@ -1766,7 +1979,8 @@
     },
     "aliases": [
       "Hana"
-    ]
+    ],
+    "score": 4
   },
   {
     "name": {
@@ -1776,7 +1990,8 @@
     },
     "aliases": [
       "Koroka"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1786,7 +2001,8 @@
     },
     "aliases": [
       "Aobozu"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1796,7 +2012,8 @@
     },
     "aliases": [
       "Kuro"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1806,7 +2023,8 @@
     },
     "aliases": [
       "Shiro"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1814,7 +2032,8 @@
       "ja_jp": "Hōkigami 箒神",
       "zh_cn": "Zhou shén 帚神"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1822,7 +2041,8 @@
       "ja_jp": "童男",
       "zh_cn": "童男"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1830,7 +2050,8 @@
       "ja_jp": "童女",
       "zh_cn": "童女"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1840,7 +2061,8 @@
     },
     "aliases": [
       "Kyonshi Ototo"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1850,7 +2072,8 @@
     },
     "aliases": [
       "Kyonshi Imoto"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1860,7 +2083,8 @@
     },
     "aliases": [
       "Kyonshi Ani"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1868,7 +2092,8 @@
       "ja_jp": "Kiseirei",
       "zh_cn": "Jìshēng hún"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1876,7 +2101,8 @@
       "ja_jp": "Karakasa-kozō からかさ小僧",
       "zh_cn": "Táng zhǐ sǎn yāo 唐纸伞妖"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1884,7 +2110,8 @@
       "ja_jp": "Hakaarashi no rei",
       "zh_cn": "Dàomù xiǎoguǐ"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1892,7 +2119,8 @@
       "ja_jp": "Chōchin-kozō 提灯小僧",
       "zh_cn": "Tídēng xiǎosēng 提灯小僧"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1900,7 +2128,8 @@
       "ja_jp": "<!--Chōchin-obake-->提灯お化け",
       "zh_cn": "<!--Dēnglóng guǐ-->灯笼鬼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1910,7 +2139,8 @@
     },
     "aliases": [
       "Mio"
-    ]
+    ],
+    "score": 2
   },
   {
     "name": {
@@ -1920,7 +2150,8 @@
     },
     "aliases": [
       "Sakura"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -1928,7 +2159,8 @@
       "ja_jp": "髪喰い",
       "zh_cn": "食发鬼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1936,7 +2168,8 @@
       "ja_jp": "夢喰い",
       "zh_cn": "食梦貘"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1944,7 +2177,8 @@
       "ja_jp": "丑の刻参り",
       "zh_cn": "丑时之女"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1952,7 +2186,8 @@
       "ja_jp": "鉄鼠",
       "zh_cn": "铁鼠"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1960,7 +2195,8 @@
       "ja_jp": "Nurikabe ぬりかべ",
       "zh_cn": "Tu bì 涂壁"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1968,7 +2204,8 @@
       "ja_jp": "Akajita 赤舌",
       "zh_cn": "Chì shé 赤舌"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1978,7 +2215,8 @@
     },
     "aliases": [
       "Chocho"
-    ]
+    ],
+    "score": 1
   },
   {
     "name": {
@@ -1986,7 +2224,8 @@
       "ja_jp": "磁器蛙",
       "zh_cn": "青蛙瓷器"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -1994,7 +2233,8 @@
       "ja_jp": "蠱毒師",
       "zh_cn": "巫蛊师"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2004,7 +2244,8 @@
     },
     "aliases": [
       "Samurai X"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2014,7 +2255,8 @@
     },
     "aliases": [
       "Warrior Soul"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2024,7 +2266,8 @@
     },
     "aliases": [
       "Hitotsume"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2034,7 +2277,8 @@
     },
     "aliases": [
       "Tanuki"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2042,7 +2286,8 @@
       "ja_jp": "判官",
       "zh_cn": "判官"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2052,7 +2297,8 @@
     },
     "aliases": [
       "Maestro"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2060,7 +2306,8 @@
       "ja_jp": "骨女",
       "zh_cn": "骨女"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2068,7 +2315,8 @@
       "ja_jp": "妖狐",
       "zh_cn": "妖狐"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2076,7 +2324,8 @@
       "ja_jp": "恵比寿",
       "zh_cn": "惠比寿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2086,7 +2335,8 @@
     },
     "aliases": [
       "Hakuro"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2094,7 +2344,8 @@
       "ja_jp": "鎌鼬",
       "zh_cn": "镰鼬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2104,7 +2355,8 @@
     },
     "aliases": [
       "Futakuchi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2112,7 +2364,8 @@
       "ja_jp": "一目連",
       "zh_cn": "一目连"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2120,7 +2373,8 @@
       "ja_jp": "シシオ",
       "zh_cn": "小鹿男"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2130,7 +2384,8 @@
     },
     "aliases": [
       "Puppeteer"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2140,7 +2395,8 @@
     },
     "aliases": [
       "Ryomen"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2148,7 +2404,8 @@
       "ja_jp": "Amanojaku ki",
       "zh_cn": "Tiānxiéguǐ huáng"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2156,7 +2413,8 @@
       "ja_jp": "Amanojaku ao 天邪鬼青",
       "zh_cn": "Tiānxiéguǐ qīng 天邪鬼青"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2164,7 +2422,8 @@
       "ja_jp": "Amanojaku aka 天邪鬼赤",
       "zh_cn": "Tiānxiéguǐ hóng 天邪鬼赤"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2172,7 +2431,8 @@
       "ja_jp": "Amanojaku midori 天邪鬼緑",
       "zh_cn": "Tiānxiéguǐ lǜ 天邪鬼绿"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2182,7 +2442,8 @@
     },
     "aliases": [
       "Kanko"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2190,7 +2451,8 @@
       "ja_jp": "椒図",
       "zh_cn": "椒图"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2200,7 +2462,8 @@
     },
     "aliases": [
       "Vampira"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2208,7 +2471,8 @@
       "ja_jp": "孟婆",
       "zh_cn": "孟婆"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2216,7 +2480,8 @@
       "ja_jp": "煙々羅",
       "zh_cn": "烟烟罗"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2226,7 +2491,8 @@
     },
     "aliases": [
       "Kaguya"
-    ]
+    ],
+    "score": 5
   },
   {
     "name": {
@@ -2234,7 +2500,8 @@
       "ja_jp": "首なし",
       "zh_cn": "首无"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2244,7 +2511,8 @@
     },
     "aliases": [
       "Yamausagi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2252,7 +2520,8 @@
       "ja_jp": "覚",
       "zh_cn": "觉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2260,7 +2529,8 @@
       "ja_jp": "河童",
       "zh_cn": "河童"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2270,7 +2540,8 @@
     },
     "aliases": [
       "Koi"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2278,7 +2549,8 @@
       "ja_jp": "九命猫",
       "zh_cn": "九命猫"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2288,7 +2560,8 @@
     },
     "aliases": [
       "Lord Arakawa"
-    ]
+    ],
+    "score": 2
   },
   {
     "name": {
@@ -2296,7 +2569,8 @@
       "ja_jp": "山童",
       "zh_cn": "山童"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2304,7 +2578,8 @@
       "ja_jp": "鳳凰火",
       "zh_cn": "凤凰火"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2314,7 +2589,8 @@
     },
     "aliases": [
       "Momiji"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2324,7 +2600,8 @@
     },
     "aliases": [
       "Umibozu"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2332,7 +2609,8 @@
       "ja_jp": "白無常",
       "zh_cn": "鬼使白"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2342,7 +2620,8 @@
     },
     "aliases": [
       "Jorogumo"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2350,7 +2629,8 @@
       "ja_jp": "黒無常",
       "zh_cn": "鬼使黑"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 3
   },
   {
     "name": {
@@ -2358,7 +2638,8 @@
       "ja_jp": "姑獲鳥",
       "zh_cn": "姑获鸟"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2368,7 +2649,8 @@
     },
     "aliases": [
       "Shuten Doji"
-    ]
+    ],
+    "score": 0
   },
   {
     "name": {
@@ -2378,7 +2660,8 @@
     },
     "aliases": [
       "Ibaraki Doji"
-    ]
+    ],
+    "score": 7
   },
   {
     "name": {
@@ -2388,7 +2671,8 @@
     },
     "aliases": [
       "Momo"
-    ]
+    ],
+    "score": 6
   },
   {
     "name": {
@@ -2396,7 +2680,8 @@
       "ja_jp": "般若",
       "zh_cn": "般若"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2404,7 +2689,8 @@
       "ja_jp": "青行燈",
       "zh_cn": "青行灯"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 7
   },
   {
     "name": {
@@ -2412,7 +2698,8 @@
       "ja_jp": "雨女",
       "zh_cn": "雨女"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2422,7 +2709,8 @@
     },
     "aliases": [
       "Zashiki"
-    ]
+    ],
+    "score": 1
   },
   {
     "name": {
@@ -2430,7 +2718,8 @@
       "ja_jp": "雪女",
       "zh_cn": "雪女"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2438,7 +2727,8 @@
       "ja_jp": "餓鬼",
       "zh_cn": "饿鬼"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2446,7 +2736,8 @@
       "ja_jp": "烏天狗",
       "zh_cn": "鸦天狗"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2454,7 +2745,8 @@
       "ja_jp": "犬神",
       "zh_cn": "犬神"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2462,7 +2754,8 @@
       "ja_jp": "清姫",
       "zh_cn": "清姬"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   },
   {
     "name": {
@@ -2470,7 +2763,8 @@
       "ja_jp": "閻魔",
       "zh_cn": "阎魔"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 2
   },
   {
     "name": {
@@ -2478,7 +2772,8 @@
       "ja_jp": "大天狗",
       "zh_cn": "大天狗"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 1
   },
   {
     "name": {
@@ -2486,6 +2781,7 @@
       "ja_jp": "夜叉",
       "zh_cn": "夜叉"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 0
   }
 ]

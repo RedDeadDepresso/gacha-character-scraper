@@ -31,3 +31,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Bangumi dump downloaded by cmd/merge (see package bangumi)
+bangumi_dump/
