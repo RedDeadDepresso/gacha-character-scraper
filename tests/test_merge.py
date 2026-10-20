@@ -111,9 +111,10 @@ def test_old_single_string_names_load(tmp_path):
     assert idx["chars"][0]["name"] == {EN: "Old"} and idx["chars"][0]["aliases"] == []
 
 
-def test_opencc_converts():
+def test_opencc_converts_with_taiwan_glyphs():
     pytest.importorskip("opencc")
     assert merge.make_s2t()("奥黛塔 鸣潮") == "奧黛塔 鳴潮"
+    assert merge.make_s2t()("莉莉丝·里德") == "莉莉絲·裡德"      # s2t would give 裏德
 
 
 def test_main_writes_the_file(tmp_path, monkeypatch):

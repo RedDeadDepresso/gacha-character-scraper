@@ -26,7 +26,7 @@ from collections.abc import Callable
 from pathlib import Path
 
 LANG_EN, LANG_ZH, LANG_TW, LANG_JA, LANG_KO, LANG_RU = "en_us", "zh_cn", "zh_tw", "ja_jp", "ko_kr", "ru_ru"
-OPENCC_CONFIG = "s2t"      # Simplified -> Traditional (use "s2tw" / "s2twp" for Taiwan wording)
+OPENCC_CONFIG = "s2tw"     # Simplified -> Traditional, Taiwan standard glyphs (no phrase changes like s2twp)
 
 Names = dict[str, str]
 Char = dict   # data/<game>.json entry: name, aliases, score, collab, birthMonth, birthDay
