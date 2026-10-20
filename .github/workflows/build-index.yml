@@ -8,7 +8,8 @@ on:
       [
         "config/series.json",
         "data/**",
-        "cmd/**",
+        "scripts/**",
+        "requirements.txt",
         ".github/workflows/build-index.yml",
       ]
 
@@ -29,15 +30,16 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-go@v5
+      - uses: actions/setup-python@v5
         with:
-          go-version: "1.22"
+          python-version: "3.12"
+          cache: pip
 
-      - name: Resolve dependencies
-        run: go mod tidy
+      - name: Install dependencies (OpenCC)
+        run: pip install -r requirements.txt
 
       - name: Merge data into gacha_character_index.json
-        run: go run ./cmd/merge -out dist/gacha_character_index.json
+        run: python scripts/merge.py --out dist/gacha_character_index.json
 
       # Unique name per attempt so "Re-run jobs" doesn't leave two artifacts
       # called github-pages in the same run (deploy-pages fails on that).

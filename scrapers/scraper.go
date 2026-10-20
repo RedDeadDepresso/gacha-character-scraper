@@ -22,7 +22,7 @@ type Character struct {
 
 	// Score is the popularity on Bangumi (the character's 收藏数) and Collab
 	// marks a character that first appeared elsewhere (a collab character);
-	// both are set by ApplyBangumi after every scrape and read by cmd/merge,
+	// both are set by ApplyBangumi after every scrape and read by scripts/merge.py,
 	// which leaves collab characters out. They are kept in the data file, not
 	// removed, so that the incremental scrape still knows the character.
 	Score  int  `json:"score"`
@@ -172,7 +172,7 @@ type Series struct {
 	// the characters by their popularity on Bangumi and flags the collab
 	// characters (guests in this subject); agv-character-scraper
 	// leaves the subject out of its index. 0 means unknown: no score is set and
-	// cmd/merge uses the score by position in series.json.
+	// scripts/merge.py uses the score by position in series.json.
 	BangumiID int `json:"bangumi_id"`
 	// Title is the series title per language; en_us defaults to Game.
 	Title Names `json:"title"`

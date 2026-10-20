@@ -32,5 +32,9 @@ go.work.sum
 # .idea/
 # .vscode/
 
-# Bangumi dump downloaded by cmd/merge (see package bangumi)
+# Bangumi dump downloaded by go run . (see package bangumi)
 bangumi_dump/
+
+# Python
+__pycache__/
+.pytest_cache/
