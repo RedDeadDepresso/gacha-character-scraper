@@ -439,7 +439,9 @@
       "ja_jp": "カズラドロップ"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 4,
+    "birthDay": 12
   },
   {
     "name": {
@@ -503,7 +505,9 @@
       "ja_jp": "シエル"
     },
     "aliases": [],
-    "score": 155
+    "score": 155,
+    "birthMonth": 5,
+    "birthDay": 3
   },
   {
     "name": {
@@ -518,7 +522,9 @@
       "en_us": "C.I.E.L"
     },
     "aliases": [],
-    "score": 155
+    "score": 155,
+    "birthMonth": 5,
+    "birthDay": 3
   },
   {
     "name": {
@@ -574,7 +580,9 @@
       "ja_jp": "久遠寺有珠"
     },
     "aliases": [],
-    "score": 917
+    "score": 917,
+    "birthMonth": 9,
+    "birthDay": 30
   },
   {
     "name": {
@@ -582,7 +590,9 @@
       "ja_jp": "静希草十郎"
     },
     "aliases": [],
-    "score": 328
+    "score": 328,
+    "birthMonth": 4,
+    "birthDay": 12
   },
   {
     "name": {
@@ -590,7 +600,9 @@
       "ja_jp": "蒼崎青子"
     },
     "aliases": [],
-    "score": 871
+    "score": 871,
+    "birthMonth": 7,
+    "birthDay": 7
   },
   {
     "name": {
@@ -1193,7 +1205,9 @@
     },
     "aliases": [],
     "score": 612,
-    "collab": true
+    "collab": true,
+    "birthMonth": 12,
+    "birthDay": 25
   },
   {
     "name": {
@@ -1425,7 +1439,9 @@
       "ja_jp": "エリザベート・バートリー〔シンデレラ〕"
     },
     "aliases": [],
-    "score": 51
+    "score": 51,
+    "birthMonth": 5,
+    "birthDay": 17
   },
   {
     "name": {
@@ -1729,7 +1745,9 @@
       "ja_jp": "斎藤一"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 2,
+    "birthDay": 18
   },
   {
     "name": {
@@ -2071,7 +2089,9 @@
       "ja_jp": "ラクシュミー・バーイー"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 11,
+    "birthDay": 19
   },
   {
     "name": {
@@ -2103,7 +2123,9 @@
       "ja_jp": "グレイ"
     },
     "aliases": [],
-    "score": 250
+    "score": 250,
+    "birthMonth": 6,
+    "birthDay": 17
   },
   {
     "name": {
@@ -2159,7 +2181,9 @@
       "ja_jp": "キングプロテア"
     },
     "aliases": [],
-    "score": 20
+    "score": 20,
+    "birthMonth": 4,
+    "birthDay": 1
   },
   {
     "name": {
@@ -2178,7 +2202,9 @@
       "美遊",
       "Miyu"
     ],
-    "score": 254
+    "score": 254,
+    "birthMonth": 7,
+    "birthDay": 20
   },
   {
     "name": {
@@ -2324,7 +2350,9 @@
       "ja_jp": "岡田以蔵"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 2,
+    "birthDay": 14
   },
   {
     "name": {
@@ -2380,7 +2408,9 @@
       "ja_jp": "イヴァン雷帝"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 8,
+    "birthDay": 25
   },
   {
     "name": {
@@ -2396,7 +2426,9 @@
       "ja_jp": "アントニオ・サリエリ"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 8,
+    "birthDay": 18
   },
   {
     "name": {
@@ -2436,7 +2468,9 @@
       "ja_jp": "浅上藤乃"
     },
     "aliases": [],
-    "score": 309
+    "score": 309,
+    "birthMonth": 5,
+    "birthDay": 20
   },
   {
     "name": {
@@ -2670,7 +2704,9 @@
       "ja_jp": "殺生院キアラ"
     },
     "aliases": [],
-    "score": 53
+    "score": 53,
+    "birthMonth": 6,
+    "birthDay": 4
   },
   {
     "name": {
@@ -2678,7 +2714,9 @@
       "ja_jp": "ＢＢ"
     },
     "aliases": [],
-    "score": 62
+    "score": 62,
+    "birthMonth": 3,
+    "birthDay": 2
   },
   {
     "name": {
@@ -2694,7 +2732,9 @@
       "ja_jp": "パッションリップ"
     },
     "aliases": [],
-    "score": 35
+    "score": 35,
+    "birthMonth": 4,
+    "birthDay": 10
   },
   {
     "name": {
@@ -2702,7 +2742,9 @@
       "ja_jp": "メルトリリス"
     },
     "aliases": [],
-    "score": 94
+    "score": 94,
+    "birthMonth": 4,
+    "birthDay": 9
   },
   {
     "name": {
@@ -2921,7 +2963,9 @@
       "ja_jp": "エリザベート・バートリー〔ブレイブ〕"
     },
     "aliases": [],
-    "score": 51
+    "score": 51,
+    "birthMonth": 5,
+    "birthDay": 17
   },
   {
     "name": {
@@ -2932,7 +2976,9 @@
       "クロエ",
       "Chloe"
     ],
-    "score": 138
+    "score": 138,
+    "birthMonth": 7,
+    "birthDay": 20
   },
   {
     "name": {
@@ -2948,7 +2994,9 @@
       "ja_jp": "イリヤスフィール・フォン・アインツベルン"
     },
     "aliases": [],
-    "score": 82
+    "score": 82,
+    "birthMonth": 7,
+    "birthDay": 20
   },
   {
     "name": {
@@ -2956,7 +3004,9 @@
       "ja_jp": "アン・ボニー"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 3,
+    "birthDay": 8
   },
   {
     "name": {
@@ -3279,7 +3329,9 @@
       "ja_jp": "両儀式"
     },
     "aliases": [],
-    "score": 1683
+    "score": 1683,
+    "birthMonth": 2,
+    "birthDay": 17
   },
   {
     "name": {
@@ -3611,7 +3663,9 @@
       "ja_jp": "エリザベート・バートリー〔ハロウィン〕"
     },
     "aliases": [],
-    "score": 51
+    "score": 51,
+    "birthMonth": 5,
+    "birthDay": 17
   },
   {
     "name": {
@@ -3630,7 +3684,9 @@
       "ジャンヌ",
       "Jeanne"
     ],
-    "score": 257
+    "score": 257,
+    "birthMonth": 1,
+    "birthDay": 6
   },
   {
     "name": {
@@ -3879,7 +3935,9 @@
       "ja_jp": "ウィリアム・シェイクスピア"
     },
     "aliases": [],
-    "score": 9
+    "score": 9,
+    "birthMonth": 4,
+    "birthDay": 26
   },
   {
     "name": {
@@ -3895,7 +3953,9 @@
       "ja_jp": "ハンス・クリスチャン・アンデルセン"
     },
     "aliases": [],
-    "score": 22
+    "score": 22,
+    "birthMonth": 4,
+    "birthDay": 2
   },
   {
     "name": {
@@ -4029,7 +4089,9 @@
       "エリザベート",
       "Elisabeth"
     ],
-    "score": 51
+    "score": 51,
+    "birthMonth": 5,
+    "birthDay": 17
   },
   {
     "name": {
@@ -4155,7 +4217,9 @@
       "ネロ",
       "Nero"
     ],
-    "score": 304
+    "score": 304,
+    "birthMonth": 12,
+    "birthDay": 15
   },
   {
     "name": {

@@ -82,6 +82,10 @@ type Character struct {
 	ID       int
 	Collects int      // 收藏数: the popularity
 	Names    []string // the name, the simplified Chinese name and every alias
+
+	// BirthMonth and BirthDay come from the infobox `生日` (0 when it has none
+	// or no month and day can be read from it).
+	BirthMonth, BirthDay int
 }
 
 // Data holds the characters of the subjects given to Load.
@@ -156,7 +160,10 @@ func Load(dir string, subjectIDs []int) (*Data, error) {
 		if json.Unmarshal(line, &r) != nil || !inSubjects[int(r.ID)] {
 			return
 		}
-		d.chars[int(r.ID)] = &Character{ID: int(r.ID), Collects: int(r.Collects), Names: characterNames(r)}
+		names, birthday := parseInfobox(r)
+		c := &Character{ID: int(r.ID), Collects: int(r.Collects), Names: names}
+		c.BirthMonth, c.BirthDay = ParseBirthday(birthday)
+		d.chars[int(r.ID)] = c
 	})
 	if err != nil {
 		return nil, fmt.Errorf("read %s: %w", CharactersFile, err)
@@ -195,15 +202,16 @@ func firstNonEmpty(s ...string) string {
 	return ""
 }
 
-// characterNames collects the name, the Simplified Chinese name (`简体中文名`)
-// and every item of the aliases (`别名`: other Chinese names, English / Japanese
-// names, romaji, nicknames) of the wiki infobox. Other infobox fields (gender,
-// birthday, ...) are not names and are skipped.
-func characterNames(r characterRec) []string {
-	names := []string{r.Name}
+// parseInfobox collects the names of a character: the name, the Simplified
+// Chinese name (`简体中文名`) and every item of the aliases (`别名`: other Chinese
+// names, English / Japanese names, romaji, nicknames) of the wiki infobox, and
+// returns the text of its `生日` (birthday). Other infobox fields (gender, ...)
+// are not names and are skipped.
+func parseInfobox(r characterRec) (names []string, birthday string) {
+	names = []string{r.Name}
 	w, err := wiki.Parse(r.Infobox)
 	if err != nil { // a broken infobox still has the plain name
-		return clean(names)
+		return clean(names), ""
 	}
 	for _, f := range w.Fields {
 		switch {
@@ -215,9 +223,13 @@ func characterNames(r characterRec) []string {
 			}
 		case f.Key == "别名" && f.Value != "": // written as a plain value
 			names = append(names, f.Value)
+		case f.Key == "生日" && !f.Array:
+			birthday = f.Value
+		case f.Key == "生日" && len(f.Values) > 0: // written as a list: the first item
+			birthday = f.Values[0].Value
 		}
 	}
-	return clean(names)
+	return clean(names), birthday
 }
 
 func clean(in []string) []string {

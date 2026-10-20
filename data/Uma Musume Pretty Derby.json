@@ -14,7 +14,9 @@
       "ko_kr": "룰러쉽"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 5,
+    "birthDay": 15
   },
   {
     "name": {
@@ -23,7 +25,9 @@
       "ko_kr": "로즈 킹덤"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 5,
+    "birthDay": 10
   },
   {
     "name": {
@@ -32,7 +36,9 @@
       "ko_kr": "빅투아르 피사"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 3,
+    "birthDay": 31
   },
   {
     "name": {
@@ -41,7 +47,9 @@
       "ko_kr": "에피파네이아"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 2,
+    "birthDay": 11
   },
   {
     "name": {
@@ -50,7 +58,9 @@
       "ko_kr": "키세키"
     },
     "aliases": [],
-    "score": 1
+    "score": 1,
+    "birthMonth": 5,
+    "birthDay": 13
   },
   {
     "name": {
@@ -59,7 +69,9 @@
       "ko_kr": "레드 디자이어"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 4,
+    "birthDay": 19
   },
   {
     "name": {
@@ -69,7 +81,9 @@
       "zh_tw": "黃金旅程"
     },
     "aliases": [],
-    "score": 9
+    "score": 9,
+    "birthMonth": 3,
+    "birthDay": 24
   },
   {
     "name": {
@@ -79,7 +93,9 @@
       "zh_tw": "機伶金花"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 4,
+    "birthDay": 23
   },
   {
     "name": {
@@ -89,7 +105,9 @@
       "zh_tw": "時代創世"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 3,
+    "birthDay": 6
   },
   {
     "name": {
@@ -99,7 +117,9 @@
       "zh_tw": "唯獨愛你"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 3,
+    "birthDay": 26
   },
   {
     "name": {
@@ -109,7 +129,9 @@
       "zh_tw": "放聲歡呼"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 1,
+    "birthDay": 24
   },
   {
     "name": {
@@ -119,7 +141,9 @@
       "zh_tw": "幸運歐丁香"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 4,
+    "birthDay": 3
   },
   {
     "name": {
@@ -129,7 +153,9 @@
       "zh_tw": "杏目"
     },
     "aliases": [],
-    "score": 23
+    "score": 23,
+    "birthMonth": 3,
+    "birthDay": 10
   },
   {
     "name": {
@@ -139,7 +165,9 @@
       "zh_tw": "超常駿驥"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 4,
+    "birthDay": 20
   },
   {
     "name": {
@@ -149,7 +177,9 @@
       "zh_tw": "泡泡糖小子"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 4,
+    "birthDay": 11
   },
   {
     "name": {
@@ -159,7 +189,9 @@
       "zh_tw": "杜蘭達爾"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 5,
+    "birthDay": 25
   },
   {
     "name": {
@@ -169,7 +201,9 @@
       "zh_tw": "浮岩光王"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 5,
+    "birthDay": 3
   },
   {
     "name": {
@@ -179,7 +213,9 @@
       "zh_tw": "夢之旅"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 2,
+    "birthDay": 24
   },
   {
     "name": {
@@ -199,7 +235,9 @@
       "zh_tw": "凱旋芭蕾"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 4,
+    "birthDay": 10
   },
   {
     "name": {
@@ -209,7 +247,9 @@
       "zh_tw": "貴婦人"
     },
     "aliases": [],
-    "score": 12
+    "score": 12,
+    "birthMonth": 2,
+    "birthDay": 20
   },
   {
     "name": {
@@ -219,7 +259,9 @@
       "zh_tw": "黃金巨匠"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 5,
+    "birthDay": 14
   },
   {
     "name": {
@@ -229,7 +271,9 @@
       "zh_tw": "迷人景致"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 3,
+    "birthDay": 14
   },
   {
     "name": {
@@ -239,7 +283,9 @@
       "zh_tw": "房一潘朵拉"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 2,
+    "birthDay": 27
   },
   {
     "name": {
@@ -249,7 +295,9 @@
       "zh_tw": "勇敢之心"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 3,
+    "birthDay": 9
   },
   {
     "name": {
@@ -259,7 +307,9 @@
       "zh_tw": "空中彌賽亞"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 2,
+    "birthDay": 4
   },
   {
     "name": {
@@ -269,7 +319,9 @@
       "zh_tw": "西薩里奧"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 3,
+    "birthDay": 31
   },
   {
     "name": {
@@ -279,7 +331,9 @@
       "zh_tw": "萊茵實力"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 4,
+    "birthDay": 4
   },
   {
     "name": {
@@ -289,7 +343,9 @@
       "zh_tw": "大鳴大放"
     },
     "aliases": [],
-    "score": 22
+    "score": 22,
+    "birthMonth": 3,
+    "birthDay": 22
   },
   {
     "name": {
@@ -299,7 +355,9 @@
       "zh_tw": "踢踏城市"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 3,
+    "birthDay": 16
   },
   {
     "name": {
@@ -309,7 +367,9 @@
       "zh_tw": "菱奇蹟"
     },
     "aliases": [],
-    "score": 24
+    "score": 24,
+    "birthMonth": 3,
+    "birthDay": 31
   },
   {
     "name": {
@@ -319,7 +379,9 @@
       "zh_tw": "新宇宙"
     },
     "aliases": [],
-    "score": 14
+    "score": 14,
+    "birthMonth": 5,
+    "birthDay": 21
   },
   {
     "name": {
@@ -329,7 +391,9 @@
       "zh_tw": "葛城榮主"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 4,
+    "birthDay": 24
   },
   {
     "name": {
@@ -339,7 +403,9 @@
       "zh_tw": "萊斯萊斯"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 3,
+    "birthDay": 10
   },
   {
     "name": {
@@ -349,7 +415,9 @@
       "zh_tw": "萬籟爭鳴"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 4,
+    "birthDay": 12
   },
   {
     "name": {
@@ -359,7 +427,9 @@
       "zh_tw": "奇銳駿"
     },
     "aliases": [],
-    "score": 15
+    "score": 15,
+    "birthMonth": 3,
+    "birthDay": 14
   },
   {
     "name": {
@@ -369,7 +439,9 @@
       "zh_tw": "北幸樽前"
     },
     "aliases": [],
-    "score": 23
+    "score": 23,
+    "birthMonth": 5,
+    "birthDay": 26
   },
   {
     "name": {
@@ -379,7 +451,9 @@
       "zh_tw": "小林歷奇"
     },
     "aliases": [],
-    "score": 28
+    "score": 28,
+    "birthMonth": 3,
+    "birthDay": 24
   },
   {
     "name": {
@@ -389,7 +463,9 @@
       "zh_tw": "愛如往昔"
     },
     "aliases": [],
-    "score": 21
+    "score": 21,
+    "birthMonth": 5,
+    "birthDay": 2
   },
   {
     "name": {
@@ -399,7 +475,9 @@
       "zh_tw": "無需理由"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 6,
+    "birthDay": 4
   },
   {
     "name": {
@@ -409,7 +487,9 @@
       "zh_tw": "信念"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 4,
+    "birthDay": 26
   },
   {
     "name": {
@@ -419,7 +499,9 @@
       "zh_tw": "叢林口袋"
     },
     "aliases": [],
-    "score": 24
+    "score": 24,
+    "birthMonth": 5,
+    "birthDay": 7
   },
   {
     "name": {
@@ -429,7 +511,9 @@
       "zh_tw": "喜嘉奇蹟"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 3,
+    "birthDay": 16
   },
   {
     "name": {
@@ -439,7 +523,9 @@
       "zh_tw": "緞通烈焰"
     },
     "aliases": [],
-    "score": 37
+    "score": 37,
+    "birthMonth": 4,
+    "birthDay": 19
   },
   {
     "name": {
@@ -449,7 +535,9 @@
       "zh_tw": "比布魯斯"
     },
     "aliases": [],
-    "score": 42
+    "score": 42,
+    "birthMonth": 4,
+    "birthDay": 9
   },
   {
     "name": {
@@ -459,7 +547,9 @@
       "zh_tw": "極峰"
     },
     "aliases": [],
-    "score": 19
+    "score": 19,
+    "birthMonth": 3,
+    "birthDay": 5
   },
   {
     "name": {
@@ -469,7 +559,9 @@
       "zh_tw": "高尚駿逸"
     },
     "aliases": [],
-    "score": 26
+    "score": 26,
+    "birthMonth": 3,
+    "birthDay": 14
   },
   {
     "name": {
@@ -479,7 +571,9 @@
       "zh_tw": "里見皇冠"
     },
     "aliases": [],
-    "score": 32
+    "score": 32,
+    "birthMonth": 3,
+    "birthDay": 10
   },
   {
     "name": {
@@ -489,7 +583,9 @@
       "zh_tw": "奧斯頓真弓"
     },
     "aliases": [],
-    "score": 27
+    "score": 27,
+    "birthMonth": 3,
+    "birthDay": 5
   },
   {
     "name": {
@@ -499,7 +595,9 @@
       "zh_tw": "目白拉茉奴"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 4,
+    "birthDay": 9
   },
   {
     "name": {
@@ -509,7 +607,9 @@
       "zh_tw": "第一紅寶"
     },
     "aliases": [],
-    "score": 23
+    "score": 23,
+    "birthMonth": 4,
+    "birthDay": 15
   },
   {
     "name": {
@@ -519,7 +619,9 @@
       "zh_tw": "谷水琴蕾"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 5,
+    "birthDay": 4
   },
   {
     "name": {
@@ -529,7 +631,9 @@
       "zh_tw": "克莉斯耶絲象徵"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 1,
+    "birthDay": 21
   },
   {
     "name": {
@@ -539,7 +643,9 @@
       "zh_tw": "北方飛翔"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 4,
+    "birthDay": 12
   },
   {
     "name": {
@@ -549,7 +655,9 @@
       "zh_tw": "希望城市"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 4,
+    "birthDay": 22
   },
   {
     "name": {
@@ -559,7 +667,9 @@
       "zh_tw": "創升"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 3,
+    "birthDay": 9
   },
   {
     "name": {
@@ -569,7 +679,9 @@
       "zh_tw": "狂熱激昂"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 5,
+    "birthDay": 1
   },
   {
     "name": {
@@ -579,7 +691,9 @@
       "zh_tw": "山人西風"
     },
     "aliases": [],
-    "score": 14
+    "score": 14,
+    "birthMonth": 5,
+    "birthDay": 27
   },
   {
     "name": {
@@ -589,7 +703,9 @@
       "zh_tw": "成田路"
     },
     "aliases": [],
-    "score": 148
+    "score": 148,
+    "birthMonth": 4,
+    "birthDay": 4
   },
   {
     "name": {
@@ -599,7 +715,9 @@
       "zh_tw": "櫻花桂冠"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 5,
+    "birthDay": 8
   },
   {
     "name": {
@@ -609,7 +727,9 @@
       "zh_tw": "目白光明"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 4,
+    "birthDay": 19
   },
   {
     "name": {
@@ -619,7 +739,9 @@
       "zh_tw": "鶴丸強志"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 4,
+    "birthDay": 6
   },
   {
     "name": {
@@ -629,7 +751,9 @@
       "zh_tw": "八重無敵"
     },
     "aliases": [],
-    "score": 18
+    "score": 18,
+    "birthMonth": 4,
+    "birthDay": 11
   },
   {
     "name": {
@@ -639,7 +763,9 @@
       "zh_tw": "目白阿爾丹"
     },
     "aliases": [],
-    "score": 58
+    "score": 58,
+    "birthMonth": 3,
+    "birthDay": 28
   },
   {
     "name": {
@@ -649,7 +775,9 @@
       "zh_tw": "天狼星象徵"
     },
     "aliases": [],
-    "score": 13
+    "score": 13,
+    "birthMonth": 3,
+    "birthDay": 26
   },
   {
     "name": {
@@ -659,7 +787,9 @@
       "zh_tw": "櫻花千代王"
     },
     "aliases": [],
-    "score": 59
+    "score": 59,
+    "birthMonth": 2,
+    "birthDay": 19
   },
   {
     "name": {
@@ -669,7 +799,9 @@
       "zh_tw": "北部玄駒"
     },
     "aliases": [],
-    "score": 149
+    "score": 149,
+    "birthMonth": 3,
+    "birthDay": 10
   },
   {
     "name": {
@@ -679,7 +811,9 @@
       "zh_tw": "里見光鑽"
     },
     "aliases": [],
-    "score": 151
+    "score": 151,
+    "birthMonth": 1,
+    "birthDay": 30
   },
   {
     "name": {
@@ -689,7 +823,9 @@
       "zh_tw": "雙渦輪"
     },
     "aliases": [],
-    "score": 121
+    "score": 121,
+    "birthMonth": 4,
+    "birthDay": 13
   },
   {
     "name": {
@@ -699,7 +835,9 @@
       "zh_tw": "大德太陽"
     },
     "aliases": [],
-    "score": 50
+    "score": 50,
+    "birthMonth": 4,
+    "birthDay": 10
   },
   {
     "name": {
@@ -709,7 +847,9 @@
       "zh_tw": "目白善信"
     },
     "aliases": [],
-    "score": 28
+    "score": 28,
+    "birthMonth": 3,
+    "birthDay": 21
   },
   {
     "name": {
@@ -719,7 +859,9 @@
       "zh_tw": "生野狄杜斯"
     },
     "aliases": [],
-    "score": 22
+    "score": 22,
+    "birthMonth": 4,
+    "birthDay": 16
   },
   {
     "name": {
@@ -729,7 +871,9 @@
       "zh_tw": "待兼唐懷瑟"
     },
     "aliases": [],
-    "score": 158
+    "score": 158,
+    "birthMonth": 5,
+    "birthDay": 7
   },
   {
     "name": {
@@ -739,7 +883,9 @@
       "zh_tw": "帝王光輝"
     },
     "aliases": [],
-    "score": 25
+    "score": 25,
+    "birthMonth": 4,
+    "birthDay": 28
   },
   {
     "name": {
@@ -749,7 +895,9 @@
       "zh_tw": "優秀素質"
     },
     "aliases": [],
-    "score": 165
+    "score": 165,
+    "birthMonth": 4,
+    "birthDay": 16
   },
   {
     "name": {
@@ -759,7 +907,9 @@
       "zh_tw": "目白多伯"
     },
     "aliases": [],
-    "score": 32
+    "score": 32,
+    "birthMonth": 5,
+    "birthDay": 6
   },
   {
     "name": {
@@ -769,7 +919,9 @@
       "zh_tw": "名將怒濤"
     },
     "aliases": [],
-    "score": 64
+    "score": 64,
+    "birthMonth": 3,
+    "birthDay": 25
   },
   {
     "name": {
@@ -779,7 +931,9 @@
       "zh_tw": "千明代表"
     },
     "aliases": [],
-    "score": 22
+    "score": 22,
+    "birthMonth": 4,
+    "birthDay": 7
   },
   {
     "name": {
@@ -789,7 +943,9 @@
       "zh_tw": "待兼福來"
     },
     "aliases": [],
-    "score": 34
+    "score": 34,
+    "birthMonth": 5,
+    "birthDay": 22
   },
   {
     "name": {
@@ -799,7 +955,9 @@
       "zh_tw": "美麗週日"
     },
     "aliases": [],
-    "score": 12
+    "score": 12,
+    "birthMonth": 5,
+    "birthDay": 31
   },
   {
     "name": {
@@ -809,7 +967,9 @@
       "zh_tw": "微光飛駒"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 2,
+    "birthDay": 8
   },
   {
     "name": {
@@ -819,7 +979,9 @@
       "zh_tw": "青竹回憶"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 5,
+    "birthDay": 14
   },
   {
     "name": {
@@ -829,7 +991,9 @@
       "zh_tw": "春烏菈菈"
     },
     "aliases": [],
-    "score": 88
+    "score": 88,
+    "birthMonth": 2,
+    "birthDay": 27
   },
   {
     "name": {
@@ -839,7 +1003,9 @@
       "zh_tw": "西野花"
     },
     "aliases": [],
-    "score": 18
+    "score": 18,
+    "birthMonth": 4,
+    "birthDay": 19
   },
   {
     "name": {
@@ -849,7 +1015,9 @@
       "zh_tw": "成田大進"
     },
     "aliases": [],
-    "score": 35
+    "score": 35,
+    "birthMonth": 6,
+    "birthDay": 10
   },
   {
     "name": {
@@ -859,7 +1027,9 @@
       "zh_tw": "中山慶典"
     },
     "aliases": [],
-    "score": 13
+    "score": 13,
+    "birthMonth": 4,
+    "birthDay": 5
   },
   {
     "name": {
@@ -869,7 +1039,9 @@
       "zh_tw": "島川喬登"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 2,
+    "birthDay": 4
   },
   {
     "name": {
@@ -879,7 +1051,9 @@
       "zh_tw": "荒漠英雄"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 3,
+    "birthDay": 27
   },
   {
     "name": {
@@ -889,7 +1063,9 @@
       "zh_tw": "醒目飛鷹"
     },
     "aliases": [],
-    "score": 47
+    "score": 47,
+    "birthMonth": 4,
+    "birthDay": 4
   },
   {
     "name": {
@@ -899,7 +1075,9 @@
       "zh_tw": "超級小溪"
     },
     "aliases": [],
-    "score": 56
+    "score": 56,
+    "birthMonth": 5,
+    "birthDay": 27
   },
   {
     "name": {
@@ -909,7 +1087,9 @@
       "zh_tw": "東商變革"
     },
     "aliases": [],
-    "score": 21
+    "score": 21,
+    "birthMonth": 5,
+    "birthDay": 9
   },
   {
     "name": {
@@ -919,7 +1099,9 @@
       "zh_tw": "新光風"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 4,
+    "birthDay": 14
   },
   {
     "name": {
@@ -929,7 +1111,9 @@
       "zh_tw": "採珠"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 4,
+    "birthDay": 16
   },
   {
     "name": {
@@ -939,7 +1123,9 @@
       "zh_tw": "櫻花驀進王"
     },
     "aliases": [],
-    "score": 20
+    "score": 20,
+    "birthMonth": 4,
+    "birthDay": 14
   },
   {
     "name": {
@@ -949,7 +1135,9 @@
       "zh_tw": "黃金城市"
     },
     "aliases": [],
-    "score": 35
+    "score": 35,
+    "birthMonth": 4,
+    "birthDay": 16
   },
   {
     "name": {
@@ -959,7 +1147,9 @@
       "zh_tw": "川上公主"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 6,
+    "birthDay": 5
   },
   {
     "name": {
@@ -969,7 +1159,9 @@
       "zh_tw": "真機伶"
     },
     "aliases": [],
-    "score": 67
+    "score": 67,
+    "birthMonth": 3,
+    "birthDay": 31
   },
   {
     "name": {
@@ -979,7 +1171,9 @@
       "zh_tw": "榮進閃耀"
     },
     "aliases": [],
-    "score": 28
+    "score": 28,
+    "birthMonth": 3,
+    "birthDay": 27
   },
   {
     "name": {
@@ -989,7 +1183,9 @@
       "zh_tw": "空中神宮"
     },
     "aliases": [],
-    "score": 13
+    "score": 13,
+    "birthMonth": 2,
+    "birthDay": 26
   },
   {
     "name": {
@@ -999,7 +1195,9 @@
       "zh_tw": "勝利獎券"
     },
     "aliases": [],
-    "score": 22
+    "score": 22,
+    "birthMonth": 3,
+    "birthDay": 21
   },
   {
     "name": {
@@ -1009,7 +1207,9 @@
       "zh_tw": "稻荷一"
     },
     "aliases": [],
-    "score": 16
+    "score": 16,
+    "birthMonth": 5,
+    "birthDay": 7
   },
   {
     "name": {
@@ -1019,7 +1219,9 @@
       "zh_tw": "愛慕織姬"
     },
     "aliases": [],
-    "score": 103
+    "score": 103,
+    "birthMonth": 3,
+    "birthDay": 12
   },
   {
     "name": {
@@ -1029,7 +1231,9 @@
       "zh_tw": "愛麗速子"
     },
     "aliases": [],
-    "score": 87
+    "score": 87,
+    "birthMonth": 4,
+    "birthDay": 13
   },
   {
     "name": {
@@ -1039,7 +1243,9 @@
       "zh_tw": "艾尼風神"
     },
     "aliases": [],
-    "score": 13
+    "score": 13,
+    "birthMonth": 4,
+    "birthDay": 10
   },
   {
     "name": {
@@ -1049,7 +1255,9 @@
       "zh_tw": "米浴"
     },
     "aliases": [],
-    "score": 371
+    "score": 371,
+    "birthMonth": 3,
+    "birthDay": 5
   },
   {
     "name": {
@@ -1059,7 +1267,9 @@
       "zh_tw": "雪之美人"
     },
     "aliases": [],
-    "score": 14
+    "score": 14,
+    "birthMonth": 3,
+    "birthDay": 10
   },
   {
     "name": {
@@ -1069,7 +1279,9 @@
       "zh_tw": "菱曙"
     },
     "aliases": [],
-    "score": 19
+    "score": 19,
+    "birthMonth": 2,
+    "birthDay": 27
   },
   {
     "name": {
@@ -1079,7 +1291,9 @@
       "zh_tw": "目白雷恩"
     },
     "aliases": [],
-    "score": 14
+    "score": 14,
+    "birthMonth": 4,
+    "birthDay": 11
   },
   {
     "name": {
@@ -1089,7 +1303,9 @@
       "zh_tw": "美浦波旁"
     },
     "aliases": [],
-    "score": 104
+    "score": 104,
+    "birthMonth": 4,
+    "birthDay": 25
   },
   {
     "name": {
@@ -1099,7 +1315,9 @@
       "zh_tw": "曼哈頓咖啡"
     },
     "aliases": [],
-    "score": 87
+    "score": 87,
+    "birthMonth": 3,
+    "birthDay": 5
   },
   {
     "name": {
@@ -1109,7 +1327,9 @@
       "zh_tw": "重砲"
     },
     "aliases": [],
-    "score": 88
+    "score": 88,
+    "birthMonth": 3,
+    "birthDay": 24
   },
   {
     "name": {
@@ -1119,7 +1339,9 @@
       "zh_tw": "琵琶晨光"
     },
     "aliases": [],
-    "score": 29
+    "score": 29,
+    "birthMonth": 3,
+    "birthDay": 10
   },
   {
     "name": {
@@ -1129,7 +1351,9 @@
       "zh_tw": "美妙姿勢"
     },
     "aliases": [],
-    "score": 34
+    "score": 34,
+    "birthMonth": 1,
+    "birthDay": 27
   },
   {
     "name": {
@@ -1139,7 +1363,9 @@
       "zh_tw": "玉藻十字"
     },
     "aliases": [],
-    "score": 149
+    "score": 149,
+    "birthMonth": 5,
+    "birthDay": 23
   },
   {
     "name": {
@@ -1149,7 +1375,9 @@
       "zh_tw": "青雲天空"
     },
     "aliases": [],
-    "score": 113
+    "score": 113,
+    "birthMonth": 4,
+    "birthDay": 26
   },
   {
     "name": {
@@ -1159,7 +1387,9 @@
       "zh_tw": "愛麗數碼"
     },
     "aliases": [],
-    "score": 24
+    "score": 24,
+    "birthMonth": 5,
+    "birthDay": 15
   },
   {
     "name": {
@@ -1169,7 +1399,9 @@
       "zh_tw": "氣槽"
     },
     "aliases": [],
-    "score": 23
+    "score": 23,
+    "birthMonth": 4,
+    "birthDay": 6
   },
   {
     "name": {
@@ -1179,7 +1411,9 @@
       "zh_tw": "魯道夫象徵"
     },
     "aliases": [],
-    "score": 72
+    "score": 72,
+    "birthMonth": 3,
+    "birthDay": 13
   },
   {
     "name": {
@@ -1189,7 +1423,9 @@
       "zh_tw": "成田白仁"
     },
     "aliases": [],
-    "score": 26
+    "score": 26,
+    "birthMonth": 5,
+    "birthDay": 3
   },
   {
     "name": {
@@ -1199,7 +1435,9 @@
       "zh_tw": "好歌劇"
     },
     "aliases": [],
-    "score": 122
+    "score": 122,
+    "birthMonth": 3,
+    "birthDay": 13
   },
   {
     "name": {
@@ -1209,7 +1447,9 @@
       "zh_tw": "神鷹"
     },
     "aliases": [],
-    "score": 46
+    "score": 46,
+    "birthMonth": 3,
+    "birthDay": 17
   },
   {
     "name": {
@@ -1219,7 +1459,9 @@
       "zh_tw": "目白麥昆"
     },
     "aliases": [],
-    "score": 293
+    "score": 293,
+    "birthMonth": 4,
+    "birthDay": 3
   },
   {
     "name": {
@@ -1229,7 +1471,9 @@
       "zh_tw": "菱亞馬遜"
     },
     "aliases": [],
-    "score": 16
+    "score": 16,
+    "birthMonth": 3,
+    "birthDay": 26
   },
   {
     "name": {
@@ -1239,7 +1483,9 @@
       "zh_tw": "草上飛"
     },
     "aliases": [],
-    "score": 147
+    "score": 147,
+    "birthMonth": 2,
+    "birthDay": 18
   },
   {
     "name": {
@@ -1249,7 +1495,9 @@
       "zh_tw": "大樹快車"
     },
     "aliases": [],
-    "score": 21
+    "score": 21,
+    "birthMonth": 3,
+    "birthDay": 23
   },
   {
     "name": {
@@ -1259,7 +1507,9 @@
       "zh_tw": "大和赤驥"
     },
     "aliases": [],
-    "score": 141
+    "score": 141,
+    "birthMonth": 5,
+    "birthDay": 13
   },
   {
     "name": {
@@ -1269,7 +1519,9 @@
       "zh_tw": "伏特加"
     },
     "aliases": [],
-    "score": 40
+    "score": 40,
+    "birthMonth": 4,
+    "birthDay": 4
   },
   {
     "name": {
@@ -1279,7 +1531,9 @@
       "zh_tw": "黃金船"
     },
     "aliases": [],
-    "score": 147
+    "score": 147,
+    "birthMonth": 3,
+    "birthDay": 6
   },
   {
     "name": {
@@ -1289,7 +1543,9 @@
       "zh_tw": "小栗帽"
     },
     "aliases": [],
-    "score": 393
+    "score": 393,
+    "birthMonth": 3,
+    "birthDay": 27
   },
   {
     "name": {
@@ -1299,7 +1555,9 @@
       "zh_tw": "富士奇石"
     },
     "aliases": [],
-    "score": 55
+    "score": 55,
+    "birthMonth": 4,
+    "birthDay": 15
   },
   {
     "name": {
@@ -1309,7 +1567,9 @@
       "zh_tw": "丸善斯基"
     },
     "aliases": [],
-    "score": 53
+    "score": 53,
+    "birthMonth": 5,
+    "birthDay": 19
   },
   {
     "name": {
@@ -1319,7 +1579,9 @@
       "zh_tw": "東海帝皇"
     },
     "aliases": [],
-    "score": 750
+    "score": 750,
+    "birthMonth": 4,
+    "birthDay": 20
   },
   {
     "name": {
@@ -1329,7 +1591,9 @@
       "zh_tw": "無聲鈴鹿"
     },
     "aliases": [],
-    "score": 337
+    "score": 337,
+    "birthMonth": 5,
+    "birthDay": 1
   },
   {
     "name": {
@@ -1339,6 +1603,8 @@
       "zh_tw": "特別週"
     },
     "aliases": [],
-    "score": 247
+    "score": 247,
+    "birthMonth": 5,
+    "birthDay": 2
   }
 ]

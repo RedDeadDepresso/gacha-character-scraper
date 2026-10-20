@@ -48,9 +48,9 @@ func writeDump(t *testing.T, dir string) {
 			m{"subject_id": 200, "character_id": 5, "type": 1}, m{"subject_id": 100, "character_id": 1, "type": 1},
 		),
 		CharactersFile: jl(
-			m{"id": 1, "name": "神里 綾華", "collects": 900, "infobox": "{{Infobox Crt\n|简体中文名= 神里绫华\n|性别= 女\n|别名={\n[英文名|Kamisato Ayaka]\n[罗马字|Kamisato Ayaka]\n}\n}}"},
+			m{"id": 1, "name": "神里 綾華", "collects": 900, "infobox": "{{Infobox Crt\n|简体中文名= 神里绫华\n|性别= 女\n|生日= 9月28日（天秤座）\n|别名={\n[英文名|Kamisato Ayaka]\n[罗马字|Kamisato Ayaka]\n}\n}}"},
 			m{"id": 2, "name": "アーロイ", "collects": 50, "infobox": "{{Infobox Crt\n|别名={\n[英文名|Aloy]\n}\n}}"},
-			m{"id": 3, "name": "パイモン", "collects": "700", "infobox": "{{Infobox Crt\n|简体中文名= 派蒙\n}}"},
+			m{"id": 3, "name": "パイモン", "collects": "700", "infobox": "{{Infobox Crt\n|简体中文名= 派蒙\n|生日= 6月\n}}"},
 			m{"id": 4, "name": "Nobody", "collects": 1, "infobox": "broken"},
 			m{"id": 5, "name": "神里 綾華", "collects": 99999, "infobox": ""},
 		),
@@ -105,6 +105,12 @@ func TestLoadAndMatch(t *testing.T) {
 	if c := d.chars[3]; c.Collects != 700 || d.IsCollab(100, c) {
 		t.Errorf("Paimon: %+v (a guest role in the anime says nothing about the game)", c)
 	}
+	if c := d.chars[1]; c.BirthMonth != 9 || c.BirthDay != 28 {
+		t.Errorf("Ayaka's birthday: %d/%d", c.BirthMonth, c.BirthDay)
+	}
+	if c := d.chars[3]; c.BirthMonth != 0 || c.BirthDay != 0 {
+		t.Errorf("a month alone is no birthday: %d/%d", c.BirthMonth, c.BirthDay)
+	}
 	if d.IsCollab(100, d.chars[1]) {
 		t.Error("Ayaka is also linked as a main character")
 	}
@@ -129,7 +135,7 @@ func TestLoadAndMatch(t *testing.T) {
 		{Names: []string{"Nobody"}},                                    // 4: broken infobox still matches by name (guest: collab)
 	})
 	want := []Result{
-		{Matched: true, Collects: 900},
+		{Matched: true, Collects: 900, BirthMonth: 9, BirthDay: 28},
 		{Matched: true, Collects: 50, Collab: true},
 		{Matched: true, Collects: 700},
 		{},
@@ -236,5 +242,20 @@ func TestUpdate(t *testing.T) {
 	}
 	if err := Update(filepath.Join(t.TempDir(), "empty")); err == nil {
 		t.Error("offline without a dump must fail")
+	}
+}
+
+func TestParseBirthday(t *testing.T) {
+	for in, want := range map[string][2]int{
+		"9月28日": {9, 28}, "２月２９日": {2, 29}, "2000年9月28日（天秤座）": {9, 28}, "12月5日": {12, 5},
+		"9/28": {9, 28}, "28/9": {9, 28}, "4/1": {4, 1}, "2000-09-28": {9, 28}, "2000/9/28": {9, 28},
+		"September 28": {9, 28}, "Sept. 28th": {9, 28}, "28th of September": {9, 28}, "1 Jan": {1, 1},
+		"3月3日（ひな祭り）": {3, 3},
+		"":           {0, 0}, "不明": {0, 0}, "6月": {0, 0}, "1994年": {0, 0}, "2月30日": {0, 0}, "13月1日": {0, 0},
+		"may": {0, 0}, "身高 170": {0, 0}, "100/200": {0, 0},
+	} {
+		if m, d := ParseBirthday(in); [2]int{m, d} != want {
+			t.Errorf("ParseBirthday(%q) = %d/%d, want %d/%d", in, m, d, want[0], want[1])
+		}
 	}
 }

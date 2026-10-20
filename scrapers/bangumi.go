@@ -43,6 +43,9 @@ func ApplyBangumi(bg *bangumi.Data, sc Series, chars []Character) {
 	matched := 0
 	for i, r := range res {
 		chars[i].Score, chars[i].Collab = r.Collects, r.Collab
+		if r.BirthMonth != 0 { // Bangumi not knowing it does not erase one already saved
+			chars[i].BirthMonth, chars[i].BirthDay = r.BirthMonth, r.BirthDay
+		}
 		switch {
 		case r.Collab:
 			matched++

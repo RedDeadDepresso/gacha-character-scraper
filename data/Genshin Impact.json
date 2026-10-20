@@ -16,7 +16,9 @@
       "zh_tw": "奧黛塔"
     },
     "aliases": [],
-    "score": 12
+    "score": 12,
+    "birthMonth": 2,
+    "birthDay": 20
   },
   {
     "name": {
@@ -28,7 +30,9 @@
       "zh_tw": "阿羅夏"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 2,
+    "birthDay": 9
   },
   {
     "name": {
@@ -40,7 +44,9 @@
       "zh_tw": "薇斯納"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 2,
+    "birthDay": 4
   },
   {
     "name": {
@@ -52,7 +58,9 @@
       "zh_tw": "沃雅妮莎"
     },
     "aliases": [],
-    "score": 12
+    "score": 12,
+    "birthMonth": 3,
+    "birthDay": 29
   },
   {
     "name": {
@@ -64,7 +72,9 @@
       "zh_tw": "桑多涅"
     },
     "aliases": [],
-    "score": 29
+    "score": 29,
+    "birthMonth": 1,
+    "birthDay": 13
   },
   {
     "name": {
@@ -76,7 +86,9 @@
       "zh_tw": "布倫妮"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 11,
+    "birthDay": 20
   },
   {
     "name": {
@@ -88,7 +100,9 @@
       "zh_tw": "尼可"
     },
     "aliases": [],
-    "score": 16
+    "score": 16,
+    "birthMonth": 9,
+    "birthDay": 29
   },
   {
     "name": {
@@ -100,7 +114,9 @@
       "zh_tw": "莉奈婭"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 5,
+    "birthDay": 23
   },
   {
     "name": {
@@ -112,7 +128,9 @@
       "zh_tw": "洛恩"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 4,
+    "birthDay": 3
   },
   {
     "name": {
@@ -124,7 +142,9 @@
       "zh_tw": "法爾伽"
     },
     "aliases": [],
-    "score": 1
+    "score": 1,
+    "birthMonth": 2,
+    "birthDay": 17
   },
   {
     "name": {
@@ -136,7 +156,9 @@
       "zh_tw": "葉洛亞"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 12,
+    "birthDay": 23
   },
   {
     "name": {
@@ -148,7 +170,9 @@
       "zh_tw": "茲白"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 5,
+    "birthDay": 15
   },
   {
     "name": {
@@ -160,7 +184,9 @@
       "zh_tw": "哥倫比婭"
     },
     "aliases": [],
-    "score": 46
+    "score": 46,
+    "birthMonth": 1,
+    "birthDay": 14
   },
   {
     "name": {
@@ -172,7 +198,9 @@
       "zh_tw": "雅珂達"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 1,
+    "birthDay": 5
   },
   {
     "name": {
@@ -184,7 +212,9 @@
       "zh_tw": "杜林"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 3,
+    "birthDay": 14
   },
   {
     "name": {
@@ -196,7 +226,9 @@
       "zh_tw": "奈芙爾"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 5,
+    "birthDay": 9
   },
   {
     "name": {
@@ -208,7 +240,9 @@
       "zh_tw": "愛諾"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 9,
+    "birthDay": 21
   },
   {
     "name": {
@@ -220,7 +254,9 @@
       "zh_tw": "菲林斯"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 10,
+    "birthDay": 31
   },
   {
     "name": {
@@ -232,7 +268,9 @@
       "zh_tw": "菈烏瑪"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 3,
+    "birthDay": 1
   },
   {
     "name": {
@@ -244,7 +282,9 @@
       "zh_tw": "伊涅芙"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 4,
+    "birthDay": 2
   },
   {
     "name": {
@@ -256,7 +296,9 @@
       "zh_tw": "塔利雅"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 5,
+    "birthDay": 25
   },
   {
     "name": {
@@ -268,7 +310,9 @@
       "zh_tw": "絲柯克"
     },
     "aliases": [],
-    "score": 20
+    "score": 20,
+    "birthMonth": 11,
+    "birthDay": 5
   },
   {
     "name": {
@@ -280,7 +324,9 @@
       "zh_tw": "伊法"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 3,
+    "birthDay": 23
   },
   {
     "name": {
@@ -292,7 +338,9 @@
       "zh_tw": "愛可菲"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 6,
+    "birthDay": 8
   },
   {
     "name": {
@@ -304,7 +352,9 @@
       "zh_tw": "瓦雷莎"
     },
     "aliases": [],
-    "score": 17
+    "score": 17,
+    "birthMonth": 11,
+    "birthDay": 15
   },
   {
     "name": {
@@ -316,7 +366,9 @@
       "zh_tw": "伊安珊"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 8,
+    "birthDay": 8
   },
   {
     "name": {
@@ -328,7 +380,9 @@
       "zh_tw": "夢見月瑞希"
     },
     "aliases": [],
-    "score": 12
+    "score": 12,
+    "birthMonth": 3,
+    "birthDay": 16
   },
   {
     "name": {
@@ -340,7 +394,9 @@
       "zh_tw": "藍硯"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 1,
+    "birthDay": 6
   },
   {
     "name": {
@@ -352,7 +408,9 @@
       "zh_tw": "茜特菈莉"
     },
     "aliases": [],
-    "score": 34
+    "score": 34,
+    "birthMonth": 1,
+    "birthDay": 20
   },
   {
     "name": {
@@ -364,7 +422,9 @@
       "zh_tw": "瑪薇卡"
     },
     "aliases": [],
-    "score": 9
+    "score": 9,
+    "birthMonth": 8,
+    "birthDay": 28
   },
   {
     "name": {
@@ -376,7 +436,9 @@
       "zh_tw": "歐洛倫"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 10,
+    "birthDay": 14
   },
   {
     "name": {
@@ -388,7 +450,9 @@
       "zh_tw": "恰斯卡"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 12,
+    "birthDay": 10
   },
   {
     "name": {
@@ -400,7 +464,9 @@
       "zh_tw": "希諾寧"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 3,
+    "birthDay": 13
   },
   {
     "name": {
@@ -412,7 +478,9 @@
       "zh_tw": "瑪拉妮"
     },
     "aliases": [],
-    "score": 14
+    "score": 14,
+    "birthMonth": 8,
+    "birthDay": 3
   },
   {
     "name": {
@@ -424,7 +492,9 @@
       "zh_tw": "基尼奇"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 11,
+    "birthDay": 11
   },
   {
     "name": {
@@ -436,7 +506,9 @@
       "zh_tw": "卡齊娜"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 4,
+    "birthDay": 22
   },
   {
     "name": {
@@ -448,7 +520,9 @@
       "zh_tw": "艾梅莉埃"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 9,
+    "birthDay": 22
   },
   {
     "name": {
@@ -460,7 +534,9 @@
       "zh_tw": "克洛琳德"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 9,
+    "birthDay": 20
   },
   {
     "name": {
@@ -472,7 +548,9 @@
       "zh_tw": "賽索斯"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 5,
+    "birthDay": 31
   },
   {
     "name": {
@@ -484,7 +562,9 @@
       "zh_tw": "阿蕾奇諾"
     },
     "aliases": [],
-    "score": 22
+    "score": 22,
+    "birthMonth": 8,
+    "birthDay": 22
   },
   {
     "name": {
@@ -496,7 +576,9 @@
       "zh_tw": "希格雯"
     },
     "aliases": [],
-    "score": 14
+    "score": 14,
+    "birthMonth": 3,
+    "birthDay": 30
   },
   {
     "name": {
@@ -508,7 +590,9 @@
       "zh_tw": "千織"
     },
     "aliases": [],
-    "score": 20
+    "score": 20,
+    "birthMonth": 8,
+    "birthDay": 17
   },
   {
     "name": {
@@ -520,7 +604,9 @@
       "zh_tw": "閒雲"
     },
     "aliases": [],
-    "score": 14
+    "score": 14,
+    "birthMonth": 4,
+    "birthDay": 11
   },
   {
     "name": {
@@ -532,7 +618,9 @@
       "zh_tw": "嘉明"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 12,
+    "birthDay": 22
   },
   {
     "name": {
@@ -544,7 +632,9 @@
       "zh_tw": "娜維婭"
     },
     "aliases": [],
-    "score": 22
+    "score": 22,
+    "birthMonth": 8,
+    "birthDay": 16
   },
   {
     "name": {
@@ -556,7 +646,9 @@
       "zh_tw": "夏沃蕾"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 1,
+    "birthDay": 10
   },
   {
     "name": {
@@ -568,7 +660,9 @@
       "zh_tw": "芙寧娜"
     },
     "aliases": [],
-    "score": 99
+    "score": 99,
+    "birthMonth": 10,
+    "birthDay": 13
   },
   {
     "name": {
@@ -580,7 +674,9 @@
       "zh_tw": "夏洛蒂"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 4,
+    "birthDay": 10
   },
   {
     "name": {
@@ -592,7 +688,9 @@
       "zh_tw": "那維萊特"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 12,
+    "birthDay": 18
   },
   {
     "name": {
@@ -604,7 +702,9 @@
       "zh_tw": "萊歐斯利"
     },
     "aliases": [],
-    "score": 9
+    "score": 9,
+    "birthMonth": 11,
+    "birthDay": 23
   },
   {
     "name": {
@@ -616,7 +716,9 @@
       "zh_tw": "菲米尼"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 9,
+    "birthDay": 24
   },
   {
     "name": {
@@ -628,7 +730,9 @@
       "zh_tw": "林尼"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 2,
+    "birthDay": 2
   },
   {
     "name": {
@@ -640,7 +744,9 @@
       "zh_tw": "琳妮特"
     },
     "aliases": [],
-    "score": 34
+    "score": 34,
+    "birthMonth": 2,
+    "birthDay": 2
   },
   {
     "name": {
@@ -652,7 +758,9 @@
       "zh_tw": "白朮"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 4,
+    "birthDay": 25
   },
   {
     "name": {
@@ -664,7 +772,9 @@
       "zh_tw": "卡維"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 7,
+    "birthDay": 9
   },
   {
     "name": {
@@ -676,7 +786,9 @@
       "zh_tw": "米卡"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 8,
+    "birthDay": 11
   },
   {
     "name": {
@@ -688,7 +800,9 @@
       "zh_tw": "迪希雅"
     },
     "aliases": [],
-    "score": 15
+    "score": 15,
+    "birthMonth": 4,
+    "birthDay": 7
   },
   {
     "name": {
@@ -700,7 +814,9 @@
       "zh_tw": "艾爾海森"
     },
     "aliases": [],
-    "score": 12
+    "score": 12,
+    "birthMonth": 2,
+    "birthDay": 11
   },
   {
     "name": {
@@ -712,7 +828,9 @@
       "zh_tw": "瑤瑤"
     },
     "aliases": [],
-    "score": 15
+    "score": 15,
+    "birthMonth": 3,
+    "birthDay": 6
   },
   {
     "name": {
@@ -724,7 +842,9 @@
       "zh_tw": "琺露珊"
     },
     "aliases": [],
-    "score": 20
+    "score": 20,
+    "birthMonth": 8,
+    "birthDay": 20
   },
   {
     "name": {
@@ -736,7 +856,9 @@
       "zh_tw": "流浪者"
     },
     "aliases": [],
-    "score": 21
+    "score": 21,
+    "birthMonth": 1,
+    "birthDay": 3
   },
   {
     "name": {
@@ -748,7 +870,9 @@
       "zh_tw": "萊依拉"
     },
     "aliases": [],
-    "score": 17
+    "score": 17,
+    "birthMonth": 12,
+    "birthDay": 19
   },
   {
     "name": {
@@ -760,7 +884,9 @@
       "zh_tw": "納西妲"
     },
     "aliases": [],
-    "score": 71
+    "score": 71,
+    "birthMonth": 10,
+    "birthDay": 27
   },
   {
     "name": {
@@ -772,7 +898,9 @@
       "zh_tw": "坎蒂絲"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 5,
+    "birthDay": 3
   },
   {
     "name": {
@@ -784,7 +912,9 @@
       "zh_tw": "賽諾"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 6,
+    "birthDay": 23
   },
   {
     "name": {
@@ -796,7 +926,9 @@
       "zh_tw": "妮露"
     },
     "aliases": [],
-    "score": 48
+    "score": 48,
+    "birthMonth": 12,
+    "birthDay": 3
   },
   {
     "name": {
@@ -808,7 +940,9 @@
       "zh_tw": "提納里"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 12,
+    "birthDay": 29
   },
   {
     "name": {
@@ -820,7 +954,9 @@
       "zh_tw": "多莉"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 12,
+    "birthDay": 21
   },
   {
     "name": {
@@ -832,7 +968,9 @@
       "zh_tw": "柯萊"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 5,
+    "birthDay": 8
   },
   {
     "name": {
@@ -844,7 +982,9 @@
       "zh_tw": "神里綾人"
     },
     "aliases": [],
-    "score": 11
+    "score": 11,
+    "birthMonth": 3,
+    "birthDay": 26
   },
   {
     "name": {
@@ -856,7 +996,9 @@
       "zh_tw": "久岐忍"
     },
     "aliases": [],
-    "score": 12
+    "score": 12,
+    "birthMonth": 7,
+    "birthDay": 27
   },
   {
     "name": {
@@ -868,7 +1010,9 @@
       "zh_tw": "雲堇"
     },
     "aliases": [],
-    "score": 23
+    "score": 23,
+    "birthMonth": 5,
+    "birthDay": 21
   },
   {
     "name": {
@@ -880,7 +1024,9 @@
       "zh_tw": "申鶴"
     },
     "aliases": [],
-    "score": 51
+    "score": 51,
+    "birthMonth": 3,
+    "birthDay": 10
   },
   {
     "name": {
@@ -893,7 +1039,9 @@
     },
     "aliases": [],
     "score": 2,
-    "collab": true
+    "collab": true,
+    "birthMonth": 4,
+    "birthDay": 4
   },
   {
     "name": {
@@ -905,7 +1053,9 @@
       "zh_tw": "綺良良"
     },
     "aliases": [],
-    "score": 27
+    "score": 27,
+    "birthMonth": 1,
+    "birthDay": 22
   },
   {
     "name": {
@@ -917,7 +1067,9 @@
       "zh_tw": "夜蘭"
     },
     "aliases": [],
-    "score": 27
+    "score": 27,
+    "birthMonth": 4,
+    "birthDay": 20
   },
   {
     "name": {
@@ -929,7 +1081,9 @@
       "zh_tw": "鹿野院平藏"
     },
     "aliases": [],
-    "score": 8
+    "score": 8,
+    "birthMonth": 7,
+    "birthDay": 24
   },
   {
     "name": {
@@ -941,7 +1095,9 @@
       "zh_tw": "八重神子"
     },
     "aliases": [],
-    "score": 63
+    "score": 63,
+    "birthMonth": 6,
+    "birthDay": 27
   },
   {
     "name": {
@@ -953,7 +1109,9 @@
       "zh_tw": "荒瀧一斗"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 6,
+    "birthDay": 1
   },
   {
     "name": {
@@ -965,7 +1123,9 @@
       "zh_tw": "九條裟羅"
     },
     "aliases": [],
-    "score": 17
+    "score": 17,
+    "birthMonth": 7,
+    "birthDay": 14
   },
   {
     "name": {
@@ -977,7 +1137,9 @@
       "zh_tw": "五郎"
     },
     "aliases": [],
-    "score": 9
+    "score": 9,
+    "birthMonth": 5,
+    "birthDay": 18
   },
   {
     "name": {
@@ -989,7 +1151,9 @@
       "zh_tw": "珊瑚宮心海"
     },
     "aliases": [],
-    "score": 61
+    "score": 61,
+    "birthMonth": 2,
+    "birthDay": 22
   },
   {
     "name": {
@@ -1001,7 +1165,9 @@
       "zh_tw": "早柚"
     },
     "aliases": [],
-    "score": 17
+    "score": 17,
+    "birthMonth": 10,
+    "birthDay": 19
   },
   {
     "name": {
@@ -1013,7 +1179,9 @@
       "zh_tw": "雷電將軍"
     },
     "aliases": [],
-    "score": 102
+    "score": 102,
+    "birthMonth": 6,
+    "birthDay": 26
   },
   {
     "name": {
@@ -1025,7 +1193,9 @@
       "zh_tw": "優菈"
     },
     "aliases": [],
-    "score": 46
+    "score": 46,
+    "birthMonth": 10,
+    "birthDay": 25
   },
   {
     "name": {
@@ -1037,7 +1207,9 @@
       "zh_tw": "托馬"
     },
     "aliases": [],
-    "score": 12
+    "score": 12,
+    "birthMonth": 1,
+    "birthDay": 9
   },
   {
     "name": {
@@ -1049,7 +1221,9 @@
       "zh_tw": "宵宮"
     },
     "aliases": [],
-    "score": 65
+    "score": 65,
+    "birthMonth": 6,
+    "birthDay": 21
   },
   {
     "name": {
@@ -1061,7 +1235,9 @@
       "zh_tw": "煙緋"
     },
     "aliases": [],
-    "score": 24
+    "score": 24,
+    "birthMonth": 7,
+    "birthDay": 28
   },
   {
     "name": {
@@ -1073,7 +1249,9 @@
       "zh_tw": "楓原萬葉"
     },
     "aliases": [],
-    "score": 35
+    "score": 35,
+    "birthMonth": 10,
+    "birthDay": 29
   },
   {
     "name": {
@@ -1085,7 +1263,9 @@
       "zh_tw": "胡桃"
     },
     "aliases": [],
-    "score": 98
+    "score": 98,
+    "birthMonth": 7,
+    "birthDay": 15
   },
   {
     "name": {
@@ -1097,7 +1277,9 @@
       "zh_tw": "蘿莎莉亞"
     },
     "aliases": [],
-    "score": 20
+    "score": 20,
+    "birthMonth": 1,
+    "birthDay": 24
   },
   {
     "name": {
@@ -1109,7 +1291,9 @@
       "zh_tw": "辛焱"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 10,
+    "birthDay": 16
   },
   {
     "name": {
@@ -1121,7 +1305,9 @@
       "zh_tw": "砂糖"
     },
     "aliases": [],
-    "score": 27
+    "score": 27,
+    "birthMonth": 11,
+    "birthDay": 26
   },
   {
     "name": {
@@ -1133,7 +1319,9 @@
       "zh_tw": "刻晴"
     },
     "aliases": [],
-    "score": 108
+    "score": 108,
+    "birthMonth": 11,
+    "birthDay": 20
   },
   {
     "name": {
@@ -1145,7 +1333,9 @@
       "zh_tw": "莫娜"
     },
     "aliases": [],
-    "score": 55
+    "score": 55,
+    "birthMonth": 8,
+    "birthDay": 31
   },
   {
     "name": {
@@ -1157,7 +1347,9 @@
       "zh_tw": "迪奧娜"
     },
     "aliases": [],
-    "score": 18
+    "score": 18,
+    "birthMonth": 1,
+    "birthDay": 18
   },
   {
     "name": {
@@ -1169,7 +1361,9 @@
       "zh_tw": "阿貝多"
     },
     "aliases": [],
-    "score": 16
+    "score": 16,
+    "birthMonth": 9,
+    "birthDay": 13
   },
   {
     "name": {
@@ -1181,7 +1375,9 @@
       "zh_tw": "甘雨"
     },
     "aliases": [],
-    "score": 98
+    "score": 98,
+    "birthMonth": 12,
+    "birthDay": 2
   },
   {
     "name": {
@@ -1193,7 +1389,9 @@
       "zh_tw": "重雲"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 9,
+    "birthDay": 7
   },
   {
     "name": {
@@ -1205,7 +1403,9 @@
       "zh_tw": "七七"
     },
     "aliases": [],
-    "score": 26
+    "score": 26,
+    "birthMonth": 3,
+    "birthDay": 3
   },
   {
     "name": {
@@ -1217,7 +1417,9 @@
       "zh_tw": "諾艾爾"
     },
     "aliases": [],
-    "score": 52
+    "score": 52,
+    "birthMonth": 3,
+    "birthDay": 21
   },
   {
     "name": {
@@ -1229,7 +1431,9 @@
       "zh_tw": "達達利亞"
     },
     "aliases": [],
-    "score": 21
+    "score": 21,
+    "birthMonth": 7,
+    "birthDay": 20
   },
   {
     "name": {
@@ -1241,7 +1445,9 @@
       "zh_tw": "班尼特"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 2,
+    "birthDay": 29
   },
   {
     "name": {
@@ -1253,7 +1459,9 @@
       "zh_tw": "菲謝爾"
     },
     "aliases": [],
-    "score": 59
+    "score": 59,
+    "birthMonth": 5,
+    "birthDay": 27
   },
   {
     "name": {
@@ -1265,7 +1473,9 @@
       "zh_tw": "鍾離"
     },
     "aliases": [],
-    "score": 41
+    "score": 41,
+    "birthMonth": 12,
+    "birthDay": 31
   },
   {
     "name": {
@@ -1277,7 +1487,9 @@
       "zh_tw": "可莉"
     },
     "aliases": [],
-    "score": 49
+    "score": 49,
+    "birthMonth": 7,
+    "birthDay": 27
   },
   {
     "name": {
@@ -1289,7 +1501,9 @@
       "zh_tw": "凝光"
     },
     "aliases": [],
-    "score": 30
+    "score": 30,
+    "birthMonth": 8,
+    "birthDay": 26
   },
   {
     "name": {
@@ -1301,7 +1515,9 @@
       "zh_tw": "魈"
     },
     "aliases": [],
-    "score": 22
+    "score": 22,
+    "birthMonth": 4,
+    "birthDay": 17
   },
   {
     "name": {
@@ -1313,7 +1529,9 @@
       "zh_tw": "行秋"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 10,
+    "birthDay": 9
   },
   {
     "name": {
@@ -1325,7 +1543,9 @@
       "zh_tw": "北斗"
     },
     "aliases": [],
-    "score": 13
+    "score": 13,
+    "birthMonth": 2,
+    "birthDay": 14
   },
   {
     "name": {
@@ -1337,7 +1557,9 @@
       "zh_tw": "香菱"
     },
     "aliases": [],
-    "score": 27
+    "score": 27,
+    "birthMonth": 11,
+    "birthDay": 2
   },
   {
     "name": {
@@ -1349,7 +1571,9 @@
       "zh_tw": "溫迪"
     },
     "aliases": [],
-    "score": 42
+    "score": 42,
+    "birthMonth": 6,
+    "birthDay": 16
   },
   {
     "name": {
@@ -1361,7 +1585,9 @@
       "zh_tw": "安柏"
     },
     "aliases": [],
-    "score": 36
+    "score": 36,
+    "birthMonth": 8,
+    "birthDay": 10
   },
   {
     "name": {
@@ -1373,7 +1599,9 @@
       "zh_tw": "雷澤"
     },
     "aliases": [],
-    "score": 7
+    "score": 7,
+    "birthMonth": 9,
+    "birthDay": 9
   },
   {
     "name": {
@@ -1385,7 +1613,9 @@
       "zh_tw": "迪盧克"
     },
     "aliases": [],
-    "score": 9
+    "score": 9,
+    "birthMonth": 4,
+    "birthDay": 30
   },
   {
     "name": {
@@ -1397,7 +1627,9 @@
       "zh_tw": "凱亞"
     },
     "aliases": [],
-    "score": 13
+    "score": 13,
+    "birthMonth": 11,
+    "birthDay": 30
   },
   {
     "name": {
@@ -1409,7 +1641,9 @@
       "zh_tw": "芭芭拉"
     },
     "aliases": [],
-    "score": 72
+    "score": 72,
+    "birthMonth": 7,
+    "birthDay": 5
   },
   {
     "name": {
@@ -1433,7 +1667,9 @@
       "zh_tw": "麗莎"
     },
     "aliases": [],
-    "score": 27
+    "score": 27,
+    "birthMonth": 6,
+    "birthDay": 9
   },
   {
     "name": {
@@ -1469,6 +1705,8 @@
       "zh_tw": "神里綾華"
     },
     "aliases": [],
-    "score": 87
+    "score": 87,
+    "birthMonth": 9,
+    "birthDay": 28
   }
 ]

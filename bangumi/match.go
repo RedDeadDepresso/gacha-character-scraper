@@ -87,6 +87,8 @@ type Result struct {
 	Matched  bool
 	Collects int  // the Bangumi character's 收藏数, the popularity score
 	Collab   bool // matched, but a guest (`type` 3) in the game's subject
+
+	BirthMonth, BirthDay int // from the infobox `生日`; 0 when unknown
 }
 
 // Match links scraped characters to the characters of the game's Bangumi
@@ -145,7 +147,7 @@ func (d *Data) Match(subjectID int, chars []Scraped) []Result {
 		if best == nil {
 			continue
 		}
-		res[i] = Result{Matched: true, Collects: best.Collects}
+		res[i] = Result{Matched: true, Collects: best.Collects, BirthMonth: best.BirthMonth, BirthDay: best.BirthDay}
 		res[i].Collab = d.IsCollab(subjectID, best)
 	}
 	return res

@@ -88,7 +88,9 @@
     },
     "aliases": [],
     "score": 1823,
-    "collab": true
+    "collab": true,
+    "birthMonth": 2,
+    "birthDay": 3
   },
   {
     "name": {
@@ -1074,6 +1076,8 @@
       "三月七 (存护)",
       "三月七 (存護)"
     ],
-    "score": 74
+    "score": 74,
+    "birthMonth": 3,
+    "birthDay": 7
   }
 ]

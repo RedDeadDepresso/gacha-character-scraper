@@ -28,6 +28,11 @@ type Character struct {
 	Score  int  `json:"score"`
 	Collab bool `json:"collab,omitempty"`
 
+	// BirthMonth and BirthDay are the birthday on Bangumi (the infobox `生日`),
+	// set by ApplyBangumi; 0 when unknown.
+	BirthMonth int `json:"birthMonth,omitempty"`
+	BirthDay   int `json:"birthDay,omitempty"`
+
 	// legacy is set when the character was read from a data file in the old
 	// format, where "name" was a single string.
 	legacy bool
@@ -41,11 +46,15 @@ func (c *Character) UnmarshalJSON(b []byte) error {
 		Aliases []string        `json:"aliases"`
 		Score   int             `json:"score"`
 		Collab  bool            `json:"collab"`
+
+		BirthMonth int `json:"birthMonth"`
+		BirthDay   int `json:"birthDay"`
 	}
 	if err := json.Unmarshal(b, &raw); err != nil {
 		return err
 	}
 	c.Aliases, c.legacy, c.Score, c.Collab = raw.Aliases, false, raw.Score, raw.Collab
+	c.BirthMonth, c.BirthDay = raw.BirthMonth, raw.BirthDay
 	var s string
 	if json.Unmarshal(raw.Name, &s) == nil {
 		c.Name, c.legacy = Names{LangEN: s}, true

@@ -72,3 +72,13 @@ func TestMergeAltersKeepsTheBaseScoreAndCollabFlag(t *testing.T) {
 		t.Errorf("%+v", out)
 	}
 }
+
+func TestMergeAltersKeepsTheBaseBirthday(t *testing.T) {
+	in := []scraped{
+		{Name: scrapers.Names{scrapers.LangEN: "Amiya (Guardian)"}},
+		{Name: scrapers.Names{scrapers.LangEN: "Amiya"}, BirthMonth: 12, BirthDay: 23},
+	}
+	if out := mergeAlters(in); len(out) != 1 || out[0].BirthMonth != 12 || out[0].BirthDay != 23 {
+		t.Errorf("%+v", out)
+	}
+}

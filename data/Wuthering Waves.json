@@ -30,7 +30,9 @@
       "zh_tw": "坎特蕾拉"
     },
     "aliases": [],
-    "score": 36
+    "score": 36,
+    "birthMonth": 6,
+    "birthDay": 18
   },
   {
     "name": {
@@ -41,7 +43,9 @@
       "zh_tw": "洛可可"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 1,
+    "birthDay": 31
   },
   {
     "name": {
@@ -63,7 +67,9 @@
       "zh_tw": "丹瑾"
     },
     "aliases": [],
-    "score": 13
+    "score": 13,
+    "birthMonth": 8,
+    "birthDay": 31
   },
   {
     "name": {
@@ -74,7 +80,9 @@
       "zh_tw": "桃祈"
     },
     "aliases": [],
-    "score": 5
+    "score": 5,
+    "birthMonth": 2,
+    "birthDay": 25
   },
   {
     "name": {
@@ -152,7 +160,9 @@
       "zh_tw": "守岸人"
     },
     "aliases": [],
-    "score": 50
+    "score": 50,
+    "birthMonth": 2,
+    "birthDay": 27
   },
   {
     "name": {
@@ -174,7 +184,9 @@
       "zh_tw": "維里奈"
     },
     "aliases": [],
-    "score": 13
+    "score": 13,
+    "birthMonth": 5,
+    "birthDay": 18
   },
   {
     "name": {
@@ -251,7 +263,9 @@
       "zh_tw": "鑒心"
     },
     "aliases": [],
-    "score": 3
+    "score": 3,
+    "birthMonth": 4,
+    "birthDay": 6
   },
   {
     "name": {
@@ -262,7 +276,9 @@
       "zh_tw": "忌炎"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 12,
+    "birthDay": 14
   },
   {
     "name": {
@@ -273,7 +289,9 @@
       "zh_tw": "秋水"
     },
     "aliases": [],
-    "score": 2
+    "score": 2,
+    "birthMonth": 6,
+    "birthDay": 11
   },
   {
     "name": {
@@ -284,7 +302,9 @@
       "zh_tw": "秧秧"
     },
     "aliases": [],
-    "score": 20
+    "score": 20,
+    "birthMonth": 10,
+    "birthDay": 11
   },
   {
     "name": {
@@ -393,7 +413,9 @@
       "zh_tw": "今汐"
     },
     "aliases": [],
-    "score": 62
+    "score": 62,
+    "birthMonth": 3,
+    "birthDay": 6
   },
   {
     "name": {
@@ -404,7 +426,9 @@
       "zh_tw": "淵武"
     },
     "aliases": [],
-    "score": 0
+    "score": 0,
+    "birthMonth": 10,
+    "birthDay": 2
   },
   {
     "name": {
@@ -415,7 +439,9 @@
       "zh_tw": "吟霖"
     },
     "aliases": [],
-    "score": 20
+    "score": 20,
+    "birthMonth": 9,
+    "birthDay": 17
   },
   {
     "name": {
@@ -426,7 +452,9 @@
       "zh_tw": "卡卡羅"
     },
     "aliases": [],
-    "score": 1
+    "score": 1,
+    "birthMonth": 7,
+    "birthDay": 8
   },
   {
     "name": {
@@ -514,7 +542,9 @@
       "zh_tw": "長離"
     },
     "aliases": [],
-    "score": 60
+    "score": 60,
+    "birthMonth": 6,
+    "birthDay": 6
   },
   {
     "name": {
@@ -525,7 +555,9 @@
       "zh_tw": "莫特斐"
     },
     "aliases": [],
-    "score": 1
+    "score": 1,
+    "birthMonth": 11,
+    "birthDay": 6
   },
   {
     "name": {
@@ -536,7 +568,9 @@
       "zh_tw": "安可"
     },
     "aliases": [],
-    "score": 15
+    "score": 15,
+    "birthMonth": 3,
+    "birthDay": 21
   },
   {
     "name": {
@@ -547,7 +581,9 @@
       "zh_tw": "熾霞"
     },
     "aliases": [],
-    "score": 4
+    "score": 4,
+    "birthMonth": 4,
+    "birthDay": 18
   },
   {
     "name": {
@@ -602,7 +638,9 @@
       "zh_tw": "釉瑚"
     },
     "aliases": [],
-    "score": 6
+    "score": 6,
+    "birthMonth": 10,
+    "birthDay": 13
   },
   {
     "name": {
@@ -613,7 +651,9 @@
       "zh_tw": "折枝"
     },
     "aliases": [],
-    "score": 12
+    "score": 12,
+    "birthMonth": 12,
+    "birthDay": 31
   },
   {
     "name": {
@@ -624,7 +664,9 @@
       "zh_tw": "凌陽"
     },
     "aliases": [],
-    "score": 1
+    "score": 1,
+    "birthMonth": 8,
+    "birthDay": 8
   },
   {
     "name": {
@@ -635,7 +677,9 @@
       "zh_tw": "白芷"
     },
     "aliases": [],
-    "score": 12
+    "score": 12,
+    "birthMonth": 9,
+    "birthDay": 10
   },
   {
     "name": {
@@ -646,6 +690,8 @@
       "zh_tw": "散華"
     },
     "aliases": [],
-    "score": 10
+    "score": 10,
+    "birthMonth": 1,
+    "birthDay": 20
   }
 ]

@@ -28,6 +28,9 @@ type char struct {
 	Series  []int          `json:"series"`
 	Score   int            `json:"score"`
 	Aliases []string       `json:"aliases"`
+
+	BirthMonth int `json:"birthMonth,omitempty"`
+	BirthDay   int `json:"birthDay,omitempty"`
 }
 
 type index struct {
@@ -103,12 +106,16 @@ func main() {
 				if score > c.Score {
 					c.Score = score
 				}
+				if c.BirthMonth == 0 {
+					c.BirthMonth, c.BirthDay = s.BirthMonth, s.BirthDay
+				}
 				c.Name, c.Aliases = foldNames(c.Name, c.Aliases, s)
 				continue
 			}
 			pos[key] = len(idx.Chars)
 			idx.Chars = append(idx.Chars, char{
 				Name: copyNames(s.Name), Series: []int{sIdx}, Score: score, Aliases: union(nil, s.Aliases),
+				BirthMonth: s.BirthMonth, BirthDay: s.BirthDay,
 			})
 		}
 	}
@@ -246,7 +253,8 @@ func mergeAlters(list []scraped) []scraped {
 	for i, s := range list {
 		if root(i) == i {
 			outPos[i] = len(out)
-			out = append(out, scraped{Name: copyNames(s.Name), Aliases: union(nil, s.Aliases), Score: s.Score, Collab: s.Collab})
+			out = append(out, scraped{Name: copyNames(s.Name), Aliases: union(nil, s.Aliases), Score: s.Score, Collab: s.Collab,
+				BirthMonth: s.BirthMonth, BirthDay: s.BirthDay})
 		}
 	}
 	for i, s := range list {
