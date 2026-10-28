@@ -1,6 +1,30 @@
 [
   {
     "name": {
+      "en_us": "Phoenix",
+      "ja_jp": "フィオニー",
+      "ko_kr": "피닉스",
+      "zh_cn": "菲欧妮"
+    },
+    "aliases": [],
+    "score": 9,
+    "birthMonth": 10,
+    "birthDay": 31
+  },
+  {
+    "name": {
+      "en_us": "Severian",
+      "ja_jp": "セヴェリアン",
+      "ko_kr": "세베리안",
+      "zh_cn": "赛维里安"
+    },
+    "aliases": [],
+    "score": 0,
+    "birthMonth": 12,
+    "birthDay": 31
+  },
+  {
+    "name": {
       "en_us": "Roxy",
       "ja_jp": "ロクシー",
       "ko_kr": "록시",
@@ -31,7 +55,7 @@
       "zh_cn": "希格莉德"
     },
     "aliases": [],
-    "score": 4,
+    "score": 3,
     "birthMonth": 4,
     "birthDay": 23
   },
@@ -137,7 +161,7 @@
       "zh_cn": "爱芮"
     },
     "aliases": [],
-    "score": 16,
+    "score": 17,
     "birthMonth": 6,
     "birthDay": 7
   },
@@ -149,7 +173,7 @@
       "zh_cn": "千夏"
     },
     "aliases": [],
-    "score": 26,
+    "score": 27,
     "birthMonth": 7,
     "birthDay": 18
   },
@@ -161,7 +185,7 @@
       "zh_cn": "琉音"
     },
     "aliases": [],
-    "score": 8,
+    "score": 9,
     "birthMonth": 5,
     "birthDay": 28
   },
@@ -269,7 +293,7 @@
       "zh_cn": "橘福福"
     },
     "aliases": [],
-    "score": 13,
+    "score": 14,
     "birthMonth": 1,
     "birthDay": 6
   },
@@ -341,7 +365,7 @@
       "zh_cn": "薇薇安"
     },
     "aliases": [],
-    "score": 45,
+    "score": 46,
     "birthMonth": 4,
     "birthDay": 10
   },
@@ -647,7 +671,7 @@
       "zh_cn": "可琳"
     },
     "aliases": [],
-    "score": 25,
+    "score": 26,
     "birthMonth": 6,
     "birthDay": 2
   },
@@ -695,7 +719,7 @@
       "zh_cn": "猫又"
     },
     "aliases": [],
-    "score": 17,
+    "score": 18,
     "birthMonth": 7,
     "birthDay": 30
   },

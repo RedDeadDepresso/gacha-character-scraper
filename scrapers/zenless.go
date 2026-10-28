@@ -12,7 +12,7 @@ import (
 const (
 	zzzRepo   = "a285292107s/zzz-wiki"
 	zzzBranch = "master"
-	zzzURL    = "https://raw.githubusercontent.com/a285292107s/zzz-wiki/refs/heads/master/public/data/live/character.json"
+	zzzURL    = "https://raw.githubusercontent.com/a285292107s/zzz-wiki/refs/heads/master/public/data/live/en/character.json"
 )
 
 // ZenlessZoneZero reads character names from the zzz-wiki repo.
