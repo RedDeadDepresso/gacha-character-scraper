@@ -1,6 +1,20 @@
 [
   {
     "name": {
+      "en_us": "タマモアリア"
+    },
+    "aliases": [],
+    "score": 27
+  },
+  {
+    "name": {
+      "en_us": "ダイダロス"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
       "en_us": "Kingprotea Alter",
       "ja_jp": "キングプロテア・オルタ"
     },
@@ -85,7 +99,7 @@
       "ja_jp": "ヒッポリュテ"
     },
     "aliases": [],
-    "score": 89
+    "score": 88
   },
   {
     "name": {
@@ -107,7 +121,7 @@
       "デメテル",
       "Demeter"
     ],
-    "score": 1
+    "score": 2
   },
   {
     "name": {
@@ -230,7 +244,7 @@
       "ja_jp": "オルガマリー・アニムスフィア"
     },
     "aliases": [],
-    "score": 96
+    "score": 97
   },
   {
     "name": {
@@ -399,7 +413,7 @@
       "ja_jp": "アビゲイル・ウィリアムズ〔サンタ〕"
     },
     "aliases": [],
-    "score": 81
+    "score": 82
   },
   {
     "name": {
@@ -457,7 +471,7 @@
       "ja_jp": "ヒロインXX・オルタ"
     },
     "aliases": [],
-    "score": 131
+    "score": 133
   },
   {
     "name": {
@@ -465,7 +479,7 @@
       "ja_jp": "謎のヒロインXX〔オルタ〕"
     },
     "aliases": [],
-    "score": 131
+    "score": 133
   },
   {
     "name": {
@@ -580,7 +594,7 @@
       "ja_jp": "久遠寺有珠"
     },
     "aliases": [],
-    "score": 917,
+    "score": 925,
     "birthMonth": 9,
     "birthDay": 30
   },
@@ -590,7 +604,7 @@
       "ja_jp": "静希草十郎"
     },
     "aliases": [],
-    "score": 328,
+    "score": 329,
     "birthMonth": 4,
     "birthDay": 12
   },
@@ -600,7 +614,7 @@
       "ja_jp": "蒼崎青子"
     },
     "aliases": [],
-    "score": 871,
+    "score": 872,
     "birthMonth": 7,
     "birthDay": 7
   },
@@ -884,7 +898,7 @@
       "ja_jp": "カーリー"
     },
     "aliases": [],
-    "score": 8
+    "score": 9
   },
   {
     "name": {
@@ -892,7 +906,7 @@
       "ja_jp": "ドゥルガー"
     },
     "aliases": [],
-    "score": 8
+    "score": 9
   },
   {
     "name": {
@@ -1204,7 +1218,7 @@
       "ja_jp": "アルクェイド・ブリュンスタッド"
     },
     "aliases": [],
-    "score": 612,
+    "score": 613,
     "collab": true,
     "birthMonth": 12,
     "birthDay": 25
@@ -1505,7 +1519,7 @@
       "ja_jp": "パーシヴァル"
     },
     "aliases": [],
-    "score": 6
+    "score": 5
   },
   {
     "name": {
@@ -1763,7 +1777,7 @@
       "ja_jp": "アビゲイル・ウィリアムズ〔夏〕"
     },
     "aliases": [],
-    "score": 81
+    "score": 82
   },
   {
     "name": {
@@ -2123,7 +2137,7 @@
       "ja_jp": "グレイ"
     },
     "aliases": [],
-    "score": 250,
+    "score": 251,
     "birthMonth": 6,
     "birthDay": 17
   },
@@ -2202,7 +2216,7 @@
       "美遊",
       "Miyu"
     ],
-    "score": 254,
+    "score": 256,
     "birthMonth": 7,
     "birthDay": 20
   },
@@ -2392,7 +2406,7 @@
       "ja_jp": "ケイローン"
     },
     "aliases": [],
-    "score": 11
+    "score": 10
   },
   {
     "name": {
@@ -2452,7 +2466,7 @@
       "ja_jp": "アタランテ〔オルタ〕"
     },
     "aliases": [],
-    "score": 131
+    "score": 133
   },
   {
     "name": {
@@ -2514,7 +2528,7 @@
     "aliases": [
       "アビゲイル"
     ],
-    "score": 81
+    "score": 82
   },
   {
     "name": {
@@ -2771,7 +2785,7 @@
       "アーサー",
       "Arthur"
     ],
-    "score": 60
+    "score": 59
   },
   {
     "name": {
@@ -2976,7 +2990,7 @@
       "クロエ",
       "Chloe"
     ],
-    "score": 138,
+    "score": 139,
     "birthMonth": 7,
     "birthDay": 20
   },
@@ -2994,7 +3008,7 @@
       "ja_jp": "イリヤスフィール・フォン・アインツベルン"
     },
     "aliases": [],
-    "score": 82,
+    "score": 84,
     "birthMonth": 7,
     "birthDay": 20
   },
@@ -3086,7 +3100,7 @@
       "ja_jp": "オジマンディアス"
     },
     "aliases": [],
-    "score": 30
+    "score": 29
   },
   {
     "name": {
@@ -3166,7 +3180,7 @@
       "ja_jp": "イスカンダル"
     },
     "aliases": [],
-    "score": 277
+    "score": 278
   },
   {
     "name": {
@@ -3190,7 +3204,7 @@
       "ja_jp": "ジャンヌ・ダルク〔オルタ〕"
     },
     "aliases": [],
-    "score": 131
+    "score": 133
   },
   {
     "name": {
@@ -3321,7 +3335,7 @@
       "ja_jp": "天草四郎"
     },
     "aliases": [],
-    "score": 36
+    "score": 35
   },
   {
     "name": {
@@ -3329,7 +3343,7 @@
       "ja_jp": "両儀式"
     },
     "aliases": [],
-    "score": 1683,
+    "score": 1687,
     "birthMonth": 2,
     "birthDay": 17
   },
@@ -3406,7 +3420,7 @@
       "ja_jp": "アルジュナ"
     },
     "aliases": [],
-    "score": 24
+    "score": 23
   },
   {
     "name": {
@@ -3537,7 +3551,7 @@
       "ja_jp": "アルトリア・ペンドラゴン〔サンタオルタ〕"
     },
     "aliases": [],
-    "score": 2209
+    "score": 2213
   },
   {
     "name": {
@@ -3684,7 +3698,7 @@
       "ジャンヌ",
       "Jeanne"
     ],
-    "score": 257,
+    "score": 258,
     "birthMonth": 1,
     "birthDay": 6
   },
@@ -4107,7 +4121,7 @@
       "ja_jp": "アーラシュ"
     },
     "aliases": [],
-    "score": 28
+    "score": 27
   },
   {
     "name": {
@@ -4123,7 +4137,7 @@
       "ja_jp": "アタランテ"
     },
     "aliases": [],
-    "score": 68
+    "score": 67
   },
   {
     "name": {
@@ -4139,7 +4153,7 @@
       "ja_jp": "ギルガメッシュ"
     },
     "aliases": [],
-    "score": 532
+    "score": 533
   },
   {
     "name": {
@@ -4262,7 +4276,7 @@
       "アルトリア",
       "Altria"
     ],
-    "score": 2209
+    "score": 2213
   },
   {
     "name": {
