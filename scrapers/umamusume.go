@@ -20,7 +20,7 @@ const (
 // UmaMusume reads the playable characters from GameTora's data files.
 type UmaMusume struct{}
 
-func (UmaMusume) Name() string { return "Uma Musume Pretty Derby" }
+func (UmaMusume) Name() string { return "Umamusume Pretty Derby" }
 
 // flexInt decodes a JSON number or a numeric string.
 type flexInt int
