@@ -55,7 +55,10 @@
   {
     "name": {
       "en_us": "Faelynn",
-      "zh_cn": "芙铃"
+      "ja_jp": "フェアリン",
+      "ko_kr": "페일린",
+      "zh_cn": "芙铃",
+      "zh_tw": "芙鈴"
     },
     "aliases": [],
     "score": 0
@@ -213,7 +216,10 @@
   {
     "name": {
       "en_us": "Welrod",
-      "zh_cn": "维尔德"
+      "ja_jp": "ウェルロッド",
+      "ko_kr": "웰로드",
+      "zh_cn": "维尔德",
+      "zh_tw": "維爾德"
     },
     "aliases": [],
     "score": 0

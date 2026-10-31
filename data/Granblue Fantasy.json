@@ -1,8 +1,27 @@
 [
   {
     "name": {
+      "en_us": "Eugen (SSR)",
+      "ja_jp": "オイゲン",
+      "zh_cn": "欧根"
+    },
+    "aliases": [],
+    "score": 5
+  },
+  {
+    "name": {
+      "en_us": "Id",
+      "ja_jp": "イド",
+      "zh_cn": "伊德"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
       "en_us": "Randall (Halloween)",
-      "ja_jp": "ランドル"
+      "ja_jp": "ランドル",
+      "zh_cn": "兰德尔（万圣节）"
     },
     "aliases": [],
     "score": 1
@@ -10,7 +29,8 @@
   {
     "name": {
       "en_us": "Azusa (Halloween)",
-      "ja_jp": "アズサ"
+      "ja_jp": "アズサ",
+      "zh_cn": "梓（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -18,7 +38,8 @@
   {
     "name": {
       "en_us": "Ewiyar (Halloween)",
-      "ja_jp": "イーウィヤ"
+      "ja_jp": "イーウィヤ",
+      "zh_cn": "伊维亚（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -26,7 +47,8 @@
   {
     "name": {
       "en_us": "Alba",
-      "ja_jp": "アルバ"
+      "ja_jp": "アルバ",
+      "zh_cn": "阿尔芭"
     },
     "aliases": [],
     "score": 0
@@ -34,7 +56,8 @@
   {
     "name": {
       "en_us": "Vaseraga (Grand)",
-      "ja_jp": "バザラガ"
+      "ja_jp": "バザラガ",
+      "zh_cn": "巴萨拉卡（Grand）"
     },
     "aliases": [],
     "score": 0
@@ -50,7 +73,8 @@
   {
     "name": {
       "en_us": "Uruki (Wind)",
-      "ja_jp": "ウルキ"
+      "ja_jp": "ウルキ",
+      "zh_cn": "乌露琪（风）"
     },
     "aliases": [],
     "score": 0
@@ -58,7 +82,8 @@
   {
     "name": {
       "en_us": "Mordred",
-      "ja_jp": "モルドレッド"
+      "ja_jp": "モルドレッド",
+      "zh_cn": "莫德雷德"
     },
     "aliases": [],
     "score": 0
@@ -66,7 +91,8 @@
   {
     "name": {
       "en_us": "Bhadra",
-      "ja_jp": "バドラ"
+      "ja_jp": "バドラ",
+      "zh_cn": "巴多拉"
     },
     "aliases": [],
     "score": 0
@@ -74,7 +100,8 @@
   {
     "name": {
       "en_us": "Seox (Summer)",
-      "ja_jp": "シス"
+      "ja_jp": "シス",
+      "zh_cn": "希斯（泳装）"
     },
     "aliases": [],
     "score": 2
@@ -82,7 +109,8 @@
   {
     "name": {
       "en_us": "Payila (Summer)",
-      "ja_jp": "ハイラ"
+      "ja_jp": "ハイラ",
+      "zh_cn": "哈伊拉（泳装）"
     },
     "aliases": [],
     "score": 2
@@ -90,7 +118,8 @@
   {
     "name": {
       "en_us": "You (Summer)",
-      "ja_jp": "ヨウ"
+      "ja_jp": "ヨウ",
+      "zh_cn": "容（泳装）"
     },
     "aliases": [],
     "score": 1
@@ -98,7 +127,8 @@
   {
     "name": {
       "en_us": "Gwynne (Yukata)",
-      "ja_jp": "グウィン"
+      "ja_jp": "グウィン",
+      "zh_cn": "古茵（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -130,7 +160,8 @@
   {
     "name": {
       "en_us": "Ichigo Kurosaki",
-      "ja_jp": "黒崎一護"
+      "ja_jp": "黒崎一護",
+      "zh_cn": "黑崎一护"
     },
     "aliases": [],
     "score": 0
@@ -138,7 +169,8 @@
   {
     "name": {
       "en_us": "Atman (Summer)",
-      "ja_jp": "アートマン"
+      "ja_jp": "アートマン",
+      "zh_cn": "阿特曼（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -146,7 +178,8 @@
   {
     "name": {
       "en_us": "Osiris (Yukata)",
-      "ja_jp": "オシリス"
+      "ja_jp": "オシリス",
+      "zh_cn": "奥西里斯（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -154,7 +187,8 @@
   {
     "name": {
       "en_us": "Europa (Formal)",
-      "ja_jp": "エウロペ"
+      "ja_jp": "エウロペ",
+      "zh_cn": "欧罗巴（礼服）"
     },
     "aliases": [],
     "score": 5
@@ -170,7 +204,8 @@
   {
     "name": {
       "en_us": "Notus",
-      "ja_jp": "ノトス"
+      "ja_jp": "ノトス",
+      "zh_cn": "诺托斯"
     },
     "aliases": [],
     "score": 0
@@ -178,7 +213,8 @@
   {
     "name": {
       "en_us": "Shao (SSR)",
-      "ja_jp": "シャオ"
+      "ja_jp": "シャオ",
+      "zh_cn": "箫"
     },
     "aliases": [],
     "score": 0
@@ -186,7 +222,8 @@
   {
     "name": {
       "en_us": "Io (SSR)",
-      "ja_jp": "イオ"
+      "ja_jp": "イオ",
+      "zh_cn": "伊欧"
     },
     "aliases": [],
     "score": 26
@@ -194,7 +231,8 @@
   {
     "name": {
       "en_us": "Mikaboshi",
-      "ja_jp": "ミカボシ"
+      "ja_jp": "ミカボシ",
+      "zh_cn": "米卡波西"
     },
     "aliases": [],
     "score": 0
@@ -242,7 +280,8 @@
   {
     "name": {
       "en_us": "Felluca",
-      "ja_jp": "フェルルカ"
+      "ja_jp": "フェルルカ",
+      "zh_cn": "菲露露卡"
     },
     "aliases": [],
     "score": 0
@@ -250,7 +289,8 @@
   {
     "name": {
       "en_us": "Fylkis",
-      "ja_jp": "フィルキス"
+      "ja_jp": "フィルキス",
+      "zh_cn": "菲尔基丝"
     },
     "aliases": [],
     "score": 0
@@ -266,7 +306,8 @@
   {
     "name": {
       "en_us": "Echidna",
-      "ja_jp": "エキドナ"
+      "ja_jp": "エキドナ",
+      "zh_cn": "艾奇多娜"
     },
     "aliases": [],
     "score": 0
@@ -274,7 +315,8 @@
   {
     "name": {
       "en_us": "Alliah (Yukata)",
-      "ja_jp": "アリア"
+      "ja_jp": "アリア",
+      "zh_cn": "阿莉亚（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -282,7 +324,8 @@
   {
     "name": {
       "en_us": "Anthuria (Summer)",
-      "ja_jp": "アンスリア"
+      "ja_jp": "アンスリア",
+      "zh_cn": "安苏莉娅（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -290,7 +333,8 @@
   {
     "name": {
       "en_us": "Eustace (Yukata)",
-      "ja_jp": "ユーステス"
+      "ja_jp": "ユーステス",
+      "zh_cn": "尤斯缇斯（浴衣）"
     },
     "aliases": [],
     "score": 1
@@ -298,7 +342,8 @@
   {
     "name": {
       "en_us": "Apollonia (Summer)",
-      "ja_jp": "アポロニア"
+      "ja_jp": "アポロニア",
+      "zh_cn": "阿波罗尼亚（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -306,7 +351,8 @@
   {
     "name": {
       "en_us": "Octavia",
-      "ja_jp": "オクタヴィア"
+      "ja_jp": "オクタヴィア",
+      "zh_cn": "奥克塔维亚"
     },
     "aliases": [],
     "score": 0
@@ -314,7 +360,8 @@
   {
     "name": {
       "en_us": "Lyria (Event SSR)",
-      "ja_jp": "ルリア"
+      "ja_jp": "ルリア",
+      "zh_cn": "露莉亚"
     },
     "aliases": [],
     "score": 74
@@ -330,7 +377,8 @@
   {
     "name": {
       "en_us": "Walfrid",
-      "ja_jp": "ヴァルフリート"
+      "ja_jp": "ヴァルフリート",
+      "zh_cn": "瓦尔弗利德"
     },
     "aliases": [],
     "score": 0
@@ -338,7 +386,8 @@
   {
     "name": {
       "en_us": "Gawain (Valentine)",
-      "ja_jp": "ガウェイン"
+      "ja_jp": "ガウェイン",
+      "zh_cn": "高文（情人节）"
     },
     "aliases": [],
     "score": 0
@@ -346,7 +395,8 @@
   {
     "name": {
       "en_us": "Wamdus (Valentine)",
-      "ja_jp": "ワムデュス"
+      "ja_jp": "ワムデュス",
+      "zh_cn": "瓦姆杜斯（情人节）"
     },
     "aliases": [],
     "score": 0
@@ -354,7 +404,8 @@
   {
     "name": {
       "en_us": "Arriet (Light)",
-      "ja_jp": "アンリエット"
+      "ja_jp": "アンリエット",
+      "zh_cn": "安丽特（光）"
     },
     "aliases": [],
     "score": 0
@@ -362,7 +413,8 @@
   {
     "name": {
       "en_us": "McCoy",
-      "ja_jp": "マッコイ"
+      "ja_jp": "マッコイ",
+      "zh_cn": "麦考伊"
     },
     "aliases": [],
     "score": 0
@@ -370,7 +422,8 @@
   {
     "name": {
       "en_us": "Constance",
-      "ja_jp": "コンスタンツィア"
+      "ja_jp": "コンスタンツィア",
+      "zh_cn": "康斯坦琪亚"
     },
     "aliases": [],
     "score": 0
@@ -378,7 +431,8 @@
   {
     "name": {
       "en_us": "Lulou Holou",
-      "ja_jp": "ルロウホロウ"
+      "ja_jp": "ルロウホロウ",
+      "zh_cn": "露萝赫萝"
     },
     "aliases": [],
     "score": 0
@@ -386,7 +440,8 @@
   {
     "name": {
       "en_us": "Sandira",
-      "ja_jp": "サンチラ"
+      "ja_jp": "サンチラ",
+      "zh_cn": "桑琪拉"
     },
     "aliases": [],
     "score": 1
@@ -394,7 +449,8 @@
   {
     "name": {
       "en_us": "Caesar",
-      "ja_jp": "シーザー"
+      "ja_jp": "シーザー",
+      "zh_cn": "凯撒"
     },
     "aliases": [],
     "score": 0
@@ -402,7 +458,8 @@
   {
     "name": {
       "en_us": "Amaterasu",
-      "ja_jp": "アマテラス"
+      "ja_jp": "アマテラス",
+      "zh_cn": "天照"
     },
     "aliases": [],
     "score": 0
@@ -410,7 +467,8 @@
   {
     "name": {
       "en_us": "Bhaisa",
-      "ja_jp": "バイシュラ"
+      "ja_jp": "バイシュラ",
+      "zh_cn": "拜修拉"
     },
     "aliases": [],
     "score": 0
@@ -418,7 +476,8 @@
   {
     "name": {
       "en_us": "Darydara",
-      "ja_jp": "ダリダラ"
+      "ja_jp": "ダリダラ",
+      "zh_cn": "达里达拉"
     },
     "aliases": [],
     "score": 0
@@ -426,7 +485,8 @@
   {
     "name": {
       "en_us": "Maria Theresa (Holiday)",
-      "ja_jp": "マリア・テレサ"
+      "ja_jp": "マリア・テレサ",
+      "zh_cn": "玛利亚・特蕾莎（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -434,7 +494,8 @@
   {
     "name": {
       "en_us": "Zeta (Holiday)",
-      "ja_jp": "ゼタ"
+      "ja_jp": "ゼタ",
+      "zh_cn": "泽塔（圣诞）"
     },
     "aliases": [],
     "score": 29
@@ -442,7 +503,8 @@
   {
     "name": {
       "en_us": "Bennu (Holiday)",
-      "ja_jp": "ベンヌ"
+      "ja_jp": "ベンヌ",
+      "zh_cn": "本努（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -450,7 +512,8 @@
   {
     "name": {
       "en_us": "Reinhardtzar (Holiday)",
-      "ja_jp": "ラインハルザ"
+      "ja_jp": "ラインハルザ",
+      "zh_cn": "莱茵哈撒（圣诞）"
     },
     "aliases": [],
     "score": 1
@@ -490,7 +553,8 @@
   {
     "name": {
       "en_us": "Chichiri (Water)",
-      "ja_jp": "チチリ"
+      "ja_jp": "チチリ",
+      "zh_cn": "琪琪莉（水）"
     },
     "aliases": [],
     "score": 0
@@ -498,7 +562,8 @@
   {
     "name": {
       "en_us": "Metera (Grand)",
-      "ja_jp": "メーテラ"
+      "ja_jp": "メーテラ",
+      "zh_cn": "美黛拉（Grand）"
     },
     "aliases": [],
     "score": 0
@@ -506,7 +571,8 @@
   {
     "name": {
       "en_us": "Tien (Halloween)",
-      "ja_jp": "エッセル"
+      "ja_jp": "エッセル",
+      "zh_cn": "艾瑟尔（万圣节）"
     },
     "aliases": [],
     "score": 4
@@ -514,7 +580,8 @@
   {
     "name": {
       "en_us": "Lancelot (Halloween)",
-      "ja_jp": "ランスロット"
+      "ja_jp": "ランスロット",
+      "zh_cn": "兰斯洛特（万圣节）"
     },
     "aliases": [],
     "score": 5
@@ -522,7 +589,8 @@
   {
     "name": {
       "en_us": "Vajra (Halloween)",
-      "ja_jp": "ヴァジラ"
+      "ja_jp": "ヴァジラ",
+      "zh_cn": "瓦姬拉（万圣节）"
     },
     "aliases": [],
     "score": 11
@@ -530,7 +598,8 @@
   {
     "name": {
       "en_us": "Danua (SSR)",
-      "ja_jp": "ダヌア"
+      "ja_jp": "ダヌア",
+      "zh_cn": "妲奴亚"
     },
     "aliases": [],
     "score": 0
@@ -538,7 +607,8 @@
   {
     "name": {
       "en_us": "Lamorak",
-      "ja_jp": "ラモラック"
+      "ja_jp": "ラモラック",
+      "zh_cn": "拉莫拉克"
     },
     "aliases": [],
     "score": 0
@@ -570,7 +640,8 @@
   {
     "name": {
       "en_us": "Sariel",
-      "ja_jp": "サリエル"
+      "ja_jp": "サリエル",
+      "zh_cn": "沙利叶"
     },
     "aliases": [],
     "score": 0
@@ -578,7 +649,8 @@
   {
     "name": {
       "en_us": "Catura (Summer)",
-      "ja_jp": "シャトラ"
+      "ja_jp": "シャトラ",
+      "zh_cn": "夏托拉（泳装）"
     },
     "aliases": [],
     "score": 3
@@ -586,7 +658,8 @@
   {
     "name": {
       "en_us": "Haaselia (Summer)",
-      "ja_jp": "ハーゼリーラ"
+      "ja_jp": "ハーゼリーラ",
+      "zh_cn": "哈泽丽拉（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -594,7 +667,8 @@
   {
     "name": {
       "en_us": "Killua",
-      "ja_jp": "キルア"
+      "ja_jp": "キルア",
+      "zh_cn": "奇犽"
     },
     "aliases": [],
     "score": 0
@@ -602,7 +676,8 @@
   {
     "name": {
       "en_us": "Chrollo",
-      "ja_jp": "クロロ"
+      "ja_jp": "クロロ",
+      "zh_cn": "库洛洛"
     },
     "aliases": [],
     "score": 0
@@ -610,7 +685,8 @@
   {
     "name": {
       "en_us": "Kurapika",
-      "ja_jp": "クラピカ"
+      "ja_jp": "クラピカ",
+      "zh_cn": "酷拉皮卡"
     },
     "aliases": [],
     "score": 0
@@ -618,7 +694,8 @@
   {
     "name": {
       "en_us": "Gon",
-      "ja_jp": "ゴン"
+      "ja_jp": "ゴン",
+      "zh_cn": "小杰"
     },
     "aliases": [],
     "score": 0
@@ -626,7 +703,8 @@
   {
     "name": {
       "en_us": "Cassius (Summer)",
-      "ja_jp": "カシウス"
+      "ja_jp": "カシウス",
+      "zh_cn": "卡西乌斯（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -634,7 +712,8 @@
   {
     "name": {
       "en_us": "Lich (Summer)",
-      "ja_jp": "リッチ"
+      "ja_jp": "リッチ",
+      "zh_cn": "莉琪（泳装）"
     },
     "aliases": [],
     "score": 3
@@ -642,7 +721,8 @@
   {
     "name": {
       "en_us": "Korwa (Yukata)",
-      "ja_jp": "コルワ"
+      "ja_jp": "コルワ",
+      "zh_cn": "可露瓦（浴衣）"
     },
     "aliases": [],
     "score": 9
@@ -650,7 +730,8 @@
   {
     "name": {
       "en_us": "Atum (Summer)",
-      "ja_jp": "アトゥム"
+      "ja_jp": "アトゥム",
+      "zh_cn": "阿图姆（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -658,7 +739,8 @@
   {
     "name": {
       "en_us": "Fraux (Formal)",
-      "ja_jp": "フラウ"
+      "ja_jp": "フラウ",
+      "zh_cn": "芙劳（礼服）"
     },
     "aliases": [],
     "score": 2
@@ -666,7 +748,8 @@
   {
     "name": {
       "en_us": "Ilsa (Formal)",
-      "ja_jp": "イルザ"
+      "ja_jp": "イルザ",
+      "zh_cn": "伊尔莎（礼服）"
     },
     "aliases": [],
     "score": 4
@@ -674,7 +757,8 @@
   {
     "name": {
       "en_us": "Grimnir (Dark)",
-      "ja_jp": "グリームニル"
+      "ja_jp": "グリームニル",
+      "zh_cn": "格里姆尼尔（暗）"
     },
     "aliases": [],
     "score": 4
@@ -698,7 +782,8 @@
   {
     "name": {
       "en_us": "Siegfried (Grand)",
-      "ja_jp": "ジークフリート"
+      "ja_jp": "ジークフリート",
+      "zh_cn": "齐格飞（Grand）"
     },
     "aliases": [],
     "score": 4
@@ -706,7 +791,8 @@
   {
     "name": {
       "en_us": "Kou (Light)",
-      "ja_jp": "コウ"
+      "ja_jp": "コウ",
+      "zh_cn": "蔻（光）"
     },
     "aliases": [],
     "score": 3
@@ -730,7 +816,8 @@
   {
     "name": {
       "en_us": "Lavirita",
-      "ja_jp": "ラヴィリタ"
+      "ja_jp": "ラヴィリタ",
+      "zh_cn": "拉比利塔"
     },
     "aliases": [],
     "score": 0
@@ -738,7 +825,8 @@
   {
     "name": {
       "en_us": "Pijiu",
-      "ja_jp": "ピィジウ"
+      "ja_jp": "ピィジウ",
+      "zh_cn": "啤酒"
     },
     "aliases": [],
     "score": 0
@@ -754,7 +842,8 @@
   {
     "name": {
       "en_us": "Shukra",
-      "ja_jp": "シュクラ"
+      "ja_jp": "シュクラ",
+      "zh_cn": "淑库拉"
     },
     "aliases": [],
     "score": 0
@@ -762,7 +851,8 @@
   {
     "name": {
       "en_us": "Seofon (Yukata)",
-      "ja_jp": "シエテ"
+      "ja_jp": "シエテ",
+      "zh_cn": "希耶提（浴衣）"
     },
     "aliases": [],
     "score": 6
@@ -770,7 +860,8 @@
   {
     "name": {
       "en_us": "Vikala (Yukata)",
-      "ja_jp": "ビカラ"
+      "ja_jp": "ビカラ",
+      "zh_cn": "碧卡拉（浴衣）"
     },
     "aliases": [],
     "score": 25
@@ -778,7 +869,8 @@
   {
     "name": {
       "en_us": "Mahira (Summer)",
-      "ja_jp": "マキラ"
+      "ja_jp": "マキラ",
+      "zh_cn": "玛琪拉（泳装）"
     },
     "aliases": [],
     "score": 6
@@ -786,7 +878,8 @@
   {
     "name": {
       "en_us": "Lu Woh (Summer)",
-      "ja_jp": "ル・オー"
+      "ja_jp": "ル・オー",
+      "zh_cn": "露·欧（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -794,7 +887,8 @@
   {
     "name": {
       "en_us": "Basara",
-      "ja_jp": "バサラ"
+      "ja_jp": "バサラ",
+      "zh_cn": "巴萨拉"
     },
     "aliases": [],
     "score": 0
@@ -802,7 +896,8 @@
   {
     "name": {
       "en_us": "Joy (Event SSR)",
-      "ja_jp": "ジョイ"
+      "ja_jp": "ジョイ",
+      "zh_cn": "乔伊"
     },
     "aliases": [],
     "score": 0
@@ -810,7 +905,8 @@
   {
     "name": {
       "en_us": "Tsukuyomi",
-      "ja_jp": "ツクヨミ"
+      "ja_jp": "ツクヨミ",
+      "zh_cn": "月读"
     },
     "aliases": [],
     "score": 0
@@ -818,7 +914,8 @@
   {
     "name": {
       "en_us": "Yuel (Grand)",
-      "ja_jp": "ユエル"
+      "ja_jp": "ユエル",
+      "zh_cn": "尤艾尔（Grand）"
     },
     "aliases": [],
     "score": 7
@@ -826,7 +923,8 @@
   {
     "name": {
       "en_us": "Makura (Valentine)",
-      "ja_jp": "マコラ"
+      "ja_jp": "マコラ",
+      "zh_cn": "玛蔻拉（情人节）"
     },
     "aliases": [],
     "score": 1
@@ -834,7 +932,8 @@
   {
     "name": {
       "en_us": "Lobelia (Valentine)",
-      "ja_jp": "ロベリア"
+      "ja_jp": "ロベリア",
+      "zh_cn": "洛贝利亚（情人节）"
     },
     "aliases": [],
     "score": 0
@@ -874,7 +973,8 @@
   {
     "name": {
       "en_us": "Feena (Light)",
-      "ja_jp": "フィーナ"
+      "ja_jp": "フィーナ",
+      "zh_cn": "菲娜（光）"
     },
     "aliases": [],
     "score": 0
@@ -882,7 +982,8 @@
   {
     "name": {
       "en_us": "Maleagant",
-      "ja_jp": "メレアガンス"
+      "ja_jp": "メレアガンス",
+      "zh_cn": "梅利甘斯"
     },
     "aliases": [],
     "score": 0
@@ -890,7 +991,8 @@
   {
     "name": {
       "en_us": "Koku",
-      "ja_jp": "コク"
+      "ja_jp": "コク",
+      "zh_cn": "蔻刻"
     },
     "aliases": [],
     "score": 0
@@ -898,7 +1000,8 @@
   {
     "name": {
       "en_us": "Goblin Mage (SSR)",
-      "ja_jp": "ミニゴブ"
+      "ja_jp": "ミニゴブ",
+      "zh_cn": "迷你哥布"
     },
     "aliases": [],
     "score": 0
@@ -906,7 +1009,8 @@
   {
     "name": {
       "en_us": "Indala",
-      "ja_jp": "インダラ"
+      "ja_jp": "インダラ",
+      "zh_cn": "茵妲拉"
     },
     "aliases": [],
     "score": 1
@@ -914,7 +1018,8 @@
   {
     "name": {
       "en_us": "Raphael",
-      "ja_jp": "ラファエル"
+      "ja_jp": "ラファエル",
+      "zh_cn": "拉斐尔"
     },
     "aliases": [],
     "score": 1
@@ -922,7 +1027,8 @@
   {
     "name": {
       "en_us": "Aletheia (Dark)",
-      "ja_jp": "アレーティア"
+      "ja_jp": "アレーティア",
+      "zh_cn": "阿雷提亚（暗）"
     },
     "aliases": [],
     "score": 1
@@ -930,7 +1036,8 @@
   {
     "name": {
       "en_us": "Yatima",
-      "ja_jp": "ヤチマ"
+      "ja_jp": "ヤチマ",
+      "zh_cn": "雅琪玛"
     },
     "aliases": [],
     "score": 0
@@ -938,7 +1045,8 @@
   {
     "name": {
       "en_us": "Payila (Event)",
-      "ja_jp": "ハイラ"
+      "ja_jp": "ハイラ",
+      "zh_cn": "哈伊拉"
     },
     "aliases": [],
     "score": 2
@@ -946,7 +1054,8 @@
   {
     "name": {
       "en_us": "Feower (Holiday)",
-      "ja_jp": "カトル"
+      "ja_jp": "カトル",
+      "zh_cn": "卡托尔（圣诞）"
     },
     "aliases": [],
     "score": 2
@@ -954,7 +1063,8 @@
   {
     "name": {
       "en_us": "Zooey (Holiday)",
-      "ja_jp": "ゾーイ"
+      "ja_jp": "ゾーイ",
+      "zh_cn": "佐伊（圣诞）"
     },
     "aliases": [],
     "score": 7
@@ -962,7 +1072,8 @@
   {
     "name": {
       "en_us": "Yggdrasil (Holiday)",
-      "ja_jp": "ユグドラシル"
+      "ja_jp": "ユグドラシル",
+      "zh_cn": "尤格多拉希尔（圣诞）"
     },
     "aliases": [],
     "score": 6
@@ -970,7 +1081,8 @@
   {
     "name": {
       "en_us": "Wamdus (Holiday)",
-      "ja_jp": "ワムデュス"
+      "ja_jp": "ワムデュス",
+      "zh_cn": "瓦姆杜斯（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -995,7 +1107,8 @@
   {
     "name": {
       "en_us": "Shion (Collab)",
-      "ja_jp": "シオン"
+      "ja_jp": "シオン",
+      "zh_cn": "紫苑"
     },
     "aliases": [],
     "score": 68,
@@ -1012,7 +1125,8 @@
   {
     "name": {
       "en_us": "Will (SSR)",
-      "ja_jp": "ウィル"
+      "ja_jp": "ウィル",
+      "zh_cn": "威尔"
     },
     "aliases": [],
     "score": 0
@@ -1020,7 +1134,8 @@
   {
     "name": {
       "en_us": "Lecia (SSR)",
-      "ja_jp": "リーシャ"
+      "ja_jp": "リーシャ",
+      "zh_cn": "莉夏"
     },
     "aliases": [],
     "score": 4
@@ -1028,7 +1143,8 @@
   {
     "name": {
       "en_us": "Manamel (Halloween)",
-      "ja_jp": "マナマル"
+      "ja_jp": "マナマル",
+      "zh_cn": "玛娜玛尔（万圣节）"
     },
     "aliases": [],
     "score": 1
@@ -1036,7 +1152,8 @@
   {
     "name": {
       "en_us": "Satyr (Halloween)",
-      "ja_jp": "サテュロス"
+      "ja_jp": "サテュロス",
+      "zh_cn": "萨提洛斯（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -1044,7 +1161,8 @@
   {
     "name": {
       "en_us": "Wilnas (Halloween)",
-      "ja_jp": "ウィルナス"
+      "ja_jp": "ウィルナス",
+      "zh_cn": "威尔纳斯（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -1052,7 +1170,8 @@
   {
     "name": {
       "en_us": "Uruki",
-      "ja_jp": "ウルキ"
+      "ja_jp": "ウルキ",
+      "zh_cn": "乌露琪"
     },
     "aliases": [],
     "score": 0
@@ -1060,7 +1179,8 @@
   {
     "name": {
       "en_us": "Florence (Dark)",
-      "ja_jp": "フロレンス"
+      "ja_jp": "フロレンス",
+      "zh_cn": "芙罗伦斯（暗）"
     },
     "aliases": [],
     "score": 0
@@ -1068,7 +1188,8 @@
   {
     "name": {
       "en_us": "Vane (Grand)",
-      "ja_jp": "ヴェイン"
+      "ja_jp": "ヴェイン",
+      "zh_cn": "维恩（Grand）"
     },
     "aliases": [],
     "score": 5
@@ -1076,7 +1197,8 @@
   {
     "name": {
       "en_us": "Novei",
-      "ja_jp": "ナーヴェ"
+      "ja_jp": "ナーヴェ",
+      "zh_cn": "娜维"
     },
     "aliases": [],
     "score": 0
@@ -1092,7 +1214,8 @@
   {
     "name": {
       "en_us": "Sevastien (SSR)",
-      "ja_jp": "セワスチアン"
+      "ja_jp": "セワスチアン",
+      "zh_cn": "塞瓦斯蒂安"
     },
     "aliases": [],
     "score": 0
@@ -1100,7 +1223,8 @@
   {
     "name": {
       "en_us": "Medusa (Grand)",
-      "ja_jp": "メドゥーサ"
+      "ja_jp": "メドゥーサ",
+      "zh_cn": "美杜莎（Grand）"
     },
     "aliases": [],
     "score": 9
@@ -1108,7 +1232,8 @@
   {
     "name": {
       "en_us": "Nier (Yukata)",
-      "ja_jp": "ニーア"
+      "ja_jp": "ニーア",
+      "zh_cn": "尼娅（浴衣）"
     },
     "aliases": [],
     "score": 3
@@ -1116,7 +1241,8 @@
   {
     "name": {
       "en_us": "Aglovale (Yukata)",
-      "ja_jp": "アグロヴァル"
+      "ja_jp": "アグロヴァル",
+      "zh_cn": "阿古罗瓦尔（浴衣）"
     },
     "aliases": [],
     "score": 1
@@ -1124,7 +1250,8 @@
   {
     "name": {
       "en_us": "Galleon (Summer)",
-      "ja_jp": "ガレヲン"
+      "ja_jp": "ガレヲン",
+      "zh_cn": "伽莱翁（泳装）"
     },
     "aliases": [],
     "score": 10
@@ -1132,7 +1259,8 @@
   {
     "name": {
       "en_us": "Shushuku",
-      "ja_jp": "シュシュク"
+      "ja_jp": "シュシュク",
+      "zh_cn": "秀秀珂"
     },
     "aliases": [],
     "score": 0
@@ -1148,7 +1276,8 @@
   {
     "name": {
       "en_us": "Ragazzo (Summer)",
-      "ja_jp": "ラガッツォ"
+      "ja_jp": "ラガッツォ",
+      "zh_cn": "拉伽佐（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1156,7 +1285,8 @@
   {
     "name": {
       "en_us": "Tweyen (Yukata)",
-      "ja_jp": "ソーン"
+      "ja_jp": "ソーン",
+      "zh_cn": "索恩（浴衣）"
     },
     "aliases": [],
     "score": 13
@@ -1164,7 +1294,8 @@
   {
     "name": {
       "en_us": "Hallessena (Summer)",
-      "ja_jp": "ハレゼナ"
+      "ja_jp": "ハレゼナ",
+      "zh_cn": "哈雷泽娜（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1172,7 +1303,8 @@
   {
     "name": {
       "en_us": "Cucouroux (Summer)",
-      "ja_jp": "ククル"
+      "ja_jp": "ククル",
+      "zh_cn": "库库鲁（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1180,7 +1312,8 @@
   {
     "name": {
       "en_us": "Raziel (Summer)",
-      "ja_jp": "ラジエル"
+      "ja_jp": "ラジエル",
+      "zh_cn": "拉结尔（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1188,7 +1321,8 @@
   {
     "name": {
       "en_us": "Tefnut (Summer)",
-      "ja_jp": "テフヌト"
+      "ja_jp": "テフヌト",
+      "zh_cn": "泰芙努特（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1196,7 +1330,8 @@
   {
     "name": {
       "en_us": "Orologia",
-      "ja_jp": "オロロジャイア"
+      "ja_jp": "オロロジャイア",
+      "zh_cn": "欧罗罗伽亚"
     },
     "aliases": [],
     "score": 0
@@ -1204,7 +1339,8 @@
   {
     "name": {
       "en_us": "Nectar (Water)",
-      "ja_jp": "ネクタル"
+      "ja_jp": "ネクタル",
+      "zh_cn": "奈克塔尔（水）"
     },
     "aliases": [],
     "score": 0
@@ -1212,7 +1348,8 @@
   {
     "name": {
       "en_us": "Ami",
-      "ja_jp": "アミ"
+      "ja_jp": "アミ",
+      "zh_cn": "阿弥"
     },
     "aliases": [],
     "score": 0
@@ -1220,7 +1357,8 @@
   {
     "name": {
       "en_us": "Mirin (SSR)",
-      "ja_jp": "ミリン"
+      "ja_jp": "ミリン",
+      "zh_cn": "米林"
     },
     "aliases": [],
     "score": 0
@@ -1236,7 +1374,8 @@
   {
     "name": {
       "en_us": "Veight (Wind)",
-      "ja_jp": "ヴァイト"
+      "ja_jp": "ヴァイト",
+      "zh_cn": "斑特（风）"
     },
     "aliases": [],
     "score": 1
@@ -1244,7 +1383,8 @@
   {
     "name": {
       "en_us": "Sui",
-      "ja_jp": "スイ"
+      "ja_jp": "スイ",
+      "zh_cn": "翠"
     },
     "aliases": [],
     "score": 0
@@ -1252,7 +1392,8 @@
   {
     "name": {
       "en_us": "Chloe (SSR)",
-      "ja_jp": "クロエ"
+      "ja_jp": "クロエ",
+      "zh_cn": "库洛尔"
     },
     "aliases": [],
     "score": 0
@@ -1260,7 +1401,8 @@
   {
     "name": {
       "en_us": "Kolulu (Earth)",
-      "ja_jp": "コルル"
+      "ja_jp": "コルル",
+      "zh_cn": "可露露（土）"
     },
     "aliases": [],
     "score": 2
@@ -1268,7 +1410,8 @@
   {
     "name": {
       "en_us": "Chichiri",
-      "ja_jp": "チチリ"
+      "ja_jp": "チチリ",
+      "zh_cn": "琪琪莉"
     },
     "aliases": [],
     "score": 0
@@ -1276,7 +1419,8 @@
   {
     "name": {
       "en_us": "Anne (Light)",
-      "ja_jp": "アン"
+      "ja_jp": "アン",
+      "zh_cn": "安（光）"
     },
     "aliases": [],
     "score": 91,
@@ -1287,7 +1431,8 @@
   {
     "name": {
       "en_us": "Spinnah (SSR)",
-      "ja_jp": "スピナー"
+      "ja_jp": "スピナー",
+      "zh_cn": "斯平纳"
     },
     "aliases": [],
     "score": 0
@@ -1302,7 +1447,8 @@
   {
     "name": {
       "en_us": "Elmott (Yukata)",
-      "ja_jp": "エルモート"
+      "ja_jp": "エルモート",
+      "zh_cn": "艾尔莫特（浴衣）"
     },
     "aliases": [],
     "score": 1
@@ -1310,7 +1456,8 @@
   {
     "name": {
       "en_us": "De La Fille (Yukata)",
-      "ja_jp": "レ・フィーエ"
+      "ja_jp": "レ・フィーエ",
+      "zh_cn": "蕾・芬耶（浴衣）"
     },
     "aliases": [],
     "score": 4
@@ -1318,7 +1465,8 @@
   {
     "name": {
       "en_us": "Fenie",
-      "ja_jp": "フェニー"
+      "ja_jp": "フェニー",
+      "zh_cn": "菲妮"
     },
     "aliases": [],
     "score": 0
@@ -1326,7 +1474,8 @@
   {
     "name": {
       "en_us": "Horus (Summer)",
-      "ja_jp": "ホルス"
+      "ja_jp": "ホルス",
+      "zh_cn": "荷鲁斯（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1334,7 +1483,8 @@
   {
     "name": {
       "en_us": "Magus (Summer)",
-      "ja_jp": "メイガス"
+      "ja_jp": "メイガス",
+      "zh_cn": "梅嘉丝（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1342,7 +1492,8 @@
   {
     "name": {
       "en_us": "Raziel (Event)",
-      "ja_jp": "ラジエル"
+      "ja_jp": "ラジエル",
+      "zh_cn": "拉结尔"
     },
     "aliases": [],
     "score": 0
@@ -1350,7 +1501,8 @@
   {
     "name": {
       "en_us": "Sandalphon",
-      "ja_jp": "サンダルフォン"
+      "ja_jp": "サンダルフォン",
+      "zh_cn": "圣德芬"
     },
     "aliases": [],
     "score": 7
@@ -1358,7 +1510,8 @@
   {
     "name": {
       "en_us": "Sabrina",
-      "ja_jp": "サブリナ"
+      "ja_jp": "サブリナ",
+      "zh_cn": "萨布丽娜"
     },
     "aliases": [],
     "score": 0
@@ -1366,7 +1519,8 @@
   {
     "name": {
       "en_us": "Richard (SSR)",
-      "ja_jp": "リチャード"
+      "ja_jp": "リチャード",
+      "zh_cn": "理查德"
     },
     "aliases": [],
     "score": 1
@@ -1374,7 +1528,8 @@
   {
     "name": {
       "en_us": "Cidala (Valentine)",
-      "ja_jp": "シンダラ"
+      "ja_jp": "シンダラ",
+      "zh_cn": "辛妲拉（情人节）"
     },
     "aliases": [],
     "score": 9
@@ -1382,7 +1537,8 @@
   {
     "name": {
       "en_us": "Nehan (Valentine)",
-      "ja_jp": "ネハン"
+      "ja_jp": "ネハン",
+      "zh_cn": "涅槃（情人节）"
     },
     "aliases": [],
     "score": 1
@@ -1390,7 +1546,8 @@
   {
     "name": {
       "en_us": "Robertina",
-      "ja_jp": "ロベルティナ"
+      "ja_jp": "ロベルティナ",
+      "zh_cn": "罗贝缇娜"
     },
     "aliases": [],
     "score": 0
@@ -1398,7 +1555,8 @@
   {
     "name": {
       "en_us": "Juri (SSR)",
-      "ja_jp": "ユーリ"
+      "ja_jp": "ユーリ",
+      "zh_cn": "尤利"
     },
     "aliases": [],
     "score": 0
@@ -1414,7 +1572,8 @@
   {
     "name": {
       "en_us": "Olivia",
-      "ja_jp": "オリヴィエ"
+      "ja_jp": "オリヴィエ",
+      "zh_cn": "奥莉薇尔"
     },
     "aliases": [],
     "score": 0
@@ -1422,7 +1581,8 @@
   {
     "name": {
       "en_us": "Deliford (SSR)",
-      "ja_jp": "デリフォード"
+      "ja_jp": "デリフォード",
+      "zh_cn": "德里福德"
     },
     "aliases": [],
     "score": 0
@@ -1454,7 +1614,8 @@
   {
     "name": {
       "en_us": "Payila",
-      "ja_jp": "ハイラ"
+      "ja_jp": "ハイラ",
+      "zh_cn": "哈伊拉"
     },
     "aliases": [],
     "score": 2
@@ -1462,7 +1623,8 @@
   {
     "name": {
       "en_us": "Uriel",
-      "ja_jp": "ウリエル"
+      "ja_jp": "ウリエル",
+      "zh_cn": "乌列尔"
     },
     "aliases": [],
     "score": 1
@@ -1470,7 +1632,8 @@
   {
     "name": {
       "en_us": "Lowain (SSR)",
-      "ja_jp": "ローアイン"
+      "ja_jp": "ローアイン",
+      "zh_cn": "罗艾因"
     },
     "aliases": [],
     "score": 0
@@ -1478,7 +1641,8 @@
   {
     "name": {
       "en_us": "Zeta (Grand)",
-      "ja_jp": "ゼタ"
+      "ja_jp": "ゼタ",
+      "zh_cn": "泽塔（Grand）"
     },
     "aliases": [],
     "score": 29
@@ -1486,7 +1650,8 @@
   {
     "name": {
       "en_us": "Noa (Holiday)",
-      "ja_jp": "ノア"
+      "ja_jp": "ノア",
+      "zh_cn": "诺亚（圣诞）"
     },
     "aliases": [],
     "score": 3
@@ -1494,7 +1659,8 @@
   {
     "name": {
       "en_us": "Helel ben Shalem (Holiday)",
-      "ja_jp": "ヘレル・ベン・シャレム"
+      "ja_jp": "ヘレル・ベン・シャレム",
+      "zh_cn": "赫莱尔·本·夏蕾姆（圣诞）"
     },
     "aliases": [],
     "score": 6
@@ -1502,7 +1668,8 @@
   {
     "name": {
       "en_us": "Illnott (Holiday)",
-      "ja_jp": "イルノート"
+      "ja_jp": "イルノート",
+      "zh_cn": "伊尔诺特（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -1510,7 +1677,8 @@
   {
     "name": {
       "en_us": "Yuni (Holiday)",
-      "ja_jp": "ユニ"
+      "ja_jp": "ユニ",
+      "zh_cn": "尤妮（圣诞）"
     },
     "aliases": [],
     "score": 3
@@ -1518,7 +1686,8 @@
   {
     "name": {
       "en_us": "Volenna (SSR)",
-      "ja_jp": "ボレミア"
+      "ja_jp": "ボレミア",
+      "zh_cn": "波蕾米亚"
     },
     "aliases": [],
     "score": 2
@@ -1534,7 +1703,8 @@
   {
     "name": {
       "en_us": "Gabriel",
-      "ja_jp": "ガブリエル"
+      "ja_jp": "ガブリエル",
+      "zh_cn": "加百列"
     },
     "aliases": [],
     "score": 8
@@ -1542,7 +1712,8 @@
   {
     "name": {
       "en_us": "Utsusemi",
-      "ja_jp": "ウツセミ"
+      "ja_jp": "ウツセミ",
+      "zh_cn": "空蝉"
     },
     "aliases": [],
     "score": 0
@@ -1550,7 +1721,8 @@
   {
     "name": {
       "en_us": "Sevilbarra (SSR)",
-      "ja_jp": "サビルバラ"
+      "ja_jp": "サビルバラ",
+      "zh_cn": "萨比尔巴拉"
     },
     "aliases": [],
     "score": 0
@@ -1558,7 +1730,8 @@
   {
     "name": {
       "en_us": "Dante (Halloween)",
-      "ja_jp": "ダーント"
+      "ja_jp": "ダーント",
+      "zh_cn": "旦特（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -1566,7 +1739,8 @@
   {
     "name": {
       "en_us": "Vikala (Halloween)",
-      "ja_jp": "ビカラ"
+      "ja_jp": "ビカラ",
+      "zh_cn": "碧卡拉（万圣节）"
     },
     "aliases": [],
     "score": 25
@@ -1574,7 +1748,8 @@
   {
     "name": {
       "en_us": "Tikoh (Halloween)",
-      "ja_jp": "ティコ"
+      "ja_jp": "ティコ",
+      "zh_cn": "缇可（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -1582,7 +1757,8 @@
   {
     "name": {
       "en_us": "Siegfried (Light)",
-      "ja_jp": "ジークフリート"
+      "ja_jp": "ジークフリート",
+      "zh_cn": "齐格飞（光）"
     },
     "aliases": [],
     "score": 4
@@ -1590,7 +1766,8 @@
   {
     "name": {
       "en_us": "Catherine (Wind)",
-      "ja_jp": "キャサリン"
+      "ja_jp": "キャサリン",
+      "zh_cn": "凯瑟琳（风）"
     },
     "aliases": [],
     "score": 0
@@ -1606,7 +1783,8 @@
   {
     "name": {
       "en_us": "Paris",
-      "ja_jp": "パリス"
+      "ja_jp": "パリス",
+      "zh_cn": "帕里斯"
     },
     "aliases": [],
     "score": 0
@@ -1622,7 +1800,8 @@
   {
     "name": {
       "en_us": "Ragazzo",
-      "ja_jp": "ラガッツォ"
+      "ja_jp": "ラガッツォ",
+      "zh_cn": "拉伽佐"
     },
     "aliases": [],
     "score": 0
@@ -1630,7 +1809,8 @@
   {
     "name": {
       "en_us": "Seruel (Summer)",
-      "ja_jp": "セルエル"
+      "ja_jp": "セルエル",
+      "zh_cn": "塞鲁艾尔（泳装）"
     },
     "aliases": [],
     "score": 2
@@ -1638,7 +1818,8 @@
   {
     "name": {
       "en_us": "Anila (Yukata)",
-      "ja_jp": "アニラ"
+      "ja_jp": "アニラ",
+      "zh_cn": "阿妮拉（浴衣）"
     },
     "aliases": [],
     "score": 5
@@ -1646,7 +1827,8 @@
   {
     "name": {
       "en_us": "Vania (Yukata)",
-      "ja_jp": "ヴァンピィ"
+      "ja_jp": "ヴァンピィ",
+      "zh_cn": "斑比（浴衣）"
     },
     "aliases": [],
     "score": 17
@@ -1678,7 +1860,8 @@
   {
     "name": {
       "en_us": "Aliza (Summer)",
-      "ja_jp": "アリーザ"
+      "ja_jp": "アリーザ",
+      "zh_cn": "阿丽莎（泳装）"
     },
     "aliases": [],
     "score": 6
@@ -1686,7 +1869,8 @@
   {
     "name": {
       "en_us": "Yurius (Summer)",
-      "ja_jp": "ユリウス"
+      "ja_jp": "ユリウス",
+      "zh_cn": "尤里乌斯（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1694,7 +1878,8 @@
   {
     "name": {
       "en_us": "Fediel (Summer)",
-      "ja_jp": "フェディエル"
+      "ja_jp": "フェディエル",
+      "zh_cn": "菲迪埃尔（泳装）"
     },
     "aliases": [],
     "score": 2
@@ -1702,7 +1887,8 @@
   {
     "name": {
       "en_us": "Vaseraga (Summer)",
-      "ja_jp": "バザラガ"
+      "ja_jp": "バザラガ",
+      "zh_cn": "巴萨拉卡（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1710,7 +1896,8 @@
   {
     "name": {
       "en_us": "Enyo (Summer)",
-      "ja_jp": "エニュオ"
+      "ja_jp": "エニュオ",
+      "zh_cn": "厄倪俄（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1718,7 +1905,8 @@
   {
     "name": {
       "en_us": "Pholia (Yukata)",
-      "ja_jp": "フォリア"
+      "ja_jp": "フォリア",
+      "zh_cn": "芙莉亚（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -1726,7 +1914,8 @@
   {
     "name": {
       "en_us": "Cupitan (Summer)",
-      "ja_jp": "クピタン"
+      "ja_jp": "クピタン",
+      "zh_cn": "库皮碳（泳装）"
     },
     "aliases": [],
     "score": 3
@@ -1734,7 +1923,8 @@
   {
     "name": {
       "en_us": "Cosmos",
-      "ja_jp": "コスモス"
+      "ja_jp": "コスモス",
+      "zh_cn": "科斯莫斯"
     },
     "aliases": [],
     "score": 0
@@ -1742,7 +1932,8 @@
   {
     "name": {
       "en_us": "Baal (Fire)",
-      "ja_jp": "バアル"
+      "ja_jp": "バアル",
+      "zh_cn": "巴尔（火）"
     },
     "aliases": [],
     "score": 0
@@ -1750,7 +1941,8 @@
   {
     "name": {
       "en_us": "Korwa (Water)",
-      "ja_jp": "コルワ"
+      "ja_jp": "コルワ",
+      "zh_cn": "可露瓦（水）"
     },
     "aliases": [],
     "score": 9
@@ -1766,7 +1958,8 @@
   {
     "name": {
       "en_us": "Lily (Wind)",
-      "ja_jp": "リリィ"
+      "ja_jp": "リリィ",
+      "zh_cn": "莉莉（风）"
     },
     "aliases": [],
     "score": 5
@@ -1782,7 +1975,8 @@
   {
     "name": {
       "en_us": "Cantate",
-      "ja_jp": "カンターテ"
+      "ja_jp": "カンターテ",
+      "zh_cn": "坎塔特"
     },
     "aliases": [],
     "score": 0
@@ -1790,7 +1984,8 @@
   {
     "name": {
       "en_us": "Caro",
-      "ja_jp": "カロ"
+      "ja_jp": "カロ",
+      "zh_cn": "卡洛"
     },
     "aliases": [],
     "score": 0
@@ -1798,7 +1993,8 @@
   {
     "name": {
       "en_us": "Jasmine (SSR)",
-      "ja_jp": "ジャスミン"
+      "ja_jp": "ジャスミン",
+      "zh_cn": "茉莉"
     },
     "aliases": [],
     "score": 0
@@ -1806,7 +2002,8 @@
   {
     "name": {
       "en_us": "Yaia (SSR)",
-      "ja_jp": "ヤイア"
+      "ja_jp": "ヤイア",
+      "zh_cn": "丫丫"
     },
     "aliases": [],
     "score": 0
@@ -1821,7 +2018,8 @@
   {
     "name": {
       "en_us": "Ilsa (Yukata)",
-      "ja_jp": "イルザ"
+      "ja_jp": "イルザ",
+      "zh_cn": "伊尔莎（浴衣）"
     },
     "aliases": [],
     "score": 4
@@ -1829,7 +2027,8 @@
   {
     "name": {
       "en_us": "Nezha (Yukata)",
-      "ja_jp": "ナタク"
+      "ja_jp": "ナタク",
+      "zh_cn": "哪吒（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -1837,7 +2036,8 @@
   {
     "name": {
       "en_us": "Monika (Summer)",
-      "ja_jp": "モニカ"
+      "ja_jp": "モニカ",
+      "zh_cn": "莫妮卡（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1845,7 +2045,8 @@
   {
     "name": {
       "en_us": "Azusa (Summer)",
-      "ja_jp": "アズサ"
+      "ja_jp": "アズサ",
+      "zh_cn": "梓（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -1853,7 +2054,8 @@
   {
     "name": {
       "en_us": "Ewiyar (Grand)",
-      "ja_jp": "イーウィヤ"
+      "ja_jp": "イーウィヤ",
+      "zh_cn": "伊维亚（Grand）"
     },
     "aliases": [],
     "score": 0
@@ -1861,7 +2063,8 @@
   {
     "name": {
       "en_us": "Seofon (Event)",
-      "ja_jp": "シエテ"
+      "ja_jp": "シエテ",
+      "zh_cn": "希耶提"
     },
     "aliases": [],
     "score": 6
@@ -1877,7 +2080,8 @@
   {
     "name": {
       "en_us": "Lu Woh",
-      "ja_jp": "ル・オー"
+      "ja_jp": "ル・オー",
+      "zh_cn": "露·欧"
     },
     "aliases": [],
     "score": 0
@@ -1885,7 +2089,8 @@
   {
     "name": {
       "en_us": "Sen (Valentine)",
-      "ja_jp": "セン"
+      "ja_jp": "セン",
+      "zh_cn": "千（情人节）"
     },
     "aliases": [],
     "score": 6
@@ -1893,7 +2098,8 @@
   {
     "name": {
       "en_us": "Sandalphon (Valentine)",
-      "ja_jp": "サンダルフォン"
+      "ja_jp": "サンダルフォン",
+      "zh_cn": "圣德芬（情人节）"
     },
     "aliases": [],
     "score": 7
@@ -1901,7 +2107,8 @@
   {
     "name": {
       "en_us": "Orchid",
-      "ja_jp": "オーキス"
+      "ja_jp": "オーキス",
+      "zh_cn": "欧姬丝"
     },
     "aliases": [],
     "score": 17
@@ -1909,7 +2116,8 @@
   {
     "name": {
       "en_us": "Cendrillon",
-      "ja_jp": "サンドリヨン"
+      "ja_jp": "サンドリヨン",
+      "zh_cn": "桑德莉咏"
     },
     "aliases": [],
     "score": 0
@@ -1925,7 +2133,8 @@
   {
     "name": {
       "en_us": "Halluel and Malluel",
-      "ja_jp": "ハールート・マールート"
+      "ja_jp": "ハールート・マールート",
+      "zh_cn": "哈露特·玛露特"
     },
     "aliases": [],
     "score": 0
@@ -1941,7 +2150,8 @@
   {
     "name": {
       "en_us": "Makura",
-      "ja_jp": "マコラ"
+      "ja_jp": "マコラ",
+      "zh_cn": "玛蔻拉"
     },
     "aliases": [],
     "score": 1
@@ -1949,7 +2159,8 @@
   {
     "name": {
       "en_us": "Michael",
-      "ja_jp": "ミカエル"
+      "ja_jp": "ミカエル",
+      "zh_cn": "米迦勒"
     },
     "aliases": [],
     "score": 3
@@ -1957,7 +2168,8 @@
   {
     "name": {
       "en_us": "Erin (SSR)",
-      "ja_jp": "エリン"
+      "ja_jp": "エリン",
+      "zh_cn": "艾琳"
     },
     "aliases": [],
     "score": 0
@@ -1965,7 +2177,8 @@
   {
     "name": {
       "en_us": "Charlotta (Grand)",
-      "ja_jp": "シャルロッテ"
+      "ja_jp": "シャルロッテ",
+      "zh_cn": "夏洛特（Grand）"
     },
     "aliases": [],
     "score": 22
@@ -1973,7 +2186,8 @@
   {
     "name": {
       "en_us": "Catura (Holiday)",
-      "ja_jp": "シャトラ"
+      "ja_jp": "シャトラ",
+      "zh_cn": "夏托拉（圣诞）"
     },
     "aliases": [],
     "score": 3
@@ -1981,7 +2195,8 @@
   {
     "name": {
       "en_us": "Cain (Holiday)",
-      "ja_jp": "カイン"
+      "ja_jp": "カイン",
+      "zh_cn": "该隐（圣诞）"
     },
     "aliases": [],
     "score": 1
@@ -1989,7 +2204,8 @@
   {
     "name": {
       "en_us": "Fiorito (Holiday)",
-      "ja_jp": "フィオリト"
+      "ja_jp": "フィオリト",
+      "zh_cn": "菲欧丽特（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -1997,7 +2213,8 @@
   {
     "name": {
       "en_us": "Europa (Holiday)",
-      "ja_jp": "エウロペ"
+      "ja_jp": "エウロペ",
+      "zh_cn": "欧罗巴（圣诞）"
     },
     "aliases": [],
     "score": 5
@@ -2005,7 +2222,8 @@
   {
     "name": {
       "en_us": "Therese (Wind)",
-      "ja_jp": "テレーズ"
+      "ja_jp": "テレーズ",
+      "zh_cn": "特蕾兹（风）"
     },
     "aliases": [],
     "score": 2
@@ -2013,7 +2231,8 @@
   {
     "name": {
       "en_us": "Adam",
-      "ja_jp": "アダム"
+      "ja_jp": "アダム",
+      "zh_cn": "亚当"
     },
     "aliases": [],
     "score": 0
@@ -2021,7 +2240,8 @@
   {
     "name": {
       "en_us": "Alliah",
-      "ja_jp": "アリア"
+      "ja_jp": "アリア",
+      "zh_cn": "阿莉亚"
     },
     "aliases": [],
     "score": 0
@@ -2037,7 +2257,8 @@
   {
     "name": {
       "en_us": "Florence (Halloween)",
-      "ja_jp": "フロレンス"
+      "ja_jp": "フロレンス",
+      "zh_cn": "芙罗伦斯（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -2045,7 +2266,8 @@
   {
     "name": {
       "en_us": "Mugen (Halloween)",
-      "ja_jp": "ムゲン"
+      "ja_jp": "ムゲン",
+      "zh_cn": "无限（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -2053,7 +2275,8 @@
   {
     "name": {
       "en_us": "Lich (Halloween)",
-      "ja_jp": "リッチ"
+      "ja_jp": "リッチ",
+      "zh_cn": "莉琪（万圣节）"
     },
     "aliases": [],
     "score": 3
@@ -2069,7 +2292,8 @@
   {
     "name": {
       "en_us": "Percival (Grand)",
-      "ja_jp": "パーシヴァル"
+      "ja_jp": "パーシヴァル",
+      "zh_cn": "帕西瓦尔（Grand）"
     },
     "aliases": [],
     "score": 8
@@ -2085,7 +2309,8 @@
   {
     "name": {
       "en_us": "Bowman",
-      "ja_jp": "ボーマン"
+      "ja_jp": "ボーマン",
+      "zh_cn": "波曼"
     },
     "aliases": [],
     "score": 0
@@ -2093,7 +2318,8 @@
   {
     "name": {
       "en_us": "Jessica (SSR)",
-      "ja_jp": "ジェシカ"
+      "ja_jp": "ジェシカ",
+      "zh_cn": "杰西卡"
     },
     "aliases": [],
     "score": 6
@@ -2142,7 +2368,8 @@
   {
     "name": {
       "en_us": "Wamdus",
-      "ja_jp": "ワムデュス"
+      "ja_jp": "ワムデュス",
+      "zh_cn": "瓦姆杜斯"
     },
     "aliases": [],
     "score": 0
@@ -2150,7 +2377,8 @@
   {
     "name": {
       "en_us": "Sturm (Summer)",
-      "ja_jp": "スツルム"
+      "ja_jp": "スツルム",
+      "zh_cn": "斯特姆（泳装）"
     },
     "aliases": [],
     "score": 8
@@ -2158,7 +2386,8 @@
   {
     "name": {
       "en_us": "Tikoh (Summer)",
-      "ja_jp": "ティコ"
+      "ja_jp": "ティコ",
+      "zh_cn": "缇可（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -2166,7 +2395,8 @@
   {
     "name": {
       "en_us": "Clarisse (Summer)",
-      "ja_jp": "クラリス"
+      "ja_jp": "クラリス",
+      "zh_cn": "克拉莉丝（泳装）"
     },
     "aliases": [],
     "score": 13
@@ -2174,7 +2404,8 @@
   {
     "name": {
       "en_us": "Magisa (Summer)",
-      "ja_jp": "マギサ"
+      "ja_jp": "マギサ",
+      "zh_cn": "玛姬莎（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -2182,7 +2413,8 @@
   {
     "name": {
       "en_us": "Eustace (Summer)",
-      "ja_jp": "ユーステス"
+      "ja_jp": "ユーステス",
+      "zh_cn": "尤斯缇斯（泳装）"
     },
     "aliases": [],
     "score": 1
@@ -2190,7 +2422,8 @@
   {
     "name": {
       "en_us": "Shion (Summer)",
-      "ja_jp": "シオン"
+      "ja_jp": "シオン",
+      "zh_cn": "紫苑（泳装）"
     },
     "aliases": [],
     "score": 68,
@@ -2199,7 +2432,8 @@
   {
     "name": {
       "en_us": "Mirin (Summer)",
-      "ja_jp": "ミリン"
+      "ja_jp": "ミリン",
+      "zh_cn": "米林（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -2207,7 +2441,8 @@
   {
     "name": {
       "en_us": "Vikala (Summer)",
-      "ja_jp": "ビカラ"
+      "ja_jp": "ビカラ",
+      "zh_cn": "碧卡拉（泳装）"
     },
     "aliases": [],
     "score": 25
@@ -2215,7 +2450,8 @@
   {
     "name": {
       "en_us": "Vajra (Summer)",
-      "ja_jp": "ヴァジラ"
+      "ja_jp": "ヴァジラ",
+      "zh_cn": "瓦姬拉（泳装）"
     },
     "aliases": [],
     "score": 11
@@ -2223,7 +2459,8 @@
   {
     "name": {
       "en_us": "Gwynne",
-      "ja_jp": "グウィン"
+      "ja_jp": "グウィン",
+      "zh_cn": "古茵"
     },
     "aliases": [],
     "score": 0
@@ -2231,7 +2468,8 @@
   {
     "name": {
       "en_us": "Galleon",
-      "ja_jp": "ガレヲン"
+      "ja_jp": "ガレヲン",
+      "zh_cn": "伽莱翁"
     },
     "aliases": [],
     "score": 10
@@ -2239,7 +2477,8 @@
   {
     "name": {
       "en_us": "Jamil (SSR)",
-      "ja_jp": "ジャミル"
+      "ja_jp": "ジャミル",
+      "zh_cn": "贾米尔"
     },
     "aliases": [],
     "score": 2
@@ -2247,7 +2486,8 @@
   {
     "name": {
       "en_us": "Elea",
-      "ja_jp": "エイレア"
+      "ja_jp": "エイレア",
+      "zh_cn": "艾蕾亚"
     },
     "aliases": [],
     "score": 0
@@ -2263,7 +2503,8 @@
   {
     "name": {
       "en_us": "Manamel",
-      "ja_jp": "マナマル"
+      "ja_jp": "マナマル",
+      "zh_cn": "玛娜玛尔"
     },
     "aliases": [],
     "score": 1
@@ -2295,7 +2536,8 @@
   {
     "name": {
       "en_us": "Sophia (Water)",
-      "ja_jp": "ソフィア"
+      "ja_jp": "ソフィア",
+      "zh_cn": "索菲娅（水）"
     },
     "aliases": [],
     "score": 3
@@ -2319,7 +2561,8 @@
   {
     "name": {
       "en_us": "You",
-      "ja_jp": "ヨウ"
+      "ja_jp": "ヨウ",
+      "zh_cn": "容"
     },
     "aliases": [],
     "score": 1
@@ -2327,7 +2570,8 @@
   {
     "name": {
       "en_us": "Narmaya (Yukata)",
-      "ja_jp": "ナルメア"
+      "ja_jp": "ナルメア",
+      "zh_cn": "娜尔梅亚（浴衣）"
     },
     "aliases": [],
     "score": 49
@@ -2335,7 +2579,8 @@
   {
     "name": {
       "en_us": "Silva (Yukata)",
-      "ja_jp": "シルヴァ"
+      "ja_jp": "シルヴァ",
+      "zh_cn": "席尔瓦（浴衣）"
     },
     "aliases": [],
     "score": 4
@@ -2343,7 +2588,8 @@
   {
     "name": {
       "en_us": "Yuni",
-      "ja_jp": "ユニ"
+      "ja_jp": "ユニ",
+      "zh_cn": "尤妮"
     },
     "aliases": [],
     "score": 3
@@ -2351,7 +2597,8 @@
   {
     "name": {
       "en_us": "Medusa (Summer)",
-      "ja_jp": "メドゥーサ"
+      "ja_jp": "メドゥーサ",
+      "zh_cn": "美杜莎（泳装）"
     },
     "aliases": [],
     "score": 9
@@ -2359,7 +2606,8 @@
   {
     "name": {
       "en_us": "Sylph",
-      "ja_jp": "シルフ"
+      "ja_jp": "シルフ",
+      "zh_cn": "西尔芙"
     },
     "aliases": [],
     "score": 1
@@ -2367,7 +2615,8 @@
   {
     "name": {
       "en_us": "Freyr",
-      "ja_jp": "フレイ"
+      "ja_jp": "フレイ",
+      "zh_cn": "弗雷"
     },
     "aliases": [],
     "score": 0
@@ -2375,7 +2624,8 @@
   {
     "name": {
       "en_us": "Ladiva (Valentine)",
-      "ja_jp": "ファスティバ"
+      "ja_jp": "ファスティバ",
+      "zh_cn": "法斯提瓦（情人节）"
     },
     "aliases": [],
     "score": 0
@@ -2383,7 +2633,8 @@
   {
     "name": {
       "en_us": "Vira (Valentine)",
-      "ja_jp": "ヴィーラ"
+      "ja_jp": "ヴィーラ",
+      "zh_cn": "维拉（情人节）"
     },
     "aliases": [],
     "score": 30
@@ -2391,7 +2642,8 @@
   {
     "name": {
       "en_us": "Cassius (Valentine)",
-      "ja_jp": "カシウス"
+      "ja_jp": "カシウス",
+      "zh_cn": "卡西乌斯（情人节）"
     },
     "aliases": [],
     "score": 0
@@ -2407,7 +2659,8 @@
   {
     "name": {
       "en_us": "Lilele (Fire)",
-      "ja_jp": "リルル"
+      "ja_jp": "リルル",
+      "zh_cn": "莉露露（火）"
     },
     "aliases": [],
     "score": 1
@@ -2423,7 +2676,8 @@
   {
     "name": {
       "en_us": "Wilnas",
-      "ja_jp": "ウィルナス"
+      "ja_jp": "ウィルナス",
+      "zh_cn": "威尔纳斯"
     },
     "aliases": [],
     "score": 0
@@ -2431,7 +2685,8 @@
   {
     "name": {
       "en_us": "Yggdrasil (Wind)",
-      "ja_jp": "ユグドラシル"
+      "ja_jp": "ユグドラシル",
+      "zh_cn": "尤格多拉希尔（风）"
     },
     "aliases": [],
     "score": 6
@@ -2439,7 +2694,8 @@
   {
     "name": {
       "en_us": "Cupitan",
-      "ja_jp": "クピタン"
+      "ja_jp": "クピタン",
+      "zh_cn": "库皮碳"
     },
     "aliases": [],
     "score": 3
@@ -2447,7 +2703,8 @@
   {
     "name": {
       "en_us": "Ewiyar",
-      "ja_jp": "イーウィヤ"
+      "ja_jp": "イーウィヤ",
+      "zh_cn": "伊维亚"
     },
     "aliases": [],
     "score": 0
@@ -2455,7 +2712,8 @@
   {
     "name": {
       "en_us": "Cidala",
-      "ja_jp": "シンダラ"
+      "ja_jp": "シンダラ",
+      "zh_cn": "辛妲拉"
     },
     "aliases": [],
     "score": 9
@@ -2463,7 +2721,8 @@
   {
     "name": {
       "en_us": "Fediel",
-      "ja_jp": "フェディエル"
+      "ja_jp": "フェディエル",
+      "zh_cn": "菲迪埃尔"
     },
     "aliases": [],
     "score": 2
@@ -2471,7 +2730,8 @@
   {
     "name": {
       "en_us": "Satyr (Earth)",
-      "ja_jp": "サテュロス"
+      "ja_jp": "サテュロス",
+      "zh_cn": "萨提洛斯（土）"
     },
     "aliases": [],
     "score": 0
@@ -2479,7 +2739,8 @@
   {
     "name": {
       "en_us": "Lancelot (Grand)",
-      "ja_jp": "ランスロット"
+      "ja_jp": "ランスロット",
+      "zh_cn": "兰斯洛特（Grand）"
     },
     "aliases": [],
     "score": 5
@@ -2487,7 +2748,8 @@
   {
     "name": {
       "en_us": "Catura (Event)",
-      "ja_jp": "シャトラ"
+      "ja_jp": "シャトラ",
+      "zh_cn": "夏托拉"
     },
     "aliases": [],
     "score": 3
@@ -2495,7 +2757,8 @@
   {
     "name": {
       "en_us": "Altair (Holiday)",
-      "ja_jp": "アルタイル"
+      "ja_jp": "アルタイル",
+      "zh_cn": "阿尔泰尔（圣诞）"
     },
     "aliases": [],
     "score": 1
@@ -2503,7 +2766,8 @@
   {
     "name": {
       "en_us": "Mahira (Holiday)",
-      "ja_jp": "マキラ"
+      "ja_jp": "マキラ",
+      "zh_cn": "玛琪拉（圣诞）"
     },
     "aliases": [],
     "score": 6
@@ -2511,7 +2775,8 @@
   {
     "name": {
       "en_us": "Nobita",
-      "ja_jp": "のび太"
+      "ja_jp": "のび太",
+      "zh_cn": "大雄"
     },
     "aliases": [],
     "score": 0
@@ -2519,7 +2784,8 @@
   {
     "name": {
       "en_us": "Doraemon",
-      "ja_jp": "ドラえもん"
+      "ja_jp": "ドラえもん",
+      "zh_cn": "哆啦A梦"
     },
     "aliases": [],
     "score": 0
@@ -2527,7 +2793,8 @@
   {
     "name": {
       "en_us": "Anthuria (Holiday)",
-      "ja_jp": "アンスリア"
+      "ja_jp": "アンスリア",
+      "zh_cn": "安苏莉娅（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -2535,7 +2802,8 @@
   {
     "name": {
       "en_us": "Randall (SSR)",
-      "ja_jp": "ランドル"
+      "ja_jp": "ランドル",
+      "zh_cn": "兰德尔"
     },
     "aliases": [],
     "score": 1
@@ -2543,7 +2811,8 @@
   {
     "name": {
       "en_us": "Arulumaya (Light)",
-      "ja_jp": "アルルメイヤ"
+      "ja_jp": "アルルメイヤ",
+      "zh_cn": "阿露露梅娅（光）"
     },
     "aliases": [],
     "score": 0
@@ -2551,7 +2820,8 @@
   {
     "name": {
       "en_us": "Benjamin",
-      "ja_jp": "ベンジャミン"
+      "ja_jp": "ベンジャミン",
+      "zh_cn": "本杰明"
     },
     "aliases": [],
     "score": 0
@@ -2559,7 +2829,8 @@
   {
     "name": {
       "en_us": "Enyo",
-      "ja_jp": "エニュオ"
+      "ja_jp": "エニュオ",
+      "zh_cn": "厄倪俄"
     },
     "aliases": [],
     "score": 0
@@ -2567,7 +2838,8 @@
   {
     "name": {
       "en_us": "Lunalu (Light)",
-      "ja_jp": "ルナール"
+      "ja_jp": "ルナール",
+      "zh_cn": "露娜露（光）"
     },
     "aliases": [],
     "score": 0
@@ -2583,7 +2855,8 @@
   {
     "name": {
       "en_us": "Cucouroux (Halloween)",
-      "ja_jp": "ククル"
+      "ja_jp": "ククル",
+      "zh_cn": "库库鲁（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -2591,7 +2864,8 @@
   {
     "name": {
       "en_us": "Vane (Halloween)",
-      "ja_jp": "ヴェイン"
+      "ja_jp": "ヴェイン",
+      "zh_cn": "维恩（万圣节）"
     },
     "aliases": [],
     "score": 5
@@ -2607,7 +2881,8 @@
   {
     "name": {
       "en_us": "Azusa",
-      "ja_jp": "アズサ"
+      "ja_jp": "アズサ",
+      "zh_cn": "梓"
     },
     "aliases": [],
     "score": 0
@@ -2615,7 +2890,8 @@
   {
     "name": {
       "en_us": "Arthur",
-      "ja_jp": "アーサー"
+      "ja_jp": "アーサー",
+      "zh_cn": "亚瑟"
     },
     "aliases": [],
     "score": 2
@@ -2623,7 +2899,8 @@
   {
     "name": {
       "en_us": "Lich",
-      "ja_jp": "リッチ"
+      "ja_jp": "リッチ",
+      "zh_cn": "莉琪"
     },
     "aliases": [],
     "score": 3
@@ -2631,7 +2908,8 @@
   {
     "name": {
       "en_us": "Elmott (SSR)",
-      "ja_jp": "エルモート"
+      "ja_jp": "エルモート",
+      "zh_cn": "艾尔莫特"
     },
     "aliases": [],
     "score": 1
@@ -2639,7 +2917,8 @@
   {
     "name": {
       "en_us": "Grea (Light)",
-      "ja_jp": "グレア"
+      "ja_jp": "グレア",
+      "zh_cn": "古蕾雅（光）"
     },
     "aliases": [],
     "score": 105,
@@ -2650,7 +2929,8 @@
   {
     "name": {
       "en_us": "Naoise (Fire)",
-      "ja_jp": "ノイシュ"
+      "ja_jp": "ノイシュ",
+      "zh_cn": "诺伊修（火）"
     },
     "aliases": [],
     "score": 1
@@ -2658,7 +2938,8 @@
   {
     "name": {
       "en_us": "Shiva (Summer)",
-      "ja_jp": "シヴァ"
+      "ja_jp": "シヴァ",
+      "zh_cn": "湿婆（泳装）"
     },
     "aliases": [],
     "score": 1
@@ -2666,7 +2947,8 @@
   {
     "name": {
       "en_us": "Helel ben Shalem (Summer)",
-      "ja_jp": "ヘレル・ベン・シャレム"
+      "ja_jp": "ヘレル・ベン・シャレム",
+      "zh_cn": "赫莱尔·本·夏蕾姆（泳装）"
     },
     "aliases": [],
     "score": 6
@@ -2674,7 +2956,8 @@
   {
     "name": {
       "en_us": "Tabina (Summer)",
-      "ja_jp": "タヴィーナ"
+      "ja_jp": "タヴィーナ",
+      "zh_cn": "塔薇娜（泳装）"
     },
     "aliases": [],
     "score": 1
@@ -2682,7 +2965,8 @@
   {
     "name": {
       "en_us": "Zahlhamelina (Yukata)",
-      "ja_jp": "ザルハメリナ"
+      "ja_jp": "ザルハメリナ",
+      "zh_cn": "扎哈梅丽娜（浴衣）"
     },
     "aliases": [],
     "score": 1
@@ -2690,7 +2974,8 @@
   {
     "name": {
       "en_us": "Poseidon",
-      "ja_jp": "ポセイドン"
+      "ja_jp": "ポセイドン",
+      "zh_cn": "波塞顿"
     },
     "aliases": [],
     "score": 0
@@ -2698,7 +2983,8 @@
   {
     "name": {
       "en_us": "Metera (Summer)",
-      "ja_jp": "メーテラ"
+      "ja_jp": "メーテラ",
+      "zh_cn": "美黛拉（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -2706,7 +2992,8 @@
   {
     "name": {
       "en_us": "Meg (Summer)",
-      "ja_jp": "メグ"
+      "ja_jp": "メグ",
+      "zh_cn": "梅格（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -2714,7 +3001,8 @@
   {
     "name": {
       "en_us": "Illnott (Summer)",
-      "ja_jp": "イルノート"
+      "ja_jp": "イルノート",
+      "zh_cn": "伊尔诺特（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -2722,7 +3010,8 @@
   {
     "name": {
       "en_us": "Siegfried (Summer)",
-      "ja_jp": "ジークフリート"
+      "ja_jp": "ジークフリート",
+      "zh_cn": "齐格飞（泳装）"
     },
     "aliases": [],
     "score": 4
@@ -2730,7 +3019,8 @@
   {
     "name": {
       "en_us": "Izmir (Yukata)",
-      "ja_jp": "イシュミール"
+      "ja_jp": "イシュミール",
+      "zh_cn": "伊休米尔（浴衣）"
     },
     "aliases": [],
     "score": 1
@@ -2738,7 +3028,8 @@
   {
     "name": {
       "en_us": "Yngwie (Yukata)",
-      "ja_jp": "イングヴェイ"
+      "ja_jp": "イングヴェイ",
+      "zh_cn": "英格威（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -2746,7 +3037,8 @@
   {
     "name": {
       "en_us": "Nehan",
-      "ja_jp": "ネハン"
+      "ja_jp": "ネハン",
+      "zh_cn": "涅槃"
     },
     "aliases": [],
     "score": 1
@@ -2754,7 +3046,8 @@
   {
     "name": {
       "en_us": "Lennah (Earth)",
-      "ja_jp": "レナ"
+      "ja_jp": "レナ",
+      "zh_cn": "蕾娜（土）"
     },
     "aliases": [],
     "score": 0
@@ -2762,7 +3055,8 @@
   {
     "name": {
       "en_us": "Ms. Miranda",
-      "ja_jp": "ミランダ"
+      "ja_jp": "ミランダ",
+      "zh_cn": "米兰达"
     },
     "aliases": [],
     "score": 0
@@ -2770,7 +3064,8 @@
   {
     "name": {
       "en_us": "Sho",
-      "ja_jp": "ショウ"
+      "ja_jp": "ショウ",
+      "zh_cn": "翔"
     },
     "aliases": [],
     "score": 0
@@ -2778,7 +3073,8 @@
   {
     "name": {
       "en_us": "Tikoh",
-      "ja_jp": "ティコ"
+      "ja_jp": "ティコ",
+      "zh_cn": "缇可"
     },
     "aliases": [],
     "score": 0
@@ -2786,7 +3082,8 @@
   {
     "name": {
       "en_us": "Troue",
-      "ja_jp": "トルー"
+      "ja_jp": "トルー",
+      "zh_cn": "托尔"
     },
     "aliases": [],
     "score": 0
@@ -2794,7 +3091,8 @@
   {
     "name": {
       "en_us": "Narmaya (Grand)",
-      "ja_jp": "ナルメア"
+      "ja_jp": "ナルメア",
+      "zh_cn": "娜尔梅亚（Grand）"
     },
     "aliases": [],
     "score": 49
@@ -2802,7 +3100,8 @@
   {
     "name": {
       "en_us": "Albert (Dark)",
-      "ja_jp": "アルベール"
+      "ja_jp": "アルベール",
+      "zh_cn": "阿尔贝尔（暗）"
     },
     "aliases": [],
     "score": 7,
@@ -2811,7 +3110,8 @@
   {
     "name": {
       "en_us": "Shion",
-      "ja_jp": "シオン"
+      "ja_jp": "シオン",
+      "zh_cn": "紫苑"
     },
     "aliases": [],
     "score": 68,
@@ -2820,7 +3120,8 @@
   {
     "name": {
       "en_us": "Nezha",
-      "ja_jp": "ナタク"
+      "ja_jp": "ナタク",
+      "zh_cn": "哪吒"
     },
     "aliases": [],
     "score": 0
@@ -2836,7 +3137,8 @@
   {
     "name": {
       "en_us": "Andira (Summer)",
-      "ja_jp": "アンチラ"
+      "ja_jp": "アンチラ",
+      "zh_cn": "安琪拉（泳装）"
     },
     "aliases": [],
     "score": 10
@@ -2844,7 +3146,8 @@
   {
     "name": {
       "en_us": "Kumbhira (Summer)",
-      "ja_jp": "クビラ"
+      "ja_jp": "クビラ",
+      "zh_cn": "库碧拉（泳装）"
     },
     "aliases": [],
     "score": 3
@@ -2852,7 +3155,8 @@
   {
     "name": {
       "en_us": "Beatrix (Earth)",
-      "ja_jp": "ベアトリクス"
+      "ja_jp": "ベアトリクス",
+      "zh_cn": "贝阿朵丽丝（土）"
     },
     "aliases": [],
     "score": 11
@@ -2860,7 +3164,8 @@
   {
     "name": {
       "en_us": "Isaac",
-      "ja_jp": "アイザック"
+      "ja_jp": "アイザック",
+      "zh_cn": "艾扎克"
     },
     "aliases": [],
     "score": 0
@@ -2868,7 +3173,8 @@
   {
     "name": {
       "en_us": "Cassius (Event SSR)",
-      "ja_jp": "カシウス"
+      "ja_jp": "カシウス",
+      "zh_cn": "卡西乌斯"
     },
     "aliases": [],
     "score": 0
@@ -2884,7 +3190,8 @@
   {
     "name": {
       "en_us": "Vaseraga (Fire)",
-      "ja_jp": "バザラガ"
+      "ja_jp": "バザラガ",
+      "zh_cn": "巴萨拉卡（火）"
     },
     "aliases": [],
     "score": 0
@@ -2892,7 +3199,8 @@
   {
     "name": {
       "en_us": "Zeta (Water)",
-      "ja_jp": "ゼタ"
+      "ja_jp": "ゼタ",
+      "zh_cn": "泽塔（水）"
     },
     "aliases": [],
     "score": 29
@@ -2900,7 +3208,8 @@
   {
     "name": {
       "en_us": "Aglovale (Valentine)",
-      "ja_jp": "アグロヴァル"
+      "ja_jp": "アグロヴァル",
+      "zh_cn": "阿古罗瓦尔（情人节）"
     },
     "aliases": [],
     "score": 1
@@ -2908,7 +3217,8 @@
   {
     "name": {
       "en_us": "Monika (Valentine)",
-      "ja_jp": "モニカ"
+      "ja_jp": "モニカ",
+      "zh_cn": "莫妮卡（情人节）"
     },
     "aliases": [],
     "score": 0
@@ -2916,7 +3226,8 @@
   {
     "name": {
       "en_us": "Cagliostro (Grand)",
-      "ja_jp": "カリオストロ"
+      "ja_jp": "カリオストロ",
+      "zh_cn": "卡莉奥斯特萝（Grand）"
     },
     "aliases": [],
     "score": 69
@@ -2924,7 +3235,8 @@
   {
     "name": {
       "en_us": "Lamretta (SSR)",
-      "ja_jp": "ラムレッダ"
+      "ja_jp": "ラムレッダ",
+      "zh_cn": "拉姆蕾塔"
     },
     "aliases": [],
     "score": 0
@@ -2932,7 +3244,8 @@
   {
     "name": {
       "en_us": "Nectar",
-      "ja_jp": "ネクタル"
+      "ja_jp": "ネクタル",
+      "zh_cn": "奈克塔尔"
     },
     "aliases": [],
     "score": 0
@@ -2956,7 +3269,8 @@
   {
     "name": {
       "en_us": "Nicholas (Light)",
-      "ja_jp": "シロウ"
+      "ja_jp": "シロウ",
+      "zh_cn": "士郎（光）"
     },
     "aliases": [],
     "score": 0
@@ -2972,7 +3286,8 @@
   {
     "name": {
       "en_us": "Catura",
-      "ja_jp": "シャトラ"
+      "ja_jp": "シャトラ",
+      "zh_cn": "夏托拉"
     },
     "aliases": [],
     "score": 3
@@ -2980,7 +3295,8 @@
   {
     "name": {
       "en_us": "Sandalphon (Earth Grand)",
-      "ja_jp": "サンダルフォン"
+      "ja_jp": "サンダルフォン",
+      "zh_cn": "圣德芬（土Grand）"
     },
     "aliases": [],
     "score": 7
@@ -2988,7 +3304,8 @@
   {
     "name": {
       "en_us": "Vikala (Event)",
-      "ja_jp": "ビカラ"
+      "ja_jp": "ビカラ",
+      "zh_cn": "碧卡拉"
     },
     "aliases": [],
     "score": 25
@@ -2996,7 +3313,8 @@
   {
     "name": {
       "en_us": "Lily (Holiday)",
-      "ja_jp": "リリィ"
+      "ja_jp": "リリィ",
+      "zh_cn": "莉莉（圣诞）"
     },
     "aliases": [],
     "score": 5
@@ -3004,7 +3322,8 @@
   {
     "name": {
       "en_us": "Spinnah (Holiday)",
-      "ja_jp": "スピナー"
+      "ja_jp": "スピナー",
+      "zh_cn": "斯平纳（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -3036,7 +3355,8 @@
   {
     "name": {
       "en_us": "Mirin (Holiday)",
-      "ja_jp": "ミリン"
+      "ja_jp": "ミリン",
+      "zh_cn": "米林（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -3044,7 +3364,8 @@
   {
     "name": {
       "en_us": "Nemone (Holiday)",
-      "ja_jp": "ネモネ"
+      "ja_jp": "ネモネ",
+      "zh_cn": "涅莫涅（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -3052,7 +3373,8 @@
   {
     "name": {
       "en_us": "Fiorito",
-      "ja_jp": "フィオリト"
+      "ja_jp": "フィオリト",
+      "zh_cn": "菲欧丽特"
     },
     "aliases": [],
     "score": 0
@@ -3060,7 +3382,8 @@
   {
     "name": {
       "en_us": "Feather (SSR)",
-      "ja_jp": "フェザー"
+      "ja_jp": "フェザー",
+      "zh_cn": "菲扎"
     },
     "aliases": [],
     "score": 1
@@ -3068,7 +3391,8 @@
   {
     "name": {
       "en_us": "Sutera (SSR)",
-      "ja_jp": "スーテラ"
+      "ja_jp": "スーテラ",
+      "zh_cn": "斯黛拉"
     },
     "aliases": [],
     "score": 2
@@ -3084,7 +3408,8 @@
   {
     "name": {
       "en_us": "Rosetta (Halloween)",
-      "ja_jp": "ロゼッタ"
+      "ja_jp": "ロゼッタ",
+      "zh_cn": "萝赛塔（万圣节）"
     },
     "aliases": [],
     "score": 45
@@ -3092,7 +3417,8 @@
   {
     "name": {
       "en_us": "Azazel (Halloween)",
-      "ja_jp": "アザゼル"
+      "ja_jp": "アザゼル",
+      "zh_cn": "阿萨谢尔（万圣节）"
     },
     "aliases": [],
     "score": 13,
@@ -3109,7 +3435,8 @@
   {
     "name": {
       "en_us": "Florence",
-      "ja_jp": "フロレンス"
+      "ja_jp": "フロレンス",
+      "zh_cn": "芙罗伦斯"
     },
     "aliases": [],
     "score": 0
@@ -3117,7 +3444,8 @@
   {
     "name": {
       "en_us": "Gawain (Light)",
-      "ja_jp": "ガウェイン"
+      "ja_jp": "ガウェイン",
+      "zh_cn": "高文（光）"
     },
     "aliases": [],
     "score": 0
@@ -3125,7 +3453,8 @@
   {
     "name": {
       "en_us": "Golden Knight",
-      "ja_jp": "黄金の騎士"
+      "ja_jp": "黄金の騎士",
+      "zh_cn": "金骑士"
     },
     "aliases": [],
     "score": 0
@@ -3133,7 +3462,8 @@
   {
     "name": {
       "en_us": "Diantha",
-      "ja_jp": "ディアンサ"
+      "ja_jp": "ディアンサ",
+      "zh_cn": "戴安萨"
     },
     "aliases": [],
     "score": 0
@@ -3157,7 +3487,8 @@
   {
     "name": {
       "en_us": "Juliet (Water)",
-      "ja_jp": "ジュリエット"
+      "ja_jp": "ジュリエット",
+      "zh_cn": "朱丽叶（水）"
     },
     "aliases": [],
     "score": 0
@@ -3173,7 +3504,8 @@
   {
     "name": {
       "en_us": "Mimlemel (Summer)",
-      "ja_jp": "ミムルメモル"
+      "ja_jp": "ミムルメモル",
+      "zh_cn": "米姆露梅莫璐（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -3181,7 +3513,8 @@
   {
     "name": {
       "en_us": "Silva (Summer)",
-      "ja_jp": "シルヴァ"
+      "ja_jp": "シルヴァ",
+      "zh_cn": "席尔瓦（泳装）"
     },
     "aliases": [],
     "score": 4
@@ -3189,7 +3522,8 @@
   {
     "name": {
       "en_us": "Albert (Summer)",
-      "ja_jp": "アルベール"
+      "ja_jp": "アルベール",
+      "zh_cn": "阿尔贝尔（泳装）"
     },
     "aliases": [],
     "score": 7,
@@ -3198,7 +3532,8 @@
   {
     "name": {
       "en_us": "Ferry (Summer)",
-      "ja_jp": "フェリ"
+      "ja_jp": "フェリ",
+      "zh_cn": "菲莉（泳装）"
     },
     "aliases": [],
     "score": 20
@@ -3206,7 +3541,8 @@
   {
     "name": {
       "en_us": "Rosamia (Yukata)",
-      "ja_jp": "ロザミア"
+      "ja_jp": "ロザミア",
+      "zh_cn": "萝莎米娅（浴衣）"
     },
     "aliases": [],
     "score": 3
@@ -3214,7 +3550,8 @@
   {
     "name": {
       "en_us": "Anila (Summer)",
-      "ja_jp": "アニラ"
+      "ja_jp": "アニラ",
+      "zh_cn": "阿妮拉（泳装）"
     },
     "aliases": [],
     "score": 5
@@ -3222,7 +3559,8 @@
   {
     "name": {
       "en_us": "Tyre (Yukata)",
-      "ja_jp": "タイアー"
+      "ja_jp": "タイアー",
+      "zh_cn": "泰亚（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -3230,7 +3568,8 @@
   {
     "name": {
       "en_us": "Meg (Event)",
-      "ja_jp": "メグ"
+      "ja_jp": "メグ",
+      "zh_cn": "梅格"
     },
     "aliases": [],
     "score": 0
@@ -3238,7 +3577,8 @@
   {
     "name": {
       "en_us": "Amira (Summer)",
-      "ja_jp": "アーミラ"
+      "ja_jp": "アーミラ",
+      "zh_cn": "阿米拉（泳装）"
     },
     "aliases": [],
     "score": 63,
@@ -3247,7 +3587,8 @@
   {
     "name": {
       "en_us": "Lucio (Summer)",
-      "ja_jp": "ルシオ"
+      "ja_jp": "ルシオ",
+      "zh_cn": "路西欧（泳装）"
     },
     "aliases": [],
     "score": 4
@@ -3255,7 +3596,8 @@
   {
     "name": {
       "en_us": "Leona (Grand)",
-      "ja_jp": "レオナ"
+      "ja_jp": "レオナ",
+      "zh_cn": "蕾欧娜（Grand）"
     },
     "aliases": [],
     "score": 0
@@ -3271,7 +3613,8 @@
   {
     "name": {
       "en_us": "Kolulu (Summer)",
-      "ja_jp": "コルル"
+      "ja_jp": "コルル",
+      "zh_cn": "可露露（泳装）"
     },
     "aliases": [],
     "score": 2
@@ -3295,7 +3638,8 @@
   {
     "name": {
       "en_us": "Naoise",
-      "ja_jp": "ノイシュ"
+      "ja_jp": "ノイシュ",
+      "zh_cn": "诺伊修"
     },
     "aliases": [],
     "score": 1
@@ -3303,7 +3647,8 @@
   {
     "name": {
       "en_us": "Satyr",
-      "ja_jp": "サテュロス"
+      "ja_jp": "サテュロス",
+      "zh_cn": "萨提洛斯"
     },
     "aliases": [],
     "score": 0
@@ -3311,7 +3656,8 @@
   {
     "name": {
       "en_us": "Percival (Light)",
-      "ja_jp": "パーシヴァル"
+      "ja_jp": "パーシヴァル",
+      "zh_cn": "帕西瓦尔（光）"
     },
     "aliases": [],
     "score": 8
@@ -3327,7 +3673,8 @@
   {
     "name": {
       "en_us": "Predator (SSR)",
-      "ja_jp": "プレデター"
+      "ja_jp": "プレデター",
+      "zh_cn": "布列迪塔"
     },
     "aliases": [],
     "score": 0
@@ -3335,7 +3682,8 @@
   {
     "name": {
       "en_us": "Illnott",
-      "ja_jp": "イルノート"
+      "ja_jp": "イルノート",
+      "zh_cn": "伊尔诺特"
     },
     "aliases": [],
     "score": 0
@@ -3351,7 +3699,8 @@
   {
     "name": {
       "en_us": "Reinhardtzar (Grand)",
-      "ja_jp": "ラインハルザ"
+      "ja_jp": "ラインハルザ",
+      "zh_cn": "莱茵哈撒（Grand）"
     },
     "aliases": [],
     "score": 1
@@ -3359,7 +3708,8 @@
   {
     "name": {
       "en_us": "Shura",
-      "ja_jp": "シュラ"
+      "ja_jp": "シュラ",
+      "zh_cn": "秋罗"
     },
     "aliases": [],
     "score": 0
@@ -3383,7 +3733,8 @@
   {
     "name": {
       "en_us": "Drang",
-      "ja_jp": "ドランク"
+      "ja_jp": "ドランク",
+      "zh_cn": "德朗克"
     },
     "aliases": [],
     "score": 2
@@ -3391,7 +3742,8 @@
   {
     "name": {
       "en_us": "Sturm",
-      "ja_jp": "スツルム"
+      "ja_jp": "スツルム",
+      "zh_cn": "斯特姆"
     },
     "aliases": [],
     "score": 8
@@ -3399,7 +3751,8 @@
   {
     "name": {
       "en_us": "Mugen",
-      "ja_jp": "ムゲン"
+      "ja_jp": "ムゲン",
+      "zh_cn": "无限"
     },
     "aliases": [],
     "score": 0
@@ -3407,7 +3760,8 @@
   {
     "name": {
       "en_us": "Teena (Summer)",
-      "ja_jp": "ティナ"
+      "ja_jp": "ティナ",
+      "zh_cn": "缇娜（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -3415,7 +3769,8 @@
   {
     "name": {
       "en_us": "Seox (Event)",
-      "ja_jp": "シス"
+      "ja_jp": "シス",
+      "zh_cn": "希斯"
     },
     "aliases": [],
     "score": 2
@@ -3423,7 +3778,8 @@
   {
     "name": {
       "en_us": "Rei",
-      "ja_jp": "レイ"
+      "ja_jp": "レイ",
+      "zh_cn": "零"
     },
     "aliases": [],
     "score": 0
@@ -3439,7 +3795,8 @@
   {
     "name": {
       "en_us": "Lecia (Water)",
-      "ja_jp": "リーシャ"
+      "ja_jp": "リーシャ",
+      "zh_cn": "莉夏（水）"
     },
     "aliases": [],
     "score": 4
@@ -3447,7 +3804,8 @@
   {
     "name": {
       "en_us": "Grimnir (Valentine)",
-      "ja_jp": "グリームニル"
+      "ja_jp": "グリームニル",
+      "zh_cn": "格里姆尼尔（情人节）"
     },
     "aliases": [],
     "score": 4
@@ -3455,7 +3813,8 @@
   {
     "name": {
       "en_us": "Scathacha (Valentine)",
-      "ja_jp": "スカーサハ"
+      "ja_jp": "スカーサハ",
+      "zh_cn": "斯卡哈（情人节）"
     },
     "aliases": [],
     "score": 0
@@ -3463,7 +3822,8 @@
   {
     "name": {
       "en_us": "Yodarha (Wind)",
-      "ja_jp": "ヨダルラーハ"
+      "ja_jp": "ヨダルラーハ",
+      "zh_cn": "尤达拉哈（风）"
     },
     "aliases": [],
     "score": 1
@@ -3471,7 +3831,8 @@
   {
     "name": {
       "en_us": "Ilsa (Light)",
-      "ja_jp": "イルザ"
+      "ja_jp": "イルザ",
+      "zh_cn": "伊尔莎（光）"
     },
     "aliases": [],
     "score": 4
@@ -3479,7 +3840,8 @@
   {
     "name": {
       "en_us": "Jin",
-      "ja_jp": "ジン"
+      "ja_jp": "ジン",
+      "zh_cn": "仁"
     },
     "aliases": [],
     "score": 1
@@ -3487,7 +3849,8 @@
   {
     "name": {
       "en_us": "Danua (Light)",
-      "ja_jp": "ダヌア"
+      "ja_jp": "ダヌア",
+      "zh_cn": "妲奴亚（光）"
     },
     "aliases": [],
     "score": 0
@@ -3495,7 +3858,8 @@
   {
     "name": {
       "en_us": "Noa (Grand)",
-      "ja_jp": "ノア"
+      "ja_jp": "ノア",
+      "zh_cn": "诺亚（Grand）"
     },
     "aliases": [],
     "score": 3
@@ -3503,7 +3867,8 @@
   {
     "name": {
       "en_us": "Lucius (SSR)",
-      "ja_jp": "ルシウス"
+      "ja_jp": "ルシウス",
+      "zh_cn": "卢修斯"
     },
     "aliases": [],
     "score": 2
@@ -3511,7 +3876,8 @@
   {
     "name": {
       "en_us": "Yuisis (Fire)",
-      "ja_jp": "ユイシス"
+      "ja_jp": "ユイシス",
+      "zh_cn": "优希斯（火）"
     },
     "aliases": [],
     "score": 0
@@ -3519,7 +3885,8 @@
   {
     "name": {
       "en_us": "Vikala",
-      "ja_jp": "ビカラ"
+      "ja_jp": "ビカラ",
+      "zh_cn": "碧卡拉"
     },
     "aliases": [],
     "score": 25
@@ -3527,7 +3894,8 @@
   {
     "name": {
       "en_us": "Helel ben Shalem",
-      "ja_jp": "ヘレル・ベン・シャレム"
+      "ja_jp": "ヘレル・ベン・シャレム",
+      "zh_cn": "赫莱尔·本·夏蕾姆"
     },
     "aliases": [],
     "score": 6
@@ -3535,7 +3903,8 @@
   {
     "name": {
       "en_us": "Joy (Event)",
-      "ja_jp": "ジョイ"
+      "ja_jp": "ジョイ",
+      "zh_cn": "乔伊"
     },
     "aliases": [],
     "score": 0
@@ -3543,7 +3912,8 @@
   {
     "name": {
       "en_us": "Kumbhira (Event)",
-      "ja_jp": "クビラ"
+      "ja_jp": "クビラ",
+      "zh_cn": "库碧拉"
     },
     "aliases": [],
     "score": 3
@@ -3551,7 +3921,8 @@
   {
     "name": {
       "en_us": "Seruel (Holiday)",
-      "ja_jp": "セルエル"
+      "ja_jp": "セルエル",
+      "zh_cn": "塞鲁艾尔（圣诞）"
     },
     "aliases": [],
     "score": 2
@@ -3559,7 +3930,8 @@
   {
     "name": {
       "en_us": "Narmaya (Holiday)",
-      "ja_jp": "ナルメア"
+      "ja_jp": "ナルメア",
+      "zh_cn": "娜尔梅亚（圣诞）"
     },
     "aliases": [],
     "score": 49
@@ -3567,7 +3939,8 @@
   {
     "name": {
       "en_us": "Vira (Promo)",
-      "ja_jp": "ヴィーラ"
+      "ja_jp": "ヴィーラ",
+      "zh_cn": "维拉"
     },
     "aliases": [],
     "score": 30
@@ -3582,7 +3955,8 @@
   {
     "name": {
       "en_us": "Magisa (Holiday)",
-      "ja_jp": "マギサ"
+      "ja_jp": "マギサ",
+      "zh_cn": "玛姬莎（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -3590,7 +3964,8 @@
   {
     "name": {
       "en_us": "Meteon (Holiday)",
-      "ja_jp": "ミュオン"
+      "ja_jp": "ミュオン",
+      "zh_cn": "缪恩（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -3598,7 +3973,8 @@
   {
     "name": {
       "en_us": "Jeanne d'Arc (Grand)",
-      "ja_jp": "ジャンヌダルク"
+      "ja_jp": "ジャンヌダルク",
+      "zh_cn": "贞德（Grand）"
     },
     "aliases": [],
     "score": 24,
@@ -3607,7 +3983,8 @@
   {
     "name": {
       "en_us": "Shitori",
-      "ja_jp": "シトリ"
+      "ja_jp": "シトリ",
+      "zh_cn": "志鸟"
     },
     "aliases": [],
     "score": 0
@@ -3623,7 +4000,8 @@
   {
     "name": {
       "en_us": "Kou",
-      "ja_jp": "コウ"
+      "ja_jp": "コウ",
+      "zh_cn": "蔻"
     },
     "aliases": [],
     "score": 3
@@ -3631,7 +4009,8 @@
   {
     "name": {
       "en_us": "Societte (Wind)",
-      "ja_jp": "ソシエ"
+      "ja_jp": "ソシエ",
+      "zh_cn": "苏丝雅（风）"
     },
     "aliases": [],
     "score": 3
@@ -3639,7 +4018,8 @@
   {
     "name": {
       "en_us": "You (Event)",
-      "ja_jp": "ヨウ"
+      "ja_jp": "ヨウ",
+      "zh_cn": "容"
     },
     "aliases": [],
     "score": 1
@@ -3647,7 +4027,8 @@
   {
     "name": {
       "en_us": "Hallessena (Halloween)",
-      "ja_jp": "ハレゼナ"
+      "ja_jp": "ハレゼナ",
+      "zh_cn": "哈雷泽娜（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -3671,7 +4052,8 @@
   {
     "name": {
       "en_us": "Monika (Grand)",
-      "ja_jp": "モニカ"
+      "ja_jp": "モニカ",
+      "zh_cn": "莫妮卡（Grand）"
     },
     "aliases": [],
     "score": 0
@@ -3679,7 +4061,8 @@
   {
     "name": {
       "en_us": "Siegfried (Fire)",
-      "ja_jp": "ジークフリート"
+      "ja_jp": "ジークフリート",
+      "zh_cn": "齐格飞（火）"
     },
     "aliases": [],
     "score": 4
@@ -3687,7 +4070,8 @@
   {
     "name": {
       "en_us": "La Coiffe (SR)",
-      "ja_jp": "コワフュール"
+      "ja_jp": "コワフュール",
+      "zh_cn": "可瓦菲尔"
     },
     "aliases": [],
     "score": 0
@@ -3695,7 +4079,8 @@
   {
     "name": {
       "en_us": "Sara (Light)",
-      "ja_jp": "サラ"
+      "ja_jp": "サラ",
+      "zh_cn": "莎拉（光）"
     },
     "aliases": [],
     "score": 3
@@ -3710,7 +4095,8 @@
   {
     "name": {
       "en_us": "Tabina",
-      "ja_jp": "タヴィーナ"
+      "ja_jp": "タヴィーナ",
+      "zh_cn": "塔薇娜"
     },
     "aliases": [],
     "score": 1
@@ -3726,7 +4112,8 @@
   {
     "name": {
       "en_us": "Alexiel (Summer)",
-      "ja_jp": "ブローディア"
+      "ja_jp": "ブローディア",
+      "zh_cn": "布罗蒂娅（泳装）"
     },
     "aliases": [],
     "score": 4
@@ -3734,7 +4121,8 @@
   {
     "name": {
       "en_us": "Leona (Yukata)",
-      "ja_jp": "レオナ"
+      "ja_jp": "レオナ",
+      "zh_cn": "蕾欧娜（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -3766,7 +4154,8 @@
   {
     "name": {
       "en_us": "Anthuria (Yukata)",
-      "ja_jp": "アンスリア"
+      "ja_jp": "アンスリア",
+      "zh_cn": "安苏莉娅（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -3774,7 +4163,8 @@
   {
     "name": {
       "en_us": "Cassius (Yukata)",
-      "ja_jp": "カシウス"
+      "ja_jp": "カシウス",
+      "zh_cn": "卡西乌斯（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -3782,7 +4172,8 @@
   {
     "name": {
       "en_us": "Jessica (Yukata)",
-      "ja_jp": "ジェシカ"
+      "ja_jp": "ジェシカ",
+      "zh_cn": "杰西卡（浴衣）"
     },
     "aliases": [],
     "score": 6
@@ -3790,7 +4181,8 @@
   {
     "name": {
       "en_us": "Europa (Summer)",
-      "ja_jp": "エウロペ"
+      "ja_jp": "エウロペ",
+      "zh_cn": "欧罗巴（泳装）"
     },
     "aliases": [],
     "score": 5
@@ -3806,7 +4198,8 @@
   {
     "name": {
       "en_us": "Cagliostro (Summer)",
-      "ja_jp": "カリオストロ"
+      "ja_jp": "カリオストロ",
+      "zh_cn": "卡莉奥斯特萝（泳装）"
     },
     "aliases": [],
     "score": 69
@@ -3822,7 +4215,8 @@
   {
     "name": {
       "en_us": "Sandalphon (Summer)",
-      "ja_jp": "サンダルフォン"
+      "ja_jp": "サンダルフォン",
+      "zh_cn": "圣德芬（泳装）"
     },
     "aliases": [],
     "score": 7
@@ -3830,7 +4224,8 @@
   {
     "name": {
       "en_us": "Halluel and Malluel (Summer)",
-      "ja_jp": "ハールート・マールート"
+      "ja_jp": "ハールート・マールート",
+      "zh_cn": "哈露特·玛露特（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -3838,7 +4233,8 @@
   {
     "name": {
       "en_us": "Kolulu",
-      "ja_jp": "コルル"
+      "ja_jp": "コルル",
+      "zh_cn": "可露露"
     },
     "aliases": [],
     "score": 2
@@ -3846,7 +4242,8 @@
   {
     "name": {
       "en_us": "Lelouch Lamperouge",
-      "ja_jp": "ルルーシュ・ランペルージ"
+      "ja_jp": "ルルーシュ・ランペルージ",
+      "zh_cn": "鲁鲁修·兰佩路基"
     },
     "aliases": [],
     "score": 1270,
@@ -3865,7 +4262,8 @@
   {
     "name": {
       "en_us": "Kallen Kouzuki",
-      "ja_jp": "紅月カレン"
+      "ja_jp": "紅月カレン",
+      "zh_cn": "红月卡莲"
     },
     "aliases": [],
     "score": 353,
@@ -3876,7 +4274,8 @@
   {
     "name": {
       "en_us": "Suzaku Kururugi",
-      "ja_jp": "枢木スザク"
+      "ja_jp": "枢木スザク",
+      "zh_cn": "枢木朱雀"
     },
     "aliases": [],
     "score": 178,
@@ -3895,7 +4294,8 @@
   {
     "name": {
       "en_us": "Ladiva (SSR)",
-      "ja_jp": "ファスティバ"
+      "ja_jp": "ファスティバ",
+      "zh_cn": "法斯提瓦"
     },
     "aliases": [],
     "score": 0
@@ -3911,7 +4311,8 @@
   {
     "name": {
       "en_us": "Karyl",
-      "ja_jp": "キャル"
+      "ja_jp": "キャル",
+      "zh_cn": "凯露"
     },
     "aliases": [],
     "score": 247,
@@ -3922,7 +4323,8 @@
   {
     "name": {
       "en_us": "Baal",
-      "ja_jp": "バアル"
+      "ja_jp": "バアル",
+      "zh_cn": "巴尔"
     },
     "aliases": [],
     "score": 0
@@ -3938,7 +4340,8 @@
   {
     "name": {
       "en_us": "Medusa",
-      "ja_jp": "メドゥーサ"
+      "ja_jp": "メドゥーサ",
+      "zh_cn": "美杜莎"
     },
     "aliases": [],
     "score": 9
@@ -3946,7 +4349,8 @@
   {
     "name": {
       "en_us": "Richard (SR)",
-      "ja_jp": "リチャード"
+      "ja_jp": "リチャード",
+      "zh_cn": "理查德"
     },
     "aliases": [],
     "score": 1
@@ -3954,7 +4358,8 @@
   {
     "name": {
       "en_us": "Macula Marius",
-      "ja_jp": "マキュラ・マリウス"
+      "ja_jp": "マキュラ・マリウス",
+      "zh_cn": "玛裘拉·玛利乌斯"
     },
     "aliases": [],
     "score": 0
@@ -3962,7 +4367,8 @@
   {
     "name": {
       "en_us": "Grimnir",
-      "ja_jp": "グリームニル"
+      "ja_jp": "グリームニル",
+      "zh_cn": "格里姆尼尔"
     },
     "aliases": [],
     "score": 4
@@ -3970,7 +4376,8 @@
   {
     "name": {
       "en_us": "Vira (Wind)",
-      "ja_jp": "ヴィーラ"
+      "ja_jp": "ヴィーラ",
+      "zh_cn": "维拉（风）"
     },
     "aliases": [],
     "score": 30
@@ -3978,7 +4385,8 @@
   {
     "name": {
       "en_us": "Korwa (SR)",
-      "ja_jp": "コルワ"
+      "ja_jp": "コルワ",
+      "zh_cn": "可露瓦"
     },
     "aliases": [],
     "score": 9
@@ -3986,7 +4394,8 @@
   {
     "name": {
       "en_us": "Yuel (Summer)",
-      "ja_jp": "ユエル"
+      "ja_jp": "ユエル",
+      "zh_cn": "尤艾尔（泳装）"
     },
     "aliases": [],
     "score": 7
@@ -3994,7 +4403,8 @@
   {
     "name": {
       "en_us": "Nier",
-      "ja_jp": "ニーア"
+      "ja_jp": "ニーア",
+      "zh_cn": "尼娅"
     },
     "aliases": [],
     "score": 3
@@ -4002,7 +4412,8 @@
   {
     "name": {
       "en_us": "Haaselia",
-      "ja_jp": "ハーゼリーラ"
+      "ja_jp": "ハーゼリーラ",
+      "zh_cn": "哈泽丽拉"
     },
     "aliases": [],
     "score": 0
@@ -4010,7 +4421,8 @@
   {
     "name": {
       "en_us": "Alanaan",
-      "ja_jp": "アラナン"
+      "ja_jp": "アラナン",
+      "zh_cn": "阿拉南"
     },
     "aliases": [],
     "score": 0
@@ -4018,7 +4430,8 @@
   {
     "name": {
       "en_us": "Katzelia",
-      "ja_jp": "カッツェリーラ"
+      "ja_jp": "カッツェリーラ",
+      "zh_cn": "卡兹里拉"
     },
     "aliases": [],
     "score": 0
@@ -4026,7 +4439,8 @@
   {
     "name": {
       "en_us": "Lobelia",
-      "ja_jp": "ロベリア"
+      "ja_jp": "ロベリア",
+      "zh_cn": "洛贝利亚"
     },
     "aliases": [],
     "score": 0
@@ -4034,7 +4448,8 @@
   {
     "name": {
       "en_us": "Caim",
-      "ja_jp": "カイム"
+      "ja_jp": "カイム",
+      "zh_cn": "凯姆"
     },
     "aliases": [],
     "score": 0
@@ -4042,7 +4457,8 @@
   {
     "name": {
       "en_us": "Estarriola",
-      "ja_jp": "エスタリオラ"
+      "ja_jp": "エスタリオラ",
+      "zh_cn": "埃斯塔利奥拉"
     },
     "aliases": [],
     "score": 0
@@ -4050,7 +4466,8 @@
   {
     "name": {
       "en_us": "Geisenborger",
-      "ja_jp": "ガイゼンボーガ"
+      "ja_jp": "ガイゼンボーガ",
+      "zh_cn": "盖森伯格"
     },
     "aliases": [],
     "score": 0
@@ -4058,7 +4475,8 @@
   {
     "name": {
       "en_us": "Fraux",
-      "ja_jp": "フラウ"
+      "ja_jp": "フラウ",
+      "zh_cn": "芙劳"
     },
     "aliases": [],
     "score": 2
@@ -4066,7 +4484,8 @@
   {
     "name": {
       "en_us": "Maria Theresa",
-      "ja_jp": "マリア・テレサ"
+      "ja_jp": "マリア・テレサ",
+      "zh_cn": "玛利亚・特蕾莎"
     },
     "aliases": [],
     "score": 0
@@ -4074,7 +4493,8 @@
   {
     "name": {
       "en_us": "Ferry (Grand)",
-      "ja_jp": "フェリ"
+      "ja_jp": "フェリ",
+      "zh_cn": "菲莉（Grand）"
     },
     "aliases": [],
     "score": 20
@@ -4082,7 +4502,8 @@
   {
     "name": {
       "en_us": "Heles (Wind)",
-      "ja_jp": "ヘルエス"
+      "ja_jp": "ヘルエス",
+      "zh_cn": "赫尔艾斯（风）"
     },
     "aliases": [],
     "score": 5
@@ -4090,7 +4511,8 @@
   {
     "name": {
       "en_us": "Mirin (Light)",
-      "ja_jp": "ミリン"
+      "ja_jp": "ミリン",
+      "zh_cn": "米林（光）"
     },
     "aliases": [],
     "score": 0
@@ -4098,7 +4520,8 @@
   {
     "name": {
       "en_us": "Melissabelle (Valentine)",
-      "ja_jp": "メリッサベル"
+      "ja_jp": "メリッサベル",
+      "zh_cn": "梅丽莎贝尔（情人节）"
     },
     "aliases": [],
     "score": 0
@@ -4106,7 +4529,8 @@
   {
     "name": {
       "en_us": "Clarisse (Valentine)",
-      "ja_jp": "クラリス"
+      "ja_jp": "クラリス",
+      "zh_cn": "克拉莉丝（情人节）"
     },
     "aliases": [],
     "score": 13
@@ -4122,7 +4546,8 @@
   {
     "name": {
       "en_us": "Sen (SSR)",
-      "ja_jp": "セン"
+      "ja_jp": "セン",
+      "zh_cn": "千"
     },
     "aliases": [],
     "score": 6
@@ -4130,7 +4555,8 @@
   {
     "name": {
       "en_us": "Catherine (SR)",
-      "ja_jp": "キャサリン"
+      "ja_jp": "キャサリン",
+      "zh_cn": "凯瑟琳"
     },
     "aliases": [],
     "score": 0
@@ -4154,7 +4580,8 @@
   {
     "name": {
       "en_us": "Skull",
-      "ja_jp": "スカル"
+      "ja_jp": "スカル",
+      "zh_cn": "斯卡尔"
     },
     "aliases": [],
     "score": 58,
@@ -4165,7 +4592,8 @@
   {
     "name": {
       "en_us": "Athena",
-      "ja_jp": "アテナ"
+      "ja_jp": "アテナ",
+      "zh_cn": "雅典娜"
     },
     "aliases": [],
     "score": 2
@@ -4173,7 +4601,8 @@
   {
     "name": {
       "en_us": "Eustace (Dark)",
-      "ja_jp": "ユーステス"
+      "ja_jp": "ユーステス",
+      "zh_cn": "尤斯缇斯（暗）"
     },
     "aliases": [],
     "score": 1
@@ -4181,7 +4610,8 @@
   {
     "name": {
       "en_us": "Kumbhira",
-      "ja_jp": "クビラ"
+      "ja_jp": "クビラ",
+      "zh_cn": "库碧拉"
     },
     "aliases": [],
     "score": 3
@@ -4189,7 +4619,8 @@
   {
     "name": {
       "en_us": "Cassius (Event)",
-      "ja_jp": "カシウス"
+      "ja_jp": "カシウス",
+      "zh_cn": "卡西乌斯"
     },
     "aliases": [],
     "score": 0
@@ -4197,7 +4628,8 @@
   {
     "name": {
       "en_us": "Beatrix (SR)",
-      "ja_jp": "ベアトリクス"
+      "ja_jp": "ベアトリクス",
+      "zh_cn": "贝阿朵丽丝"
     },
     "aliases": [],
     "score": 11
@@ -4205,7 +4637,8 @@
   {
     "name": {
       "en_us": "Shiva",
-      "ja_jp": "シヴァ"
+      "ja_jp": "シヴァ",
+      "zh_cn": "湿婆"
     },
     "aliases": [],
     "score": 1
@@ -4213,7 +4646,8 @@
   {
     "name": {
       "en_us": "Metera (Holiday)",
-      "ja_jp": "メーテラ"
+      "ja_jp": "メーテラ",
+      "zh_cn": "美黛拉（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -4221,7 +4655,8 @@
   {
     "name": {
       "en_us": "Yaia (Holiday)",
-      "ja_jp": "ヤイア"
+      "ja_jp": "ヤイア",
+      "zh_cn": "丫丫（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -4229,7 +4664,8 @@
   {
     "name": {
       "en_us": "Kokkoro",
-      "ja_jp": "コッコロ"
+      "ja_jp": "コッコロ",
+      "zh_cn": "可可萝"
     },
     "aliases": [],
     "score": 218,
@@ -4240,7 +4676,8 @@
   {
     "name": {
       "en_us": "Pecorine",
-      "ja_jp": "ペコリーヌ"
+      "ja_jp": "ペコリーヌ",
+      "zh_cn": "佩可莉姆"
     },
     "aliases": [],
     "score": 136,
@@ -4251,7 +4688,8 @@
   {
     "name": {
       "en_us": "Charlotta (Light)",
-      "ja_jp": "シャルロッテ"
+      "ja_jp": "シャルロッテ",
+      "zh_cn": "夏洛特（光）"
     },
     "aliases": [],
     "score": 22
@@ -4259,7 +4697,8 @@
   {
     "name": {
       "en_us": "Sevilbarra (Event)",
-      "ja_jp": "サビルバラ"
+      "ja_jp": "サビルバラ",
+      "zh_cn": "萨比尔巴拉"
     },
     "aliases": [],
     "score": 0
@@ -4267,7 +4706,8 @@
   {
     "name": {
       "en_us": "Razia (SR)",
-      "ja_jp": "ラスティナ"
+      "ja_jp": "ラスティナ",
+      "zh_cn": "拉丝缇娜"
     },
     "aliases": [],
     "score": 0
@@ -4275,7 +4715,8 @@
   {
     "name": {
       "en_us": "Yurius",
-      "ja_jp": "ユリウス"
+      "ja_jp": "ユリウス",
+      "zh_cn": "尤里乌斯"
     },
     "aliases": [],
     "score": 0
@@ -4299,7 +4740,8 @@
   {
     "name": {
       "en_us": "Aglovale",
-      "ja_jp": "アグロヴァル"
+      "ja_jp": "アグロヴァル",
+      "zh_cn": "阿古罗瓦尔"
     },
     "aliases": [],
     "score": 1
@@ -4323,7 +4765,8 @@
   {
     "name": {
       "en_us": "Monika",
-      "ja_jp": "モニカ"
+      "ja_jp": "モニカ",
+      "zh_cn": "莫妮卡"
     },
     "aliases": [],
     "score": 0
@@ -4331,7 +4774,8 @@
   {
     "name": {
       "en_us": "Europa",
-      "ja_jp": "エウロペ"
+      "ja_jp": "エウロペ",
+      "zh_cn": "欧罗巴"
     },
     "aliases": [],
     "score": 5
@@ -4339,7 +4783,8 @@
   {
     "name": {
       "en_us": "Lady Grey (Halloween)",
-      "ja_jp": "レディ・グレイ"
+      "ja_jp": "レディ・グレイ",
+      "zh_cn": "灰夫人（万圣节）"
     },
     "aliases": [],
     "score": 2
@@ -4347,7 +4792,8 @@
   {
     "name": {
       "en_us": "Feather (Halloween)",
-      "ja_jp": "フェザー"
+      "ja_jp": "フェザー",
+      "zh_cn": "菲扎（万圣节）"
     },
     "aliases": [],
     "score": 1
@@ -4363,7 +4809,8 @@
   {
     "name": {
       "en_us": "Silva (Light)",
-      "ja_jp": "シルヴァ"
+      "ja_jp": "シルヴァ",
+      "zh_cn": "席尔瓦（光）"
     },
     "aliases": [],
     "score": 4
@@ -4371,7 +4818,8 @@
   {
     "name": {
       "en_us": "Juri",
-      "ja_jp": "ユーリ"
+      "ja_jp": "ユーリ",
+      "zh_cn": "尤利"
     },
     "aliases": [],
     "score": 0
@@ -4379,7 +4827,8 @@
   {
     "name": {
       "en_us": "Freezie",
-      "ja_jp": "フーちゃん"
+      "ja_jp": "フーちゃん",
+      "zh_cn": "小芙"
     },
     "aliases": [],
     "score": 0
@@ -4395,7 +4844,8 @@
   {
     "name": {
       "en_us": "Pholia",
-      "ja_jp": "フォリア"
+      "ja_jp": "フォリア",
+      "zh_cn": "芙莉亚"
     },
     "aliases": [],
     "score": 0
@@ -4403,7 +4853,8 @@
   {
     "name": {
       "en_us": "Tsubasa",
-      "ja_jp": "ツバサ"
+      "ja_jp": "ツバサ",
+      "zh_cn": "翼"
     },
     "aliases": [],
     "score": 0
@@ -4419,7 +4870,8 @@
   {
     "name": {
       "en_us": "Grea (Summer)",
-      "ja_jp": "グレア"
+      "ja_jp": "グレア",
+      "zh_cn": "古蕾雅（泳装）"
     },
     "aliases": [],
     "score": 105,
@@ -4430,7 +4882,8 @@
   {
     "name": {
       "en_us": "Almeida (Summer)",
-      "ja_jp": "アルメイダ"
+      "ja_jp": "アルメイダ",
+      "zh_cn": "阿尔梅达（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -4462,7 +4915,8 @@
   {
     "name": {
       "en_us": "Arulumaya (Yukata)",
-      "ja_jp": "アルルメイヤ"
+      "ja_jp": "アルルメイヤ",
+      "zh_cn": "阿露露梅娅（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -4470,7 +4924,8 @@
   {
     "name": {
       "en_us": "Farrah (Summer)",
-      "ja_jp": "ファラ"
+      "ja_jp": "ファラ",
+      "zh_cn": "法拉（泳装）"
     },
     "aliases": [],
     "score": 2
@@ -4478,7 +4933,8 @@
   {
     "name": {
       "en_us": "Naoise (Summer)",
-      "ja_jp": "ノイシュ"
+      "ja_jp": "ノイシュ",
+      "zh_cn": "诺伊修（泳装）"
     },
     "aliases": [],
     "score": 1
@@ -4486,7 +4942,8 @@
   {
     "name": {
       "en_us": "Ilsa (Summer)",
-      "ja_jp": "イルザ"
+      "ja_jp": "イルザ",
+      "zh_cn": "伊尔莎（泳装）"
     },
     "aliases": [],
     "score": 4
@@ -4494,7 +4951,8 @@
   {
     "name": {
       "en_us": "Lilele (Summer)",
-      "ja_jp": "リルル"
+      "ja_jp": "リルル",
+      "zh_cn": "莉露露（泳装）"
     },
     "aliases": [],
     "score": 1
@@ -4502,7 +4960,8 @@
   {
     "name": {
       "en_us": "Olivia (Event)",
-      "ja_jp": "オリヴィエ"
+      "ja_jp": "オリヴィエ",
+      "zh_cn": "奥莉薇尔"
     },
     "aliases": [],
     "score": 0
@@ -4510,7 +4969,8 @@
   {
     "name": {
       "en_us": "Rosetta (Summer)",
-      "ja_jp": "ロゼッタ"
+      "ja_jp": "ロゼッタ",
+      "zh_cn": "萝赛塔（泳装）"
     },
     "aliases": [],
     "score": 45
@@ -4518,7 +4978,8 @@
   {
     "name": {
       "en_us": "Yuisis (Yukata)",
-      "ja_jp": "ユイシス"
+      "ja_jp": "ユイシス",
+      "zh_cn": "优希斯（浴衣）"
     },
     "aliases": [],
     "score": 0
@@ -4526,7 +4987,8 @@
   {
     "name": {
       "en_us": "Selfira",
-      "ja_jp": "セレフィラ"
+      "ja_jp": "セレフィラ",
+      "zh_cn": "塞尔菲拉"
     },
     "aliases": [],
     "score": 0
@@ -4534,7 +4996,8 @@
   {
     "name": {
       "en_us": "Elta (Light)",
-      "ja_jp": "エルタ"
+      "ja_jp": "エルタ",
+      "zh_cn": "艾尔塔（光）"
     },
     "aliases": [],
     "score": 1
@@ -4567,7 +5030,8 @@
   {
     "name": {
       "en_us": "Lunalu (SSR)",
-      "ja_jp": "ルナール"
+      "ja_jp": "ルナール",
+      "zh_cn": "露娜露"
     },
     "aliases": [],
     "score": 0
@@ -4575,7 +5039,8 @@
   {
     "name": {
       "en_us": "Cain (Grand)",
-      "ja_jp": "カイン"
+      "ja_jp": "カイン",
+      "zh_cn": "该隐（Grand）"
     },
     "aliases": [],
     "score": 1
@@ -4583,7 +5048,8 @@
   {
     "name": {
       "en_us": "Spinnah",
-      "ja_jp": "スピナー"
+      "ja_jp": "スピナー",
+      "zh_cn": "斯平纳"
     },
     "aliases": [],
     "score": 0
@@ -4591,7 +5057,8 @@
   {
     "name": {
       "en_us": "Soriz (SSR)",
-      "ja_jp": "ソリッズ"
+      "ja_jp": "ソリッズ",
+      "zh_cn": "索利茲"
     },
     "aliases": [],
     "score": 1
@@ -4599,7 +5066,8 @@
   {
     "name": {
       "en_us": "Leona",
-      "ja_jp": "レオナ"
+      "ja_jp": "レオナ",
+      "zh_cn": "蕾欧娜"
     },
     "aliases": [],
     "score": 0
@@ -4607,7 +5075,8 @@
   {
     "name": {
       "en_us": "Cucouroux (SSR)",
-      "ja_jp": "ククル"
+      "ja_jp": "ククル",
+      "zh_cn": "库库鲁"
     },
     "aliases": [],
     "score": 0
@@ -4615,7 +5084,8 @@
   {
     "name": {
       "en_us": "Aliza (Water)",
-      "ja_jp": "アリーザ"
+      "ja_jp": "アリーザ",
+      "zh_cn": "阿丽莎（水）"
     },
     "aliases": [],
     "score": 6
@@ -4623,7 +5093,8 @@
   {
     "name": {
       "en_us": "Carmelina (SR)",
-      "ja_jp": "カルメリーナ"
+      "ja_jp": "カルメリーナ",
+      "zh_cn": "卡露梅莉娜"
     },
     "aliases": [],
     "score": 0
@@ -4631,7 +5102,8 @@
   {
     "name": {
       "en_us": "Alexiel",
-      "ja_jp": "ブローディア"
+      "ja_jp": "ブローディア",
+      "zh_cn": "布罗蒂娅"
     },
     "aliases": [],
     "score": 4
@@ -4639,7 +5111,8 @@
   {
     "name": {
       "en_us": "Barawa (SR)",
-      "ja_jp": "バロワ"
+      "ja_jp": "バロワ",
+      "zh_cn": "巴洛瓦"
     },
     "aliases": [],
     "score": 0
@@ -4647,7 +5120,8 @@
   {
     "name": {
       "en_us": "Tōru Amuro",
-      "ja_jp": "安室透"
+      "ja_jp": "安室透",
+      "zh_cn": "安室透"
     },
     "aliases": [],
     "score": 77,
@@ -4656,7 +5130,8 @@
   {
     "name": {
       "en_us": "Conan Edogawa",
-      "ja_jp": "江戸川コナン"
+      "ja_jp": "江戸川コナン",
+      "zh_cn": "江户川柯南"
     },
     "aliases": [],
     "score": 242,
@@ -4667,7 +5142,8 @@
   {
     "name": {
       "en_us": "Nicholas",
-      "ja_jp": "シロウ"
+      "ja_jp": "シロウ",
+      "zh_cn": "士郎"
     },
     "aliases": [],
     "score": 0
@@ -4675,7 +5151,8 @@
   {
     "name": {
       "en_us": "Robomi",
-      "ja_jp": "ロボミ"
+      "ja_jp": "ロボミ",
+      "zh_cn": "萝伯美"
     },
     "aliases": [],
     "score": 0
@@ -4683,7 +5160,8 @@
   {
     "name": {
       "en_us": "Jeanne d'Arc (Summer)",
-      "ja_jp": "ジャンヌダルク"
+      "ja_jp": "ジャンヌダルク",
+      "zh_cn": "贞德（泳装）"
     },
     "aliases": [],
     "score": 24,
@@ -4692,7 +5170,8 @@
   {
     "name": {
       "en_us": "Sandalphon (Event)",
-      "ja_jp": "サンダルフォン"
+      "ja_jp": "サンダルフォン",
+      "zh_cn": "圣德芬"
     },
     "aliases": [],
     "score": 7
@@ -4700,7 +5179,8 @@
   {
     "name": {
       "en_us": "Tiamat",
-      "ja_jp": "ティアマト"
+      "ja_jp": "ティアマト",
+      "zh_cn": "提亚玛特"
     },
     "aliases": [],
     "score": 2
@@ -4708,7 +5188,8 @@
   {
     "name": {
       "en_us": "Nezahualpilli (SR)",
-      "ja_jp": "ネツァワルピリ"
+      "ja_jp": "ネツァワルピリ",
+      "zh_cn": "聂查瓦尔皮利"
     },
     "aliases": [],
     "score": 1
@@ -4716,7 +5197,8 @@
   {
     "name": {
       "en_us": "Medusa (Valentine)",
-      "ja_jp": "メドゥーサ"
+      "ja_jp": "メドゥーサ",
+      "zh_cn": "美杜莎（情人节）"
     },
     "aliases": [],
     "score": 9
@@ -4724,7 +5206,8 @@
   {
     "name": {
       "en_us": "Teena (Valentine)",
-      "ja_jp": "ティナ"
+      "ja_jp": "ティナ",
+      "zh_cn": "缇娜（情人节）"
     },
     "aliases": [],
     "score": 0
@@ -4732,7 +5215,8 @@
   {
     "name": {
       "en_us": "Narmaya (Valentine)",
-      "ja_jp": "ナルメア"
+      "ja_jp": "ナルメア",
+      "zh_cn": "娜尔梅亚（情人节）"
     },
     "aliases": [],
     "score": 49
@@ -4740,7 +5224,8 @@
   {
     "name": {
       "en_us": "Zooey",
-      "ja_jp": "ゾーイ"
+      "ja_jp": "ゾーイ",
+      "zh_cn": "佐伊"
     },
     "aliases": [],
     "score": 7
@@ -4748,7 +5233,8 @@
   {
     "name": {
       "en_us": "Randall (SR)",
-      "ja_jp": "ランドル"
+      "ja_jp": "ランドル",
+      "zh_cn": "兰德尔"
     },
     "aliases": [],
     "score": 1
@@ -4756,7 +5242,8 @@
   {
     "name": {
       "en_us": "Zooey (Event)",
-      "ja_jp": "ゾーイ"
+      "ja_jp": "ゾーイ",
+      "zh_cn": "佐伊"
     },
     "aliases": [],
     "score": 7
@@ -4764,7 +5251,8 @@
   {
     "name": {
       "en_us": "Therese (SSR)",
-      "ja_jp": "テレーズ"
+      "ja_jp": "テレーズ",
+      "zh_cn": "特蕾兹"
     },
     "aliases": [],
     "score": 2
@@ -4780,7 +5268,8 @@
   {
     "name": {
       "en_us": "Ilsa",
-      "ja_jp": "イルザ"
+      "ja_jp": "イルザ",
+      "zh_cn": "伊尔莎"
     },
     "aliases": [],
     "score": 4
@@ -4788,7 +5277,8 @@
   {
     "name": {
       "en_us": "Vajra",
-      "ja_jp": "ヴァジラ"
+      "ja_jp": "ヴァジラ",
+      "zh_cn": "瓦姬拉"
     },
     "aliases": [],
     "score": 11
@@ -4796,7 +5286,8 @@
   {
     "name": {
       "en_us": "Vaseraga (Earth)",
-      "ja_jp": "バザラガ"
+      "ja_jp": "バザラガ",
+      "zh_cn": "巴萨拉卡（土）"
     },
     "aliases": [],
     "score": 0
@@ -4804,7 +5295,8 @@
   {
     "name": {
       "en_us": "Zeta (Event)",
-      "ja_jp": "ゼタ"
+      "ja_jp": "ゼタ",
+      "zh_cn": "泽塔"
     },
     "aliases": [],
     "score": 29
@@ -4820,7 +5312,8 @@
   {
     "name": {
       "en_us": "Olivia (Grand)",
-      "ja_jp": "オリヴィエ"
+      "ja_jp": "オリヴィエ",
+      "zh_cn": "奥莉薇尔（Grand）"
     },
     "aliases": [],
     "score": 0
@@ -4837,7 +5330,8 @@
   {
     "name": {
       "en_us": "Mahira (Event)",
-      "ja_jp": "マキラ"
+      "ja_jp": "マキラ",
+      "zh_cn": "玛琪拉"
     },
     "aliases": [],
     "score": 6
@@ -4845,7 +5339,8 @@
   {
     "name": {
       "en_us": "Mary (Holiday)",
-      "ja_jp": "マリー"
+      "ja_jp": "マリー",
+      "zh_cn": "玛丽（圣诞）"
     },
     "aliases": [],
     "score": 4
@@ -4853,7 +5348,8 @@
   {
     "name": {
       "en_us": "Feena (Holiday)",
-      "ja_jp": "フィーナ"
+      "ja_jp": "フィーナ",
+      "zh_cn": "菲娜（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -4861,7 +5357,8 @@
   {
     "name": {
       "en_us": "Levi",
-      "ja_jp": "リヴァイ"
+      "ja_jp": "リヴァイ",
+      "zh_cn": "利威尔"
     },
     "aliases": [],
     "score": 775,
@@ -4880,7 +5377,8 @@
   {
     "name": {
       "en_us": "Lancelot (Wind)",
-      "ja_jp": "ランスロット"
+      "ja_jp": "ランスロット",
+      "zh_cn": "兰斯洛特（风）"
     },
     "aliases": [],
     "score": 5
@@ -4888,7 +5386,8 @@
   {
     "name": {
       "en_us": "Arthur (Event)",
-      "ja_jp": "アーサー"
+      "ja_jp": "アーサー",
+      "zh_cn": "亚瑟"
     },
     "aliases": [],
     "score": 2
@@ -4896,7 +5395,8 @@
   {
     "name": {
       "en_us": "Sophia (SR)",
-      "ja_jp": "ソフィア"
+      "ja_jp": "ソフィア",
+      "zh_cn": "索菲娅"
     },
     "aliases": [],
     "score": 3
@@ -4904,7 +5404,8 @@
   {
     "name": {
       "en_us": "Reinhardtzar",
-      "ja_jp": "ラインハルザ"
+      "ja_jp": "ラインハルザ",
+      "zh_cn": "莱茵哈撒"
     },
     "aliases": [],
     "score": 1
@@ -4912,7 +5413,8 @@
   {
     "name": {
       "en_us": "Vira (Grand)",
-      "ja_jp": "ヴィーラ"
+      "ja_jp": "ヴィーラ",
+      "zh_cn": "维拉（Grand）"
     },
     "aliases": [],
     "score": 30
@@ -4920,7 +5422,8 @@
   {
     "name": {
       "en_us": "Mirin",
-      "ja_jp": "ミリン"
+      "ja_jp": "ミリン",
+      "zh_cn": "米林"
     },
     "aliases": [],
     "score": 0
@@ -4928,7 +5431,8 @@
   {
     "name": {
       "en_us": "Yuel (Water)",
-      "ja_jp": "ユエル"
+      "ja_jp": "ユエル",
+      "zh_cn": "尤艾尔（水）"
     },
     "aliases": [],
     "score": 7
@@ -4936,7 +5440,8 @@
   {
     "name": {
       "en_us": "Yuel (Event)",
-      "ja_jp": "ユエル"
+      "ja_jp": "ユエル",
+      "zh_cn": "尤艾尔"
     },
     "aliases": [],
     "score": 7
@@ -4952,7 +5457,8 @@
   {
     "name": {
       "en_us": "Danua (Halloween)",
-      "ja_jp": "ダヌア"
+      "ja_jp": "ダヌア",
+      "zh_cn": "妲奴亚（万圣节）"
     },
     "aliases": [],
     "score": 0
@@ -4968,7 +5474,8 @@
   {
     "name": {
       "en_us": "Azazel",
-      "ja_jp": "アザゼル"
+      "ja_jp": "アザゼル",
+      "zh_cn": "阿萨谢尔"
     },
     "aliases": [],
     "score": 13,
@@ -4977,7 +5484,8 @@
   {
     "name": {
       "en_us": "Vania (SR)",
-      "ja_jp": "ヴァンピィ"
+      "ja_jp": "ヴァンピィ",
+      "zh_cn": "斑比"
     },
     "aliases": [],
     "score": 17
@@ -5012,7 +5520,8 @@
   {
     "name": {
       "en_us": "Sarya",
-      "ja_jp": "サーヤ"
+      "ja_jp": "サーヤ",
+      "zh_cn": "萨雅"
     },
     "aliases": [],
     "score": 0
@@ -5029,7 +5538,8 @@
   {
     "name": {
       "en_us": "Anne",
-      "ja_jp": "アン"
+      "ja_jp": "アン",
+      "zh_cn": "安"
     },
     "aliases": [],
     "score": 91,
@@ -5040,7 +5550,8 @@
   {
     "name": {
       "en_us": "Owen",
-      "ja_jp": "オーウェン"
+      "ja_jp": "オーウェン",
+      "zh_cn": "欧文"
     },
     "aliases": [],
     "score": 0
@@ -5075,7 +5586,8 @@
   {
     "name": {
       "en_us": "Grea",
-      "ja_jp": "グレア"
+      "ja_jp": "グレア",
+      "zh_cn": "古蕾雅"
     },
     "aliases": [],
     "score": 105,
@@ -5086,7 +5598,8 @@
   {
     "name": {
       "en_us": "Grea (Event)",
-      "ja_jp": "グレア"
+      "ja_jp": "グレア",
+      "zh_cn": "古蕾雅"
     },
     "aliases": [],
     "score": 105,
@@ -5105,7 +5618,8 @@
   {
     "name": {
       "en_us": "Diantha (Summer)",
-      "ja_jp": "ディアンサ"
+      "ja_jp": "ディアンサ",
+      "zh_cn": "戴安萨（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -5113,7 +5627,8 @@
   {
     "name": {
       "en_us": "Chloe (Summer)",
-      "ja_jp": "クロエ"
+      "ja_jp": "クロエ",
+      "zh_cn": "库洛尔（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -5121,7 +5636,8 @@
   {
     "name": {
       "en_us": "Ghandagoza (Summer)",
-      "ja_jp": "ガンダゴウザ"
+      "ja_jp": "ガンダゴウザ",
+      "zh_cn": "冈达葛萨（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -5129,7 +5645,8 @@
   {
     "name": {
       "en_us": "Siegfried (Yukata)",
-      "ja_jp": "ジークフリート"
+      "ja_jp": "ジークフリート",
+      "zh_cn": "齐格飞（浴衣）"
     },
     "aliases": [],
     "score": 4
@@ -5137,7 +5654,8 @@
   {
     "name": {
       "en_us": "Izmir (Summer)",
-      "ja_jp": "イシュミール"
+      "ja_jp": "イシュミール",
+      "zh_cn": "伊休米尔（泳装）"
     },
     "aliases": [],
     "score": 1
@@ -5145,7 +5663,8 @@
   {
     "name": {
       "en_us": "Carren (Event)",
-      "ja_jp": "カレン"
+      "ja_jp": "カレン",
+      "zh_cn": "卡莲"
     },
     "aliases": [],
     "score": 0
@@ -5153,7 +5672,8 @@
   {
     "name": {
       "en_us": "Ayer (Summer)",
-      "ja_jp": "アイル"
+      "ja_jp": "アイル",
+      "zh_cn": "艾鲁（泳装）"
     },
     "aliases": [],
     "score": 5
@@ -5161,7 +5681,8 @@
   {
     "name": {
       "en_us": "Charlotta (Summer)",
-      "ja_jp": "シャルロッテ"
+      "ja_jp": "シャルロッテ",
+      "zh_cn": "夏洛特（泳装）"
     },
     "aliases": [],
     "score": 22
@@ -5169,7 +5690,8 @@
   {
     "name": {
       "en_us": "Korwa (Summer)",
-      "ja_jp": "コルワ"
+      "ja_jp": "コルワ",
+      "zh_cn": "可露瓦（泳装）"
     },
     "aliases": [],
     "score": 9
@@ -5177,7 +5699,8 @@
   {
     "name": {
       "en_us": "Yggdrasil",
-      "ja_jp": "ユグドラシル"
+      "ja_jp": "ユグドラシル",
+      "zh_cn": "尤格多拉希尔"
     },
     "aliases": [],
     "score": 6
@@ -5185,7 +5708,8 @@
   {
     "name": {
       "en_us": "Walder (Event)",
-      "ja_jp": "ウェルダー"
+      "ja_jp": "ウェルダー",
+      "zh_cn": "维尔达"
     },
     "aliases": [],
     "score": 0
@@ -5193,7 +5717,8 @@
   {
     "name": {
       "en_us": "Jamil (Dark)",
-      "ja_jp": "ジャミル"
+      "ja_jp": "ジャミル",
+      "zh_cn": "贾米尔（暗）"
     },
     "aliases": [],
     "score": 2
@@ -5201,7 +5726,8 @@
   {
     "name": {
       "en_us": "Baotorda (SSR)",
-      "ja_jp": "バウタオーダ"
+      "ja_jp": "バウタオーダ",
+      "zh_cn": "鲍特欧达"
     },
     "aliases": [],
     "score": 0
@@ -5209,7 +5735,8 @@
   {
     "name": {
       "en_us": "Medusa (Promo)",
-      "ja_jp": "メドゥーサ"
+      "ja_jp": "メドゥーサ",
+      "zh_cn": "美杜莎"
     },
     "aliases": [],
     "score": 9
@@ -5217,7 +5744,8 @@
   {
     "name": {
       "en_us": "Jeanne d'Arc (SR)",
-      "ja_jp": "ジャンヌダルク"
+      "ja_jp": "ジャンヌダルク",
+      "zh_cn": "贞德"
     },
     "aliases": [],
     "score": 24,
@@ -5242,7 +5770,8 @@
   {
     "name": {
       "en_us": "Scathacha",
-      "ja_jp": "スカーサハ"
+      "ja_jp": "スカーサハ",
+      "zh_cn": "斯卡哈"
     },
     "aliases": [],
     "score": 0
@@ -5250,7 +5779,8 @@
   {
     "name": {
       "en_us": "Charlotta (Event)",
-      "ja_jp": "シャルロッテ"
+      "ja_jp": "シャルロッテ",
+      "zh_cn": "夏洛特"
     },
     "aliases": [],
     "score": 22
@@ -5258,7 +5788,8 @@
   {
     "name": {
       "en_us": "Sevastien",
-      "ja_jp": "セワスチアン"
+      "ja_jp": "セワスチアン",
+      "zh_cn": "塞瓦斯蒂安"
     },
     "aliases": [],
     "score": 0
@@ -5266,7 +5797,8 @@
   {
     "name": {
       "en_us": "Cain",
-      "ja_jp": "カイン"
+      "ja_jp": "カイン",
+      "zh_cn": "该隐"
     },
     "aliases": [],
     "score": 1
@@ -5274,7 +5806,8 @@
   {
     "name": {
       "en_us": "Clarisse (Light)",
-      "ja_jp": "クラリス"
+      "ja_jp": "クラリス",
+      "zh_cn": "克拉莉丝（光）"
     },
     "aliases": [],
     "score": 13
@@ -5282,7 +5815,8 @@
   {
     "name": {
       "en_us": "Predator",
-      "ja_jp": "プレデター"
+      "ja_jp": "プレデター",
+      "zh_cn": "布列迪塔"
     },
     "aliases": [],
     "score": 0
@@ -5290,7 +5824,8 @@
   {
     "name": {
       "en_us": "Cagliostro (Dark)",
-      "ja_jp": "カリオストロ"
+      "ja_jp": "カリオストロ",
+      "zh_cn": "卡莉奥斯特萝（暗）"
     },
     "aliases": [],
     "score": 69
@@ -5298,7 +5833,8 @@
   {
     "name": {
       "en_us": "Drang (Grand)",
-      "ja_jp": "ドランク"
+      "ja_jp": "ドランク",
+      "zh_cn": "德朗克（Grand）"
     },
     "aliases": [],
     "score": 2
@@ -5306,7 +5842,8 @@
   {
     "name": {
       "en_us": "Katalina (Promo)",
-      "ja_jp": "カタリナ"
+      "ja_jp": "カタリナ",
+      "zh_cn": "卡塔莉娜"
     },
     "aliases": [],
     "score": 37
@@ -5314,7 +5851,8 @@
   {
     "name": {
       "en_us": "Cagliostro (Event)",
-      "ja_jp": "カリオストロ"
+      "ja_jp": "カリオストロ",
+      "zh_cn": "卡莉奥斯特萝"
     },
     "aliases": [],
     "score": 69
@@ -5322,7 +5860,8 @@
   {
     "name": {
       "en_us": "Deliford (SR)",
-      "ja_jp": "デリフォード"
+      "ja_jp": "デリフォード",
+      "zh_cn": "德里福德"
     },
     "aliases": [],
     "score": 0
@@ -5330,7 +5869,8 @@
   {
     "name": {
       "en_us": "Vane (SSR)",
-      "ja_jp": "ヴェイン"
+      "ja_jp": "ヴェイン",
+      "zh_cn": "维恩"
     },
     "aliases": [],
     "score": 5
@@ -5338,7 +5878,8 @@
   {
     "name": {
       "en_us": "Lamretta (Water)",
-      "ja_jp": "ラムレッダ"
+      "ja_jp": "ラムレッダ",
+      "zh_cn": "拉姆蕾塔（水）"
     },
     "aliases": [],
     "score": 0
@@ -5346,7 +5887,8 @@
   {
     "name": {
       "en_us": "Sutera (Event)",
-      "ja_jp": "スーテラ"
+      "ja_jp": "スーテラ",
+      "zh_cn": "斯黛拉"
     },
     "aliases": [],
     "score": 2
@@ -5362,7 +5904,8 @@
   {
     "name": {
       "en_us": "Sturm (Grand)",
-      "ja_jp": "スツルム"
+      "ja_jp": "スツルム",
+      "zh_cn": "斯特姆（Grand）"
     },
     "aliases": [],
     "score": 8
@@ -5378,7 +5921,8 @@
   {
     "name": {
       "en_us": "De La Fille (Earth)",
-      "ja_jp": "レ・フィーエ"
+      "ja_jp": "レ・フィーエ",
+      "zh_cn": "蕾・芬耶（土）"
     },
     "aliases": [],
     "score": 4
@@ -5394,7 +5938,8 @@
   {
     "name": {
       "en_us": "Lyria (Event)",
-      "ja_jp": "ルリア"
+      "ja_jp": "ルリア",
+      "zh_cn": "露莉亚"
     },
     "aliases": [],
     "score": 74
@@ -5402,7 +5947,8 @@
   {
     "name": {
       "en_us": "Zeta (Dark)",
-      "ja_jp": "ゼタ"
+      "ja_jp": "ゼタ",
+      "zh_cn": "泽塔（暗）"
     },
     "aliases": [],
     "score": 29
@@ -5410,7 +5956,8 @@
   {
     "name": {
       "en_us": "Orchid (Grand)",
-      "ja_jp": "オーキス"
+      "ja_jp": "オーキス",
+      "zh_cn": "欧姬丝（Grand）"
     },
     "aliases": [],
     "score": 17
@@ -5418,7 +5965,8 @@
   {
     "name": {
       "en_us": "Tyre",
-      "ja_jp": "タイアー"
+      "ja_jp": "タイアー",
+      "zh_cn": "泰亚"
     },
     "aliases": [],
     "score": 0
@@ -5426,7 +5974,8 @@
   {
     "name": {
       "en_us": "Luna",
-      "ja_jp": "ルナ"
+      "ja_jp": "ルナ",
+      "zh_cn": "露娜"
     },
     "aliases": [],
     "score": 25,
@@ -5435,7 +5984,8 @@
   {
     "name": {
       "en_us": "Arisa",
-      "ja_jp": "アリサ"
+      "ja_jp": "アリサ",
+      "zh_cn": "亚里莎"
     },
     "aliases": [],
     "score": 53,
@@ -5446,7 +5996,8 @@
   {
     "name": {
       "en_us": "Beatrix (Summer)",
-      "ja_jp": "ベアトリクス"
+      "ja_jp": "ベアトリクス",
+      "zh_cn": "贝阿朵丽丝（泳装）"
     },
     "aliases": [],
     "score": 11
@@ -5454,7 +6005,8 @@
   {
     "name": {
       "en_us": "Jin (Summer)",
-      "ja_jp": "ジン"
+      "ja_jp": "ジン",
+      "zh_cn": "仁（泳装）"
     },
     "aliases": [],
     "score": 1
@@ -5462,7 +6014,8 @@
   {
     "name": {
       "en_us": "Razia",
-      "ja_jp": "ラスティナ"
+      "ja_jp": "ラスティナ",
+      "zh_cn": "拉丝缇娜"
     },
     "aliases": [],
     "score": 0
@@ -5470,7 +6023,8 @@
   {
     "name": {
       "en_us": "Albert (Event)",
-      "ja_jp": "アルベール"
+      "ja_jp": "アルベール",
+      "zh_cn": "阿尔贝尔"
     },
     "aliases": [],
     "score": 7,
@@ -5479,7 +6033,8 @@
   {
     "name": {
       "en_us": "Mina",
-      "ja_jp": "マイム"
+      "ja_jp": "マイム",
+      "zh_cn": "麦姆"
     },
     "aliases": [],
     "score": 0
@@ -5487,7 +6042,8 @@
   {
     "name": {
       "en_us": "Marquiares",
-      "ja_jp": "マルキアレス"
+      "ja_jp": "マルキアレス",
+      "zh_cn": "马尔基亚雷斯"
     },
     "aliases": [],
     "score": 0
@@ -5519,7 +6075,8 @@
   {
     "name": {
       "en_us": "Cecile (Promo)",
-      "ja_jp": "セシール"
+      "ja_jp": "セシール",
+      "zh_cn": "塞希尔"
     },
     "aliases": [],
     "score": 0
@@ -5527,7 +6084,8 @@
   {
     "name": {
       "en_us": "Mahira",
-      "ja_jp": "マキラ"
+      "ja_jp": "マキラ",
+      "zh_cn": "玛琪拉"
     },
     "aliases": [],
     "score": 6
@@ -5535,7 +6093,8 @@
   {
     "name": {
       "en_us": "Yuisis",
-      "ja_jp": "ユイシス"
+      "ja_jp": "ユイシス",
+      "zh_cn": "优希斯"
     },
     "aliases": [],
     "score": 0
@@ -5543,7 +6102,8 @@
   {
     "name": {
       "en_us": "Meteon (Event)",
-      "ja_jp": "ミュオン"
+      "ja_jp": "ミュオン",
+      "zh_cn": "缪恩"
     },
     "aliases": [],
     "score": 0
@@ -5551,7 +6111,8 @@
   {
     "name": {
       "en_us": "Lucius (Fire)",
-      "ja_jp": "ルシウス"
+      "ja_jp": "ルシウス",
+      "zh_cn": "卢修斯（火）"
     },
     "aliases": [],
     "score": 2
@@ -5559,7 +6120,8 @@
   {
     "name": {
       "en_us": "Lucio",
-      "ja_jp": "ルシオ"
+      "ja_jp": "ルシオ",
+      "zh_cn": "路西欧"
     },
     "aliases": [],
     "score": 4
@@ -5567,7 +6129,8 @@
   {
     "name": {
       "en_us": "Andira (Event)",
-      "ja_jp": "アンチラ"
+      "ja_jp": "アンチラ",
+      "zh_cn": "安琪拉"
     },
     "aliases": [],
     "score": 10
@@ -5575,7 +6138,8 @@
   {
     "name": {
       "en_us": "Pamela (Promo)",
-      "ja_jp": "パメラ"
+      "ja_jp": "パメラ",
+      "zh_cn": "帕梅拉"
     },
     "aliases": [],
     "score": 0
@@ -5583,7 +6147,8 @@
   {
     "name": {
       "en_us": "Arulumaya (Holiday)",
-      "ja_jp": "アルルメイヤ"
+      "ja_jp": "アルルメイヤ",
+      "zh_cn": "阿露露梅娅（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -5591,7 +6156,8 @@
   {
     "name": {
       "en_us": "Sen (Holiday)",
-      "ja_jp": "セン"
+      "ja_jp": "セン",
+      "zh_cn": "千（圣诞）"
     },
     "aliases": [],
     "score": 6
@@ -5599,7 +6165,8 @@
   {
     "name": {
       "en_us": "Anthuria",
-      "ja_jp": "アンスリア"
+      "ja_jp": "アンスリア",
+      "zh_cn": "安苏莉娅"
     },
     "aliases": [],
     "score": 0
@@ -5607,7 +6174,8 @@
   {
     "name": {
       "en_us": "Percival (Event)",
-      "ja_jp": "パーシヴァル"
+      "ja_jp": "パーシヴァル",
+      "zh_cn": "帕西瓦尔"
     },
     "aliases": [],
     "score": 8
@@ -5623,7 +6191,8 @@
   {
     "name": {
       "en_us": "Randall",
-      "ja_jp": "ランドル"
+      "ja_jp": "ランドル",
+      "zh_cn": "兰德尔"
     },
     "aliases": [],
     "score": 1
@@ -5631,7 +6200,8 @@
   {
     "name": {
       "en_us": "Melissabelle",
-      "ja_jp": "メリッサベル"
+      "ja_jp": "メリッサベル",
+      "zh_cn": "梅丽莎贝尔"
     },
     "aliases": [],
     "score": 0
@@ -5647,7 +6217,8 @@
   {
     "name": {
       "en_us": "Lily (Event)",
-      "ja_jp": "リリィ"
+      "ja_jp": "リリィ",
+      "zh_cn": "莉莉"
     },
     "aliases": [],
     "score": 5
@@ -5655,7 +6226,8 @@
   {
     "name": {
       "en_us": "Lecia (Grand)",
-      "ja_jp": "リーシャ"
+      "ja_jp": "リーシャ",
+      "zh_cn": "莉夏（Grand）"
     },
     "aliases": [],
     "score": 4
@@ -5663,7 +6235,8 @@
   {
     "name": {
       "en_us": "Izmir",
-      "ja_jp": "イシュミール"
+      "ja_jp": "イシュミール",
+      "zh_cn": "伊休米尔"
     },
     "aliases": [],
     "score": 1
@@ -5671,7 +6244,8 @@
   {
     "name": {
       "en_us": "Erin",
-      "ja_jp": "エリン"
+      "ja_jp": "エリン",
+      "zh_cn": "艾琳"
     },
     "aliases": [],
     "score": 0
@@ -5679,7 +6253,8 @@
   {
     "name": {
       "en_us": "Eustace (Halloween)",
-      "ja_jp": "ユーステス"
+      "ja_jp": "ユーステス",
+      "zh_cn": "尤斯缇斯（万圣节）"
     },
     "aliases": [],
     "score": 1
@@ -5687,7 +6262,8 @@
   {
     "name": {
       "en_us": "Beatrix (Halloween)",
-      "ja_jp": "ベアトリクス"
+      "ja_jp": "ベアトリクス",
+      "zh_cn": "贝阿朵丽丝（万圣节）"
     },
     "aliases": [],
     "score": 11
@@ -5695,7 +6271,8 @@
   {
     "name": {
       "en_us": "Romeo",
-      "ja_jp": "ロミオ"
+      "ja_jp": "ロミオ",
+      "zh_cn": "罗密欧"
     },
     "aliases": [],
     "score": 0
@@ -5736,7 +6313,8 @@
   {
     "name": {
       "en_us": "Jessica",
-      "ja_jp": "ジェシカ"
+      "ja_jp": "ジェシカ",
+      "zh_cn": "杰西卡"
     },
     "aliases": [],
     "score": 6
@@ -5752,7 +6330,8 @@
   {
     "name": {
       "en_us": "Robertina (Promo)",
-      "ja_jp": "ロベルティナ"
+      "ja_jp": "ロベルティナ",
+      "zh_cn": "罗贝缇娜"
     },
     "aliases": [],
     "score": 0
@@ -5760,7 +6339,8 @@
   {
     "name": {
       "en_us": "Juliet",
-      "ja_jp": "ジュリエット"
+      "ja_jp": "ジュリエット",
+      "zh_cn": "朱丽叶"
     },
     "aliases": [],
     "score": 0
@@ -5768,7 +6348,8 @@
   {
     "name": {
       "en_us": "Paris (Event)",
-      "ja_jp": "パリス"
+      "ja_jp": "パリス",
+      "zh_cn": "帕里斯"
     },
     "aliases": [],
     "score": 0
@@ -5776,7 +6357,8 @@
   {
     "name": {
       "en_us": "Dante (SR)",
-      "ja_jp": "ダーント"
+      "ja_jp": "ダーント",
+      "zh_cn": "旦特"
     },
     "aliases": [],
     "score": 0
@@ -5792,7 +6374,8 @@
   {
     "name": {
       "en_us": "Augusta (Promo)",
-      "ja_jp": "アウフスタ"
+      "ja_jp": "アウフスタ",
+      "zh_cn": "奥古斯特"
     },
     "aliases": [],
     "score": 0
@@ -5800,7 +6383,8 @@
   {
     "name": {
       "en_us": "Societte (Fire)",
-      "ja_jp": "ソシエ"
+      "ja_jp": "ソシエ",
+      "zh_cn": "苏丝雅（火）"
     },
     "aliases": [],
     "score": 3
@@ -5808,7 +6392,8 @@
   {
     "name": {
       "en_us": "Veight",
-      "ja_jp": "ヴァイト"
+      "ja_jp": "ヴァイト",
+      "zh_cn": "斑特"
     },
     "aliases": [],
     "score": 1
@@ -5816,7 +6401,8 @@
   {
     "name": {
       "en_us": "Cucouroux",
-      "ja_jp": "ククル"
+      "ja_jp": "ククル",
+      "zh_cn": "库库鲁"
     },
     "aliases": [],
     "score": 0
@@ -5832,7 +6418,8 @@
   {
     "name": {
       "en_us": "Chat Noir",
-      "ja_jp": "シャノワール"
+      "ja_jp": "シャノワール",
+      "zh_cn": "夏诺瓦"
     },
     "aliases": [],
     "score": 1
@@ -5840,7 +6427,8 @@
   {
     "name": {
       "en_us": "Barawa (Event)",
-      "ja_jp": "バロワ"
+      "ja_jp": "バロワ",
+      "zh_cn": "巴洛瓦"
     },
     "aliases": [],
     "score": 0
@@ -5864,7 +6452,8 @@
   {
     "name": {
       "en_us": "Zooey (Grand)",
-      "ja_jp": "ゾーイ"
+      "ja_jp": "ゾーイ",
+      "zh_cn": "佐伊（Grand）"
     },
     "aliases": [],
     "score": 7
@@ -5872,7 +6461,8 @@
   {
     "name": {
       "en_us": "Heles (Summer)",
-      "ja_jp": "ヘルエス"
+      "ja_jp": "ヘルエス",
+      "zh_cn": "赫尔艾斯（泳装）"
     },
     "aliases": [],
     "score": 5
@@ -5880,7 +6470,8 @@
   {
     "name": {
       "en_us": "Novei (Promo)",
-      "ja_jp": "ナーヴェ"
+      "ja_jp": "ナーヴェ",
+      "zh_cn": "娜维"
     },
     "aliases": [],
     "score": 0
@@ -5888,7 +6479,8 @@
   {
     "name": {
       "en_us": "Percival (Summer)",
-      "ja_jp": "パーシヴァル"
+      "ja_jp": "パーシヴァル",
+      "zh_cn": "帕西瓦尔（泳装）"
     },
     "aliases": [],
     "score": 8
@@ -5896,7 +6488,8 @@
   {
     "name": {
       "en_us": "Camieux (Summer)",
-      "ja_jp": "クムユ"
+      "ja_jp": "クムユ",
+      "zh_cn": "库姆优（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -5904,7 +6497,8 @@
   {
     "name": {
       "en_us": "Narmaya (Summer)",
-      "ja_jp": "ナルメア"
+      "ja_jp": "ナルメア",
+      "zh_cn": "娜尔梅亚（泳装）"
     },
     "aliases": [],
     "score": 49
@@ -5912,7 +6506,8 @@
   {
     "name": {
       "en_us": "Jin (Wind)",
-      "ja_jp": "ジン"
+      "ja_jp": "ジン",
+      "zh_cn": "仁（风）"
     },
     "aliases": [],
     "score": 1
@@ -5920,7 +6515,8 @@
   {
     "name": {
       "en_us": "Diantha (Promo)",
-      "ja_jp": "ディアンサ"
+      "ja_jp": "ディアンサ",
+      "zh_cn": "戴安萨"
     },
     "aliases": [],
     "score": 0
@@ -5928,7 +6524,8 @@
   {
     "name": {
       "en_us": "Lunalu (Summer)",
-      "ja_jp": "ルナール"
+      "ja_jp": "ルナール",
+      "zh_cn": "露娜露（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -5944,7 +6541,8 @@
   {
     "name": {
       "en_us": "Yngwie",
-      "ja_jp": "イングヴェイ"
+      "ja_jp": "イングヴェイ",
+      "zh_cn": "英格威"
     },
     "aliases": [],
     "score": 0
@@ -5952,7 +6550,8 @@
   {
     "name": {
       "en_us": "Sara (Summer)",
-      "ja_jp": "サラ"
+      "ja_jp": "サラ",
+      "zh_cn": "莎拉（泳装）"
     },
     "aliases": [],
     "score": 3
@@ -5968,7 +6567,8 @@
   {
     "name": {
       "en_us": "Rosamia (SSR)",
-      "ja_jp": "ロザミア"
+      "ja_jp": "ロザミア",
+      "zh_cn": "萝莎米娅"
     },
     "aliases": [],
     "score": 3
@@ -5976,7 +6576,8 @@
   {
     "name": {
       "en_us": "Nicholas (Event)",
-      "ja_jp": "シロウ"
+      "ja_jp": "シロウ",
+      "zh_cn": "士郎"
     },
     "aliases": [],
     "score": 0
@@ -5984,7 +6585,8 @@
   {
     "name": {
       "en_us": "Johann",
-      "ja_jp": "ヨハン"
+      "ja_jp": "ヨハン",
+      "zh_cn": "约翰"
     },
     "aliases": [],
     "score": 1
@@ -5992,7 +6594,8 @@
   {
     "name": {
       "en_us": "Chloe",
-      "ja_jp": "クロエ"
+      "ja_jp": "クロエ",
+      "zh_cn": "库洛尔"
     },
     "aliases": [],
     "score": 0
@@ -6000,7 +6603,8 @@
   {
     "name": {
       "en_us": "Forte",
-      "ja_jp": "フォルテ"
+      "ja_jp": "フォルテ",
+      "zh_cn": "法尔提"
     },
     "aliases": [],
     "score": 6,
@@ -6009,7 +6613,8 @@
   {
     "name": {
       "en_us": "Almeida",
-      "ja_jp": "アルメイダ"
+      "ja_jp": "アルメイダ",
+      "zh_cn": "阿尔梅达"
     },
     "aliases": [],
     "score": 0
@@ -6017,7 +6622,8 @@
   {
     "name": {
       "en_us": "La Coiffe",
-      "ja_jp": "コワフュール"
+      "ja_jp": "コワフュール",
+      "zh_cn": "可瓦菲尔"
     },
     "aliases": [],
     "score": 0
@@ -6053,7 +6659,8 @@
   {
     "name": {
       "en_us": "Nemone",
-      "ja_jp": "ネモネ"
+      "ja_jp": "ネモネ",
+      "zh_cn": "涅莫涅"
     },
     "aliases": [],
     "score": 0
@@ -6069,7 +6676,8 @@
   {
     "name": {
       "en_us": "Jamil",
-      "ja_jp": "ジャミル"
+      "ja_jp": "ジャミル",
+      "zh_cn": "贾米尔"
     },
     "aliases": [],
     "score": 2
@@ -6085,7 +6693,8 @@
   {
     "name": {
       "en_us": "Ayer",
-      "ja_jp": "アイル"
+      "ja_jp": "アイル",
+      "zh_cn": "艾鲁"
     },
     "aliases": [],
     "score": 5
@@ -6101,7 +6710,8 @@
   {
     "name": {
       "en_us": "Thelonim",
-      "ja_jp": "セロニム"
+      "ja_jp": "セロニム",
+      "zh_cn": "塞洛尼姆"
     },
     "aliases": [],
     "score": 0
@@ -6139,7 +6749,8 @@
   {
     "name": {
       "en_us": "Aliza",
-      "ja_jp": "アリーザ"
+      "ja_jp": "アリーザ",
+      "zh_cn": "阿丽莎"
     },
     "aliases": [],
     "score": 6
@@ -6147,7 +6758,8 @@
   {
     "name": {
       "en_us": "Stan (Event)",
-      "ja_jp": "スタン"
+      "ja_jp": "スタン",
+      "zh_cn": "斯坦"
     },
     "aliases": [],
     "score": 2
@@ -6163,7 +6775,8 @@
   {
     "name": {
       "en_us": "Balurga",
-      "ja_jp": "バルルガン"
+      "ja_jp": "バルルガン",
+      "zh_cn": "巴鲁鲁干"
     },
     "aliases": [],
     "score": 0
@@ -6171,7 +6784,8 @@
   {
     "name": {
       "en_us": "Black Knight",
-      "ja_jp": "黒騎士"
+      "ja_jp": "黒騎士",
+      "zh_cn": "黑骑士"
     },
     "aliases": [],
     "score": 0
@@ -6179,7 +6793,8 @@
   {
     "name": {
       "en_us": "Korwa",
-      "ja_jp": "コルワ"
+      "ja_jp": "コルワ",
+      "zh_cn": "可露瓦"
     },
     "aliases": [],
     "score": 9
@@ -6187,7 +6802,8 @@
   {
     "name": {
       "en_us": "Sen",
-      "ja_jp": "セン"
+      "ja_jp": "セン",
+      "zh_cn": "千"
     },
     "aliases": [],
     "score": 6
@@ -6219,7 +6835,8 @@
   {
     "name": {
       "en_us": "Zooey (Promo)",
-      "ja_jp": "ゾーイ"
+      "ja_jp": "ゾーイ",
+      "zh_cn": "佐伊"
     },
     "aliases": [],
     "score": 7
@@ -6227,7 +6844,8 @@
   {
     "name": {
       "en_us": "Jeanne d'Arc (Dark)",
-      "ja_jp": "ジャンヌダルク"
+      "ja_jp": "ジャンヌダルク",
+      "zh_cn": "贞德（暗）"
     },
     "aliases": [],
     "score": 24,
@@ -6236,7 +6854,8 @@
   {
     "name": {
       "en_us": "Shao",
-      "ja_jp": "シャオ"
+      "ja_jp": "シャオ",
+      "zh_cn": "箫"
     },
     "aliases": [],
     "score": 0
@@ -6252,7 +6871,8 @@
   {
     "name": {
       "en_us": "Lowain (Event)",
-      "ja_jp": "ローアイン"
+      "ja_jp": "ローアイン",
+      "zh_cn": "罗艾因"
     },
     "aliases": [],
     "score": 0
@@ -6260,7 +6880,8 @@
   {
     "name": {
       "en_us": "Hallessena",
-      "ja_jp": "ハレゼナ"
+      "ja_jp": "ハレゼナ",
+      "zh_cn": "哈雷泽娜"
     },
     "aliases": [],
     "score": 0
@@ -6268,7 +6889,8 @@
   {
     "name": {
       "en_us": "Redluck",
-      "ja_jp": "レッドラック"
+      "ja_jp": "レッドラック",
+      "zh_cn": "雷德拉克"
     },
     "aliases": [],
     "score": 0
@@ -6298,7 +6920,8 @@
   {
     "name": {
       "en_us": "Aoidos",
-      "ja_jp": "アオイドス"
+      "ja_jp": "アオイドス",
+      "zh_cn": "亚欧伊多斯"
     },
     "aliases": [],
     "score": 1
@@ -6306,7 +6929,8 @@
   {
     "name": {
       "en_us": "Zahlhamelina",
-      "ja_jp": "ザルハメリナ"
+      "ja_jp": "ザルハメリナ",
+      "zh_cn": "扎哈梅丽娜"
     },
     "aliases": [],
     "score": 1
@@ -6314,7 +6938,8 @@
   {
     "name": {
       "en_us": "Ryan (SR)",
-      "ja_jp": "ライアン"
+      "ja_jp": "ライアン",
+      "zh_cn": "莱安"
     },
     "aliases": [],
     "score": 1
@@ -6322,7 +6947,8 @@
   {
     "name": {
       "en_us": "Lamretta (R)",
-      "ja_jp": "ラムレッダ"
+      "ja_jp": "ラムレッダ",
+      "zh_cn": "拉姆蕾塔"
     },
     "aliases": [],
     "score": 0
@@ -6330,7 +6956,8 @@
   {
     "name": {
       "en_us": "Eugen (Grand)",
-      "ja_jp": "オイゲン"
+      "ja_jp": "オイゲン",
+      "zh_cn": "欧根（Grand）"
     },
     "aliases": [],
     "score": 5
@@ -6338,7 +6965,8 @@
   {
     "name": {
       "en_us": "Catherine",
-      "ja_jp": "キャサリン"
+      "ja_jp": "キャサリン",
+      "zh_cn": "凯瑟琳"
     },
     "aliases": [],
     "score": 0
@@ -6346,7 +6974,8 @@
   {
     "name": {
       "en_us": "Sevilbarra",
-      "ja_jp": "サビルバラ"
+      "ja_jp": "サビルバラ",
+      "zh_cn": "萨比尔巴拉"
     },
     "aliases": [],
     "score": 0
@@ -6362,7 +6991,8 @@
   {
     "name": {
       "en_us": "Ferry (SSR)",
-      "ja_jp": "フェリ"
+      "ja_jp": "フェリ",
+      "zh_cn": "菲莉"
     },
     "aliases": [],
     "score": 20
@@ -6370,7 +7000,8 @@
   {
     "name": {
       "en_us": "Soriz (Event)",
-      "ja_jp": "ソリッズ"
+      "ja_jp": "ソリッズ",
+      "zh_cn": "索利茲"
     },
     "aliases": [],
     "score": 1
@@ -6378,7 +7009,8 @@
   {
     "name": {
       "en_us": "Daetta (SR)",
-      "ja_jp": "ダエッタ"
+      "ja_jp": "ダエッタ",
+      "zh_cn": "达尔塔"
     },
     "aliases": [],
     "score": 0
@@ -6386,7 +7018,8 @@
   {
     "name": {
       "en_us": "Lunalu",
-      "ja_jp": "ルナール"
+      "ja_jp": "ルナール",
+      "zh_cn": "露娜露"
     },
     "aliases": [],
     "score": 0
@@ -6412,7 +7045,8 @@
   {
     "name": {
       "en_us": "Metera (Fire)",
-      "ja_jp": "メーテラ"
+      "ja_jp": "メーテラ",
+      "zh_cn": "美黛拉（火）"
     },
     "aliases": [],
     "score": 0
@@ -6420,7 +7054,8 @@
   {
     "name": {
       "en_us": "Sutera (Fire)",
-      "ja_jp": "スーテラ"
+      "ja_jp": "スーテラ",
+      "zh_cn": "斯黛拉（火）"
     },
     "aliases": [],
     "score": 2
@@ -6436,7 +7071,8 @@
   {
     "name": {
       "en_us": "Andira",
-      "ja_jp": "アンチラ"
+      "ja_jp": "アンチラ",
+      "zh_cn": "安琪拉"
     },
     "aliases": [],
     "score": 10
@@ -6444,7 +7080,8 @@
   {
     "name": {
       "en_us": "Beatrix",
-      "ja_jp": "ベアトリクス"
+      "ja_jp": "ベアトリクス",
+      "zh_cn": "贝阿朵丽丝"
     },
     "aliases": [],
     "score": 11
@@ -6452,7 +7089,8 @@
   {
     "name": {
       "en_us": "Eustace",
-      "ja_jp": "ユーステス"
+      "ja_jp": "ユーステス",
+      "zh_cn": "尤斯缇斯"
     },
     "aliases": [],
     "score": 1
@@ -6460,7 +7098,8 @@
   {
     "name": {
       "en_us": "Skull (Event)",
-      "ja_jp": "スカル"
+      "ja_jp": "スカル",
+      "zh_cn": "斯卡尔"
     },
     "aliases": [],
     "score": 58,
@@ -6471,7 +7110,8 @@
   {
     "name": {
       "en_us": "Yaia",
-      "ja_jp": "ヤイア"
+      "ja_jp": "ヤイア",
+      "zh_cn": "丫丫"
     },
     "aliases": [],
     "score": 0
@@ -6479,7 +7119,8 @@
   {
     "name": {
       "en_us": "Rosetta (Grand)",
-      "ja_jp": "ロゼッタ"
+      "ja_jp": "ロゼッタ",
+      "zh_cn": "萝赛塔（Grand）"
     },
     "aliases": [],
     "score": 45
@@ -6487,7 +7128,8 @@
   {
     "name": {
       "en_us": "Anila (Event)",
-      "ja_jp": "アニラ"
+      "ja_jp": "アニラ",
+      "zh_cn": "阿妮拉"
     },
     "aliases": [],
     "score": 5
@@ -6495,7 +7137,8 @@
   {
     "name": {
       "en_us": "Clarisse (Holiday)",
-      "ja_jp": "クラリス"
+      "ja_jp": "クラリス",
+      "zh_cn": "克拉莉丝（圣诞）"
     },
     "aliases": [],
     "score": 13
@@ -6503,7 +7146,8 @@
   {
     "name": {
       "en_us": "Ladiva (Holiday)",
-      "ja_jp": "ファスティバ"
+      "ja_jp": "ファスティバ",
+      "zh_cn": "法斯提瓦（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -6511,7 +7155,8 @@
   {
     "name": {
       "en_us": "Lilele",
-      "ja_jp": "リルル"
+      "ja_jp": "リルル",
+      "zh_cn": "莉露露"
     },
     "aliases": [],
     "score": 1
@@ -6519,7 +7164,8 @@
   {
     "name": {
       "en_us": "Vane",
-      "ja_jp": "ヴェイン"
+      "ja_jp": "ヴェイン",
+      "zh_cn": "维恩"
     },
     "aliases": [],
     "score": 5
@@ -6535,7 +7181,8 @@
   {
     "name": {
       "en_us": "Io (Grand)",
-      "ja_jp": "イオ"
+      "ja_jp": "イオ",
+      "zh_cn": "伊欧（Grand）"
     },
     "aliases": [],
     "score": 26
@@ -6543,7 +7190,8 @@
   {
     "name": {
       "en_us": "Lancelot (Event)",
-      "ja_jp": "ランスロット"
+      "ja_jp": "ランスロット",
+      "zh_cn": "兰斯洛特"
     },
     "aliases": [],
     "score": 5
@@ -6551,7 +7199,8 @@
   {
     "name": {
       "en_us": "Yodarha (SSR)",
-      "ja_jp": "ヨダルラーハ"
+      "ja_jp": "ヨダルラーハ",
+      "zh_cn": "尤达拉哈"
     },
     "aliases": [],
     "score": 1
@@ -6559,7 +7208,8 @@
   {
     "name": {
       "en_us": "Sig",
-      "ja_jp": "シグ"
+      "ja_jp": "シグ",
+      "zh_cn": "希格"
     },
     "aliases": [],
     "score": 0
@@ -6567,7 +7217,8 @@
   {
     "name": {
       "en_us": "Camieux (Earth)",
-      "ja_jp": "クムユ"
+      "ja_jp": "クムユ",
+      "zh_cn": "库姆优（土）"
     },
     "aliases": [],
     "score": 0
@@ -6597,7 +7248,8 @@
   {
     "name": {
       "en_us": "Narmaya",
-      "ja_jp": "ナルメア"
+      "ja_jp": "ナルメア",
+      "zh_cn": "娜尔梅亚"
     },
     "aliases": [],
     "score": 49
@@ -6605,7 +7257,8 @@
   {
     "name": {
       "en_us": "Farrah (Event)",
-      "ja_jp": "ファラ"
+      "ja_jp": "ファラ",
+      "zh_cn": "法拉"
     },
     "aliases": [],
     "score": 2
@@ -6613,7 +7266,8 @@
   {
     "name": {
       "en_us": "Jasmine (SR)",
-      "ja_jp": "ジャスミン"
+      "ja_jp": "ジャスミン",
+      "zh_cn": "茉莉"
     },
     "aliases": [],
     "score": 0
@@ -6629,7 +7283,8 @@
   {
     "name": {
       "en_us": "Cagliostro (Halloween)",
-      "ja_jp": "カリオストロ"
+      "ja_jp": "カリオストロ",
+      "zh_cn": "卡莉奥斯特萝（万圣节）"
     },
     "aliases": [],
     "score": 69
@@ -6637,7 +7292,8 @@
   {
     "name": {
       "en_us": "Ferry (Halloween)",
-      "ja_jp": "フェリ"
+      "ja_jp": "フェリ",
+      "zh_cn": "菲莉（万圣节）"
     },
     "aliases": [],
     "score": 20
@@ -6645,7 +7301,8 @@
   {
     "name": {
       "en_us": "Feena",
-      "ja_jp": "フィーナ"
+      "ja_jp": "フィーナ",
+      "zh_cn": "菲娜"
     },
     "aliases": [],
     "score": 0
@@ -6653,7 +7310,8 @@
   {
     "name": {
       "en_us": "Goblin Mage",
-      "ja_jp": "ミニゴブ"
+      "ja_jp": "ミニゴブ",
+      "zh_cn": "迷你哥布"
     },
     "aliases": [],
     "score": 0
@@ -6694,7 +7352,8 @@
   {
     "name": {
       "en_us": "Heles",
-      "ja_jp": "ヘルエス"
+      "ja_jp": "ヘルエス",
+      "zh_cn": "赫尔艾斯"
     },
     "aliases": [],
     "score": 5
@@ -6702,7 +7361,8 @@
   {
     "name": {
       "en_us": "Naoise (Event)",
-      "ja_jp": "ノイシュ"
+      "ja_jp": "ノイシュ",
+      "zh_cn": "诺伊修"
     },
     "aliases": [],
     "score": 1
@@ -6726,7 +7386,8 @@
   {
     "name": {
       "en_us": "Rackam (Grand)",
-      "ja_jp": "ラカム"
+      "ja_jp": "ラカム",
+      "zh_cn": "拉卡姆（Grand）"
     },
     "aliases": [],
     "score": 3
@@ -6734,7 +7395,8 @@
   {
     "name": {
       "en_us": "Arriet",
-      "ja_jp": "アンリエット"
+      "ja_jp": "アンリエット",
+      "zh_cn": "安丽特"
     },
     "aliases": [],
     "score": 0
@@ -6742,7 +7404,8 @@
   {
     "name": {
       "en_us": "Galadar (SR)",
-      "ja_jp": "ガラドア"
+      "ja_jp": "ガラドア",
+      "zh_cn": "加拉德亚"
     },
     "aliases": [],
     "score": 1
@@ -6750,7 +7413,8 @@
   {
     "name": {
       "en_us": "Dante",
-      "ja_jp": "ダーント"
+      "ja_jp": "ダーント",
+      "zh_cn": "旦特"
     },
     "aliases": [],
     "score": 0
@@ -6774,7 +7438,8 @@
   {
     "name": {
       "en_us": "Vania",
-      "ja_jp": "ヴァンピィ"
+      "ja_jp": "ヴァンピィ",
+      "zh_cn": "斑比"
     },
     "aliases": [],
     "score": 17
@@ -6782,7 +7447,8 @@
   {
     "name": {
       "en_us": "Malinda (Event)",
-      "ja_jp": "ベス"
+      "ja_jp": "ベス",
+      "zh_cn": "贝丝"
     },
     "aliases": [],
     "score": 0
@@ -6790,7 +7456,8 @@
   {
     "name": {
       "en_us": "Will (SR)",
-      "ja_jp": "ウィル"
+      "ja_jp": "ウィル",
+      "zh_cn": "威尔"
     },
     "aliases": [],
     "score": 0
@@ -6839,7 +7506,8 @@
   {
     "name": {
       "en_us": "Zeta (Summer)",
-      "ja_jp": "ゼタ"
+      "ja_jp": "ゼタ",
+      "zh_cn": "泽塔（泳装）"
     },
     "aliases": [],
     "score": 29
@@ -6847,7 +7515,8 @@
   {
     "name": {
       "en_us": "Suframare (Summer)",
-      "ja_jp": "スフラマール"
+      "ja_jp": "スフラマール",
+      "zh_cn": "瑟芙拉玛尔（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -6855,7 +7524,8 @@
   {
     "name": {
       "en_us": "Danua (Summer)",
-      "ja_jp": "ダヌア"
+      "ja_jp": "ダヌア",
+      "zh_cn": "妲奴亚（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -6863,7 +7533,8 @@
   {
     "name": {
       "en_us": "Lecia (Summer)",
-      "ja_jp": "リーシャ"
+      "ja_jp": "リーシャ",
+      "zh_cn": "莉夏（泳装）"
     },
     "aliases": [],
     "score": 4
@@ -6871,7 +7542,8 @@
   {
     "name": {
       "en_us": "Katalina (Grand)",
-      "ja_jp": "カタリナ"
+      "ja_jp": "カタリナ",
+      "zh_cn": "卡塔莉娜（Grand）"
     },
     "aliases": [],
     "score": 37
@@ -6879,7 +7551,8 @@
   {
     "name": {
       "en_us": "Vira (Summer)",
-      "ja_jp": "ヴィーラ"
+      "ja_jp": "ヴィーラ",
+      "zh_cn": "维拉（泳装）"
     },
     "aliases": [],
     "score": 30
@@ -6887,7 +7560,8 @@
   {
     "name": {
       "en_us": "Jin (Ronin)",
-      "ja_jp": "ジン"
+      "ja_jp": "ジン",
+      "zh_cn": "仁（Ronin）"
     },
     "aliases": [],
     "score": 1
@@ -6895,7 +7569,8 @@
   {
     "name": {
       "en_us": "Eugen (Summer)",
-      "ja_jp": "オイゲン"
+      "ja_jp": "オイゲン",
+      "zh_cn": "欧根（泳装）"
     },
     "aliases": [],
     "score": 5
@@ -6903,7 +7578,8 @@
   {
     "name": {
       "en_us": "Lowain (Summer)",
-      "ja_jp": "ローアイン"
+      "ja_jp": "ローアイン",
+      "zh_cn": "罗艾因（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -6911,7 +7587,8 @@
   {
     "name": {
       "en_us": "Ghandagoza",
-      "ja_jp": "ガンダゴウザ"
+      "ja_jp": "ガンダゴウザ",
+      "zh_cn": "冈达葛萨"
     },
     "aliases": [],
     "score": 0
@@ -6927,7 +7604,8 @@
   {
     "name": {
       "en_us": "Elmott (Summer)",
-      "ja_jp": "エルモート"
+      "ja_jp": "エルモート",
+      "zh_cn": "艾尔莫特（泳装）"
     },
     "aliases": [],
     "score": 1
@@ -6962,7 +7640,8 @@
   {
     "name": {
       "en_us": "Amira",
-      "ja_jp": "アーミラ"
+      "ja_jp": "アーミラ",
+      "zh_cn": "阿米拉"
     },
     "aliases": [],
     "score": 63,
@@ -6971,7 +7650,8 @@
   {
     "name": {
       "en_us": "Robomi (Event)",
-      "ja_jp": "ロボミ"
+      "ja_jp": "ロボミ",
+      "zh_cn": "萝伯美"
     },
     "aliases": [],
     "score": 0
@@ -6979,7 +7659,8 @@
   {
     "name": {
       "en_us": "Feather (SR)",
-      "ja_jp": "フェザー"
+      "ja_jp": "フェザー",
+      "zh_cn": "菲扎"
     },
     "aliases": [],
     "score": 1
@@ -6995,7 +7676,8 @@
   {
     "name": {
       "en_us": "Percival",
-      "ja_jp": "パーシヴァル"
+      "ja_jp": "パーシヴァル",
+      "zh_cn": "帕西瓦尔"
     },
     "aliases": [],
     "score": 8
@@ -7003,7 +7685,8 @@
   {
     "name": {
       "en_us": "Mary (SR)",
-      "ja_jp": "マリー"
+      "ja_jp": "マリー",
+      "zh_cn": "玛丽"
     },
     "aliases": [],
     "score": 4
@@ -7019,7 +7702,8 @@
   {
     "name": {
       "en_us": "Lecia",
-      "ja_jp": "リーシャ"
+      "ja_jp": "リーシャ",
+      "zh_cn": "莉夏"
     },
     "aliases": [],
     "score": 4
@@ -7027,7 +7711,8 @@
   {
     "name": {
       "en_us": "Silva",
-      "ja_jp": "シルヴァ"
+      "ja_jp": "シルヴァ",
+      "zh_cn": "席尔瓦"
     },
     "aliases": [],
     "score": 4
@@ -7035,7 +7720,8 @@
   {
     "name": {
       "en_us": "Romeo (Event)",
-      "ja_jp": "ロミオ"
+      "ja_jp": "ロミオ",
+      "zh_cn": "罗密欧"
     },
     "aliases": [],
     "score": 0
@@ -7043,7 +7729,8 @@
   {
     "name": {
       "en_us": "Sahli Lao",
-      "ja_jp": "ザーリリャオー"
+      "ja_jp": "ザーリリャオー",
+      "zh_cn": "扎莉莉亚欧"
     },
     "aliases": [],
     "score": 0
@@ -7059,7 +7746,8 @@
   {
     "name": {
       "en_us": "Amira (Promo)",
-      "ja_jp": "アーミラ"
+      "ja_jp": "アーミラ",
+      "zh_cn": "阿米拉"
     },
     "aliases": [],
     "score": 63,
@@ -7068,7 +7756,8 @@
   {
     "name": {
       "en_us": "Sarunan (Dark)",
-      "ja_jp": "サルナーン"
+      "ja_jp": "サルナーン",
+      "zh_cn": "萨鲁南（暗）"
     },
     "aliases": [],
     "score": 1
@@ -7125,7 +7814,8 @@
   {
     "name": {
       "en_us": "Petra (SSR)",
-      "ja_jp": "ペトラ"
+      "ja_jp": "ペトラ",
+      "zh_cn": "佩特拉"
     },
     "aliases": [],
     "score": 0
@@ -7157,7 +7847,8 @@
   {
     "name": {
       "en_us": "Clarisse",
-      "ja_jp": "クラリス"
+      "ja_jp": "クラリス",
+      "zh_cn": "克拉莉丝"
     },
     "aliases": [],
     "score": 13
@@ -7165,7 +7856,8 @@
   {
     "name": {
       "en_us": "Tien",
-      "ja_jp": "エッセル"
+      "ja_jp": "エッセル",
+      "zh_cn": "艾瑟尔"
     },
     "aliases": [],
     "score": 4
@@ -7173,7 +7865,8 @@
   {
     "name": {
       "en_us": "Niyon",
-      "ja_jp": "ニオ"
+      "ja_jp": "ニオ",
+      "zh_cn": "妮欧"
     },
     "aliases": [],
     "score": 0
@@ -7181,7 +7874,8 @@
   {
     "name": {
       "en_us": "Eahta",
-      "ja_jp": "オクトー"
+      "ja_jp": "オクトー",
+      "zh_cn": "奥克托"
     },
     "aliases": [],
     "score": 0
@@ -7189,7 +7883,8 @@
   {
     "name": {
       "en_us": "Seofon",
-      "ja_jp": "シエテ"
+      "ja_jp": "シエテ",
+      "zh_cn": "希耶提"
     },
     "aliases": [],
     "score": 6
@@ -7197,7 +7892,8 @@
   {
     "name": {
       "en_us": "Seox",
-      "ja_jp": "シス"
+      "ja_jp": "シス",
+      "zh_cn": "希斯"
     },
     "aliases": [],
     "score": 2
@@ -7205,7 +7901,8 @@
   {
     "name": {
       "en_us": "Fif",
-      "ja_jp": "フュンフ"
+      "ja_jp": "フュンフ",
+      "zh_cn": "芬芙"
     },
     "aliases": [],
     "score": 1
@@ -7213,7 +7910,8 @@
   {
     "name": {
       "en_us": "Feower",
-      "ja_jp": "カトル"
+      "ja_jp": "カトル",
+      "zh_cn": "卡托尔"
     },
     "aliases": [],
     "score": 2
@@ -7221,7 +7919,8 @@
   {
     "name": {
       "en_us": "Threo",
-      "ja_jp": "サラーサ"
+      "ja_jp": "サラーサ",
+      "zh_cn": "萨拉萨"
     },
     "aliases": [],
     "score": 3
@@ -7229,7 +7928,8 @@
   {
     "name": {
       "en_us": "Tweyen",
-      "ja_jp": "ソーン"
+      "ja_jp": "ソーン",
+      "zh_cn": "索恩"
     },
     "aliases": [],
     "score": 13
@@ -7237,7 +7937,8 @@
   {
     "name": {
       "en_us": "Anre",
-      "ja_jp": "ウーノ"
+      "ja_jp": "ウーノ",
+      "zh_cn": "乌诺"
     },
     "aliases": [],
     "score": 0
@@ -7245,7 +7946,8 @@
   {
     "name": {
       "en_us": "Milleore",
-      "ja_jp": "ミラオル"
+      "ja_jp": "ミラオル",
+      "zh_cn": "米拉奥尔"
     },
     "aliases": [],
     "score": 0
@@ -7261,7 +7963,8 @@
   {
     "name": {
       "en_us": "Albert",
-      "ja_jp": "アルベール"
+      "ja_jp": "アルベール",
+      "zh_cn": "阿尔贝尔"
     },
     "aliases": [],
     "score": 7,
@@ -7270,7 +7973,8 @@
   {
     "name": {
       "en_us": "Sarya (Event)",
-      "ja_jp": "サーヤ"
+      "ja_jp": "サーヤ",
+      "zh_cn": "萨雅"
     },
     "aliases": [],
     "score": 0
@@ -7278,7 +7982,8 @@
   {
     "name": {
       "en_us": "Therese",
-      "ja_jp": "テレーズ"
+      "ja_jp": "テレーズ",
+      "zh_cn": "特蕾兹"
     },
     "aliases": [],
     "score": 2
@@ -7286,7 +7991,8 @@
   {
     "name": {
       "en_us": "Barawa",
-      "ja_jp": "バロワ"
+      "ja_jp": "バロワ",
+      "zh_cn": "巴洛瓦"
     },
     "aliases": [],
     "score": 0
@@ -7294,7 +8000,8 @@
   {
     "name": {
       "en_us": "Societte",
-      "ja_jp": "ソシエ"
+      "ja_jp": "ソシエ",
+      "zh_cn": "苏丝雅"
     },
     "aliases": [],
     "score": 3
@@ -7302,7 +8009,8 @@
   {
     "name": {
       "en_us": "Ejaeli",
-      "ja_jp": "エジェリー"
+      "ja_jp": "エジェリー",
+      "zh_cn": "艾洁丽"
     },
     "aliases": [],
     "score": 0
@@ -7318,7 +8026,8 @@
   {
     "name": {
       "en_us": "Vira (SSR)",
-      "ja_jp": "ヴィーラ"
+      "ja_jp": "ヴィーラ",
+      "zh_cn": "维拉"
     },
     "aliases": [],
     "score": 30
@@ -7342,7 +8051,8 @@
   {
     "name": {
       "en_us": "Camieux",
-      "ja_jp": "クムユ"
+      "ja_jp": "クムユ",
+      "zh_cn": "库姆优"
     },
     "aliases": [],
     "score": 0
@@ -7350,7 +8060,8 @@
   {
     "name": {
       "en_us": "Carmelina",
-      "ja_jp": "カルメリーナ"
+      "ja_jp": "カルメリーナ",
+      "zh_cn": "卡露梅莉娜"
     },
     "aliases": [],
     "score": 0
@@ -7374,7 +8085,8 @@
   {
     "name": {
       "en_us": "Sara",
-      "ja_jp": "サラ"
+      "ja_jp": "サラ",
+      "zh_cn": "莎拉"
     },
     "aliases": [],
     "score": 3
@@ -7382,7 +8094,8 @@
   {
     "name": {
       "en_us": "Siegfried",
-      "ja_jp": "ジークフリート"
+      "ja_jp": "ジークフリート",
+      "zh_cn": "齐格飞"
     },
     "aliases": [],
     "score": 4
@@ -7390,7 +8103,8 @@
   {
     "name": {
       "en_us": "Volenna (Event)",
-      "ja_jp": "ボレミア"
+      "ja_jp": "ボレミア",
+      "zh_cn": "波蕾米亚"
     },
     "aliases": [],
     "score": 2
@@ -7398,7 +8112,8 @@
   {
     "name": {
       "en_us": "Ladiva",
-      "ja_jp": "ファスティバ"
+      "ja_jp": "ファスティバ",
+      "zh_cn": "法斯提瓦"
     },
     "aliases": [],
     "score": 0
@@ -7406,7 +8121,8 @@
   {
     "name": {
       "en_us": "Lowain",
-      "ja_jp": "ローアイン"
+      "ja_jp": "ローアイン",
+      "zh_cn": "罗艾因"
     },
     "aliases": [],
     "score": 0
@@ -7423,7 +8139,8 @@
   {
     "name": {
       "en_us": "Jeanne d'Arc",
-      "ja_jp": "ジャンヌダルク"
+      "ja_jp": "ジャンヌダルク",
+      "zh_cn": "贞德"
     },
     "aliases": [],
     "score": 24,
@@ -7432,7 +8149,8 @@
   {
     "name": {
       "en_us": "Baotorda",
-      "ja_jp": "バウタオーダ"
+      "ja_jp": "バウタオーダ",
+      "zh_cn": "鲍特欧达"
     },
     "aliases": [],
     "score": 0
@@ -7440,7 +8158,8 @@
   {
     "name": {
       "en_us": "Yodarha",
-      "ja_jp": "ヨダルラーハ"
+      "ja_jp": "ヨダルラーハ",
+      "zh_cn": "尤达拉哈"
     },
     "aliases": [],
     "score": 1
@@ -7470,7 +8189,8 @@
   {
     "name": {
       "en_us": "Vaseraga",
-      "ja_jp": "バザラガ"
+      "ja_jp": "バザラガ",
+      "zh_cn": "巴萨拉卡"
     },
     "aliases": [],
     "score": 0
@@ -7478,7 +8198,8 @@
   {
     "name": {
       "en_us": "Zeta",
-      "ja_jp": "ゼタ"
+      "ja_jp": "ゼタ",
+      "zh_cn": "泽塔"
     },
     "aliases": [],
     "score": 29
@@ -7486,7 +8207,8 @@
   {
     "name": {
       "en_us": "Anila",
-      "ja_jp": "アニラ"
+      "ja_jp": "アニラ",
+      "zh_cn": "阿妮拉"
     },
     "aliases": [],
     "score": 5
@@ -7494,7 +8216,8 @@
   {
     "name": {
       "en_us": "Johann (Event)",
-      "ja_jp": "ヨハン"
+      "ja_jp": "ヨハン",
+      "zh_cn": "约翰"
     },
     "aliases": [],
     "score": 1
@@ -7502,7 +8225,8 @@
   {
     "name": {
       "en_us": "Rosamia (SR)",
-      "ja_jp": "ロザミア"
+      "ja_jp": "ロザミア",
+      "zh_cn": "萝莎米娅"
     },
     "aliases": [],
     "score": 3
@@ -7510,7 +8234,8 @@
   {
     "name": {
       "en_us": "Suframare",
-      "ja_jp": "スフラマール"
+      "ja_jp": "スフラマール",
+      "zh_cn": "瑟芙拉玛尔"
     },
     "aliases": [],
     "score": 0
@@ -7518,7 +8243,8 @@
   {
     "name": {
       "en_us": "Rosetta (Holiday)",
-      "ja_jp": "ロゼッタ"
+      "ja_jp": "ロゼッタ",
+      "zh_cn": "萝赛塔（圣诞）"
     },
     "aliases": [],
     "score": 45
@@ -7526,7 +8252,8 @@
   {
     "name": {
       "en_us": "Rackam (Holiday)",
-      "ja_jp": "ラカム"
+      "ja_jp": "ラカム",
+      "zh_cn": "拉卡姆（圣诞）"
     },
     "aliases": [],
     "score": 3
@@ -7534,7 +8261,8 @@
   {
     "name": {
       "en_us": "Walder (Holiday)",
-      "ja_jp": "ウェルダー"
+      "ja_jp": "ウェルダー",
+      "zh_cn": "维尔达（圣诞）"
     },
     "aliases": [],
     "score": 0
@@ -7542,7 +8270,8 @@
   {
     "name": {
       "en_us": "Sophia",
-      "ja_jp": "ソフィア"
+      "ja_jp": "ソフィア",
+      "zh_cn": "索菲娅"
     },
     "aliases": [],
     "score": 3
@@ -7550,7 +8279,8 @@
   {
     "name": {
       "en_us": "Lancelot",
-      "ja_jp": "ランスロット"
+      "ja_jp": "ランスロット",
+      "zh_cn": "兰斯洛特"
     },
     "aliases": [],
     "score": 5
@@ -7558,7 +8288,8 @@
   {
     "name": {
       "en_us": "Vane (Event)",
-      "ja_jp": "ヴェイン"
+      "ja_jp": "ヴェイン",
+      "zh_cn": "维恩"
     },
     "aliases": [],
     "score": 5
@@ -7566,7 +8297,8 @@
   {
     "name": {
       "en_us": "Carren",
-      "ja_jp": "カレン"
+      "ja_jp": "カレン",
+      "zh_cn": "卡莲"
     },
     "aliases": [],
     "score": 0
@@ -7574,7 +8306,8 @@
   {
     "name": {
       "en_us": "Garma",
-      "ja_jp": "ガルマ"
+      "ja_jp": "ガルマ",
+      "zh_cn": "伽鲁玛"
     },
     "aliases": [],
     "score": 0
@@ -7582,7 +8315,8 @@
   {
     "name": {
       "en_us": "Melleau",
-      "ja_jp": "メルゥ"
+      "ja_jp": "メルゥ",
+      "zh_cn": "梅路"
     },
     "aliases": [],
     "score": 0
@@ -7590,7 +8324,8 @@
   {
     "name": {
       "en_us": "Mariah",
-      "ja_jp": "マライア"
+      "ja_jp": "マライア",
+      "zh_cn": "玛丽亚"
     },
     "aliases": [],
     "score": 0
@@ -7598,7 +8333,8 @@
   {
     "name": {
       "en_us": "Noa",
-      "ja_jp": "ノア"
+      "ja_jp": "ノア",
+      "zh_cn": "诺亚"
     },
     "aliases": [],
     "score": 3
@@ -7614,7 +8350,8 @@
   {
     "name": {
       "en_us": "Lennah",
-      "ja_jp": "レナ"
+      "ja_jp": "レナ",
+      "zh_cn": "蕾娜"
     },
     "aliases": [],
     "score": 0
@@ -7630,7 +8367,8 @@
   {
     "name": {
       "en_us": "Mimlemel",
-      "ja_jp": "ミムルメモル"
+      "ja_jp": "ミムルメモル",
+      "zh_cn": "米姆露梅莫璐"
     },
     "aliases": [],
     "score": 0
@@ -7646,7 +8384,8 @@
   {
     "name": {
       "en_us": "Charlotta (Halloween)",
-      "ja_jp": "シャルロッテ"
+      "ja_jp": "シャルロッテ",
+      "zh_cn": "夏洛特（万圣节）"
     },
     "aliases": [],
     "score": 22
@@ -7684,7 +8423,8 @@
   {
     "name": {
       "en_us": "Arulumaya",
-      "ja_jp": "アルルメイヤ"
+      "ja_jp": "アルルメイヤ",
+      "zh_cn": "阿露露梅娅"
     },
     "aliases": [],
     "score": 0
@@ -7692,7 +8432,8 @@
   {
     "name": {
       "en_us": "Juri (Event)",
-      "ja_jp": "ユーリ"
+      "ja_jp": "ユーリ",
+      "zh_cn": "尤利"
     },
     "aliases": [],
     "score": 0
@@ -7700,7 +8441,8 @@
   {
     "name": {
       "en_us": "Farrah (SR)",
-      "ja_jp": "ファラ"
+      "ja_jp": "ファラ",
+      "zh_cn": "法拉"
     },
     "aliases": [],
     "score": 2
@@ -7708,7 +8450,8 @@
   {
     "name": {
       "en_us": "Deliford",
-      "ja_jp": "デリフォード"
+      "ja_jp": "デリフォード",
+      "zh_cn": "德里福德"
     },
     "aliases": [],
     "score": 0
@@ -7716,7 +8459,8 @@
   {
     "name": {
       "en_us": "Christina",
-      "ja_jp": "クリスティーナ"
+      "ja_jp": "クリスティーナ",
+      "zh_cn": "克里斯提娜"
     },
     "aliases": [],
     "score": 0
@@ -7724,7 +8468,8 @@
   {
     "name": {
       "en_us": "Agielba",
-      "ja_jp": "アギエルバ"
+      "ja_jp": "アギエルバ",
+      "zh_cn": "艾奇尔巴"
     },
     "aliases": [],
     "score": 0
@@ -7732,7 +8477,8 @@
   {
     "name": {
       "en_us": "Arusha",
-      "ja_jp": "アルシャ"
+      "ja_jp": "アルシャ",
+      "zh_cn": "阿露夏"
     },
     "aliases": [],
     "score": 0
@@ -7740,7 +8486,8 @@
   {
     "name": {
       "en_us": "Daetta",
-      "ja_jp": "ダエッタ"
+      "ja_jp": "ダエッタ",
+      "zh_cn": "达尔塔"
     },
     "aliases": [],
     "score": 0
@@ -7748,16 +8495,18 @@
   {
     "name": {
       "en_us": "Cerberus",
-      "ja_jp": "ケルベロス"
+      "ja_jp": "ケルベロス",
+      "zh_cn": "刻耳柏洛斯"
     },
     "aliases": [],
-    "score": 86,
+    "score": 21,
     "collab": true
   },
   {
     "name": {
       "en_us": "Feena (Event)",
-      "ja_jp": "フィーナ"
+      "ja_jp": "フィーナ",
+      "zh_cn": "菲娜"
     },
     "aliases": [],
     "score": 0
@@ -7765,7 +8514,8 @@
   {
     "name": {
       "en_us": "Teena",
-      "ja_jp": "ティナ"
+      "ja_jp": "ティナ",
+      "zh_cn": "缇娜"
     },
     "aliases": [],
     "score": 0
@@ -7773,7 +8523,8 @@
   {
     "name": {
       "en_us": "Lucius",
-      "ja_jp": "ルシウス"
+      "ja_jp": "ルシウス",
+      "zh_cn": "卢修斯"
     },
     "aliases": [],
     "score": 2
@@ -7789,7 +8540,8 @@
   {
     "name": {
       "en_us": "Io (Summer)",
-      "ja_jp": "イオ"
+      "ja_jp": "イオ",
+      "zh_cn": "伊欧（泳装）"
     },
     "aliases": [],
     "score": 26
@@ -7797,7 +8549,8 @@
   {
     "name": {
       "en_us": "Ferry",
-      "ja_jp": "フェリ"
+      "ja_jp": "フェリ",
+      "zh_cn": "菲莉"
     },
     "aliases": [],
     "score": 20
@@ -7813,7 +8566,8 @@
   {
     "name": {
       "en_us": "Mary (Summer)",
-      "ja_jp": "マリー"
+      "ja_jp": "マリー",
+      "zh_cn": "玛丽（泳装）"
     },
     "aliases": [],
     "score": 4
@@ -7821,7 +8575,8 @@
   {
     "name": {
       "en_us": "De La Fille (Summer)",
-      "ja_jp": "レ・フィーエ"
+      "ja_jp": "レ・フィーエ",
+      "zh_cn": "蕾・芬耶（泳装）"
     },
     "aliases": [],
     "score": 4
@@ -7829,7 +8584,8 @@
   {
     "name": {
       "en_us": "Jessica (Summer)",
-      "ja_jp": "ジェシカ"
+      "ja_jp": "ジェシカ",
+      "zh_cn": "杰西卡（泳装）"
     },
     "aliases": [],
     "score": 6
@@ -7837,7 +8593,8 @@
   {
     "name": {
       "en_us": "Katalina (Summer)",
-      "ja_jp": "カタリナ"
+      "ja_jp": "カタリナ",
+      "zh_cn": "卡塔莉娜（泳装）"
     },
     "aliases": [],
     "score": 37
@@ -7845,7 +8602,8 @@
   {
     "name": {
       "en_us": "Sig (Event)",
-      "ja_jp": "シグ"
+      "ja_jp": "シグ",
+      "zh_cn": "希格"
     },
     "aliases": [],
     "score": 0
@@ -7853,7 +8611,8 @@
   {
     "name": {
       "en_us": "Walder (Summer)",
-      "ja_jp": "ウェルダー"
+      "ja_jp": "ウェルダー",
+      "zh_cn": "维尔达（泳装）"
     },
     "aliases": [],
     "score": 0
@@ -7861,7 +8620,8 @@
   {
     "name": {
       "en_us": "Seruel",
-      "ja_jp": "セルエル"
+      "ja_jp": "セルエル",
+      "zh_cn": "塞鲁艾尔"
     },
     "aliases": [],
     "score": 2
@@ -7885,7 +8645,8 @@
   {
     "name": {
       "en_us": "Metera",
-      "ja_jp": "メーテラ"
+      "ja_jp": "メーテラ",
+      "zh_cn": "美黛拉"
     },
     "aliases": [],
     "score": 0
@@ -7893,7 +8654,8 @@
   {
     "name": {
       "en_us": "Selfira (Event)",
-      "ja_jp": "セレフィラ"
+      "ja_jp": "セレフィラ",
+      "zh_cn": "塞尔菲拉"
     },
     "aliases": [],
     "score": 0
@@ -7901,7 +8663,8 @@
   {
     "name": {
       "en_us": "Elta",
-      "ja_jp": "エルタ"
+      "ja_jp": "エルタ",
+      "zh_cn": "艾尔塔"
     },
     "aliases": [],
     "score": 1
@@ -7917,7 +8680,8 @@
   {
     "name": {
       "en_us": "Magisa",
-      "ja_jp": "マギサ"
+      "ja_jp": "マギサ",
+      "zh_cn": "玛姬莎"
     },
     "aliases": [],
     "score": 0
@@ -7925,7 +8689,8 @@
   {
     "name": {
       "en_us": "Vira",
-      "ja_jp": "ヴィーラ"
+      "ja_jp": "ヴィーラ",
+      "zh_cn": "维拉"
     },
     "aliases": [],
     "score": 30
@@ -7933,7 +8698,8 @@
   {
     "name": {
       "en_us": "Feather",
-      "ja_jp": "フェザー"
+      "ja_jp": "フェザー",
+      "zh_cn": "菲扎"
     },
     "aliases": [],
     "score": 1
@@ -7941,7 +8707,8 @@
   {
     "name": {
       "en_us": "Charlotta",
-      "ja_jp": "シャルロッテ"
+      "ja_jp": "シャルロッテ",
+      "zh_cn": "夏洛特"
     },
     "aliases": [],
     "score": 22
@@ -7949,7 +8716,8 @@
   {
     "name": {
       "en_us": "Petra",
-      "ja_jp": "ペトラ"
+      "ja_jp": "ペトラ",
+      "zh_cn": "佩特拉"
     },
     "aliases": [],
     "score": 0
@@ -7957,7 +8725,8 @@
   {
     "name": {
       "en_us": "Jin (Event)",
-      "ja_jp": "ジン"
+      "ja_jp": "ジン",
+      "zh_cn": "仁"
     },
     "aliases": [],
     "score": 1
@@ -7965,7 +8734,8 @@
   {
     "name": {
       "en_us": "Cagliostro",
-      "ja_jp": "カリオストロ"
+      "ja_jp": "カリオストロ",
+      "zh_cn": "卡莉奥斯特萝"
     },
     "aliases": [],
     "score": 69
@@ -7973,7 +8743,8 @@
   {
     "name": {
       "en_us": "Sara (Event)",
-      "ja_jp": "サラ"
+      "ja_jp": "サラ",
+      "zh_cn": "莎拉"
     },
     "aliases": [],
     "score": 3
@@ -7981,7 +8752,8 @@
   {
     "name": {
       "en_us": "Soriz",
-      "ja_jp": "ソリッズ"
+      "ja_jp": "ソリッズ",
+      "zh_cn": "索利茲"
     },
     "aliases": [],
     "score": 1
@@ -7989,7 +8761,8 @@
   {
     "name": {
       "en_us": "Volenna",
-      "ja_jp": "ボレミア"
+      "ja_jp": "ボレミア",
+      "zh_cn": "波蕾米亚"
     },
     "aliases": [],
     "score": 2
@@ -7997,7 +8770,8 @@
   {
     "name": {
       "en_us": "Sarunan",
-      "ja_jp": "サルナーン"
+      "ja_jp": "サルナーン",
+      "zh_cn": "萨鲁南"
     },
     "aliases": [],
     "score": 1
@@ -8005,7 +8779,8 @@
   {
     "name": {
       "en_us": "Sutera",
-      "ja_jp": "スーテラ"
+      "ja_jp": "スーテラ",
+      "zh_cn": "斯黛拉"
     },
     "aliases": [],
     "score": 2
@@ -8013,7 +8788,8 @@
   {
     "name": {
       "en_us": "Ryan",
-      "ja_jp": "ライアン"
+      "ja_jp": "ライアン",
+      "zh_cn": "莱安"
     },
     "aliases": [],
     "score": 1
@@ -8021,7 +8797,8 @@
   {
     "name": {
       "en_us": "Altair",
-      "ja_jp": "アルタイル"
+      "ja_jp": "アルタイル",
+      "zh_cn": "阿尔泰尔"
     },
     "aliases": [],
     "score": 1
@@ -8029,7 +8806,8 @@
   {
     "name": {
       "en_us": "Danua",
-      "ja_jp": "ダヌア"
+      "ja_jp": "ダヌア",
+      "zh_cn": "妲奴亚"
     },
     "aliases": [],
     "score": 0
@@ -8037,7 +8815,8 @@
   {
     "name": {
       "en_us": "Jessica (Event)",
-      "ja_jp": "ジェシカ"
+      "ja_jp": "ジェシカ",
+      "zh_cn": "杰西卡"
     },
     "aliases": [],
     "score": 6
@@ -8045,7 +8824,8 @@
   {
     "name": {
       "en_us": "Galadar",
-      "ja_jp": "ガラドア"
+      "ja_jp": "ガラドア",
+      "zh_cn": "加拉德亚"
     },
     "aliases": [],
     "score": 1
@@ -8053,7 +8833,8 @@
   {
     "name": {
       "en_us": "Yuel",
-      "ja_jp": "ユエル"
+      "ja_jp": "ユエル",
+      "zh_cn": "尤艾尔"
     },
     "aliases": [],
     "score": 7
@@ -8061,7 +8842,8 @@
   {
     "name": {
       "en_us": "Aliza (Event)",
-      "ja_jp": "アリーザ"
+      "ja_jp": "アリーザ",
+      "zh_cn": "阿丽莎"
     },
     "aliases": [],
     "score": 6
@@ -8077,7 +8859,8 @@
   {
     "name": {
       "en_us": "Stan",
-      "ja_jp": "スタン"
+      "ja_jp": "スタン",
+      "zh_cn": "斯坦"
     },
     "aliases": [],
     "score": 2
@@ -8085,7 +8868,8 @@
   {
     "name": {
       "en_us": "Gawain",
-      "ja_jp": "ガウェイン"
+      "ja_jp": "ガウェイン",
+      "zh_cn": "高文"
     },
     "aliases": [],
     "score": 0
@@ -8093,7 +8877,8 @@
   {
     "name": {
       "en_us": "Lamretta",
-      "ja_jp": "ラムレッダ"
+      "ja_jp": "ラムレッダ",
+      "zh_cn": "拉姆蕾塔"
     },
     "aliases": [],
     "score": 0
@@ -8101,7 +8886,8 @@
   {
     "name": {
       "en_us": "Will",
-      "ja_jp": "ウィル"
+      "ja_jp": "ウィル",
+      "zh_cn": "威尔"
     },
     "aliases": [],
     "score": 0
@@ -8109,7 +8895,8 @@
   {
     "name": {
       "en_us": "Aletheia",
-      "ja_jp": "アレーティア"
+      "ja_jp": "アレーティア",
+      "zh_cn": "阿雷提亚"
     },
     "aliases": [],
     "score": 1
@@ -8133,7 +8920,8 @@
   {
     "name": {
       "en_us": "Lily",
-      "ja_jp": "リリィ"
+      "ja_jp": "リリィ",
+      "zh_cn": "莉莉"
     },
     "aliases": [],
     "score": 5
@@ -8149,7 +8937,8 @@
   {
     "name": {
       "en_us": "Therese (Event)",
-      "ja_jp": "テレーズ"
+      "ja_jp": "テレーズ",
+      "zh_cn": "特蕾兹"
     },
     "aliases": [],
     "score": 2
@@ -8157,7 +8946,8 @@
   {
     "name": {
       "en_us": "Richard",
-      "ja_jp": "リチャード"
+      "ja_jp": "リチャード",
+      "zh_cn": "理查德"
     },
     "aliases": [],
     "score": 1
@@ -8165,7 +8955,8 @@
   {
     "name": {
       "en_us": "Rosetta",
-      "ja_jp": "ロゼッタ"
+      "ja_jp": "ロゼッタ",
+      "zh_cn": "萝赛塔"
     },
     "aliases": [],
     "score": 45
@@ -8181,7 +8972,8 @@
   {
     "name": {
       "en_us": "Naoise (Promo)",
-      "ja_jp": "ノイシュ"
+      "ja_jp": "ノイシュ",
+      "zh_cn": "诺伊修"
     },
     "aliases": [],
     "score": 1
@@ -8189,7 +8981,8 @@
   {
     "name": {
       "en_us": "Lady Grey",
-      "ja_jp": "レディ・グレイ"
+      "ja_jp": "レディ・グレイ",
+      "zh_cn": "灰夫人"
     },
     "aliases": [],
     "score": 2
@@ -8197,7 +8990,8 @@
   {
     "name": {
       "en_us": "De La Fille",
-      "ja_jp": "レ・フィーエ"
+      "ja_jp": "レ・フィーエ",
+      "zh_cn": "蕾・芬耶"
     },
     "aliases": [],
     "score": 4
@@ -8205,7 +8999,8 @@
   {
     "name": {
       "en_us": "Nezahualpilli",
-      "ja_jp": "ネツァワルピリ"
+      "ja_jp": "ネツァワルピリ",
+      "zh_cn": "聂查瓦尔皮利"
     },
     "aliases": [],
     "score": 1
@@ -8213,7 +9008,8 @@
   {
     "name": {
       "en_us": "Keehar",
-      "ja_jp": "キハール"
+      "ja_jp": "キハール",
+      "zh_cn": "齐哈尔"
     },
     "aliases": [],
     "score": 0
@@ -8221,7 +9017,8 @@
   {
     "name": {
       "en_us": "Elmott",
-      "ja_jp": "エルモート"
+      "ja_jp": "エルモート",
+      "zh_cn": "艾尔莫特"
     },
     "aliases": [],
     "score": 1
@@ -8237,7 +9034,8 @@
   {
     "name": {
       "en_us": "Rackam",
-      "ja_jp": "ラカム"
+      "ja_jp": "ラカム",
+      "zh_cn": "拉卡姆"
     },
     "aliases": [],
     "score": 3
@@ -8245,7 +9043,8 @@
   {
     "name": {
       "en_us": "Eugen",
-      "ja_jp": "オイゲン"
+      "ja_jp": "オイゲン",
+      "zh_cn": "欧根"
     },
     "aliases": [],
     "score": 5
@@ -8253,7 +9052,8 @@
   {
     "name": {
       "en_us": "Io",
-      "ja_jp": "イオ"
+      "ja_jp": "イオ",
+      "zh_cn": "伊欧"
     },
     "aliases": [],
     "score": 26
@@ -8261,7 +9061,8 @@
   {
     "name": {
       "en_us": "Katalina",
-      "ja_jp": "カタリナ"
+      "ja_jp": "カタリナ",
+      "zh_cn": "卡塔莉娜"
     },
     "aliases": [],
     "score": 37
@@ -8277,7 +9078,8 @@
   {
     "name": {
       "en_us": "Alec",
-      "ja_jp": "アレク"
+      "ja_jp": "アレク",
+      "zh_cn": "亚历克"
     },
     "aliases": [],
     "score": 0
@@ -8285,7 +9087,8 @@
   {
     "name": {
       "en_us": "Rosamia",
-      "ja_jp": "ロザミア"
+      "ja_jp": "ロザミア",
+      "zh_cn": "萝莎米娅"
     },
     "aliases": [],
     "score": 3
@@ -8301,7 +9104,8 @@
   {
     "name": {
       "en_us": "Mary",
-      "ja_jp": "マリー"
+      "ja_jp": "マリー",
+      "zh_cn": "玛丽"
     },
     "aliases": [],
     "score": 4
@@ -8309,7 +9113,8 @@
   {
     "name": {
       "en_us": "Walder",
-      "ja_jp": "ウェルダー"
+      "ja_jp": "ウェルダー",
+      "zh_cn": "维尔达"
     },
     "aliases": [],
     "score": 0
@@ -8317,7 +9122,8 @@
   {
     "name": {
       "en_us": "Jasmine",
-      "ja_jp": "ジャスミン"
+      "ja_jp": "ジャスミン",
+      "zh_cn": "茉莉"
     },
     "aliases": [],
     "score": 0
@@ -8341,7 +9147,8 @@
   {
     "name": {
       "en_us": "Farrah",
-      "ja_jp": "ファラ"
+      "ja_jp": "ファラ",
+      "zh_cn": "法拉"
     },
     "aliases": [],
     "score": 2

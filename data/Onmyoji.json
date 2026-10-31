@@ -1,6 +1,15 @@
 [
   {
     "name": {
+      "en_us": "Kagoyume Magatsugami",
+      "ja_jp": "籠夢禍津神",
+      "zh_cn": "笼梦祸津神"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
       "en_us": "Sakuya",
       "ja_jp": "?",
       "zh_cn": "咲耶"
