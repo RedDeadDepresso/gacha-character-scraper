@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Merge data/*.json into a single gacha_character_index.json (KKAFIO index format).
+"""Merge data/*.json into a single indices/gacha.json (KKAFIO index format).
 
 For every game of config/series.json (most popular first) the characters of
 data/<game>.json are read (newest first), alter versions are folded into their base
@@ -14,7 +14,7 @@ The same character (same English name) in several games becomes one entry in sev
 series. Names and series titles that have a Simplified Chinese name (`zh_cn`) but no
 Traditional one (`zh_tw`) get one through OpenCC (pip install OpenCC).
 
-  python scripts/merge.py [--out dist/gacha_character_index.json]
+  python scripts/merge.py [--out dist/indices/gacha.json]
 """
 
 from __future__ import annotations
@@ -218,7 +218,7 @@ def make_s2t() -> Callable[[str], str]:
 def main() -> None:
     root = Path(__file__).resolve().parent.parent
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
-    ap.add_argument("--out", default="dist/gacha_character_index.json", type=Path, help="output path")
+    ap.add_argument("--out", default="dist/indices/gacha.json", type=Path, help="output path")
     ap.add_argument("--config", default=root / "config" / "series.json", type=Path)
     ap.add_argument("--data-dir", default=root / "data", type=Path)
     args = ap.parse_args()

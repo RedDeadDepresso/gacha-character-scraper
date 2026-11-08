@@ -38,8 +38,8 @@ jobs:
       - name: Install dependencies (OpenCC)
         run: pip install -r requirements.txt
 
-      - name: Merge data into gacha_character_index.json
-        run: python scripts/merge.py --out dist/gacha_character_index.json
+      - name: Merge data into indices/gacha.json
+        run: python scripts/merge.py --out dist/indices/gacha.json
 
       # Unique name per attempt so "Re-run jobs" doesn't leave two artifacts
       # called github-pages in the same run (deploy-pages fails on that).
