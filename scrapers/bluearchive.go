@@ -9,8 +9,6 @@ import (
 )
 
 const (
-	schaleRepo    = "nico0748/SchaleDB"
-	schaleBranch  = "main"
 	schaleDataURL = "https://raw.githubusercontent.com/nico0748/SchaleDB/refs/heads/main/data/%s/students.min.json"
 )
 
@@ -40,15 +38,15 @@ func (s schaleStudent) released() bool {
 	return false
 }
 
-// Scrape skips everything when the SchaleDB commit hasn't changed since the
-// last run (cached in config/commits.json). Otherwise it rebuilds the list.
+// Scrape skips everything when the SchaleDB source files' ETags haven't changed since the
+// last run (cached in config/etags.json). Otherwise it rebuilds the list.
 func (b BlueArchive) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(schaleRepo, schaleBranch)
+	tag, err := SourceTag(urlsFor(schaleDataURL, schaleLangs...)...)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(b.Name(), sha, existing) {
-		log.Printf("[Blue Archive] SchaleDB unchanged (%s), skipping", sha[:7])
+	if upToDate(b.Name(), tag, existing) {
+		log.Printf("[Blue Archive] SchaleDB unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -98,10 +96,10 @@ func (b BlueArchive) Scrape(existing []Character) ([]Character, error) {
 		chars = append(chars, b.Character())
 	}
 
-	if err := SaveCommit(b.Name(), sha); err != nil {
+	if err := SaveTag(b.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Blue Archive] %d characters (commit %s)", len(chars), sha[:7])
+	log.Printf("[Blue Archive] %d characters (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }
 

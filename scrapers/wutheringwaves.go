@@ -9,10 +9,11 @@ import (
 )
 
 const (
-	wuwaRepo = "trungtq2311/wuwa-companion"
-	// "HEAD" resolves to the repo's default branch in the GitHub commits API.
-	wuwaRef = "HEAD"
-	wuwaURL = "https://api-v2.encore.moe/api/%s/character"
+	// wuwa-companion's resonators.json is only used as a change detector: its
+	// ETag changes when new resonators are added, and the API below is dynamic
+	// (no reliable ETag).
+	wuwaTrackURL = "https://raw.githubusercontent.com/trungtq2311/wuwa-companion/refs/heads/master/src/data/wuwa/resonators.json"
+	wuwaURL      = "https://api-v2.encore.moe/api/%s/character"
 )
 
 // Languages for the encore.moe API (converted with LangCode).
@@ -30,16 +31,16 @@ type wuwaResponse struct {
 	} `json:"roleList"`
 }
 
-// Scrape skips everything when the wuwa-companion commit hasn't changed since
-// the last run (cached in config/commits.json). Otherwise it rebuilds the list,
+// Scrape skips everything when the ETag of wuwa-companion's resonators.json
+// hasn't changed since the last run (cached in config/etags.json). Otherwise it rebuilds the list,
 // newest-first (lower Id = older).
 func (w WutheringWaves) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(wuwaRepo, wuwaRef)
+	tag, err := SourceTag(wuwaTrackURL)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(w.Name(), sha, existing) {
-		log.Printf("[Wuthering Waves] wuwa-companion unchanged (%s), skipping", sha[:7])
+	if upToDate(w.Name(), tag, existing) {
+		log.Printf("[Wuthering Waves] wuwa-companion unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -106,10 +107,10 @@ func (w WutheringWaves) Scrape(existing []Character) ([]Character, error) {
 		return nil, fmt.Errorf("wuthering waves: no characters found")
 	}
 
-	if err := SaveCommit(w.Name(), sha); err != nil {
+	if err := SaveTag(w.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Wuthering Waves] %d characters (commit %s)", len(chars), sha[:7])
+	log.Printf("[Wuthering Waves] %d characters (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }
 

@@ -12,8 +12,6 @@ import (
 )
 
 const (
-	nteRepo      = "Waifus-Grace/NTE_Assets"
-	nteBranch    = "main"
 	nteGameURL   = "https://raw.githubusercontent.com/Waifus-Grace/NTE_Assets/refs/heads/main/Localization/%s/game.json"
 	ntePlayerURL = "https://raw.githubusercontent.com/Waifus-Grace/NTE_Assets/refs/heads/main/Text/ST_Player.json"
 )
@@ -31,16 +29,16 @@ type NevernessToEverness struct{}
 
 func (NevernessToEverness) Name() string { return "Neverness to Everness" }
 
-// Scrape skips everything when the NTE_Assets commit hasn't changed since the
-// last run (cached in config/commits.json). Otherwise it rebuilds the list,
+// Scrape skips everything when the NTE_Assets source files' ETags haven't changed since the
+// last run (cached in config/etags.json). Otherwise it rebuilds the list,
 // newest-first (a lower Role_Name number is treated as older).
 func (n NevernessToEverness) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(nteRepo, nteBranch)
+	tag, err := SourceTag(append(urlsFor(nteGameURL, append([]string{"en"}, nteLangs...)...), ntePlayerURL)...)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(n.Name(), sha, existing) {
-		log.Printf("[Neverness to Everness] NTE_Assets unchanged (%s), skipping", sha[:7])
+	if upToDate(n.Name(), tag, existing) {
+		log.Printf("[Neverness to Everness] NTE_Assets unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -108,10 +106,10 @@ func (n NevernessToEverness) Scrape(existing []Character) ([]Character, error) {
 		chars = append(chars, b.Character())
 	}
 
-	if err := SaveCommit(n.Name(), sha); err != nil {
+	if err := SaveTag(n.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Neverness to Everness] %d characters (commit %s)", len(chars), sha[:7])
+	log.Printf("[Neverness to Everness] %d characters (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }
 

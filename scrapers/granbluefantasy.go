@@ -12,9 +12,7 @@ import (
 )
 
 const (
-	gbfRepo   = "MizaGBF/GBFAL"
-	gbfBranch = "main"
-	gbfURL    = "https://raw.githubusercontent.com/MizaGBF/GBFAL/main/json/data.json"
+	gbfURL = "https://raw.githubusercontent.com/MizaGBF/GBFAL/main/json/data.json"
 )
 
 var (
@@ -84,29 +82,33 @@ func parseGBFLookup(s string) gbfLookup {
 	return l
 }
 
-// Scrape skips everything when the GBFAL commit hasn't changed since the last
-// run (cached in config/commits.json). Every playable character id (the
+// Scrape skips everything when the ETags of GBFAL's data.json and of the
+// BLHXFY name tables haven't changed since the last run (cached in
+// config/etags.json). Every playable character id (the
 // "characters" object) is one entry, named after its wiki page with
 // underscores turned into spaces, e.g. "Jeanne d'Arc (Summer)". The Japanese
 // name comes from the lookup string. Entries without a wiki page (trial and cut content) are
 // skipped. The list is newest-first by release date, then by id.
 func (g GranblueFantasy) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(gbfRepo, gbfBranch)
+	gbfTag, err := SourceTag(gbfURL)
 	if err != nil {
 		return nil, err
 	}
 	// The Chinese names come from the BLHXFY name tables. The cached key is
-	// "<GBFAL sha>+<BLHXFY sha>", so a change in either repo triggers a rebuild.
-	// When BLHXFY cannot be reached the key is just the GBFAL sha: the list is
-	// built without Chinese names and rebuilt on the next run that can reach it.
-	blhxfySHA, err := LatestCommit(blhxfyRepo, blhxfyRef)
+	// "<GBFAL tag>+<BLHXFY tag>", so a change in either source triggers a
+	// rebuild. A table path that does not exist (the CSVs have moved between
+	// data/ and data/etc/) has a stable tag of its own, so only the files that
+	// exist matter. When BLHXFY cannot be reached the key is just the GBFAL tag:
+	// the list is built without Chinese names and rebuilt on the next run that
+	// can reach it.
+	blhxfyTag, err := SourceTag(blhxfyURLs()...)
 	if err != nil {
 		log.Printf("[Granblue Fantasy] warning: BLHXFY: %v (no Chinese names)", err)
-		blhxfySHA = ""
+		blhxfyTag = ""
 	}
-	key := sha
-	if blhxfySHA != "" {
-		key = sha + "+" + blhxfySHA
+	key := gbfTag
+	if blhxfyTag != "" {
+		key = gbfTag + "+" + blhxfyTag
 	}
 	if upToDate(g.Name(), key, existing) {
 		log.Printf("[Granblue Fantasy] GBFAL and BLHXFY unchanged (%s), skipping", key[:7])
@@ -114,10 +116,10 @@ func (g GranblueFantasy) Scrape(existing []Character) ([]Character, error) {
 	}
 
 	var zh *gbfNames
-	if blhxfySHA != "" {
-		if zh, err = fetchGBFNames(blhxfySHA); err != nil {
+	if blhxfyTag != "" {
+		if zh, err = fetchGBFNames(blhxfyRef); err != nil {
 			log.Printf("[Granblue Fantasy] warning: BLHXFY name tables: %v (no Chinese names)", err)
-			zh, key = nil, sha
+			zh, key = nil, gbfTag
 		}
 	}
 
@@ -186,13 +188,13 @@ func (g GranblueFantasy) Scrape(existing []Character) ([]Character, error) {
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("granblue fantasy: no characters found")
 	}
-	if err := SaveCommit(g.Name(), key); err != nil {
+	if err := SaveTag(g.Name(), key); err != nil {
 		return nil, err
 	}
 	if zh != nil {
-		log.Printf("[Granblue Fantasy] %d characters, %d with a Chinese name (commit %s)", len(chars), translated, key[:7])
+		log.Printf("[Granblue Fantasy] %d characters, %d with a Chinese name (etag %s)", len(chars), translated, key[:7])
 	} else {
-		log.Printf("[Granblue Fantasy] %d characters (commit %s)", len(chars), key[:7])
+		log.Printf("[Granblue Fantasy] %d characters (etag %s)", len(chars), key[:7])
 	}
 	return chars, nil
 }
@@ -315,12 +317,21 @@ func newGBFNames(jp, en map[string]string) *gbfNames {
 	return n
 }
 
-// fetchGBFNames downloads both tables from the BLHXFY commit sha.
-func fetchGBFNames(sha string) (*gbfNames, error) {
+// blhxfyURLs lists every place the two name tables may live, for their ETags.
+func blhxfyURLs() []string {
+	var urls []string
+	for _, p := range append(append([]string{}, blhxfyJPPaths...), blhxfyENPaths...) {
+		urls = append(urls, fmt.Sprintf(blhxfyRaw, blhxfyRef, p))
+	}
+	return urls
+}
+
+// fetchGBFNames downloads both tables from the BLHXFY ref (a branch, tag or commit).
+func fetchGBFNames(ref string) (*gbfNames, error) {
 	fetch := func(paths []string) (map[string]string, error) {
 		var lastErr error
 		for _, p := range paths {
-			body, err := get(fmt.Sprintf(blhxfyRaw, sha, p))
+			body, err := get(fmt.Sprintf(blhxfyRaw, ref, p))
 			if err != nil {
 				lastErr = err
 				continue

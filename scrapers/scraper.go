@@ -3,6 +3,8 @@ package scrapers
 
 import (
 	"bytes"
+	"crypto/sha256"
+	"encoding/hex"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -10,6 +12,7 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"strings"
 	"time"
 )
 
@@ -65,11 +68,16 @@ func (c *Character) UnmarshalJSON(b []byte) error {
 }
 
 // upToDate reports whether a scraper can return the saved characters as they
-// are: a list exists, the source commit has not changed since the last run, and
-// the list is not in the old single-language format (which must be rebuilt to
-// pick up the other languages).
-func upToDate(game, sha string, existing []Character) bool {
-	if len(existing) == 0 || sha != LoadCommit(game) {
+// are: a list exists, the source tag (see SourceTag) has not changed since the
+// last run, and the list is not in the old single-language format (which must
+// be rebuilt to pick up the other languages).
+func upToDate(game, tag string, existing []Character) bool {
+	return tag != "" && tag == LoadTag(game) && reusable(existing)
+}
+
+// reusable reports whether saved characters can be kept as they are.
+func reusable(existing []Character) bool {
+	if len(existing) == 0 {
 		return false
 	}
 	for _, c := range existing {
@@ -160,7 +168,7 @@ func get(url string) (io.ReadCloser, error) {
 	return resp.Body, nil
 }
 
-// ConfigDir holds series.json and the commit cache.
+// ConfigDir holds series.json and the ETag cache.
 const ConfigDir = "config"
 
 // Series is one entry of config/series.json. The file is an ordered list, most
@@ -193,11 +201,11 @@ func LoadSeries() ([]Series, error) {
 	return list, nil
 }
 
-const commitsFile = "commits.json"
+const etagsFile = "etags.json"
 
-// LoadCommit returns the last scraped commit SHA for a game ("" if none).
-func LoadCommit(name string) string {
-	b, err := os.ReadFile(filepath.Join(ConfigDir, commitsFile))
+// LoadTag returns the last saved source tag (see SourceTag) of a game ("" if none).
+func LoadTag(name string) string {
+	b, err := os.ReadFile(filepath.Join(ConfigDir, etagsFile))
 	if err != nil {
 		return ""
 	}
@@ -208,14 +216,14 @@ func LoadCommit(name string) string {
 	return m[name]
 }
 
-// SaveCommit stores the commit SHA for a game in config/commits.json.
-func SaveCommit(name, sha string) error {
-	path := filepath.Join(ConfigDir, commitsFile)
+// SaveTag stores the source tag of a game in config/etags.json.
+func SaveTag(name, tag string) error {
+	path := filepath.Join(ConfigDir, etagsFile)
 	m := map[string]string{}
 	if b, err := os.ReadFile(path); err == nil {
 		_ = json.Unmarshal(b, &m)
 	}
-	m[name] = sha
+	m[name] = tag
 	if err := os.MkdirAll(ConfigDir, 0o755); err != nil {
 		return err
 	}
@@ -226,35 +234,57 @@ func SaveCommit(name, sha string) error {
 	return os.WriteFile(path, b, 0o644)
 }
 
-// LatestCommit returns the SHA of the newest commit on a GitHub branch.
-// Set GITHUB_TOKEN to raise the API rate limit (optional).
-func LatestCommit(repo, branch string) (string, error) {
-	req, err := http.NewRequest(http.MethodGet,
-		fmt.Sprintf("https://api.github.com/repos/%s/commits/%s", repo, branch), nil)
+// urlsFor fills a URL format with each key (a language or server code).
+func urlsFor(format string, keys ...string) []string {
+	urls := make([]string, len(keys))
+	for i, k := range keys {
+		urls[i] = fmt.Sprintf(format, k)
+	}
+	return urls
+}
+
+// etagMissing is the tag of a URL that answers 404, so that a file appearing
+// later (a new language) still changes the combined tag.
+const etagMissing = "404"
+
+// etagOf returns the ETag of a URL from a HEAD request, without the weak
+// prefix (a CDN may weaken it depending on the content encoding).
+func etagOf(url string) (string, error) {
+	req, err := http.NewRequest(http.MethodHead, url, nil)
 	if err != nil {
 		return "", err
 	}
 	req.Header.Set("User-Agent", userAgent)
-	req.Header.Set("Accept", "application/vnd.github+json")
-	if tok := os.Getenv("GITHUB_TOKEN"); tok != "" {
-		req.Header.Set("Authorization", "Bearer "+tok)
-	}
 	resp, err := client.Do(req)
 	if err != nil {
 		return "", err
 	}
-	defer resp.Body.Close()
-	if resp.StatusCode != http.StatusOK {
-		return "", fmt.Errorf("github api %s: %s", repo, resp.Status)
+	resp.Body.Close()
+	switch {
+	case resp.StatusCode == http.StatusNotFound:
+		return etagMissing, nil
+	case resp.StatusCode != http.StatusOK:
+		return "", fmt.Errorf("HEAD %s: %s", url, resp.Status)
 	}
-	var out struct {
-		SHA string `json:"sha"`
+	tag := strings.TrimPrefix(resp.Header.Get("ETag"), "W/")
+	if tag == "" {
+		return "", fmt.Errorf("HEAD %s: no ETag", url)
 	}
-	if err := json.NewDecoder(resp.Body).Decode(&out); err != nil {
-		return "", err
+	return tag, nil
+}
+
+// SourceTag returns one tag for a set of source files: a hash of the URLs and
+// their ETags, so it changes when any of the files does. Unlike a repo's
+// latest commit it ignores changes to other files, and it needs no GitHub API
+// call (no rate limit, no token).
+func SourceTag(urls ...string) (string, error) {
+	h := sha256.New()
+	for _, u := range urls {
+		tag, err := etagOf(u)
+		if err != nil {
+			return "", err
+		}
+		fmt.Fprintf(h, "%s\n%s\n", u, tag)
 	}
-	if out.SHA == "" {
-		return "", fmt.Errorf("github api %s: empty sha", repo)
-	}
-	return out.SHA, nil
+	return hex.EncodeToString(h.Sum(nil)), nil
 }

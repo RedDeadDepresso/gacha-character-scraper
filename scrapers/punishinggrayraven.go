@@ -9,11 +9,10 @@ import (
 )
 
 const (
-	// pgrRepo is only used to detect changes: the scrape is skipped while its
-	// latest commit is the one cached in config/commits.json.
-	pgrRepo   = "alt3ri/PGR_Data"
-	pgrBranch = "master"
-	pgrURL    = "https://api.huaxu.app/servers/%s/characters"
+	// pgrTrackURL is only used to detect changes: the scrape is skipped while
+	// its ETag is the one cached in config/etags.json.
+	pgrTrackURL = "https://raw.githubusercontent.com/alt3ri/PGR_Data/refs/heads/master/EN/bytes/share/character/Character.json"
+	pgrURL      = "https://api.huaxu.app/servers/%s/characters"
 )
 
 // pgrServers maps the huaxu.app server of each language to its KKAFIO code.
@@ -117,16 +116,16 @@ func buildPGRCharacters(lists map[string][]pgrCharacter) []Character {
 	return chars
 }
 
-// Scrape skips everything when the PGR_Data commit hasn't changed since the
-// last run (cached in config/commits.json). Otherwise it fetches the character
+// Scrape skips everything when the ETag of PGR_Data's EN Character.json hasn't
+// changed since the last run (cached in config/etags.json). Otherwise it fetches the character
 // list of each server from huaxu.app and rebuilds the list.
 func (p PunishingGrayRaven) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(pgrRepo, pgrBranch)
+	tag, err := SourceTag(pgrTrackURL)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(p.Name(), sha, existing) {
-		log.Printf("[Punishing Gray Raven] PGR_Data unchanged (%s), skipping", sha[:7])
+	if upToDate(p.Name(), tag, existing) {
+		log.Printf("[Punishing Gray Raven] PGR_Data unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -147,9 +146,9 @@ func (p PunishingGrayRaven) Scrape(existing []Character) ([]Character, error) {
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("punishing gray raven: no characters found")
 	}
-	if err := SaveCommit(p.Name(), sha); err != nil {
+	if err := SaveTag(p.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Punishing Gray Raven] %d characters (commit %s)", len(chars), sha[:7])
+	log.Printf("[Punishing Gray Raven] %d characters (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }

@@ -12,9 +12,6 @@ import (
 )
 
 const (
-	hsrRepo   = "fribbels/hsr-optimizer"
-	hsrBranch = "main"
-
 	hsrDataURL   = "https://raw.githubusercontent.com/fribbels/hsr-optimizer/refs/heads/main/src/data/game_data.json"
 	hsrLocaleURL = "https://raw.githubusercontent.com/fribbels/hsr-optimizer/refs/heads/main/public/locales/%s/gameData.yaml"
 )
@@ -32,16 +29,16 @@ type hsrNames struct {
 	LongName string `yaml:"LongName"`
 }
 
-// Scrape skips everything when the hsr-optimizer commit hasn't changed since the
-// last run (cached in config/commits.json). Otherwise it rebuilds the list,
+// Scrape skips everything when the hsr-optimizer source files' ETags haven't changed since the
+// last run (cached in config/etags.json). Otherwise it rebuilds the list,
 // newest-first (lower id = older).
 func (h HonkaiStarRail) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(hsrRepo, hsrBranch)
+	tag, err := SourceTag(append([]string{hsrDataURL}, urlsFor(hsrLocaleURL, hsrLangs...)...)...)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(h.Name(), sha, existing) {
-		log.Printf("[Honkai Star Rail] hsr-optimizer unchanged (%s), skipping", sha[:7])
+	if upToDate(h.Name(), tag, existing) {
+		log.Printf("[Honkai Star Rail] hsr-optimizer unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -119,10 +116,10 @@ func (h HonkaiStarRail) Scrape(existing []Character) ([]Character, error) {
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("honkai star rail: no characters found")
 	}
-	if err := SaveCommit(h.Name(), sha); err != nil {
+	if err := SaveTag(h.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Honkai Star Rail] %d characters (commit %s)", len(chars), sha[:7])
+	log.Printf("[Honkai Star Rail] %d characters (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }
 

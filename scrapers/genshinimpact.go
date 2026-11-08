@@ -8,11 +8,6 @@ import (
 	"strings"
 )
 
-const (
-	genshinRepo   = "frzyc/genshin-optimizer"
-	genshinBranch = "master"
-)
-
 const genshinURL = "https://raw.githubusercontent.com/frzyc/genshin-optimizer/refs/heads/master/libs/gi/dm-localization/assets/locales/%s/charNames_gen.json"
 
 // Languages fetched besides "en" (converted with LangCode). All share the same
@@ -25,17 +20,17 @@ type GenshinImpact struct{}
 
 func (GenshinImpact) Name() string { return "Genshin Impact" }
 
-// Scrape skips everything when the genshin-optimizer commit hasn't changed
-// since the last run (cached in config/commits.json). Otherwise it rebuilds the
+// Scrape skips everything when the genshin-optimizer source files' ETags haven't changed
+// since the last run (cached in config/etags.json). Otherwise it rebuilds the
 // list. The file lists characters roughly in release order, so the result is
 // reversed to newest-first.
 func (g GenshinImpact) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(genshinRepo, genshinBranch)
+	tag, err := SourceTag(urlsFor(genshinURL, append([]string{"en"}, genshinLangs...)...)...)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(g.Name(), sha, existing) {
-		log.Printf("[Genshin Impact] genshin-optimizer unchanged (%s), skipping", sha[:7])
+	if upToDate(g.Name(), tag, existing) {
+		log.Printf("[Genshin Impact] genshin-optimizer unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -86,10 +81,10 @@ func (g GenshinImpact) Scrape(existing []Character) ([]Character, error) {
 	for i := len(oldest) - 1; i >= 0; i-- {
 		chars = append(chars, oldest[i])
 	}
-	if err := SaveCommit(g.Name(), sha); err != nil {
+	if err := SaveTag(g.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Genshin Impact] %d characters (commit %s)", len(chars), sha[:7])
+	log.Printf("[Genshin Impact] %d characters (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }
 

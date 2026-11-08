@@ -10,8 +10,6 @@ import (
 )
 
 const (
-	endfieldRepo   = "ivaqis/arknights-tracker"
-	endfieldBranch = "main"
 	endfieldChars  = "https://raw.githubusercontent.com/ivaqis/arknights-tracker/refs/heads/main/arknights-tracker/src/lib/data/characters.js"
 	endfieldLocale = "https://raw.githubusercontent.com/ivaqis/arknights-tracker/refs/heads/main/arknights-tracker/src/lib/locales/%s.json"
 )
@@ -25,16 +23,16 @@ type ArknightsEndfield struct{}
 
 func (ArknightsEndfield) Name() string { return "Arknights Endfield" }
 
-// Scrape skips everything when the arknights-tracker commit hasn't changed
-// since the last run (cached in config/commits.json). characters.js lists
+// Scrape skips everything when the arknights-tracker source files' ETags haven't changed
+// since the last run (cached in config/etags.json). characters.js lists
 // characters oldest to newest; the result is stored newest-first.
 func (e ArknightsEndfield) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(endfieldRepo, endfieldBranch)
+	tag, err := SourceTag(append([]string{endfieldChars}, urlsFor(endfieldLocale, endfieldLangs...)...)...)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(e.Name(), sha, existing) {
-		log.Printf("[Arknights Endfield] arknights-tracker unchanged (%s), skipping", sha[:7])
+	if upToDate(e.Name(), tag, existing) {
+		log.Printf("[Arknights Endfield] arknights-tracker unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -96,10 +94,10 @@ func (e ArknightsEndfield) Scrape(existing []Character) ([]Character, error) {
 		chars = append(chars, oldest[i])
 	}
 
-	if err := SaveCommit(e.Name(), sha); err != nil {
+	if err := SaveTag(e.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Arknights Endfield] %d characters (commit %s)", len(chars), sha[:7])
+	log.Printf("[Arknights Endfield] %d characters (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }
 

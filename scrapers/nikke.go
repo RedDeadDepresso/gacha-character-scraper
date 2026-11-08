@@ -9,9 +9,7 @@ import (
 )
 
 const (
-	nikkeRepo   = "williamchong/nikke-arena-planner"
-	nikkeBranch = "master"
-	nikkeChars  = "https://raw.githubusercontent.com/williamchong/nikke-arena-planner/refs/heads/master/app/data/characters.json"
+	nikkeChars = "https://raw.githubusercontent.com/williamchong/nikke-arena-planner/refs/heads/master/app/data/characters.json"
 )
 
 // Nikke reads characters from the nikke-arena-planner repo.
@@ -19,16 +17,16 @@ type Nikke struct{}
 
 func (Nikke) Name() string { return "Nikke" }
 
-// Scrape skips everything when the nikke-arena-planner commit hasn't changed
-// since the last run (cached in config/commits.json). Otherwise it rebuilds the
+// Scrape skips everything when the nikke-arena-planner source files' ETags haven't changed
+// since the last run (cached in config/etags.json). Otherwise it rebuilds the
 // list newest-first, ordered by releaseOrder (higher = newer).
 func (n Nikke) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(nikkeRepo, nikkeBranch)
+	tag, err := SourceTag(nikkeChars)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(n.Name(), sha, existing) {
-		log.Printf("[Nikke] nikke-arena-planner unchanged (%s), skipping", sha[:7])
+	if upToDate(n.Name(), tag, existing) {
+		log.Printf("[Nikke] nikke-arena-planner unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -91,9 +89,9 @@ func (n Nikke) Scrape(existing []Character) ([]Character, error) {
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("nikke: no characters found")
 	}
-	if err := SaveCommit(n.Name(), sha); err != nil {
+	if err := SaveTag(n.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Nikke] %d characters (commit %s)", len(chars), sha[:7])
+	log.Printf("[Nikke] %d characters (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }

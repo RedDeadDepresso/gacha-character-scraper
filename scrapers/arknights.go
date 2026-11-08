@@ -10,9 +10,7 @@ import (
 )
 
 const (
-	arknightsRepo   = "VanAstraea/novena"
-	arknightsBranch = "main"
-	arknightsURL    = "https://vanastraea.github.io/novena/data/v1/%s/operators.json"
+	arknightsURL = "https://vanastraea.github.io/novena/data/v1/%s/operators.json"
 )
 
 // Servers whose operators.json gives the Japanese, Korean and Chinese names
@@ -104,16 +102,16 @@ func buildArknightsCharacters(en []arknightsOp, others map[string][]arknightsOp)
 	return chars
 }
 
-// Scrape skips everything when the Novena commit hasn't changed since the last
-// run (cached in config/commits.json). Otherwise the whole list is rebuilt from
+// Scrape skips everything when the Novena source files' ETags haven't changed since the last
+// run (cached in config/etags.json). Otherwise the whole list is rebuilt from
 // the en, jp, kr and cn operators.json files.
 func (a Arknights) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(arknightsRepo, arknightsBranch)
+	tag, err := SourceTag(urlsFor(arknightsURL, append([]string{"en"}, arknightsServers...)...)...)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(a.Name(), sha, existing) {
-		log.Printf("[Arknights] Novena unchanged (%s), skipping", sha[:7])
+	if upToDate(a.Name(), tag, existing) {
+		log.Printf("[Arknights] Novena unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -132,9 +130,9 @@ func (a Arknights) Scrape(existing []Character) ([]Character, error) {
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("arknights: no operators found")
 	}
-	if err := SaveCommit(a.Name(), sha); err != nil {
+	if err := SaveTag(a.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Arknights] %d operators (commit %s)", len(chars), sha[:7])
+	log.Printf("[Arknights] %d operators (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }

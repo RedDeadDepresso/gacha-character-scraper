@@ -13,9 +13,7 @@ import (
 )
 
 const (
-	azurRepo   = "xyz-alpha/AzurLaneFleet"
-	azurBranch = "master"
-	azurURL    = "https://raw.githubusercontent.com/xyz-alpha/AzurLaneFleet/refs/heads/master/js/ship_data.min.js"
+	azurURL = "https://raw.githubusercontent.com/xyz-alpha/AzurLaneFleet/refs/heads/master/js/ship_data.min.js"
 )
 
 // AzurLane reads ship_data.min.js from AzurLaneFleet, a JavaScript file that
@@ -161,16 +159,16 @@ func buildAzurCharacters(ships map[string]azurShip) []Character {
 	return chars
 }
 
-// Scrape skips everything when the AzurLaneFleet commit hasn't changed since
-// the last run (cached in config/commits.json). Otherwise it downloads
+// Scrape skips everything when the AzurLaneFleet source files' ETags haven't changed since
+// the last run (cached in config/etags.json). Otherwise it downloads
 // ship_data.min.js and rebuilds the list, newest first.
 func (a AzurLane) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(azurRepo, azurBranch)
+	tag, err := SourceTag(azurURL)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(a.Name(), sha, existing) {
-		log.Printf("[Azur Lane] AzurLaneFleet unchanged (%s), skipping", sha[:7])
+	if upToDate(a.Name(), tag, existing) {
+		log.Printf("[Azur Lane] AzurLaneFleet unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -191,9 +189,9 @@ func (a AzurLane) Scrape(existing []Character) ([]Character, error) {
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("azur lane: no ships found")
 	}
-	if err := SaveCommit(a.Name(), sha); err != nil {
+	if err := SaveTag(a.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Azur Lane] %d ships (commit %s)", len(chars), sha[:7])
+	log.Printf("[Azur Lane] %d ships (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }

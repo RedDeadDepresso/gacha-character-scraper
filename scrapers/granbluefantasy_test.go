@@ -38,10 +38,10 @@ func TestGBFChinese(t *testing.T) {
 		map[string]string{"Lyria": "露莉亚"},
 	)
 	for _, c := range []struct{ en, ja, want string }{
-		{"Jeanne d'Arc", "ジャンヌダルク", "贞德"},            // normalised Japanese match
+		{"Jeanne d'Arc", "ジャンヌダルク", "贞德"},              // normalised Japanese match
 		{"Jeanne d'Arc (Summer)", "ジャンヌダルク", "贞德（泳装）"}, // variant translated
-		{"Coco (SSR)", "ココ", "可可"},                    // rarity tag dropped
-		{"Lyria (Grand)", "", "露莉亚（Grand）"},          // unknown variant kept; English lookup
+		{"Coco (SSR)", "ココ", "可可"},                     // rarity tag dropped
+		{"Lyria (Grand)", "", "露莉亚（Grand）"},            // unknown variant kept; English lookup
 		{"Unknown", "ウンノウン", ""},
 	} {
 		if got := n.Chinese(c.en, c.ja); got != c.want {

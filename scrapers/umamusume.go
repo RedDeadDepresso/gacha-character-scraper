@@ -10,8 +10,9 @@ import (
 )
 
 const (
-	umaRepo        = "daftuyda/UmaTools"
-	umaBranch      = "HEAD" // the repo's default branch
+	// UmaTools' copy of the data is only used as a change detector: its ETag
+	// changes when new characters are added, and costs no GameTora request.
+	umaTrackURL    = "https://raw.githubusercontent.com/daftuyda/UmaTools/refs/heads/main/public/assets/uma_data.json"
 	umaManifestURL = "https://gametora.com/data/manifests/umamusume.json"
 	umaDatasetURL  = "https://gametora.com/data/umamusume/%s.%s.json"
 	umaDatasetKey  = "character-cards"
@@ -150,17 +151,17 @@ func buildUmaCharacters(cards []umaCard) []Character {
 	return chars
 }
 
-// Scrape skips everything when the UmaTools commit hasn't changed since the
-// last run (cached in config/commits.json), on the assumption that UmaTools is
-// updated whenever new characters are added. Otherwise the whole list is
+// Scrape skips everything when the ETag of UmaTools' uma_data.json hasn't
+// changed since the last run (cached in config/etags.json), on the assumption
+// that UmaTools is updated whenever new characters are added. Otherwise the whole list is
 // rebuilt from GameTora.
 func (u UmaMusume) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(umaRepo, umaBranch)
+	tag, err := SourceTag(umaTrackURL)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(u.Name(), sha, existing) {
-		log.Printf("[Uma Musume] UmaTools unchanged (%s), skipping", sha[:7])
+	if upToDate(u.Name(), tag, existing) {
+		log.Printf("[Uma Musume] UmaTools unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -172,9 +173,9 @@ func (u UmaMusume) Scrape(existing []Character) ([]Character, error) {
 	if len(chars) == 0 {
 		return nil, fmt.Errorf("uma musume: no characters found")
 	}
-	if err := SaveCommit(u.Name(), sha); err != nil {
+	if err := SaveTag(u.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Uma Musume] %d characters (commit %s)", len(chars), sha[:7])
+	log.Printf("[Uma Musume] %d characters (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }

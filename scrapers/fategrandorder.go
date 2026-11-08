@@ -8,9 +8,7 @@ import (
 )
 
 const (
-	fgoRepo   = "atlasacademy/fgo-game-data-api"
-	fgoBranch = "master"
-	fgoNames  = "https://raw.githubusercontent.com/atlasacademy/fgo-game-data-api/refs/heads/master/app/data/mappings/servant_names.json"
+	fgoNames = "https://raw.githubusercontent.com/atlasacademy/fgo-game-data-api/refs/heads/master/app/data/mappings/servant_names.json"
 )
 
 // FateGrandOrder reads servants from the Atlas Academy game data API repo. The
@@ -23,17 +21,17 @@ type fgoEntry struct {
 	jp, en string
 }
 
-// Scrape skips everything when the fgo-game-data-api commit hasn't changed
-// since the last run (cached in config/commits.json). servant_names.json maps
+// Scrape skips everything when the fgo-game-data-api source files' ETags haven't changed
+// since the last run (cached in config/etags.json). servant_names.json maps
 // Japanese names to English names, oldest servant first; the result is stored
 // newest-first with English and Japanese names.
 func (f FateGrandOrder) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(fgoRepo, fgoBranch)
+	tag, err := SourceTag(fgoNames)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(f.Name(), sha, existing) {
-		log.Printf("[Fate Grand Order] fgo-game-data-api unchanged (%s), skipping", sha[:7])
+	if upToDate(f.Name(), tag, existing) {
+		log.Printf("[Fate Grand Order] fgo-game-data-api unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -104,10 +102,10 @@ func (f FateGrandOrder) Scrape(existing []Character) ([]Character, error) {
 		chars = append(chars, oldest[i])
 	}
 
-	if err := SaveCommit(f.Name(), sha); err != nil {
+	if err := SaveTag(f.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Fate Grand Order] %d servants (commit %s)", len(chars), sha[:7])
+	log.Printf("[Fate Grand Order] %d servants (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }
 

@@ -10,9 +10,7 @@ import (
 )
 
 const (
-	zzzRepo   = "a285292107s/zzz-wiki"
-	zzzBranch = "master"
-	zzzURL    = "https://raw.githubusercontent.com/a285292107s/zzz-wiki/refs/heads/master/public/data/live/en/character.json"
+	zzzURL = "https://raw.githubusercontent.com/a285292107s/zzz-wiki/refs/heads/master/public/data/live/en/character.json"
 )
 
 // ZenlessZoneZero reads character names from the zzz-wiki repo.
@@ -27,16 +25,16 @@ type zzzNames struct {
 	JA string `json:"ja"`
 }
 
-// Scrape skips everything when the zzz-wiki commit hasn't changed since the
-// last run (cached in config/commits.json). Otherwise it rebuilds the list,
+// Scrape skips everything when the zzz-wiki source files' ETags haven't changed since the
+// last run (cached in config/etags.json). Otherwise it rebuilds the list,
 // newest-first (lower id = older).
 func (z ZenlessZoneZero) Scrape(existing []Character) ([]Character, error) {
-	sha, err := LatestCommit(zzzRepo, zzzBranch)
+	tag, err := SourceTag(zzzURL)
 	if err != nil {
 		return nil, err
 	}
-	if upToDate(z.Name(), sha, existing) {
-		log.Printf("[Zenless Zone Zero] zzz-wiki unchanged (%s), skipping", sha[:7])
+	if upToDate(z.Name(), tag, existing) {
+		log.Printf("[Zenless Zone Zero] zzz-wiki unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -89,9 +87,9 @@ func (z ZenlessZoneZero) Scrape(existing []Character) ([]Character, error) {
 		return nil, fmt.Errorf("zenless zone zero: no characters found")
 	}
 
-	if err := SaveCommit(z.Name(), sha); err != nil {
+	if err := SaveTag(z.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Zenless Zone Zero] %d characters (commit %s)", len(chars), sha[:7])
+	log.Printf("[Zenless Zone Zero] %d characters (etag %s)", len(chars), tag[:7])
 	return chars, nil
 }
