@@ -244,7 +244,7 @@
       "ja_jp": "オルガマリー・アニムスフィア"
     },
     "aliases": [],
-    "score": 97
+    "score": 98
   },
   {
     "name": {
@@ -372,7 +372,7 @@
       "ja_jp": "リチャードⅠ世"
     },
     "aliases": [],
-    "score": 66
+    "score": 67
   },
   {
     "name": {
@@ -413,7 +413,7 @@
       "ja_jp": "アビゲイル・ウィリアムズ〔サンタ〕"
     },
     "aliases": [],
-    "score": 82
+    "score": 83
   },
   {
     "name": {
@@ -471,7 +471,7 @@
       "ja_jp": "ヒロインXX・オルタ"
     },
     "aliases": [],
-    "score": 133
+    "score": 134
   },
   {
     "name": {
@@ -479,7 +479,7 @@
       "ja_jp": "謎のヒロインXX〔オルタ〕"
     },
     "aliases": [],
-    "score": 133
+    "score": 134
   },
   {
     "name": {
@@ -519,7 +519,7 @@
       "ja_jp": "シエル"
     },
     "aliases": [],
-    "score": 155,
+    "score": 157,
     "birthMonth": 5,
     "birthDay": 3
   },
@@ -536,7 +536,7 @@
       "en_us": "C.I.E.L"
     },
     "aliases": [],
-    "score": 155,
+    "score": 157,
     "birthMonth": 5,
     "birthDay": 3
   },
@@ -594,7 +594,7 @@
       "ja_jp": "久遠寺有珠"
     },
     "aliases": [],
-    "score": 925,
+    "score": 930,
     "birthMonth": 9,
     "birthDay": 30
   },
@@ -604,7 +604,7 @@
       "ja_jp": "静希草十郎"
     },
     "aliases": [],
-    "score": 329,
+    "score": 330,
     "birthMonth": 4,
     "birthDay": 12
   },
@@ -614,7 +614,7 @@
       "ja_jp": "蒼崎青子"
     },
     "aliases": [],
-    "score": 872,
+    "score": 877,
     "birthMonth": 7,
     "birthDay": 7
   },
@@ -1218,7 +1218,7 @@
       "ja_jp": "アルクェイド・ブリュンスタッド"
     },
     "aliases": [],
-    "score": 613,
+    "score": 618,
     "collab": true,
     "birthMonth": 12,
     "birthDay": 25
@@ -1777,7 +1777,7 @@
       "ja_jp": "アビゲイル・ウィリアムズ〔夏〕"
     },
     "aliases": [],
-    "score": 82
+    "score": 83
   },
   {
     "name": {
@@ -2187,7 +2187,7 @@
       "ja_jp": "カーマ"
     },
     "aliases": [],
-    "score": 49
+    "score": 50
   },
   {
     "name": {
@@ -2466,7 +2466,7 @@
       "ja_jp": "アタランテ〔オルタ〕"
     },
     "aliases": [],
-    "score": 133
+    "score": 134
   },
   {
     "name": {
@@ -2528,7 +2528,7 @@
     "aliases": [
       "アビゲイル"
     ],
-    "score": 82
+    "score": 83
   },
   {
     "name": {
@@ -2929,7 +2929,7 @@
       "ja_jp": "エルキドゥ"
     },
     "aliases": [],
-    "score": 161
+    "score": 162
   },
   {
     "name": {
@@ -3204,7 +3204,7 @@
       "ja_jp": "ジャンヌ・ダルク〔オルタ〕"
     },
     "aliases": [],
-    "score": 133
+    "score": 134
   },
   {
     "name": {
@@ -3343,7 +3343,7 @@
       "ja_jp": "両儀式"
     },
     "aliases": [],
-    "score": 1687,
+    "score": 1693,
     "birthMonth": 2,
     "birthDay": 17
   },
@@ -3551,7 +3551,7 @@
       "ja_jp": "アルトリア・ペンドラゴン〔サンタオルタ〕"
     },
     "aliases": [],
-    "score": 2213
+    "score": 2220
   },
   {
     "name": {
@@ -3589,7 +3589,7 @@
       "ja_jp": "織田信長"
     },
     "aliases": [],
-    "score": 45
+    "score": 46
   },
   {
     "name": {
@@ -3901,7 +3901,7 @@
       "ja_jp": "諸葛孔明"
     },
     "aliases": [],
-    "score": 2
+    "score": 3
   },
   {
     "name": {
@@ -3909,7 +3909,7 @@
       "ja_jp": "諸葛孔明〔エルメロイⅡ世〕"
     },
     "aliases": [],
-    "score": 2
+    "score": 3
   },
   {
     "name": {
@@ -4129,7 +4129,7 @@
       "ja_jp": "エウリュアレ"
     },
     "aliases": [],
-    "score": 44
+    "score": 45
   },
   {
     "name": {
@@ -4161,7 +4161,7 @@
       "ja_jp": "エミヤ"
     },
     "aliases": [],
-    "score": 449
+    "score": 448
   },
   {
     "name": {
@@ -4231,7 +4231,7 @@
       "ネロ",
       "Nero"
     ],
-    "score": 304,
+    "score": 306,
     "birthMonth": 12,
     "birthDay": 15
   },
@@ -4265,7 +4265,7 @@
       "ja_jp": "アルトリア・ペンドラゴン〔オルタ〕"
     },
     "aliases": [],
-    "score": 22
+    "score": 23
   },
   {
     "name": {
@@ -4276,7 +4276,7 @@
       "アルトリア",
       "Altria"
     ],
-    "score": 2213
+    "score": 2220
   },
   {
     "name": {
@@ -4287,6 +4287,6 @@
       "マシュ",
       "Mash"
     ],
-    "score": 295
+    "score": 297
   }
 ]

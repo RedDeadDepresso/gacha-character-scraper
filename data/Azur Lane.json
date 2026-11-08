@@ -1,6 +1,56 @@
 [
   {
     "name": {
+      "en_us": "Riyala Bey",
+      "ja_jp": "リヤラ・ベイ",
+      "zh_cn": "雷伊尔·贝号",
+      "zh_tw": "雷伊爾·貝號"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
+      "en_us": "Ormrinn Langi",
+      "ja_jp": "オーメン・ランゲ",
+      "zh_cn": "长蛇号",
+      "zh_tw": "長蛇號"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
+      "en_us": "Selimiye",
+      "ja_jp": "セリミエ",
+      "zh_cn": "塞利米耶号",
+      "zh_tw": "塞利米耶號"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
+      "en_us": "Járnbarðinn",
+      "ja_jp": "ヤーンバアデン",
+      "zh_cn": "铁角号",
+      "zh_tw": "鐵角號"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
+      "en_us": "Merkuriy",
+      "ja_jp": "メルクーリィ",
+      "zh_cn": "水星号",
+      "zh_tw": "水星號"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
       "en_us": "Soobrazitelny META",
       "ja_jp": "ソオブラジーテリヌイ(META)",
       "zh_cn": "灵敏·META",
@@ -182,7 +232,7 @@
       "en_us": "2B"
     },
     "aliases": [],
-    "score": 409,
+    "score": 410,
     "collab": true
   },
   {
@@ -702,7 +752,7 @@
       "zh_tw": "時崎狂三"
     },
     "aliases": [],
-    "score": 1041,
+    "score": 1043,
     "collab": true,
     "birthMonth": 6,
     "birthDay": 10
@@ -736,7 +786,7 @@
       "zh_tw": "鳶一折紙"
     },
     "aliases": [],
-    "score": 568,
+    "score": 567,
     "collab": true,
     "birthMonth": 11,
     "birthDay": 11
@@ -812,7 +862,7 @@
       "zh_cn": "琉·璃昂"
     },
     "aliases": [],
-    "score": 316,
+    "score": 318,
     "collab": true
   },
   {
@@ -823,7 +873,7 @@
       "zh_tw": "赫斯緹雅"
     },
     "aliases": [],
-    "score": 326,
+    "score": 328,
     "collab": true
   },
   {
@@ -1458,7 +1508,7 @@
       "zh_tw": "大鳳·META"
     },
     "aliases": [],
-    "score": 38,
+    "score": 37,
     "birthMonth": 4,
     "birthDay": 7
   },
@@ -1505,7 +1555,7 @@
       "zh_tw": "金色闇影"
     },
     "aliases": [],
-    "score": 676,
+    "score": 677,
     "collab": true,
     "birthMonth": 12,
     "birthDay": 24
@@ -1531,7 +1581,7 @@
       "zh_tw": "娜娜·阿絲達·戴比路克"
     },
     "aliases": [],
-    "score": 174,
+    "score": 175,
     "collab": true,
     "birthMonth": 8,
     "birthDay": 8
@@ -1543,7 +1593,7 @@
       "zh_cn": "菈菈·撒塔琳·戴比路克"
     },
     "aliases": [],
-    "score": 296,
+    "score": 297,
     "collab": true,
     "birthMonth": 7,
     "birthDay": 7
@@ -2299,7 +2349,7 @@
       "zh_cn": "紫"
     },
     "aliases": [],
-    "score": 14,
+    "score": 15,
     "collab": true,
     "birthMonth": 10,
     "birthDay": 26
@@ -2311,7 +2361,7 @@
       "zh_cn": "雪泉"
     },
     "aliases": [],
-    "score": 70,
+    "score": 71,
     "collab": true,
     "birthMonth": 12,
     "birthDay": 31
@@ -2333,7 +2383,7 @@
       "zh_tw": "斑鳩"
     },
     "aliases": [],
-    "score": 56,
+    "score": 57,
     "collab": true,
     "birthMonth": 7,
     "birthDay": 7
@@ -3844,7 +3894,7 @@
       "zh_tw": "新條茜"
     },
     "aliases": [],
-    "score": 675,
+    "score": 676,
     "collab": true,
     "birthMonth": 1,
     "birthDay": 2
@@ -3857,7 +3907,7 @@
       "zh_tw": "寶多六花"
     },
     "aliases": [],
-    "score": 1144,
+    "score": 1145,
     "collab": true,
     "birthMonth": 12,
     "birthDay": 5
@@ -4687,7 +4737,7 @@
       "zh_tw": "大鳳(μ兵裝)"
     },
     "aliases": [],
-    "score": 38,
+    "score": 37,
     "birthMonth": 4,
     "birthDay": 7
   },
@@ -5921,7 +5971,7 @@
       "zh_tw": "絆愛"
     },
     "aliases": [],
-    "score": 365,
+    "score": 366,
     "collab": true,
     "birthMonth": 6,
     "birthDay": 30
@@ -6393,7 +6443,7 @@
       "zh_tw": "大鳳"
     },
     "aliases": [],
-    "score": 38,
+    "score": 37,
     "birthMonth": 4,
     "birthDay": 7
   },
@@ -6711,7 +6761,7 @@
       "zh_cn": "文月"
     },
     "aliases": [],
-    "score": 6,
+    "score": 7,
     "birthMonth": 2,
     "birthDay": 26
   },
@@ -7633,7 +7683,7 @@
       "zh_cn": "如月"
     },
     "aliases": [],
-    "score": 6,
+    "score": 7,
     "birthMonth": 12,
     "birthDay": 15
   },

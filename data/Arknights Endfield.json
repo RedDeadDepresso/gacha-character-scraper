@@ -1,6 +1,18 @@
 [
   {
     "name": {
+      "en_us": "Argent Flow",
+      "ja_jp": "ミンホ",
+      "ko_kr": "명하",
+      "ru_ru": "Серебристый Поток",
+      "zh_cn": "明河",
+      "zh_tw": "明河"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
       "en_us": "Si",
       "ja_jp": "スー",
       "ko_kr": "사",
@@ -119,7 +131,7 @@
       "zh_tw": "洛西"
     },
     "aliases": [],
-    "score": 29,
+    "score": 30,
     "birthMonth": 3,
     "birthDay": 10
   },

@@ -1,6 +1,13 @@
 [
   {
     "name": {
+      "en_us": "破坏者"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
       "en_us": "针"
     },
     "aliases": [],
@@ -61,7 +68,7 @@
       "zh_tw": "芙鈴"
     },
     "aliases": [],
-    "score": 0
+    "score": 1
   },
   {
     "name": {
@@ -112,7 +119,7 @@
       "zh_tw": "六分儀"
     },
     "aliases": [],
-    "score": 1
+    "score": 0
   },
   {
     "name": {
@@ -211,7 +218,7 @@
       "zh_tw": "芙洛倫"
     },
     "aliases": [],
-    "score": 2
+    "score": 1
   },
   {
     "name": {
@@ -255,7 +262,7 @@
       "zh_tw": "翡圖薩"
     },
     "aliases": [],
-    "score": 1
+    "score": 0
   },
   {
     "name": {
@@ -343,7 +350,7 @@
       "zh_tw": "可露凱"
     },
     "aliases": [],
-    "score": 2
+    "score": 1
   },
   {
     "name": {
@@ -398,7 +405,7 @@
       "zh_tw": "春田"
     },
     "aliases": [],
-    "score": 1
+    "score": 0
   },
   {
     "name": {
@@ -519,7 +526,7 @@
       "zh_tw": "絳雨"
     },
     "aliases": [],
-    "score": 1
+    "score": 0
   },
   {
     "name": {

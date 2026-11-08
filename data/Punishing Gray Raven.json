@@ -1,6 +1,23 @@
 [
   {
     "name": {
+      "en_us": "Leia",
+      "ja_jp": "レイア",
+      "ko_kr": "레이아",
+      "zh_cn": "莱亚",
+      "zh_tw": "萊亞"
+    },
+    "aliases": [
+      "Leia: Fortunaster",
+      "레이아: 기성",
+      "レイア: 祈星",
+      "萊亞: 祈星",
+      "莱亚: 祈星"
+    ],
+    "score": 3
+  },
+  {
+    "name": {
       "en_us": "Adelyde",
       "ja_jp": "アデレーネ",
       "ko_kr": "아델라이드",
@@ -519,7 +536,7 @@
       "en_us": "2B"
     },
     "aliases": [],
-    "score": 409,
+    "score": 410,
     "collab": true
   },
   {

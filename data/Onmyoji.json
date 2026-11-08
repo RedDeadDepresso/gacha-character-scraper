@@ -1,6 +1,15 @@
 [
   {
     "name": {
+      "en_us": "Hyakuwa Hououka",
+      "ja_jp": "百羽鳳凰火",
+      "zh_cn": "百羽凤凰火"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
       "en_us": "Kagoyume Magatsugami",
       "ja_jp": "籠夢禍津神",
       "zh_cn": "笼梦祸津神"
@@ -31,7 +40,9 @@
       "ja_jp": "岩長姫",
       "zh_cn": "石长姬"
     },
-    "aliases": [],
+    "aliases": [
+      "Iwanaga-hime"
+    ],
     "score": 0
   },
   {
@@ -465,7 +476,7 @@
       "zh_cn": "初音未来"
     },
     "aliases": [],
-    "score": 2469,
+    "score": 2471,
     "collab": true,
     "birthMonth": 8,
     "birthDay": 31
@@ -1018,7 +1029,7 @@
       "zh_cn": "灶门炭治郎"
     },
     "aliases": [],
-    "score": 159,
+    "score": 160,
     "collab": true,
     "birthMonth": 7,
     "birthDay": 14
@@ -1030,7 +1041,7 @@
       "zh_cn": "灶门祢豆子"
     },
     "aliases": [],
-    "score": 326,
+    "score": 327,
     "collab": true,
     "birthMonth": 12,
     "birthDay": 28
@@ -1265,7 +1276,7 @@
       "zh_cn": "朽木露琪亚"
     },
     "aliases": [],
-    "score": 227,
+    "score": 228,
     "collab": true,
     "birthMonth": 1,
     "birthDay": 14
@@ -1459,7 +1470,7 @@
     "aliases": [
       "Kikyo"
     ],
-    "score": 340,
+    "score": 341,
     "collab": true
   },
   {
