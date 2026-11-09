@@ -34,6 +34,10 @@ var registry = []scrapers.Scraper{
 	scrapers.GranblueFantasy{},
 	scrapers.PunishingGrayRaven{},
 	scrapers.Onmyoji{},
+
+	// Maintained by hand in data/; only the Bangumi data is applied.
+	scrapers.Manual{Game: "Gakuen Idolmaster"},
+	scrapers.Manual{Game: "Project Sekai"},
 }
 
 func main() {
