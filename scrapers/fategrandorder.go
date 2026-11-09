@@ -2,14 +2,27 @@ package scrapers
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
+	"io"
 	"log"
+	"sort"
 	"strings"
 )
 
 const (
 	fgoNames = "https://raw.githubusercontent.com/atlasacademy/fgo-game-data-api/refs/heads/master/app/data/mappings/servant_names.json"
+
+	// fgoNice is Atlas Academy's servant export, one file per server. The API
+	// sends no ETag for it, so it is not part of the source tag.
+	fgoNice = "https://api.atlasacademy.io/export/%s/nice_servant.json"
 )
+
+// fgoServers are the servers whose nice_servant.json is merged by servant id,
+// with the language of the names each one has.
+var fgoServers = []string{"JP", "NA", "CN", "TW", "KR"}
+
+var fgoLang = map[string]string{"JP": LangJA, "NA": LangEN, "CN": LangZH, "TW": LangTW, "KR": LangKO}
 
 // FateGrandOrder reads servants from the Atlas Academy game data API repo. The
 // name has no slash so it is safe as a file name.
@@ -21,17 +34,21 @@ type fgoEntry struct {
 	jp, en string
 }
 
-// Scrape skips everything when the fgo-game-data-api source files' ETags haven't changed
-// since the last run (cached in config/etags.json). servant_names.json maps
-// Japanese names to English names, oldest servant first; the result is stored
-// newest-first with English and Japanese names.
+// Scrape skips everything when servant_names.json's ETag hasn't changed since
+// the last run (cached in config/etags.json); the Atlas Academy API sends no
+// ETag, so only the repo file is watched. servant_names.json maps Japanese
+// names to English names, oldest servant first. Servants from each server's
+// nice_servant.json are merged by id and get their names in that server's
+// language; the English name from servant_names.json fills in for servants
+// that are not in NA, and entries of the file with no matching servant are
+// kept as they are. The result is stored newest-first.
 func (f FateGrandOrder) Scrape(existing []Character) ([]Character, error) {
 	tag, err := SourceTag(fgoNames)
 	if err != nil {
 		return nil, err
 	}
 	if upToDate(f.Name(), tag, existing) {
-		log.Printf("[Fate Grand Order] fgo-game-data-api unchanged (%s), skipping", tag[:7])
+		log.Printf("[Fate Grand Order] servant_names.json unchanged (%s), skipping", tag[:7])
 		return existing, nil
 	}
 
@@ -97,15 +114,28 @@ func (f FateGrandOrder) Scrape(existing []Character) ([]Character, error) {
 	}
 
 	// Reverse to newest-first.
-	chars := make([]Character, 0, len(oldest))
+	fromNames := make([]Character, 0, len(oldest))
 	for i := len(oldest) - 1; i >= 0; i-- {
-		chars = append(chars, oldest[i])
+		fromNames = append(fromNames, oldest[i])
+	}
+
+	servants := map[int]*fgoServant{}
+	for _, server := range fgoServers {
+		list, err := fetchFGOServants(server)
+		if err != nil {
+			return nil, err
+		}
+		mergeFGOServants(servants, server, list)
+	}
+	chars := mergeFGONames(fromNames, servants)
+	if len(chars) == 0 {
+		return nil, fmt.Errorf("fate grand order: no servants found")
 	}
 
 	if err := SaveTag(f.Name(), tag); err != nil {
 		return nil, err
 	}
-	log.Printf("[Fate Grand Order] %d servants (etag %s)", len(chars), tag[:7])
+	log.Printf("[Fate Grand Order] %d servants, %d from nice_servant (etag %s)", len(chars), len(servants), tag[:7])
 	return chars, nil
 }
 
@@ -145,4 +175,117 @@ func readFGONames(r interface{ Read([]byte) (int, error) }) ([]fgoEntry, error) 
 		}
 	}
 	return out, nil
+}
+
+// fgoServant is one servant merged across servers by id.
+type fgoServant struct {
+	id, collectionNo int
+	names            map[string]string // server code -> name
+}
+
+// fgoNiceEntry is the part of a nice_servant.json entry that is used.
+type fgoNiceEntry struct {
+	ID           int    `json:"id"`
+	CollectionNo int    `json:"collectionNo"`
+	Name         string `json:"name"`
+}
+
+// fetchFGOServants downloads one server's nice_servant.json. A server whose
+// file does not exist (404) yields no servants.
+func fetchFGOServants(server string) ([]fgoNiceEntry, error) {
+	body, err := get(fmt.Sprintf(fgoNice, server))
+	if errors.Is(err, ErrNotFound) {
+		log.Printf("[Fate Grand Order] no nice_servant.json for %s, skipping", server)
+		return nil, nil
+	}
+	if err != nil {
+		return nil, err
+	}
+	defer body.Close()
+	list, err := readFGOServants(body)
+	if err != nil {
+		return nil, fmt.Errorf("parse nice_servant.json (%s): %w", server, err)
+	}
+	return list, nil
+}
+
+func readFGOServants(r io.Reader) ([]fgoNiceEntry, error) {
+	var list []fgoNiceEntry
+	if err := json.NewDecoder(r).Decode(&list); err != nil {
+		return nil, err
+	}
+	return list, nil
+}
+
+// mergeFGOServants adds one server's servants to the map, keyed by id.
+func mergeFGOServants(into map[int]*fgoServant, server string, list []fgoNiceEntry) {
+	for _, e := range list {
+		name := strings.Join(strings.Fields(e.Name), " ")
+		if e.ID == 0 || name == "" {
+			continue
+		}
+		s, ok := into[e.ID]
+		if !ok {
+			s = &fgoServant{id: e.ID, names: map[string]string{}}
+			into[e.ID] = s
+		}
+		if s.collectionNo == 0 {
+			s.collectionNo = e.CollectionNo
+		}
+		s.names[server] = name
+	}
+}
+
+// mergeFGONames builds the final list, newest first. fromNames are the
+// characters built from servant_names.json (newest first, Japanese name in
+// ja_jp). Every servant becomes a character with the name of each server in
+// its language. Names are never dropped: a servant missing from NA keeps its
+// Japanese (and Chinese) names and takes the English one from fromNames when
+// its Japanese name matches; a differing English name becomes an alias. Entries of
+// fromNames that match no servant are appended unchanged.
+func mergeFGONames(fromNames []Character, servants map[int]*fgoServant) []Character {
+	byJA := map[string]int{} // ja_jp name -> index in fromNames
+	for i, c := range fromNames {
+		if ja := c.Name[LangJA]; ja != "" {
+			byJA[ja] = i
+		}
+	}
+
+	list := make([]*fgoServant, 0, len(servants))
+	for _, s := range servants {
+		list = append(list, s)
+	}
+	// Newest first: servants in the collection by number, the rest (no
+	// collection number) after them, by id.
+	sort.Slice(list, func(i, j int) bool {
+		a, b := list[i], list[j]
+		if (a.collectionNo == 0) != (b.collectionNo == 0) {
+			return b.collectionNo == 0
+		}
+		if a.collectionNo != b.collectionNo {
+			return a.collectionNo > b.collectionNo
+		}
+		return a.id > b.id
+	})
+
+	used := make([]bool, len(fromNames))
+	out := make([]Character, 0, len(list)+len(fromNames))
+	for _, s := range list {
+		b := newNameBuilder()
+		// English first so the NA name is the main one; then the others.
+		for _, server := range []string{"NA", "JP", "CN", "TW", "KR"} {
+			b.Name(fgoLang[server], s.names[server])
+		}
+		if i, ok := byJA[s.names["JP"]]; ok && !used[i] {
+			used[i] = true
+			b.Merge(fromNames[i])
+		}
+		out = append(out, b.Character())
+	}
+	for i, c := range fromNames {
+		if !used[i] {
+			out = append(out, c)
+		}
+	}
+	return out
 }
