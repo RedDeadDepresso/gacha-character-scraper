@@ -1,6 +1,46 @@
 [
   {
     "name": {
+      "en_us": "Talulah",
+      "zh_cn": "塔露拉"
+    },
+    "aliases": [],
+    "score": 36,
+    "birthMonth": 1,
+    "birthDay": 9
+  },
+  {
+    "name": {
+      "en_us": "Территория",
+      "zh_cn": "国度"
+    },
+    "aliases": [],
+    "score": 1,
+    "birthMonth": 1,
+    "birthDay": 21
+  },
+  {
+    "name": {
+      "en_us": "Ольга",
+      "zh_cn": "奥尔佳"
+    },
+    "aliases": [],
+    "score": 0,
+    "birthMonth": 12,
+    "birthDay": 5
+  },
+  {
+    "name": {
+      "en_us": "Тоска",
+      "zh_cn": "冻河"
+    },
+    "aliases": [],
+    "score": 0,
+    "birthMonth": 12,
+    "birthDay": 27
+  },
+  {
+    "name": {
       "en_us": "Jacinta",
       "zh_cn": "嘉辛塔"
     },
@@ -87,7 +127,7 @@
       "zh_cn": "可露希尔"
     },
     "aliases": [],
-    "score": 16,
+    "score": 15,
     "birthMonth": 12,
     "birthDay": 10
   },
@@ -458,7 +498,7 @@
       "zh_cn": "三角初华"
     },
     "aliases": [],
-    "score": 380,
+    "score": 381,
     "collab": true,
     "birthMonth": 6,
     "birthDay": 26
@@ -471,7 +511,7 @@
       "zh_cn": "若叶睦"
     },
     "aliases": [],
-    "score": 810,
+    "score": 811,
     "collab": true,
     "birthMonth": 1,
     "birthDay": 14
@@ -484,7 +524,7 @@
       "zh_cn": "丰川祥子"
     },
     "aliases": [],
-    "score": 783,
+    "score": 785,
     "collab": true,
     "birthMonth": 2,
     "birthDay": 14
@@ -557,6 +597,24 @@
     "score": 0,
     "birthMonth": 12,
     "birthDay": 1
+  },
+  {
+    "name": {
+      "en_us": "Herdbells",
+      "zh_cn": "行铃"
+    },
+    "aliases": [],
+    "score": 0
+  },
+  {
+    "name": {
+      "en_us": "Caleido",
+      "zh_cn": "镜匠"
+    },
+    "aliases": [],
+    "score": 0,
+    "birthMonth": 8,
+    "birthDay": 6
   },
   {
     "name": {
@@ -735,7 +793,7 @@
       "zh_cn": "玛露西尔"
     },
     "aliases": [],
-    "score": 649,
+    "score": 650,
     "collab": true,
     "birthMonth": 4,
     "birthDay": 19
@@ -939,7 +997,7 @@
       "zh_cn": "莱伊"
     },
     "aliases": [],
-    "score": 13,
+    "score": 14,
     "birthMonth": 7,
     "birthDay": 14
   },
@@ -1085,7 +1143,7 @@
       "en_us": "U-Official"
     },
     "aliases": [],
-    "score": 11,
+    "score": 12,
     "birthMonth": 1,
     "birthDay": 4
   },
@@ -1157,7 +1215,7 @@
       "zh_cn": "林"
     },
     "aliases": [],
-    "score": 22,
+    "score": 23,
     "birthMonth": 11,
     "birthDay": 9
   },
@@ -1227,7 +1285,7 @@
       "zh_cn": "罗小黑"
     },
     "aliases": [],
-    "score": 116,
+    "score": 117,
     "collab": true,
     "birthMonth": 11,
     "birthDay": 1
@@ -1372,7 +1430,7 @@
       "zh_cn": "多萝西"
     },
     "aliases": [],
-    "score": 7,
+    "score": 8,
     "birthMonth": 5,
     "birthDay": 8
   },
@@ -1776,7 +1834,7 @@
       "zh_cn": "夕"
     },
     "aliases": [],
-    "score": 29,
+    "score": 28,
     "birthMonth": 11,
     "birthDay": 11
   },
@@ -1812,7 +1870,7 @@
       "zh_cn": "提丰"
     },
     "aliases": [],
-    "score": 10,
+    "score": 11,
     "birthMonth": 2,
     "birthDay": 1
   },
@@ -2014,7 +2072,7 @@
     "aliases": [
       "阿米娅"
     ],
-    "score": 144,
+    "score": 143,
     "birthMonth": 12,
     "birthDay": 23
   },
@@ -2168,7 +2226,7 @@
       "zh_cn": "归溟幽灵鲨"
     },
     "aliases": [],
-    "score": 1,
+    "score": 2,
     "birthMonth": 7,
     "birthDay": 27
   },
@@ -2300,7 +2358,7 @@
     "aliases": [
       "阿米娅"
     ],
-    "score": 144,
+    "score": 143,
     "birthMonth": 12,
     "birthDay": 23
   },
@@ -2408,7 +2466,7 @@
       "zh_cn": "刺玫"
     },
     "aliases": [],
-    "score": 2,
+    "score": 3,
     "birthMonth": 5,
     "birthDay": 14
   },
@@ -2588,7 +2646,7 @@
       "zh_cn": "桑葚"
     },
     "aliases": [],
-    "score": 4,
+    "score": 5,
     "birthMonth": 6,
     "birthDay": 26
   },
@@ -2776,7 +2834,7 @@
       "zh_cn": "松果"
     },
     "aliases": [],
-    "score": 8,
+    "score": 9,
     "birthMonth": 3,
     "birthDay": 12
   },
@@ -2884,7 +2942,7 @@
       "zh_cn": "极光"
     },
     "aliases": [],
-    "score": 4,
+    "score": 5,
     "birthMonth": 12,
     "birthDay": 20
   },
@@ -2896,7 +2954,7 @@
       "zh_cn": "羽毛笔"
     },
     "aliases": [],
-    "score": 35,
+    "score": 34,
     "birthMonth": 8,
     "birthDay": 29
   },
@@ -3038,7 +3096,7 @@
       "zh_cn": "薄绿"
     },
     "aliases": [],
-    "score": 3,
+    "score": 4,
     "birthMonth": 2,
     "birthDay": 5
   },
@@ -3050,7 +3108,7 @@
       "zh_cn": "清流"
     },
     "aliases": [],
-    "score": 4,
+    "score": 5,
     "birthMonth": 10,
     "birthDay": 24
   },
@@ -3249,7 +3307,7 @@
       "zh_cn": "史尔特尔"
     },
     "aliases": [],
-    "score": 37,
+    "score": 38,
     "birthMonth": 1,
     "birthDay": 22
   },
@@ -3391,7 +3449,7 @@
       "zh_cn": "稀音"
     },
     "aliases": [],
-    "score": 17,
+    "score": 18,
     "birthMonth": 12,
     "birthDay": 31
   },
@@ -3487,7 +3545,7 @@
       "zh_cn": "诗怀雅"
     },
     "aliases": [],
-    "score": 14,
+    "score": 13,
     "birthMonth": 7,
     "birthDay": 1
   },
@@ -3547,7 +3605,7 @@
       "zh_cn": "菲亚梅塔"
     },
     "aliases": [],
-    "score": 7,
+    "score": 8,
     "birthMonth": 4,
     "birthDay": 3
   },
@@ -3753,7 +3811,7 @@
       "zh_cn": "星极"
     },
     "aliases": [],
-    "score": 22,
+    "score": 21,
     "birthMonth": 7,
     "birthDay": 10
   },
@@ -3789,7 +3847,7 @@
       "zh_cn": "鞭刃"
     },
     "aliases": [],
-    "score": 8,
+    "score": 7,
     "birthMonth": 6,
     "birthDay": 28
   },
@@ -3813,7 +3871,7 @@
       "zh_cn": "斯卡蒂"
     },
     "aliases": [],
-    "score": 67,
+    "score": 66,
     "birthMonth": 3,
     "birthDay": 7
   },
@@ -4065,7 +4123,7 @@
       "zh_cn": "风笛"
     },
     "aliases": [],
-    "score": 14,
+    "score": 15,
     "birthMonth": 7,
     "birthDay": 17
   },
@@ -4183,7 +4241,7 @@
       "zh_cn": "卡缇"
     },
     "aliases": [],
-    "score": 7,
+    "score": 8,
     "birthMonth": 8,
     "birthDay": 2
   },
@@ -4435,7 +4493,7 @@
       "zh_cn": "夜莺"
     },
     "aliases": [],
-    "score": 18,
+    "score": 19,
     "birthMonth": 5,
     "birthDay": 4
   },
@@ -4599,7 +4657,7 @@
       "zh_cn": "蛇屠箱"
     },
     "aliases": [],
-    "score": 16
+    "score": 17
   },
   {
     "name": {
@@ -4693,7 +4751,7 @@
       "zh_cn": "拉普兰德"
     },
     "aliases": [],
-    "score": 42,
+    "score": 43,
     "birthMonth": 11,
     "birthDay": 11
   },
@@ -4717,7 +4775,7 @@
       "zh_cn": "星熊"
     },
     "aliases": [],
-    "score": 18,
+    "score": 17,
     "birthMonth": 1,
     "birthDay": 20
   },
@@ -4885,7 +4943,7 @@
       "zh_cn": "芙蓉"
     },
     "aliases": [],
-    "score": 3,
+    "score": 4,
     "birthMonth": 6,
     "birthDay": 21
   },
@@ -5060,7 +5118,7 @@
       "zh_cn": "陈"
     },
     "aliases": [],
-    "score": 59,
+    "score": 58,
     "birthMonth": 7,
     "birthDay": 7
   },
@@ -5091,7 +5149,7 @@
       "zh_cn": "阿米娅"
     },
     "aliases": [],
-    "score": 144,
+    "score": 143,
     "birthMonth": 12,
     "birthDay": 23
   }
