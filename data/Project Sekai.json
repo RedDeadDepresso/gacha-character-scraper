@@ -3,9 +3,9 @@
     "name": {
       "en_us": "Akiyama, Mizuki",
       "ja_jp": "暁山, 瑞希",
+      "ko_kr": "아키야마, 미즈키",
       "zh_cn": "晓山, 瑞希",
-      "zh_tw": "曉山, 瑞希",
-      "ko_kr": "아키야마, 미즈키"
+      "zh_tw": "曉山, 瑞希"
     },
     "aliases": [
       "暁山瑞希",
@@ -14,15 +14,18 @@
       "아키야마미즈키",
       "아키야마 미즈키",
       "Mizuki Akiyama"
-    ]
+    ],
+    "score": 161,
+    "birthMonth": 8,
+    "birthDay": 27
   },
   {
     "name": {
       "en_us": "Shinonome, Ena",
       "ja_jp": "東雲, 絵名",
+      "ko_kr": "시노노메, 에나",
       "zh_cn": "东云, 绘名",
-      "zh_tw": "東雲, 繪名",
-      "ko_kr": "시노노메, 에나"
+      "zh_tw": "東雲, 繪名"
     },
     "aliases": [
       "東雲絵名",
@@ -31,15 +34,18 @@
       "시노노메에나",
       "시노노메 에나",
       "Ena Shinonome"
-    ]
+    ],
+    "score": 152,
+    "birthMonth": 4,
+    "birthDay": 30
   },
   {
     "name": {
       "en_us": "Asahina, Mafuyu",
       "ja_jp": "朝比奈, まふゆ",
+      "ko_kr": "아사히나, 마후유",
       "zh_cn": "朝比奈, 真冬",
-      "zh_tw": "朝比奈, 真冬",
-      "ko_kr": "아사히나, 마후유"
+      "zh_tw": "朝比奈, 真冬"
     },
     "aliases": [
       "朝比奈まふゆ",
@@ -47,30 +53,36 @@
       "아사히나마후유",
       "아사히나 마후유",
       "Mafuyu Asahina"
-    ]
+    ],
+    "score": 103,
+    "birthMonth": 1,
+    "birthDay": 27
   },
   {
     "name": {
       "en_us": "Yoisaki, Kanade",
       "ja_jp": "宵崎, 奏",
+      "ko_kr": "요이사키, 카나데",
       "zh_cn": "宵崎, 奏",
-      "zh_tw": "宵崎, 奏",
-      "ko_kr": "요이사키, 카나데"
+      "zh_tw": "宵崎, 奏"
     },
     "aliases": [
       "宵崎奏",
       "요이사키카나데",
       "요이사키 카나데",
       "Kanade Yoisaki"
-    ]
+    ],
+    "score": 131,
+    "birthMonth": 2,
+    "birthDay": 10
   },
   {
     "name": {
       "en_us": "Kamishiro, Rui",
       "ja_jp": "神代, 類",
+      "ko_kr": "카미시로, 루이",
       "zh_cn": "神代, 类",
-      "zh_tw": "神代, 類",
-      "ko_kr": "카미시로, 루이"
+      "zh_tw": "神代, 類"
     },
     "aliases": [
       "神代類",
@@ -78,15 +90,18 @@
       "카미시로루이",
       "카미시로 루이",
       "Rui Kamishiro"
-    ]
+    ],
+    "score": 21,
+    "birthMonth": 6,
+    "birthDay": 24
   },
   {
     "name": {
       "en_us": "Kusanagi, Nene",
       "ja_jp": "草薙, 寧々",
+      "ko_kr": "쿠사나기, 네네",
       "zh_cn": "草薙, 宁宁",
-      "zh_tw": "草薙, 寧寧",
-      "ko_kr": "쿠사나기, 네네"
+      "zh_tw": "草薙, 寧寧"
     },
     "aliases": [
       "草薙寧々",
@@ -95,15 +110,18 @@
       "쿠사나기네네",
       "쿠사나기 네네",
       "Nene Kusanagi"
-    ]
+    ],
+    "score": 69,
+    "birthMonth": 7,
+    "birthDay": 20
   },
   {
     "name": {
       "en_us": "Otori, Emu",
       "ja_jp": "鳳, えむ",
+      "ko_kr": "오토리, 에무",
       "zh_cn": "凤, 笑梦",
-      "zh_tw": "鳳, 笑夢",
-      "ko_kr": "오토리, 에무"
+      "zh_tw": "鳳, 笑夢"
     },
     "aliases": [
       "鳳えむ",
@@ -112,15 +130,18 @@
       "오토리에무",
       "오토리 에무",
       "Emu Otori"
-    ]
+    ],
+    "score": 65,
+    "birthMonth": 9,
+    "birthDay": 9
   },
   {
     "name": {
       "en_us": "Tenma, Tsukasa",
       "ja_jp": "天馬, 司",
+      "ko_kr": "텐마, 츠카사",
       "zh_cn": "天马, 司",
-      "zh_tw": "天馬, 司",
-      "ko_kr": "텐마, 츠카사"
+      "zh_tw": "天馬, 司"
     },
     "aliases": [
       "天馬司",
@@ -128,15 +149,18 @@
       "텐마츠카사",
       "텐마 츠카사",
       "Tsukasa Tenma"
-    ]
+    ],
+    "score": 19,
+    "birthMonth": 5,
+    "birthDay": 17
   },
   {
     "name": {
       "en_us": "Aoyagi, Toya",
       "ja_jp": "青柳, 冬弥",
+      "ko_kr": "아오야기, 토야",
       "zh_cn": "青柳, 冬弥",
-      "zh_tw": "青柳, 冬彌",
-      "ko_kr": "아오야기, 토야"
+      "zh_tw": "青柳, 冬彌"
     },
     "aliases": [
       "青柳冬弥",
@@ -144,15 +168,18 @@
       "아오야기토야",
       "아오야기 토야",
       "Toya Aoyagi"
-    ]
+    ],
+    "score": 15,
+    "birthMonth": 5,
+    "birthDay": 25
   },
   {
     "name": {
       "en_us": "Shinonome, Akito",
       "ja_jp": "東雲, 彰人",
+      "ko_kr": "시노노메, 아키토",
       "zh_cn": "东云, 彰人",
-      "zh_tw": "東雲, 彰人",
-      "ko_kr": "시노노메, 아키토"
+      "zh_tw": "東雲, 彰人"
     },
     "aliases": [
       "東雲彰人",
@@ -160,30 +187,36 @@
       "시노노메아키토",
       "시노노메 아키토",
       "Akito Shinonome"
-    ]
+    ],
+    "score": 19,
+    "birthMonth": 11,
+    "birthDay": 12
   },
   {
     "name": {
       "en_us": "Shiraishi, An",
       "ja_jp": "白石, 杏",
+      "ko_kr": "시라이시, 안",
       "zh_cn": "白石, 杏",
-      "zh_tw": "白石, 杏",
-      "ko_kr": "시라이시, 안"
+      "zh_tw": "白石, 杏"
     },
     "aliases": [
       "白石杏",
       "시라이시안",
       "시라이시 안",
       "An Shiraishi"
-    ]
+    ],
+    "score": 45,
+    "birthMonth": 7,
+    "birthDay": 26
   },
   {
     "name": {
       "en_us": "Azusawa, Kohane",
       "ja_jp": "小豆沢, こはね",
+      "ko_kr": "아즈사와, 코하네",
       "zh_cn": "小豆泽, 心羽",
-      "zh_tw": "小豆澤, 心羽",
-      "ko_kr": "아즈사와, 코하네"
+      "zh_tw": "小豆澤, 心羽"
     },
     "aliases": [
       "小豆沢こはね",
@@ -192,30 +225,36 @@
       "아즈사와코하네",
       "아즈사와 코하네",
       "Kohane Azusawa"
-    ]
+    ],
+    "score": 64,
+    "birthMonth": 3,
+    "birthDay": 2
   },
   {
     "name": {
       "en_us": "Hinomori, Shizuku",
       "ja_jp": "日野森, 雫",
+      "ko_kr": "히노모리, 시즈쿠",
       "zh_cn": "日野森, 雫",
-      "zh_tw": "日野森, 雫",
-      "ko_kr": "히노모리, 시즈쿠"
+      "zh_tw": "日野森, 雫"
     },
     "aliases": [
       "日野森雫",
       "히노모리시즈쿠",
       "히노모리 시즈쿠",
       "Shizuku Hinomori"
-    ]
+    ],
+    "score": 25,
+    "birthMonth": 12,
+    "birthDay": 6
   },
   {
     "name": {
       "en_us": "Momoi, Airi",
       "ja_jp": "桃井, 愛莉",
+      "ko_kr": "모모이, 아이리",
       "zh_cn": "桃井, 爱莉",
-      "zh_tw": "桃井, 愛莉",
-      "ko_kr": "모모이, 아이리"
+      "zh_tw": "桃井, 愛莉"
     },
     "aliases": [
       "桃井愛莉",
@@ -223,15 +262,18 @@
       "모모이아이리",
       "모모이 아이리",
       "Airi Momoi"
-    ]
+    ],
+    "score": 59,
+    "birthMonth": 3,
+    "birthDay": 19
   },
   {
     "name": {
       "en_us": "Kiritani, Haruka",
       "ja_jp": "桐谷, 遥",
+      "ko_kr": "키리타니, 하루카",
       "zh_cn": "桐谷, 遥",
-      "zh_tw": "桐谷, 遙",
-      "ko_kr": "키리타니, 하루카"
+      "zh_tw": "桐谷, 遙"
     },
     "aliases": [
       "桐谷遥",
@@ -239,15 +281,18 @@
       "키리타니하루카",
       "키리타니 하루카",
       "Haruka Kiritani"
-    ]
+    ],
+    "score": 42,
+    "birthMonth": 10,
+    "birthDay": 5
   },
   {
     "name": {
       "en_us": "Hanasato, Minori",
       "ja_jp": "花里, みのり",
+      "ko_kr": "하나사토, 미노리",
       "zh_cn": "花里, 实乃理",
-      "zh_tw": "花里, 實乃理",
-      "ko_kr": "하나사토, 미노리"
+      "zh_tw": "花里, 實乃理"
     },
     "aliases": [
       "花里みのり",
@@ -256,15 +301,18 @@
       "하나사토미노리",
       "하나사토 미노리",
       "Minori Hanasato"
-    ]
+    ],
+    "score": 48,
+    "birthMonth": 4,
+    "birthDay": 14
   },
   {
     "name": {
       "en_us": "Hinomori, Shiho",
       "ja_jp": "日野森, 志歩",
+      "ko_kr": "히노모리, 시호",
       "zh_cn": "日野森, 志步",
-      "zh_tw": "日野森, 志步",
-      "ko_kr": "히노모리, 시호"
+      "zh_tw": "日野森, 志步"
     },
     "aliases": [
       "日野森志歩",
@@ -272,15 +320,18 @@
       "히노모리시호",
       "히노모리 시호",
       "Shiho Hinomori"
-    ]
+    ],
+    "score": 38,
+    "birthMonth": 1,
+    "birthDay": 8
   },
   {
     "name": {
       "en_us": "Mochizuki, Honami",
       "ja_jp": "望月, 穂波",
+      "ko_kr": "모치즈키, 호나미",
       "zh_cn": "望月, 穗波",
-      "zh_tw": "望月, 穗波",
-      "ko_kr": "모치즈키, 호나미"
+      "zh_tw": "望月, 穗波"
     },
     "aliases": [
       "望月穂波",
@@ -288,15 +339,18 @@
       "모치즈키호나미",
       "모치즈키 호나미",
       "Honami Mochizuki"
-    ]
+    ],
+    "score": 43,
+    "birthMonth": 10,
+    "birthDay": 27
   },
   {
     "name": {
       "en_us": "Tenma, Saki",
       "ja_jp": "天馬, 咲希",
+      "ko_kr": "텐마, 사키",
       "zh_cn": "天马, 咲希",
-      "zh_tw": "天馬, 咲希",
-      "ko_kr": "텐마, 사키"
+      "zh_tw": "天馬, 咲希"
     },
     "aliases": [
       "天馬咲希",
@@ -304,44 +358,56 @@
       "텐마사키",
       "텐마 사키",
       "Saki Tenma"
-    ]
+    ],
+    "score": 56,
+    "birthMonth": 5,
+    "birthDay": 9
   },
   {
     "name": {
       "en_us": "Hoshino, Ichika",
       "ja_jp": "星乃, 一歌",
+      "ko_kr": "호시노, 이치카",
       "zh_cn": "星乃, 一歌",
-      "zh_tw": "星乃, 一歌",
-      "ko_kr": "호시노, 이치카"
+      "zh_tw": "星乃, 一歌"
     },
     "aliases": [
       "星乃一歌",
       "호시노이치카",
       "호시노 이치카",
       "Ichika Hoshino"
-    ]
+    ],
+    "score": 57,
+    "birthMonth": 8,
+    "birthDay": 11
   },
   {
     "name": {
       "en_us": "KAITO",
       "ko_kr": "카이토"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 110,
+    "birthMonth": 2,
+    "birthDay": 17
   },
   {
     "name": {
       "en_us": "MEIKO",
       "ko_kr": "메이코"
     },
-    "aliases": []
+    "aliases": [],
+    "score": 41,
+    "birthMonth": 11,
+    "birthDay": 5
   },
   {
     "name": {
       "en_us": "Megurine, Luka",
       "ja_jp": "巡音, ルカ",
+      "ko_kr": "메구리네, 루카",
       "zh_cn": "巡音, 流歌",
-      "zh_tw": "巡音, 流歌",
-      "ko_kr": "메구리네, 루카"
+      "zh_tw": "巡音, 流歌"
     },
     "aliases": [
       "巡音ルカ",
@@ -349,15 +415,18 @@
       "메구리네루카",
       "메구리네 루카",
       "Luka Megurine"
-    ]
+    ],
+    "score": 208,
+    "birthMonth": 1,
+    "birthDay": 30
   },
   {
     "name": {
       "en_us": "Kagamine, Len",
       "ja_jp": "鏡音, レン",
+      "ko_kr": "카가미네, 렌",
       "zh_cn": "镜音, 连",
-      "zh_tw": "鏡音, 連",
-      "ko_kr": "카가미네, 렌"
+      "zh_tw": "鏡音, 連"
     },
     "aliases": [
       "鏡音レン",
@@ -366,15 +435,18 @@
       "카가미네렌",
       "카가미네 렌",
       "Len Kagamine"
-    ]
+    ],
+    "score": 228,
+    "birthMonth": 12,
+    "birthDay": 27
   },
   {
     "name": {
       "en_us": "Kagamine, Rin",
       "ja_jp": "鏡音, リン",
+      "ko_kr": "카가미네, 린",
       "zh_cn": "镜音, 铃",
-      "zh_tw": "鏡音, 鈴",
-      "ko_kr": "카가미네, 린"
+      "zh_tw": "鏡音, 鈴"
     },
     "aliases": [
       "鏡音リン",
@@ -383,15 +455,18 @@
       "카가미네린",
       "카가미네 린",
       "Rin Kagamine"
-    ]
+    ],
+    "score": 306,
+    "birthMonth": 12,
+    "birthDay": 27
   },
   {
     "name": {
       "en_us": "Hatsune, Miku",
       "ja_jp": "初音, ミク",
+      "ko_kr": "하츠네, 미쿠",
       "zh_cn": "初音, 未来",
-      "zh_tw": "初音, 未來",
-      "ko_kr": "하츠네, 미쿠"
+      "zh_tw": "初音, 未來"
     },
     "aliases": [
       "初音ミク",
@@ -400,6 +475,9 @@
       "하츠네미쿠",
       "하츠네 미쿠",
       "Miku Hatsune"
-    ]
+    ],
+    "score": 2471,
+    "birthMonth": 8,
+    "birthDay": 31
   }
 ]
